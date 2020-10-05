@@ -46,7 +46,8 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    Equity options or stock options provide investors a way to hedge risk or speculate.  Also option trading can limit an investor’s risk and leverage investing 
    potential. Option investors have a number of strategies they can utilize, depending on risk tolerance and expected return. 
    
-   [More details](./EqOption-6.pdf)   
+   [More details](./EqOption-6.pdf)  
+   [Check] (https://finpricing.com/lib/EqOption.html)   
    
    ### Equity Swap
    
@@ -54,7 +55,8 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    costs (including Tax), to avoid locally based dividend taxes, limitations on leverage (notably the US margin regime) or to get around rules governing the 
    particular type of investment that an institution can hold. Equity swaps can make investment barriers vanish and help an investor create leverage. 
    
-   [More details](./EqSwap-7.pdf)    
+   [More details](./EqSwap-7.pdf)
+   [Check] (https://finpricing.com/lib/EqSwap.html)
    
    ### Warrant
    
