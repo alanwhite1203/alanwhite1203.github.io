@@ -5,7 +5,7 @@
 An American option give an investor the right but not the obligation to buy a call or sell a put at a set strike price at any time prior to the contract’s expiry 
 date. American options provide investors a way to hedge risk or speculate.  In general, American options do not have a closed-form solution.
 
-[Link](./EqAmerican-1.pdf)
+[More details](./EqAmerican-1.pdf)
 
 ### Equity Asian Option 
 
@@ -13,7 +13,7 @@ date. American options provide investors a way to hedge risk or speculate.  In g
  over the OTC markets. Average price options are less expensive than regular options and are arguably more appropriate than regular options for meeting some of 
  the needs of corporate treasurers. Average can be calculated in a number of ways (daily, weekly, monthly, etc.).
  
- [Link](./EqAsian-2.pdf)
+ [More details](./EqAsian-2.pdf)
  
  ### Equity Basket Option
  
@@ -22,7 +22,7 @@ date. American options provide investors a way to hedge risk or speculate.  In g
  assets at the same time. Rather than hedging each individual asset, the investor can manage risk for the basket, or portfolio, in one transaction. The benefits 
  of a single transaction can be great, especially when avoiding the costs associated with hedging each and every component of the basket or portfolio.
  
-  [Link](./EqBasket-3.pdf)
+  [More details](./EqBasket-3.pdf)
   
   ### Convertible Bond
   
@@ -30,7 +30,7 @@ date. American options provide investors a way to hedge risk or speculate.  In g
   of shares in the issuing company. Whereas a reverse convertible bond has an embedded put option that gives the issuer the right to convert the bond's principal 
   into shares of equity at a set date. 
   
-   [Link](./EqConvertible-4.pdf)
+  [More details](./EqConvertible-4.pdf)
    
    ### Equity Futures
    
@@ -39,14 +39,14 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    settled in most cases. At maturity, the two counterparties exchange a cashflow equivalent to the difference between the stock closing price and the strike price.
    Equity forward contract is traded over the counter (OTC) instead of exchange market. 
    
-   [Link](./EqFuture-5.pdf)
+   [More details](./EqFuture-5.pdf)
    
    ### Equity Option
    
    Equity options or stock options provide investors a way to hedge risk or speculate.  Also option trading can limit an investor’s risk and leverage investing 
    potential. Option investors have a number of strategies they can utilize, depending on risk tolerance and expected return. 
    
-   [Link](./EqOption-6.pdf)   
+   [More details](./EqOption-6.pdf)   
    
    ### Equity Swap
    
@@ -54,14 +54,14 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    costs (including Tax), to avoid locally based dividend taxes, limitations on leverage (notably the US margin regime) or to get around rules governing the 
    particular type of investment that an institution can hold. Equity swaps can make investment barriers vanish and help an investor create leverage. 
    
-   [Link](./EqSwap-7.pdf)    
+   [More details](./EqSwap-7.pdf)    
    
    ### Warrant
    
    An equity warrant gives the holder the right to purchase shares at a fixed price from the firm. It is an option on the common stock of a firm issued by the 
    same firm. Warrants are in many ways similar to call options, but a few key differences distinguish them. 
    
-   [Link](./EqWarrant-8.pdf)     
+   [More details](./EqWarrant-8.pdf)     
    
    
    
