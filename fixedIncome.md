@@ -19,18 +19,18 @@ to improve the profit of the existing bond and make it more marketable. Pension 
  
 ### Bond Futures
  
- Investors use bond futures to hedge an existing bond portfolio against adverse interest rate movements or enhance the long-term performance of the portfolio. 
- Arbitrageurs profit from the price difference between the spot bonds and the bond futures. Speculators use bond futures in the hope of making a profit on 
- short-term movements in prices. This presentation provides an overview of bond future product and valuation. 
- 
- [More details](./FiBondFuture-11.pdf)
-  
- ### Bond Future Option
-  
- Bond futures options are also exchange traded derivatives on treasury instruments. They provide market participants with the ability to adjust their interest 
- rate exposures. A bond future option is also a good tool for hedging, income enhancement, duration adjustments, interest rate speculation and spread trading. 
-  
- [More details](./FiBondFutureOption-12.pdf)
+Investors use bond futures to hedge an existing bond portfolio against adverse interest rate movements or enhance the long-term performance of the portfolio. 
+Arbitrageurs profit from the price difference between the spot bonds and the bond futures. Speculators use bond futures in the hope of making a profit on 
+short-term movements in prices. This presentation provides an overview of bond future product and valuation. 
+
+[More details](./FiBondFuture-11.pdf)
+
+### Bond Future Option
+
+Bond futures options are also exchange traded derivatives on treasury instruments. They provide market participants with the ability to adjust their interest 
+rate exposures. A bond future option is also a good tool for hedging, income enhancement, duration adjustments, interest rate speculation and spread trading. 
+
+[More details](./FiBondFutureOption-12.pdf)
    
 ### Callable Bond
 
@@ -39,7 +39,7 @@ higher interest rate of return until the bonds are called off. If interest rates
 to call its current bond and reissues it at a lower coupon. Callable bonds protect issuers. Therefore, a callable bond normally pays investors a higher coupon 
 than a non-callable bond. This presentation gives an overview of callable bond and valuation model.
 
-[More details](./FiCallable-13.pdf)
+[More details](./FiCallableBond-13.pdf)
    
 ### Floating Rate Note
 
