@@ -7,6 +7,9 @@ to improve the profit of the existing bond and make it more marketable. Pension 
 
 [More details](./FiAmortizingBond-9.pdf)
 
+[FlipHtml5 amortizing bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN1gDM5ITPkl0av9mY)
+
+
 ### Fixed Rate Bond
 
  Fixed rate bonds generally pay higher coupons than interest rates. An investor who wants to earn a guaranteed interest rate for a specified term can choose fixed 
@@ -17,6 +20,9 @@ to improve the profit of the existing bond and make it more marketable. Pension 
  
  [Check](https://finpricing.com/lib/FiBond.html)  
  
+ [FlipHtml5 bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM0cjNyETPkl0av9mY)
+ 
+ 
 ### Bond Futures
  
 Investors use bond futures to hedge an existing bond portfolio against adverse interest rate movements or enhance the long-term performance of the portfolio. 
@@ -25,12 +31,18 @@ short-term movements in prices. This presentation provides an overview of bond f
 
 [More details](./FiBondFuture-11.pdf)
 
+[FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDO1gDM5ITPkl0av9mY)
+
+
 ### Bond Future Option
 
 Bond futures options are also exchange traded derivatives on treasury instruments. They provide market participants with the ability to adjust their interest 
 rate exposures. A bond future option is also a good tool for hedging, income enhancement, duration adjustments, interest rate speculation and spread trading. 
 
 [More details](./FiBondFutureOption-12.pdf)
+
+[FlipHtml5 future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTM1ITM5ITPkl0av9mY)
+
    
 ### Callable Bond
 
@@ -40,13 +52,21 @@ to call its current bond and reissues it at a lower coupon. Callable bonds prote
 than a non-callable bond. This presentation gives an overview of callable bond and valuation model.
 
 [More details](./FiCallableBond-13.pdf)
+
+[FlipHtml5 callable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzM1ITM5ITPkl0av9mY)
+
+[FlipHtml5 callable pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTMxkjNyETPkl0av9mY)
+
    
 ### Floating Rate Note
 
 A floating rate note (FRN) is a bond in which the investor will receive coupons paid by the issuer at a floating coupon equivalent to a money market reference 
 rate, such as LIBOR or federal fund rate plus a spread at specified dates before bond maturity.
 
-[More details](./FiFrn-14.pdf) 
+[More details](./FiFrn-14.pdf)
+
+[FlipHtml5 frn](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkzM1ITM5ITPkl0av9mY)
+
    
 ### Inflation Linked Bond
 
@@ -56,6 +76,9 @@ Inflation indexed bonds have favorable performance and lower volatility relative
 given its inflation protection. Inflation indexed bonds are less liquid than regular bonds.
 
 [More details](./FiInflationBond-15.pdf)
+
+[FlipHtml5 inflation](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamADM3QjM5ITPkl0av9mY)
+
    
 ### Puttable Bond
 
@@ -64,7 +87,10 @@ issuers and investors. For investors, puttable bonds allow them to reduce intere
 them to pay a lower interest rate of return until the bonds are sold back. If interest rates have increased since the issuer first issues the bond, the investor 
 is like to call its current bond and reinvest it at a higher coupon. This presentation gives an overview of puttable bond and valuation model. 
 
-[More details](./FiPuttableBond-16.pdf)     
+[More details](./FiPuttableBond-16.pdf)
+
+[FlipHtml5 puttable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDM3QjM5ITPkl0av9mY)
+
    
 ### Zero Coupon Bond
 
@@ -73,5 +99,8 @@ Unlike other bonds, the investor’s return is the difference between the purcha
 purchase zero coupon bonds such as saving money for children’s college tuition. The deep discount helps the investor grow a small amount of money into a sizable 
 sum over several years. Normally investors buy zero coupon bonds when interest rates are high.
 
-[More details](./FiZeroBond-17.pdf)  
+[More details](./FiZeroBond-17.pdf)
+
+[FlipHtml5 zero bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDM3QjM5ITPkl0av9mY)
+
    
