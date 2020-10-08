@@ -7,6 +7,9 @@ date. American options provide investors a way to hedge risk or speculate.  In g
 
 [More details](./EqAmerican-1.pdf)
 
+[FlipHtml5 American option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTOxgjM5ITPkl0av9mY)
+
+
 ### Equity Asian Option 
 
  Asian options allow the buyer to purchase or sell the underlying asset at the average price instead of the spot price. Asian options are commonly seen options 
@@ -14,6 +17,9 @@ date. American options provide investors a way to hedge risk or speculate.  In g
  the needs of corporate treasurers. Average can be calculated in a number of ways (daily, weekly, monthly, etc.).
  
  [More details](./EqAsian-2.pdf)
+ 
+ [FlipHtml5 Asian option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTMygjM5ITPkl0av9mY)
+ 
  
  ### Equity Basket Option
  
@@ -24,6 +30,9 @@ date. American options provide investors a way to hedge risk or speculate.  In g
  
   [More details](./EqBasket-3.pdf)
   
+  [FlipHtml5 basket option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMygjM5ITPkl0av9mY)
+  
+  
   ### Convertible Bond
   
   A convertible bond has an embedded call option that gives bondholders the right to convert their bonds into equity at a given time for a predetermined number 
@@ -31,6 +40,9 @@ date. American options provide investors a way to hedge risk or speculate.  In g
   into shares of equity at a set date. 
   
   [More details](./EqConvertible-4.pdf)
+  
+  [FlipHtml5 convertible](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamczMygjM5ITPkl0av9mY)
+  
    
    ### Equity Futures
    
@@ -41,6 +53,9 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    
    [More details](./EqFuture-5.pdf)
    
+   [FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATNxgDN5ITPkl0av9mY)
+   
+   
    ### Equity Option
    
    Equity options or stock options provide investors a way to hedge risk or speculate.  Also option trading can limit an investor’s risk and leverage investing 
@@ -48,7 +63,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    
    [More details](./EqOption-6.pdf) 
    
-   [Check](https://finpricing.com/lib/EqOption.html)   
+   [Check](https://finpricing.com/lib/EqOption.html)
+   
+   [FlipHtml5 option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNxgDN5ITPkl0av9mY)
+   
    
    ### Equity Swap
    
@@ -60,6 +78,9 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    
    [Check](https://finpricing.com/lib/EqSwap.html)
    
+   [FlipHtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNxgDN5ITPkl0av9mY)
+   
+   
    ### Warrant
    
    An equity warrant gives the holder the right to purchase shares at a fixed price from the firm. It is an option on the common stock of a firm issued by the 
@@ -67,5 +88,6 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    
    [More details](./EqWarrant-8.pdf)     
    
+   [FlipHtml5 warrant](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTNxgDN5ITPkl0av9mY)
    
    
