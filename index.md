@@ -17,3 +17,8 @@ bonds, and fixed income derivatives, such as bond futures, bond future options.
 
 [Fixing Income](./fixedIncome.md)
 
+## Foreign Exchange Derivatives
+
+Foreign exchange derivatives are financial products whose payoffs depend on foreign exchange rates and foreign exchange implied volatility.
+
+[Foreign Exchange](./fx.md)
