@@ -34,7 +34,7 @@ some of investment needs. Average can be calculated in a number of ways (daily, 
  [Github fx forward](https://github.com/alanwhite1203/fxForward/raw/main/FxForward-19.pdf)
  
  
- ### FX Futures
+### FX Futures
  
  A currency future or an FX future is a future contract between two parties to exchange one currency for another at a fixed exchange rate on a fixed future date. 
  Currency futures are one of the main methods used to hedge against exchange rate volatility, as they avoid the impact of currency fluctuation over the period 
@@ -51,7 +51,7 @@ some of investment needs. Average can be calculated in a number of ways (daily, 
   [Github fx futures](https://github.com/alanwhite1203/fxFuture/raw/main/FxFuture-21.pdf)
   
   
-  ### FX Option
+### FX Option
   
   A currency option, also known as FX Option, is a derivative contract that grants the buyer the right but not the obligation to exchange money denominated in 
   one currency into another currency at a pre-agreed exchange rate on a specified future date. The FX options market is the deepest, largest and most liquid market 
@@ -70,7 +70,7 @@ some of investment needs. Average can be calculated in a number of ways (daily, 
   [Github fx option](https://github.com/alanwhite1203/fxOption/raw/main/FxOption-22.pdf)
   
    
-   ### FX Swap
+### FX Swap
    
   An FX swap or currency swap agreement is a contract  in which both parties agree to exchange one currency for another currency at a spot FX rate. The agreement 
   also stipulates to re-exchange the same amounts at a certain future date also at a forward FX rate. Many people confuse currency swaps with cross currency swaps. 
@@ -88,7 +88,7 @@ some of investment needs. Average can be calculated in a number of ways (daily, 
    [Github fx swap](https://github.com/alanwhite1203/fxSwap/raw/main/FxSwap-23.pdf)
    
    
-   ### FX Touch Option
+### FX Touch Option
    
    A touch option is the sort of option that promises a payout once the price of an underlying asset reaches or passes a predetermined level. Touch options allow 
    investors to choose the target price, time to expiration, and the premium to be received when the target price is reached.  
