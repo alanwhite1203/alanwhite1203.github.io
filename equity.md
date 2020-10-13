@@ -9,6 +9,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
 
 [FlipHtml5 American option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTOxgjM5ITPkl0av9mY)
 
+[Zenodo American](https://zenodo.org/record/3942431/files/EqAmerican-1.pdf)
+
+[Github American](https://david.pubpub.org/pub/4fm8u3f4/download/pdf)
+
 
 ### Equity Asian Option 
 
@@ -19,6 +23,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
  [More details](./EqAsian-2.pdf)
  
  [FlipHtml5 Asian option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTMygjM5ITPkl0av9mY)
+ 
+ [Zenodo Asian](https://zenodo.org/record/3944987/files/EqAsian-2.pdf)
+ 
+ [Github Asian](https://david.pubpub.org/pub/ccmadp61/download/pdf)
  
  
  ### Equity Basket Option
@@ -32,6 +40,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
   
   [FlipHtml5 basket option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMygjM5ITPkl0av9mY)
   
+  [Zenodo basket](https://zenodo.org/record/3945086/files/EqBasket-3.pdf)
+  
+  [Github basket](https://david.pubpub.org/pub/iycnkfjo/download/pdf)
+  
   
   ### Convertible Bond
   
@@ -42,6 +54,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
   [More details](./EqConvertible-4.pdf)
   
   [FlipHtml5 convertible](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamczMygjM5ITPkl0av9mY)
+  
+  [Zenodo convertible](https://zenodo.org/record/3945092/files/EqConvertible-4.pdf)
+  
+  [Github convertible](https://david.pubpub.org/pub/p5wrxj58/download/pdf)
   
    
    ### Equity Futures
@@ -55,6 +71,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    
    [FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATNxgDN5ITPkl0av9mY)
    
+   [Zenodo futures](https://zenodo.org/record/3948301/files/EqFuture-5.pdf)
+   
+   [Github futures](https://david.pubpub.org/pub/oe0dizke/download/pdf)
+   
    
    ### Equity Option
    
@@ -66,6 +86,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    [Check](https://finpricing.com/lib/EqOption.html)
    
    [FlipHtml5 option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNxgDN5ITPkl0av9mY)
+   
+   [Zenodo option](https://zenodo.org/record/3948304/files/EqOption-6.pdf)
+   
+   [Github option](https://david.pubpub.org/pub/4373ry94/download/pdf)
    
    
    ### Equity Swap
@@ -80,6 +104,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    
    [FlipHtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNxgDN5ITPkl0av9mY)
    
+   [Zenodo swap](https://zenodo.org/record/3948310/files/EqSwap-7.pdf)
+   
+   [Github swap](https://david.pubpub.org/pub/hmpp2r25/download/pdf)
+   
    
    ### Warrant
    
@@ -89,5 +117,9 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    [More details](./EqWarrant-8.pdf)     
    
    [FlipHtml5 warrant](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTNxgDN5ITPkl0av9mY)
+   
+   [Zenodo warrant](https://zenodo.org/record/3948314/files/EqWarrant-8.pdf)
+   
+   [Github warrant](https://david.pubpub.org/pub/tejvirlb/download/pdf)
    
    
