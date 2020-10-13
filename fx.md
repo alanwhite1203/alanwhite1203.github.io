@@ -8,7 +8,7 @@ some of investment needs. Average can be calculated in a number of ways (daily, 
 	
 [More details](./FxAsian-18.pdf)
 
-[FlipHtml5 fx Asian]https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDM5UDN5ITPkl0av9mY)
+[FlipHtml5 fx Asian](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDM5UDN5ITPkl0av9mY)
 
 [Zenodo fx Asian](https://zenodo.org/record/3988538/files/FxAsian-18.pdf)
 
