@@ -15,6 +15,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
 
 [Github American](https://github.com/alanwhite1203/EqAmerican/raw/master/EqAmerican-1.pdf)
 
+[Gitlab American](https://gitlab.com/finance15/eqamerican/-/raw/master/EqAmerican-1.pdf)
+
+[Bitbucket American](https://bitbucket.org/cmrm11/eqamerican/downloads/EqAmerican-1.pdf)
+
 
 ### Equity Asian Option 
 
@@ -31,6 +35,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
  [Pubpub Asian](https://david.pubpub.org/pub/ccmadp61/download/pdf)
  
  [Github Asian](https://github.com/alanwhite1203/EqAsian/raw/master/EqAsian-2.pdf)
+ 
+ [Gitlab Asian](https://gitlab.com/finance15/eqasian/-/raw/master/EqAsian-2.pdf)
+ 
+ [Bitbucket Asian](https://bitbucket.org/cmrm11/eqasian/downloads/EqAsian-2.pdf)
  
  
  ### Equity Basket Option
@@ -50,6 +58,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
   
   [Github basket](https://github.com/alanwhite1203/EqBasket/raw/master/EqBasket-3.pdf)
   
+  [Gitlab basket](https://gitlab.com/finance15/eqbasket/-/raw/master/EqBasket-3.pdf)
+  
+  [Bitbucket basket](https://bitbucket.org/cmrm11/eqbasket/downloads/EqBasket-3.pdf)
+  
   
   ### Convertible Bond
   
@@ -66,6 +78,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
   [Pubpub convertible](https://david.pubpub.org/pub/p5wrxj58/download/pdf)
   
   [Github convertible](https://github.com/alanwhite1203/EqConvertible/raw/master/EqConvertible-4.pdf)
+  
+  [Gitlab convertible](https://gitlab.com/finance15/eqconvertible/-/raw/master/EqConvertible-4.pdf)
+  
+  [Bitbucket convertible](https://bitbucket.org/cmrm11/eqconvertible/downloads/EqConvertible-4.pdf)
   
    
    ### Equity Futures
@@ -85,6 +101,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    
    [Github futures](https://github.com/alanwhite1203/EqFuture/raw/main/EqFuture-5.pdf)
    
+   [Gitlab futures](https://gitlab.com/finance15/eqfuture/-/raw/master/EqFuture-5.pdf)
+   
+   [Bitbucket futures](https://bitbucket.org/cmrm11/eqfuture/downloads/EqFuture-5.pdf)
+   
    
    ### Equity Option
    
@@ -102,6 +122,10 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    [Pubpub option](https://david.pubpub.org/pub/4373ry94/download/pdf)
    
    [Github option](https://github.com/alanwhite1203/eqOption/raw/main/EqOption-6.pdf)
+   
+   [Gitlab option](https://gitlab.com/finance15/eqoption/-/raw/master/EqOption-6.pdf)
+   
+   [Bitbucket option](https://bitbucket.org/cmrm11/eqoption/downloads/EqOption-6.pdf)
    
    
    ### Equity Swap
