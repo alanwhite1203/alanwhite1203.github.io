@@ -22,3 +22,10 @@ bonds, and fixed income derivatives, such as bond futures, bond future options.
 Foreign exchange derivatives are financial products whose payoffs depend on foreign exchange rates and foreign exchange implied volatility.
 
 [Foreign Exchange](./fx.md)
+
+## Interest Rate Derivatives
+
+Interest rate derivatives are most traded financial derivatives whose values are referred to interest rates and implied volatilities.
+
+[Interest Rate](./ir.md)
+
