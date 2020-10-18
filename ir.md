@@ -98,11 +98,133 @@ used to reduce or increase exposure to fluctuations in interest rates.
    
    [FlipHtml5 cap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgDOygDM5ITPkl0av9mY)
    
-   [Zenodo option](https://zenodo.org/record/4019685/files/IrCap-30.pdf)
+   [Zenodo cap](https://zenodo.org/record/4019685/files/IrCap-30.pdf)
    
-   [Pubpub option](https://interestrate.pubpub.org/pub/ui0nvxtj/download/pdf)
+   [Pubpub cap](https://interestrate.pubpub.org/pub/ui0nvxtj/download/pdf)
    
-   [Github option](https://github.com/alanwhite1203/irCap/raw/main/IrCap-30.pdf)
+   [Github cap](https://github.com/alanwhite1203/irCap/raw/main/IrCap-30.pdf)
    
+   
+   ### Capped Swap
+   
+   A capped swap can be decomposed into a swap and a cap whereas a floored swap can be decomposed into a swap and a floor. Given the optionality, an up-front 
+   fee or premium has to be paid by the floating rate payer for a capped swap and an up-front fee or premium has to be paid by the floating rate receiver for 
+   a floored swap. 
+   
+   [More details](./IrCappedSwap-31.pdf)
+   
+   [FlipHtml5 capped swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTOygDM5ITPkl0av9mY)
+   
+   [Zenodo capped swap](https://zenodo.org/record/4031727/files/IrCappedSwap-31.pdf)
+   
+   [Pubpub capped swap](https://interestrate.pubpub.org/pub/fxsafefl/download/pdf)
+   
+   [Github capped swap](https://github.com/alanwhite1203/irCappedSwap/raw/main/IrCappedSwap-31.pdf)
+   
+   
+   ### Compounding Swap
+   
+   A compounding swap is an interest rate swap in which interest, instead of being paid, compounds forward until the next payment date. Compounding swaps can be 
+   valued by assuming that the forward rates are realized. Normally the calculation period of a compounding swap is smaller than the payment period. For example, 
+   a swap has 6-month payment period and 1-month calculation period (or 1-month index tenor). An overnight index swap (OIS) is a typical compounding swap.
+   
+   [More details](./IrCompoundingSwap-32.pdf)
+   
+   [FlipHtml5 compounding](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkzN5UjM5ITPkl0av9mY)
+   
+   [Zenodo compounding](https://zenodo.org/record/4031735/files/IrCompoundingSwap-32.pdf)
+   
+   [Pubpub compounding](https://interestrate.pubpub.org/pub/d4m2qpav/download/pdf)
+   
+   [Github compounding](https://github.com/alanwhite1203/irCompoundingSwap/raw/main/IrCompoundingSwap-32.pdf)
+   
+   
+   ### Forward Rate Agreement
+   
+   A FRA can be used to hedge future interest rate or exchange rate exposure. The buyer hedges against the risk of rising interest rate whereas the seller hedges 
+   against the risk of falling interest rates. In other words, the buyer locks in the interest rate to protect against the increase of interest rates while the 
+   seller protects against the possible decrease of interest rates. A speculator can also use FRAs to make bets on future directional changes in interest rates. 
+   Market participants can also take advantage of price differences between an FRA and other interest rate instruments. FRAs are money market instruments that are 
+   liquid in all major currencies.
+   
+   [More details](./IrFra-33.pdf)
+   
+   [FlipHtml5 fra](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamADO5UjM5ITPkl0av9mY)
+   
+   [Zenodo fra](https://zenodo.org/record/4031737/files/IrFra-33.pdf)
+   
+   [Pubpub fra](https://interestrate.pubpub.org/pub/gy0flby2/download/pdf)
+   
+   [Github fra](https://github.com/alanwhite1203/irFra/raw/main/IrFra-33.pdf)
+   
+   
+   ### Interest Rate Futures
+   
+   Interest rate futures are used to hedge against interest rate risk. Investors can use Eurodollar futures to secure an interest rate for money it plans to borrow 
+   or lend in the future. Interest rate futures are mainly listed for 3-month Eurodollar, 1-month LIBOR, 1-month banker’s acceptance futures and 3-month banker’s 
+   acceptance futures.
+   
+   [More details](./IrFuture-34.pdf)
+   
+   [FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDO5UjM5ITPkl0av9mY)
+   
+   [Zenodo futures](https://zenodo.org/record/4031743/files/IrFuture-34.pdf)
+   
+   [Pubpub future](https://interestrate.pubpub.org/pub/672l95nk/download/pdf)
+   
+   [Github futures](https://github.com/alanwhite1203/irFuture/raw/main/IrFuture-34.pdf)
+   
+   
+   ### Future Option
+   
+   Interest rate future options can be used to hedge against adverse changes in interest rates. In general futures markets tend to be more liquid than underlying 
+   cash markets. This presentation gives an overview of interest rate future option product and pricing model. 
+   
+   [More detials](./IrFutureOption-35.pdf)
+   
+   [FlipHtml5 future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjN4gzM5ITPkl0av9mY)
+   
+   [Zenodo future option](https://zenodo.org/record/4038197/files/IrFutureOption-35.pdf)
+   
+   [Pubpub future option](https://interestrate.pubpub.org/pub/ayoefgzr/download/pdf)
+   
+   [Github future option](https://github.com/alanwhite1203/irFutureOption/raw/main/IrFutureOption-35.pdf)
+   
+   
+   ### Interest Rate Swap 
+   
+   Interest rate swaps are the most popular OTC derivatives that are generally used to manage exposure to fluctuations in interest rates. Swaps can be also used 
+   to obtain a marginally lower interest rate. Thus they are often utilized by a firm that can borrow money easily at one type of interest rate but prefers a 
+   different type. They also allow investors to adjust interest rate exposure and offset interest rate risks. Speculators use swaps to speculate on the movement 
+   of interest rates. More and more swaps are cleared through central counterparties nowadays (CCPs). 
+   
+   [More details](./IrSwap-36.pdf)
+   
+   [FlipHtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjN4gzM5ITPkl0av9mY)
+   
+   [Zenodo swap](https://zenodo.org/record/4038207/files/IrSwap-36.pdf)
+   
+   [Pubpub swap](https://interestrate.pubpub.org/pub/qigecbra/download/pdf)
+   
+   [Github swap](https://github.com/alanwhite1203/irSwap/raw/main/IrSwap-36.pdf)
+   
+   
+   ### Swaption
+   
+   An interest rate swaption or interest rate European swaption is an OTC option that grants its owner the right but not the obligation to enter an underlying 
+   interest rate swap. There are two types of swaptions: a payer swaption and a receiver swaption. A payer swaption is also called a right-to-pay swaption that 
+   allows its holder to exercise into a swap where the holder pays fixed rates and receives floating rates. A receiver swaption is also called right-to-receive 
+   swaption that allows its holders to exercise into a swap where the holder receives fixed rates and pays floating rates. Swaptions provide clients with a 
+   guarantee that the fixed rate of interest they will pay at some of future time will not exceed certain level.
+   
+   [More details](./IrSwaption-37.pdf)
+   
+   [FlipHtml5 swaption](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN4gzM5ITPkl0av9mY)
+   
+   [Zenodo swaption](https://zenodo.org/record/4038217/files/IrSwaption-37.pdf)
+   
+   [Pubpub swaption](https://interestrate.pubpub.org/pub/xktu5bnp/download/pdf)
+   
+   [Github swaption](https://github.com/alanwhite1203/irSwaption/raw/main/IrSwaption-37.pdf)
    
    
