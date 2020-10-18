@@ -36,7 +36,7 @@ used to reduce or increase exposure to fluctuations in interest rates.
  [Github amortizing swap](https://github.com/alanwhite1203/irAmortizingSwap/raw/main/IrAmortizingSwap-26.pdf)
  
  
- ### Basis Swap 
+### Basis Swap 
  
  A basis swap can be used to limit interest rate risk that a firm faces as a result of having different lending and borrowing rates. Basis swaps help investors 
  to mitigate basis risk that is a type of risk associated with imperfect hedging. Firms also utilize basis swaps to hedge the divergence of different rates. Basis 
@@ -54,7 +54,7 @@ used to reduce or increase exposure to fluctuations in interest rates.
   [Github basis swap](https://github.com/alanwhite1203/irBasisSwap/raw/main/IrBasisSwap-27.pdf)
   
   
-  ### Interest Rate Bermudan Swaption
+### Interest Rate Bermudan Swaption
   
  Given those flexibilities, a Bermudan swaption is more expensive than a regular European swaption. In terms of valuation, it is also much more complex.
  
@@ -71,7 +71,7 @@ used to reduce or increase exposure to fluctuations in interest rates.
   [FlipHtml5 bermudan pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgDM4gDN3ITPkl0av9mY)
    
    
-   ### Interest Rate Cancelable Swap 
+### Interest Rate Cancelable Swap 
    
   A cancelable swap provides the right but not the obligation to cancel the interest rate swap at predefined dates. Most commonly traded cancelable swaps have 
   multiple exercise dates. Given its Bermudan style optionality, a cancelable swap can be represented as a vanilla swap embedded with a Bermudan swaption. 
@@ -88,7 +88,7 @@ used to reduce or increase exposure to fluctuations in interest rates.
    [Github cancelable](https://github.com/alanwhite1203/irCancellableSwap/raw/main/IrCancelableSwap-29.pdf)
    
    
-   ### Interest Rate Caps and Floors 
+### Interest Rate Caps and Floors 
    
    An interest rate cap is a financial contract between two parties that provides an interest rate ceiling or cap on the floating rate payments. It actually 
    consists of a series of European call options (caplets) on interest rates.  The buyer receives payments at the end of each period when the interest rate 
@@ -105,7 +105,7 @@ used to reduce or increase exposure to fluctuations in interest rates.
    [Github cap](https://github.com/alanwhite1203/irCap/raw/main/IrCap-30.pdf)
    
    
-   ### Capped Swap
+### Capped Swap
    
    A capped swap can be decomposed into a swap and a cap whereas a floored swap can be decomposed into a swap and a floor. Given the optionality, an up-front 
    fee or premium has to be paid by the floating rate payer for a capped swap and an up-front fee or premium has to be paid by the floating rate receiver for 
@@ -122,7 +122,7 @@ used to reduce or increase exposure to fluctuations in interest rates.
    [Github capped swap](https://github.com/alanwhite1203/irCappedSwap/raw/main/IrCappedSwap-31.pdf)
    
    
-   ### Compounding Swap
+### Compounding Swap
    
    A compounding swap is an interest rate swap in which interest, instead of being paid, compounds forward until the next payment date. Compounding swaps can be 
    valued by assuming that the forward rates are realized. Normally the calculation period of a compounding swap is smaller than the payment period. For example, 
@@ -139,7 +139,7 @@ used to reduce or increase exposure to fluctuations in interest rates.
    [Github compounding](https://github.com/alanwhite1203/irCompoundingSwap/raw/main/IrCompoundingSwap-32.pdf)
    
    
-   ### Forward Rate Agreement
+### Forward Rate Agreement
    
    A FRA can be used to hedge future interest rate or exchange rate exposure. The buyer hedges against the risk of rising interest rate whereas the seller hedges 
    against the risk of falling interest rates. In other words, the buyer locks in the interest rate to protect against the increase of interest rates while the 
@@ -158,7 +158,7 @@ used to reduce or increase exposure to fluctuations in interest rates.
    [Github fra](https://github.com/alanwhite1203/irFra/raw/main/IrFra-33.pdf)
    
    
-   ### Interest Rate Futures
+### Interest Rate Futures
    
    Interest rate futures are used to hedge against interest rate risk. Investors can use Eurodollar futures to secure an interest rate for money it plans to borrow 
    or lend in the future. Interest rate futures are mainly listed for 3-month Eurodollar, 1-month LIBOR, 1-month banker’s acceptance futures and 3-month banker’s 
@@ -175,7 +175,7 @@ used to reduce or increase exposure to fluctuations in interest rates.
    [Github futures](https://github.com/alanwhite1203/irFuture/raw/main/IrFuture-34.pdf)
    
    
-   ### Future Option
+### Future Option
    
    Interest rate future options can be used to hedge against adverse changes in interest rates. In general futures markets tend to be more liquid than underlying 
    cash markets. This presentation gives an overview of interest rate future option product and pricing model. 
@@ -191,7 +191,7 @@ used to reduce or increase exposure to fluctuations in interest rates.
    [Github future option](https://github.com/alanwhite1203/irFutureOption/raw/main/IrFutureOption-35.pdf)
    
    
-   ### Interest Rate Swap 
+### Interest Rate Swap 
    
    Interest rate swaps are the most popular OTC derivatives that are generally used to manage exposure to fluctuations in interest rates. Swaps can be also used 
    to obtain a marginally lower interest rate. Thus they are often utilized by a firm that can borrow money easily at one type of interest rate but prefers a 
@@ -209,7 +209,7 @@ used to reduce or increase exposure to fluctuations in interest rates.
    [Github swap](https://github.com/alanwhite1203/irSwap/raw/main/IrSwap-36.pdf)
    
    
-   ### Swaption
+### Swaption
    
    An interest rate swaption or interest rate European swaption is an OTC option that grants its owner the right but not the obligation to enter an underlying 
    interest rate swap. There are two types of swaptions: a payer swaption and a receiver swaption. A payer swaption is also called a right-to-pay swaption that 
