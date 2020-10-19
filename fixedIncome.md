@@ -17,6 +17,8 @@ to improve the profit of the existing bond and make it more marketable. Pension 
 
 [Gitlab amortizing bond](https://gitlab.com/finance15/fiamortizingbond/-/raw/master/FiAmortizingBond-9.pdf)
 
+[Bitbucket amortizing bond](https://bitbucket.org/cmrm11/fiamortizingbond/downloads/FiAmortizingBond-9.pdf)
+
 
 ### Fixed Rate Bond
 
@@ -38,6 +40,8 @@ to improve the profit of the existing bond and make it more marketable. Pension 
  
  [Gitlab bond](https://gitlab.com/finance15/fibond/-/raw/master/FiBond-10.pdf)
  
+ [Bitbucket bond](https://bitbucket.org/cmrm11/fibond/downloads/FiBond-10.pdf)
+ 
  
 ### Bond Futures
  
@@ -57,6 +61,8 @@ short-term movements in prices. This presentation provides an overview of bond f
 
 [Gitlab futures](https://gitlab.com/finance15/fibondfuture/-/raw/master/FiBondFuture-11.pdf)
 
+[Bitbucket futures](https://bitbucket.org/cmrm11/fibondfuture/downloads/FiBondFuture-11.pdf)
+
 
 ### Bond Future Option
 
@@ -74,6 +80,8 @@ rate exposures. A bond future option is also a good tool for hedging, income enh
 [Github bond future option](https://github.com/alanwhite1203/fiBondFutureOption/raw/main/FiBondFutureOption-12.pdf)
 
 [Gitlab bond future option](https://gitlab.com/finance15/fibondfutureoption/-/raw/master/FiBondFutureOption-12.pdf)
+
+[Bitbucket bond future option](https://bitbucket.org/cmrm11/fibondfutureoption/downloads/FiBondFutureOption-12.pdf)
 
    
 ### Callable Bond

@@ -148,6 +148,8 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    
    [Gitlab swap](https://gitlab.com/finance15/eqswap/-/raw/master/EqSwap-7.pdf)
    
+   [Bitbucket swap](https://bitbucket.org/cmrm11/eqswap/downloads/EqSwap-7.pdf)
+   
    
    ### Warrant
    
@@ -165,6 +167,8 @@ date. American options provide investors a way to hedge risk or speculate.  In g
    [Github warrant](https://github.com/alanwhite1203/eqWarrant/raw/main/EqWarrant-8.pdf)
    
    [Gitlab warrant](https://gitlab.com/finance15/eqwarrent/-/raw/master/EqWarrant-8.pdf)
+   
+   [Bitbucket warrant](https://bitbucket.org/cmrm11/eqwarrant/downloads/EqWarrant-8.pdf)
    
    
    
