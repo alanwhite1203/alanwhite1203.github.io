@@ -103,6 +103,10 @@ than a non-callable bond. This presentation gives an overview of callable bond a
 
 [FlipHtml5 callable pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTMxkjNyETPkl0av9mY)
 
+[Gitlab callable](https://gitlab.com/finance15/ficallable/-/raw/master/FiCallableBond-13.pdf)
+
+[Bitbucket callabe](https://bitbucket.org/cmrm11/ficallable/downloads/FiCallableBond-13.pdf)
+
    
 ### Floating Rate Note
 
@@ -118,6 +122,10 @@ rate, such as LIBOR or federal fund rate plus a spread at specified dates before
 [Pubpub frn](https://fixedincome.pubpub.org/pub/zr3i4t1g/download/pdf)
 
 [Github frn](https://github.com/alanwhite1203/fiFrn/raw/main/FiFrn-14.pdf)
+
+[Gitlab frn](https://gitlab.com/cmrm11/fifrn/-/raw/master/FiFrn-14.pdf)
+
+[Bitbucket frn](https://bitbucket.org/cmrm11/fifrn/downloads/FiFrn-14.pdf)
 
    
 ### Inflation Linked Bond
@@ -137,6 +145,10 @@ given its inflation protection. Inflation indexed bonds are less liquid than reg
 
 [Github inflation](https://github.com/alanwhite1203/fiInflation/raw/main/FiInflationBond-15.pdf)
 
+[Gitlab inflation](https://gitlab.com/cmrm11/fiinflation/-/raw/master/FiInflationBond-15.pdf)
+
+[Bitbucket inflation](https://bitbucket.org/cmrm11/fiinflation/downloads/FiInflationBond-15.pdf)
+
    
 ### Puttable Bond
 
@@ -153,7 +165,11 @@ is like to call its current bond and reinvest it at a higher coupon. This presen
 
 [Pub[ub puttable](https://fixedincome.pubpub.org/pub/u95623j1/download/pdf)
 
-[Github puttable](ps://github.com/alanwhite1203/fiPuttable/raw/main/FiPuttableBond-16.pdf)
+[Github puttable](https://github.com/alanwhite1203/fiPuttable/raw/main/FiPuttableBond-16.pdf)
+
+[Gitlab puttable](https://gitlab.com/cmrm11/fiputtable/-/raw/master/FiPuttableBond-16.pdf)
+
+[Bitbucket putable](https://bitbucket.org/cmrm11/fiputtable/downloads/FiPuttableBond-16.pdf)
 
    
 ### Zero Coupon Bond
@@ -172,5 +188,9 @@ sum over several years. Normally investors buy zero coupon bonds when interest r
 [Pubpub zero bond](https://fixedincome.pubpub.org/pub/xmrfe4fp/download/pdf)
 
 [Github zero bond](https://github.com/alanwhite1203/fiZeroBond/raw/main/FiZeroBond-17.pdf)
+
+[Gitlab zero bond](https://gitlab.com/cmrm11/fizerobond/-/raw/master/FiZeroBond-17.pdf)
+
+[Bitbucket zero bond](https://bitbucket.org/cmrm11/fizerobond/downloads/FiZeroBond-17.pdf)
 
    
