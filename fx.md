@@ -12,9 +12,13 @@ some of investment needs. Average can be calculated in a number of ways (daily, 
 
 [Zenodo fx Asian](https://zenodo.org/record/3988538/files/FxAsian-18.pdf)
 
-[Pubpub American](https://fixedincome.pubpub.org/pub/wl8hffch/download/pdf)
+[Pubpub Asian](https://fixedincome.pubpub.org/pub/wl8hffch/download/pdf)
 
-[Github American](https://github.com/alanwhite1203/fxAsian/raw/main/FxAsian-18.pdf)
+[Github Asian](https://github.com/alanwhite1203/fxAsian/raw/main/FxAsian-18.pdf)
+
+[Gitlab Asian](https://gitlab.com/cmrm11/fxasian/-/raw/master/FxAsian-18.pdf)
+
+[Bitbucket Asian](https://bitbucket.org/cmrm11/fxasian/downloads/FxAsian-18.pdf)
 
 
 ### FX Forward
@@ -33,6 +37,10 @@ some of investment needs. Average can be calculated in a number of ways (daily, 
  
  [Github fx forward](https://github.com/alanwhite1203/fxForward/raw/main/FxForward-19.pdf)
  
+ [Gitlab fx forward](https://gitlab.com/cmrm11/fxforward/-/raw/master/FxForward-19.pdf)
+ 
+ [Bitbucket fx forward](https://bitbucket.org/cmrm11/fxforward/downloads/FxForward-19.pdf)
+ 
  
 ### FX Futures
  
@@ -49,6 +57,10 @@ some of investment needs. Average can be calculated in a number of ways (daily, 
   [Pubpub fx futures](https://fixedincome.pubpub.org/pub/olni7vl6/download/pdf)
   
   [Github fx futures](https://github.com/alanwhite1203/fxFuture/raw/main/FxFuture-21.pdf)
+  
+  [Gitlab fx futures](https://gitlab.com/cmrm11/fxfuture/-/raw/master/FxFuture-21.pdf)
+  
+  [Bitbucket fx futures](https://bitbucket.org/cmrm11/fxfuture/downloads/FxFuture-21.pdf)
   
   
 ### FX Option
@@ -69,6 +81,10 @@ some of investment needs. Average can be calculated in a number of ways (daily, 
   
   [Github fx option](https://github.com/alanwhite1203/fxOption/raw/main/FxOption-22.pdf)
   
+  [Gitlab fx option](https://gitlab.com/cmrm11/fxoption/-/raw/master/FxOption-22.pdf)
+  
+  [Bitbucket fx option](https://bitbucket.org/cmrm11/fxoption/downloads/FxOption-22.pdf)
+  
    
 ### FX Swap
    
@@ -87,6 +103,10 @@ some of investment needs. Average can be calculated in a number of ways (daily, 
    
    [Github fx swap](https://github.com/alanwhite1203/fxSwap/raw/main/FxSwap-23.pdf)
    
+   [Gitlab fx swap](https://gitlab.com/cmrm11/fxswap/-/raw/master/FxSwap-23.pdf)
+   
+   [Bitbucket fx swap](https://bitbucket.org/cmrm11/fxswap/downloads/FxSwap-23.pdf)
+   
    
 ### FX Touch Option
    
@@ -102,6 +122,10 @@ some of investment needs. Average can be calculated in a number of ways (daily, 
    [Pubpub touch](https://fixedincome.pubpub.org/pub/c4yuodf7/download/pdf)
    
    [Github touch](https://github.com/alanwhite1203/fxTouch/raw/main/FxTouch-24.pdf)
+   
+   [Gitlab touch](https://gitlab.com/cmrm11/fxtouch/-/raw/master/FxTouch-24.pdf)
+   
+   [Bitbucket touch](https://bitbucket.org/cmrm11/fxtouch/downloads/FxTouch-24.pdf)
    
    
    
