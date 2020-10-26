@@ -17,6 +17,10 @@ increases during the life. The holders wish to protect themselves from the incre
 
 [Github amortizing cap](https://github.com/alanwhite1203/irAmortizingCap/raw/main/IrAmortizingCap-25.pdf)
 
+[Gitlab amortizing cap](https://gitlab.com/cmrm11/iramortizingcap/-/raw/master/IrAmortizingCap-25.pdf)
+
+[Bitbucket amortizing cap](https://bitbucket.org/cmrm11/iramortizingcap/downloads/IrAmortizingCap-25.pdf)
+
 
 ### Amortizing and Accreting Swap  
 
@@ -34,6 +38,10 @@ used to reduce or increase exposure to fluctuations in interest rates.
  [Pubpub amortizing swap](https://interestrate.pubpub.org/pub/0d3i9ep0/download/pdf)
  
  [Github amortizing swap](https://github.com/alanwhite1203/irAmortizingSwap/raw/main/IrAmortizingSwap-26.pdf)
+ 
+ [Gitlab amortizing swap](https://gitlab.com/cmrm11/iramortizingswap/-/raw/master/IrAmortizingSwap-26.pdf)
+ 
+ [Bitbucket amortizing swap](https://bitbucket.org/cmrm11/iramortizingswap/downloads/IrAmortizingSwap-26.pdf)
  
  
 ### Basis Swap 
@@ -53,6 +61,10 @@ used to reduce or increase exposure to fluctuations in interest rates.
   
   [Github basis swap](https://github.com/alanwhite1203/irBasisSwap/raw/main/IrBasisSwap-27.pdf)
   
+  [Gitlab basis swap](https://gitlab.com/cmrm11/irbasisswap/-/raw/master/IrBasisSwap-27.pdf)
+  
+  [Bitbucket basis swap](https://bitbucket.org/cmrm11/irbasisswap/downloads/IrBasisSwap-27.pdf)
+  
   
 ### Interest Rate Bermudan Swaption
   
@@ -69,6 +81,10 @@ used to reduce or increase exposure to fluctuations in interest rates.
   [Github bermudan](https://github.com/alanwhite1203/irBermudan/raw/main/IrBermudan-28.pdf)
   
   [FlipHtml5 bermudan pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgDM4gDN3ITPkl0av9mY)
+  
+  [Gitlab bermudan](https://gitlab.com/cmrm11/irbermudan/-/raw/master/IrBermudan-28.pdf)
+  
+  [Bitbucket bermudan](https://bitbucket.org/cmrm11/irbermudan/downloads/IrBermudan-28.pdf)
    
    
 ### Interest Rate Cancelable Swap 
@@ -86,6 +102,10 @@ used to reduce or increase exposure to fluctuations in interest rates.
    [Pubpub cancelable](https://interestrate.pubpub.org/pub/guflw7pz/download/pdf)
    
    [Github cancelable](https://github.com/alanwhite1203/irCancellableSwap/raw/main/IrCancelableSwap-29.pdf)
+   
+   [Gitlab cancelable](https://gitlab.com/cmrm11/ircancellableswap/-/raw/master/IrCancelableSwap-29.pdf)
+   
+   [Bitbucket cancelable](https://bitbucket.org/cmrm11/ircancelableswap/downloads/IrCancelableSwap-29.pdf)
    
    
 ### Interest Rate Caps and Floors 
