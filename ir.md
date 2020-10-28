@@ -124,6 +124,10 @@ used to reduce or increase exposure to fluctuations in interest rates.
    
    [Github cap](https://github.com/alanwhite1203/irCap/raw/main/IrCap-30.pdf)
    
+   [Gitlab cap](https://gitlab.com/cmrm11/ircap/-/raw/master/IrCap-30.pdf)
+   
+   [Bitbucket cap](https://bitbucket.org/cmrm11/ircap/downloads/IrCap-30.pdf)
+   
    
 ### Capped Swap
    
@@ -141,6 +145,10 @@ used to reduce or increase exposure to fluctuations in interest rates.
    
    [Github capped swap](https://github.com/alanwhite1203/irCappedSwap/raw/main/IrCappedSwap-31.pdf)
    
+   [Gitlab capped swap](https://gitlab.com/cmrm11/ircappedswap/-/raw/master/IrCappedSwap-31.pdf)
+   
+   [Bitbucket capped swap](https://bitbucket.org/cmrm11/ircappedswap/downloads/IrCappedSwap-31.pdf)
+   
    
 ### Compounding Swap
    
@@ -157,6 +165,10 @@ used to reduce or increase exposure to fluctuations in interest rates.
    [Pubpub compounding](https://interestrate.pubpub.org/pub/d4m2qpav/download/pdf)
    
    [Github compounding](https://github.com/alanwhite1203/irCompoundingSwap/raw/main/IrCompoundingSwap-32.pdf)
+   
+   [Gitlab compounding](https://gitlab.com/cmrm11/ircompoundingswap/-/raw/master/IrCompoundingSwap-32.pdf)
+   
+   [Bitbucket compounding](https://bitbucket.org/cmrm11/ircompoundingswap/downloads/IrCompoundingSwap-32.pdf)
    
    
 ### Forward Rate Agreement
@@ -177,6 +189,10 @@ used to reduce or increase exposure to fluctuations in interest rates.
    
    [Github fra](https://github.com/alanwhite1203/irFra/raw/main/IrFra-33.pdf)
    
+   [Gitlab fra](https://gitlab.com/cmrm11/irfra/-/raw/master/IrFra-33.pdf)
+   
+   [Bitbucket fra](https://bitbucket.org/cmrm11/irfra/downloads/IrFra-33.pdf)
+   
    
 ### Interest Rate Futures
    
@@ -194,6 +210,10 @@ used to reduce or increase exposure to fluctuations in interest rates.
    
    [Github futures](https://github.com/alanwhite1203/irFuture/raw/main/IrFuture-34.pdf)
    
+   [Gitlab futures](https://gitlab.com/cmrm11/irfuture/-/raw/master/IrFuture-34.pdf)
+   
+   [Bitbucket future](https://bitbucket.org/cmrm11/irfuture/downloads/IrFuture-34.pdf)
+   
    
 ### Future Option
    
@@ -209,6 +229,10 @@ used to reduce or increase exposure to fluctuations in interest rates.
    [Pubpub future option](https://interestrate.pubpub.org/pub/ayoefgzr/download/pdf)
    
    [Github future option](https://github.com/alanwhite1203/irFutureOption/raw/main/IrFutureOption-35.pdf)
+   
+   [Gitlab future option](https://gitlab.com/cmrm11/irfutureoption/-/raw/master/IrFutureOption-35.pdf)
+   
+   [Bitbucket future option](https://bitbucket.org/cmrm11/irfutureoption/downloads/IrFutureOption-35.pdf)
    
    
 ### Interest Rate Swap 
@@ -228,6 +252,10 @@ used to reduce or increase exposure to fluctuations in interest rates.
    
    [Github swap](https://github.com/alanwhite1203/irSwap/raw/main/IrSwap-36.pdf)
    
+   [Gitlab swap](https://gitlab.com/cmrm11/irswap/-/raw/master/IrSwap-36.pdf)
+   
+   [Bitbucket swap](https://bitbucket.org/cmrm11/irswap/downloads/IrSwap-36.pdf)
+   
    
 ### Swaption
    
@@ -246,5 +274,9 @@ used to reduce or increase exposure to fluctuations in interest rates.
    [Pubpub swaption](https://interestrate.pubpub.org/pub/xktu5bnp/download/pdf)
    
    [Github swaption](https://github.com/alanwhite1203/irSwaption/raw/main/IrSwaption-37.pdf)
+   
+   [Gitlab swaption](https://gitlab.com/cmrm11/irswaption/-/raw/master/IrSwaption-37.pdf)
+   
+   [Bitbucket swaption](https://bitbucket.org/cmrm11/irswaption/downloads/IrSwaption-37.pdf)
    
    
