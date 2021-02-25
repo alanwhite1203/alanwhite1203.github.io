@@ -2,195 +2,94 @@
 
 ### Amortizing Bond
 
-An amortizing bond is used specifically for tax purposes as the amortized principal is treated as part of a company’s interest expense. An accreting bond is used 
-to improve the profit of the existing bond and make it more marketable. Pension funds and insurance companies are major investors in accreting bonds. 
+An amortizing bond is a bond whose principal (face value) decreases due to repaying part of the principal along with the coupon payments. Each payment to the amortizing bond holder consists of a portion of interest and a portion of principal. While an accreting bond is a bond whose principal increases during the life of the deal. Each payment to the accreting bond holder is just a part of interest. The other part of coupon is added to the principal of the bond. 
 
-[More details](./FiAmortizingBond-9.pdf)
+An amortizing bond is used specifically for tax purposes as the amortized principal is treated as part of a company’s interest expense. An accreting bond is used to improve the profit of the existing bond and make it more marketable. Pension funds and insurance companies are major investors in accreting bonds.  This presentation gives an overview of amortizing bonds and accreting bonds. 
 
-[FlipHtml5 amortizing bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN1gDM5ITPkl0av9mY)
-
-[Zenodo amortizing bond](https://zenodo.org/record/3958017/files/FiAmortizingBond-9.pdf)
-
-[Pubpub amortizing bond](https://fixedincome.pubpub.org/pub/2tsz1ogw/download/pdf)
-
-[Github amortizing bond](https://github.com/alanwhite1203/fiAmortizingBond/raw/main/FiAmortizingBond-9.pdf)
-
-[Gitlab amortizing bond](https://gitlab.com/finance15/fiamortizingbond/-/raw/master/FiAmortizingBond-9.pdf)
-
-[Bitbucket amortizing bond](https://bitbucket.org/cmrm11/fiamortizingbond/downloads/FiAmortizingBond-9.pdf)
+[More details](./FiAmortizingBond.md)
 
 
 ### Fixed Rate Bond
 
- Fixed rate bonds generally pay higher coupons than interest rates. An investor who wants to earn a guaranteed interest rate for a specified term can choose fixed 
- rate bonds. The benefit of a fixed rate bond is that investors know for certain how much interest rate they will earn and for how long. Due to the fixed coupon, 
- the market value of a fixed rate bond is susceptible to fluctuation in interest rate and therefore has a significant interest rate risk. 
+A bond is a debt instrument in which an investor loans money to the issuer for a defined period of time and receives coupons paid by the issuer at fixed interest rate. The bond principal will be returned at maturity date. Bonds are usually issued by companies, municipalities, states/provinces and countries to finance a variety of projects and activities. This presentation gives an overview of fixed rate bonds and also elaborates two valuation models at http://www.finpricing.com/lib/FiBond.html
+
+Fixed rate bonds generally pay higher coupons than interest rates. An investor who wants to earn a guaranteed interest rate for a specified term can choose fixed rate bonds. The benefit of a fixed rate bond is that investors know for certain how much interest rate they will earn and for how long. Due to the fixed coupon, the market value of a fixed rate bond is susceptible to fluctuation in interest rate and therefore has a significant interest rate risk. 
+
  
- [More details](./FiBond-10.pdf)
+[More details](./FiBond.md)
  
- [Check](https://finpricing.com/lib/FiBond.html)  
- 
- [FlipHtml5 bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM0cjNyETPkl0av9mY)
- 
- [Zenodo bond](https://zenodo.org/record/3958026/files/FiBond-10.pdf)
- 
- [Pubpub bond](https://fixedincome.pubpub.org/pub/j5k0ljcd/download/pdf)
- 
- [Github bond](https://github.com/alanwhite1203/fiBond/raw/main/FiBond-10.pdf)
- 
- [Gitlab bond](https://gitlab.com/finance15/fibond/-/raw/master/FiBond-10.pdf)
- 
- [Bitbucket bond](https://bitbucket.org/cmrm11/fibond/downloads/FiBond-10.pdf)
  
  
 ### Bond Futures
  
-Investors use bond futures to hedge an existing bond portfolio against adverse interest rate movements or enhance the long-term performance of the portfolio. 
-Arbitrageurs profit from the price difference between the spot bonds and the bond futures. Speculators use bond futures in the hope of making a profit on 
-short-term movements in prices. This presentation provides an overview of bond future product and valuation. 
+A bond future is a future contract in which the asset for delivery is a government bond. Any government bonds that meet the maturity specification of a future contract are eligible for delivery. All eligible delivery bonds construct the delivery basket where each bond has its own conversion factor. Conversion factors are used to equalise the coupon and accrued interest differences of all the deliverable bonds. 
 
-[More details](./FiBondFuture-11.pdf)
+The seller usually picks up the cheapest bond in the basket to deliver, called the cheapest-to-deliver (CTD). The CTD bond is normally delivered on the last delivery day of the month. 
 
-[FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDO1gDM5ITPkl0av9mY)
 
-[Zenodo futures](https://zenodo.org/record/3958039/files/FiBondFuture-11.pdf)
+[More details](./FiBondFuture.md)
 
-[Pubpub futures](https://fixedincome.pubpub.org/pub/jxxynl4w/download/pdf)
-
-[Github futures](https://github.com/alanwhite1203/fiBondFuture/raw/main/FiBondFuture-11.pdf)
-
-[Gitlab futures](https://gitlab.com/finance15/fibondfuture/-/raw/master/FiBondFuture-11.pdf)
-
-[Bitbucket futures](https://bitbucket.org/cmrm11/fibondfuture/downloads/FiBondFuture-11.pdf)
 
 
 ### Bond Future Option
 
-Bond futures options are also exchange traded derivatives on treasury instruments. They provide market participants with the ability to adjust their interest 
-rate exposures. A bond future option is also a good tool for hedging, income enhancement, duration adjustments, interest rate speculation and spread trading. 
+A bond future option is an option contract that gives the holder the right but not the obligation to buy or sell a bond future at a predetermined price. The writer/seller receives a premium from the buyer for undertaking this obligation. Options are leveraged instruments that allow the owner to control a large amount of the underlying asset with a smaller amount of money. Bond future options offer significant advantages for reducing costs, enhancing returns and managing risk. They could be European style or American style. 
 
-[More details](./FiBondFutureOption-12.pdf)
+Bond futures options are also exchange traded derivatives on treasury instruments. They provide market participants with the ability to adjust their interest rate exposures. A bond future option is also a good tool for hedging, income enhancement, duration adjustments, interest rate speculation and spread trading. 
 
-[FlipHtml5 bond future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTM1ITM5ITPkl0av9mY)
 
-[Zenodo bond future option](https://zenodo.org/record/3958051/files/FiBondFutureOption-12.pdf)
+[More details](./FiBondFutureOption.md)
 
-[Pubpub bond future option](https://fixedincome.pubpub.org/pub/8jo2auig/download/pdf)
-
-[Github bond future option](https://github.com/alanwhite1203/fiBondFutureOption/raw/main/FiBondFutureOption-12.pdf)
-
-[Gitlab bond future option](https://gitlab.com/finance15/fibondfutureoption/-/raw/master/FiBondFutureOption-12.pdf)
-
-[Bitbucket bond future option](https://bitbucket.org/cmrm11/fibondfutureoption/downloads/FiBondFutureOption-12.pdf)
 
    
 ### Callable Bond
 
-For issuers, callable bonds allow them to reduce interest costs at a future date should rate decrease. For investors, callable bonds allow them to earn a 
-higher interest rate of return until the bonds are called off. If interest rates have declined since the issuer first issues the bond, the issuer is like 
-to call its current bond and reissues it at a lower coupon. Callable bonds protect issuers. Therefore, a callable bond normally pays investors a higher coupon 
-than a non-callable bond. This presentation gives an overview of callable bond and valuation model.
+A callable bond is a bond in which the issuer has the right to call the bond at specified times from the investor for a specified price. At each callable date prior to the bond maturity, the issuer may recall the bond from its investor by returning the investor’s money. The underlying bonds can be fixed rate bonds or floating rate bonds. A callable bond can therefore be considered a vanilla underlying bond with an embedded Bermudan style option. Callable bonds protect issuers. Therefore, a callable bond normally pays the investor a higher coupon than a non-callable bond. 
 
-[More details](./FiCallableBond-13.pdf)
+For issuers, callable bonds allow them to reduce interest costs at a future date should rate decrease. For investors, callable bonds allow them to earn a higher interest rate of return until the bonds are called off. If interest rates have declined since the issuer first issues the bond, the issuer is like to call its current bond and reissues it at a lower coupon. Callable bonds protect issuers. Therefore, a callable bond normally pays investors a higher coupon than a non-callable bond. This presentation gives an overview of callable bond and valuation model.
 
-[FlipHtml5 callable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzM1ITM5ITPkl0av9mY)
 
-[Zenodo callable](https://zenodo.org/record/3973190/files/FiCallableBond-13.pdf)
+[More details](./FiCallableBond.md)
 
-[Pubpub callable](https://fixedincome.pubpub.org/pub/ylqcukjc/download/pdf)
-
-[Github callable](https://github.com/alanwhite1203/fiCallable/raw/main/FiCallableBond-13.pdf)
-
-[FlipHtml5 callable pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTMxkjNyETPkl0av9mY)
-
-[Gitlab callable](https://gitlab.com/finance15/ficallable/-/raw/master/FiCallableBond-13.pdf)
-
-[Bitbucket callabe](https://bitbucket.org/cmrm11/ficallable/downloads/FiCallableBond-13.pdf)
 
    
 ### Floating Rate Note
 
-A floating rate note (FRN) is a bond in which the investor will receive coupons paid by the issuer at a floating coupon equivalent to a money market reference 
-rate, such as LIBOR or federal fund rate plus a spread at specified dates before bond maturity.
+A floating rate note has variable coupons, depending on a money market reference rate, such as LIBOR, plus a floating spread. When interest rate raises, the coupons of an FRN increases in line with the increase of the forward rates, which means its price remains relatively constant. Therefore, FRNs bear small interest rate risk. On the other hand, FRNs carry lower yields than fixed rate bonds of the same maturity. They also have unpredictable coupon payments. 
 
-[More details](./FiFrn-14.pdf)
+The price of an FRN has very low sensitivity to changes in interest rates because the floating coupon increases but the discounting also increases as interest rate rises. An investor who wants conservative investments may choose floating rate bonds. FRNs become more popular when interest rates are expected to increase. An FRN carry lower yield than fixed rate bonds of the same maturity and has unpredictable coupon payments. This presentation gives an overview of FRNs valuation. 
 
-[FlipHtml5 frn](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkzM1ITM5ITPkl0av9mY)
+[More details](./FiFrn.md)
 
-[Zenodo frn](https://zenodo.org/record/3973196/files/FiFrn-14.pdf)
-
-[Pubpub frn](https://fixedincome.pubpub.org/pub/zr3i4t1g/download/pdf)
-
-[Github frn](https://github.com/alanwhite1203/fiFrn/raw/main/FiFrn-14.pdf)
-
-[Gitlab frn](https://gitlab.com/cmrm11/fifrn/-/raw/master/FiFrn-14.pdf)
-
-[Bitbucket frn](https://bitbucket.org/cmrm11/fifrn/downloads/FiFrn-14.pdf)
 
    
 ### Inflation Linked Bond
 
-An inflation indexed bond is designed to hedge the inflation risk of the bond. Since inflation indexed bonds offer investors a very high level of safety, 
-their coupons are typically lower than high-yield bonds. It is an important vehicle for investors whose liabilities indexed to changes in inflation or wages. 
-Inflation indexed bonds have favorable performance and lower volatility relative to other risk assets. It is favorable to retirement planning and pension funds 
-given its inflation protection. Inflation indexed bonds are less liquid than regular bonds.
+Inflation indexed bonds, also called inflation linked bonds or real return bonds, are bonds where the principal is indexed to inflation or deflation on a daily basis in terms of a reference index, such as Consumer Price Index (CPI). The CPI is the proxy for inflation that measures price changes in a basket of goods and services. 
 
-[More details](./FiInflationBond-15.pdf)
+The main idea of inflation indexed bonds is that investing in the bond will generate a certain real return. Inflation indexed bonds pay a periodic coupon that is equal to the product of the daily inflation index and the nominal coupon rate. Therefore, even though the nominal value of the coupons and principal may change, the real return of these remains the same. Unlike regular (nominal) bonds, inflation indexed bonds assure that your purchasing power is maintained regardless of the future rate of inflation. 
 
-[FlipHtml5 inflation](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamADM3QjM5ITPkl0av9mY)
 
-[Zenodo inflation](https://zenodo.org/record/3978594/files/FiInflationBond-15.pdf)
+[More details](./FiInflationBond.md)
 
-[Pubpub inflation](https://fixedincome.pubpub.org/pub/n232c4iu/download/pdf)
-
-[Github inflation](https://github.com/alanwhite1203/fiInflation/raw/main/FiInflationBond-15.pdf)
-
-[Gitlab inflation](https://gitlab.com/cmrm11/fiinflation/-/raw/master/FiInflationBond-15.pdf)
-
-[Bitbucket inflation](https://bitbucket.org/cmrm11/fiinflation/downloads/FiInflationBond-15.pdf)
 
    
 ### Puttable Bond
 
-Although a puttable bond is a higher cost to the investor and an uncertainty to the issuer comparing to a regular bond, it is actually quite attractive to both 
-issuers and investors. For investors, puttable bonds allow them to reduce interest costs at a future date should rate increase. For issuers, puttable bonds allow 
-them to pay a lower interest rate of return until the bonds are sold back. If interest rates have increased since the issuer first issues the bond, the investor 
-is like to call its current bond and reinvest it at a higher coupon. This presentation gives an overview of puttable bond and valuation model. 
+A puttable bond is a bond in which the investor has the right to sell the bond back to the issuer at specified times for a specified price. At each puttable date prior to the bond maturity, the investor may get the investment money back by selling the bond back to the issuer. The underlying bonds can be fixed rate bonds or floating rate bonds. A puttable bond can therefore be considered a vanilla underlying bond with an embedded Bermudan style option. Puttable bonds protect investors. Therefore, a puttable bond normally pays investors a lower coupon than a non-callable bond. 
 
-[More details](./FiPuttableBond-16.pdf)
+Although a puttable bond is a higher cost to the investor and an uncertainty to the issuer comparing to a regular bond, it is actually quite attractive to both issuers and investors. For investors, puttable bonds allow them to reduce interest costs at a future date should rate increase. For issuers, puttable bonds allow them to pay a lower interest rate of return until the bonds are sold back. If interest rates have increased since the issuer first issues the bond, the investor is like to call its current bond and reinvest it at a higher coupon. This presentation gives an overview of puttable bond and valuation model. 
 
-[FlipHtml5 puttable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDM3QjM5ITPkl0av9mY)
 
-[Zenodo puttable](https://zenodo.org/record/3978603/files/FiPuttableBond-16.pdf)
+[More details](./FiPuttableBond.md)
 
-[Pub[ub puttable](https://fixedincome.pubpub.org/pub/u95623j1/download/pdf)
 
-[Github puttable](https://github.com/alanwhite1203/fiPuttable/raw/main/FiPuttableBond-16.pdf)
-
-[Gitlab puttable](https://gitlab.com/cmrm11/fiputtable/-/raw/master/FiPuttableBond-16.pdf)
-
-[Bitbucket putable](https://bitbucket.org/cmrm11/fiputtable/downloads/FiPuttableBond-16.pdf)
-
-   
 ### Zero Coupon Bond
 
-Zero coupon bonds are issued at a deep discount and repaid the face value at maturity. The greater the length of the maturity is the cheaper price a bond has. 
-Unlike other bonds, the investor’s return is the difference between the purchase price and the face value. An investor preferring a long-term investment may 
-purchase zero coupon bonds such as saving money for children’s college tuition. The deep discount helps the investor grow a small amount of money into a sizable 
-sum over several years. Normally investors buy zero coupon bonds when interest rates are high.
+A company can raise capital in financial markets either by issuing equities or bonds. A zero coupon bond is a bond that doesn’t pay interest/coupon but instead pays one lump sum face value at maturity. Investors buy zero coupon bonds at a deep discount from their face value. A zero coupon bond generates gains from the difference between the purchase price and the face value while a coupon bond produces gains from the regular distribution of coupon/interest.
 
-[More details](./FiZeroBond-17.pdf)
+Zero coupon bonds are issued at a deep discount and repaid the face value at maturity. The greater the length of the maturity is the cheaper price a bond has. Unlike other bonds, the investor’s return is the difference between the purchase price and the face value. An investor preferring a long-term investment may purchase zero coupon bonds such as saving money for children’s college tuition. The deep discount helps the investor grow a small amount of money into a sizable sum over several years. Normally investors buy zero coupon bonds when interest rates are high. This presentation gives an overview of zero coupon bond product and valuation. 
 
-[FlipHtml5 zero bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDM3QjM5ITPkl0av9mY)
 
-[Zenodo zero bond](https://zenodo.org/record/3978607/files/FiZeroBond-17.pdf)
+[More details](./FiZeroBond.md)
 
-[Pubpub zero bond](https://fixedincome.pubpub.org/pub/xmrfe4fp/download/pdf)
-
-[Github zero bond](https://github.com/alanwhite1203/fiZeroBond/raw/main/FiZeroBond-17.pdf)
-
-[Gitlab zero bond](https://gitlab.com/cmrm11/fizerobond/-/raw/master/FiZeroBond-17.pdf)
-
-[Bitbucket zero bond](https://bitbucket.org/cmrm11/fizerobond/downloads/FiZeroBond-17.pdf)
-
-   

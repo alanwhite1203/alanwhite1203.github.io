@@ -92,7 +92,9 @@ An equity warrant is an option on the equity of a firm issued by the same firm, 
 
 An equity warrant gives the holder the right to purchase shares at a fixed price from the firm. It is an option on the common stock of a firm issued by the same firm. Warrants are in many ways similar to call options, but a few key differences distinguish them. 
 
-[More details](./EqWarrant.md)     
+[More details](./EqWarrant.md)   
+
+[Reference pdf](./EqWarrant-8.pdf)  
    
 
    
