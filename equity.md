@@ -95,6 +95,16 @@ An equity warrant gives the holder the right to purchase shares at a fixed price
 [More details](./EqWarrant.md)   
 
 [Reference pdf](./EqWarrant-8.pdf)  
+
+### Variance Swap
+
+A variance swap is an instrument which allows investors to trade future realized (historical) volatility against current implied volatility.
+
+The market value of a variance swap is based on the variance determined from
+a combination of realized (historical) volatility and unrealized volatility obtained from broker's quote. 
+
+[More details](./EqVariance.md)   
+
    
 
    
