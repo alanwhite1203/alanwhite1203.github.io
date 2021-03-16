@@ -116,6 +116,22 @@ The initial price is taken as the highest price observed over a set of Initial L
 
 [More details](./EqLookback.md)   
 
-  
+ 
+### Barrier Option
+
+Barrier options are set up conditionally, so that within the life of the option, a barrier may or may not be reached. The barrier option is dependent on an “extreme” price, either high or low, attained by the underlying. If a barrier is reached, or touched, the constraints are triggered.
+
+The two types of contracts, knock-in barrier options and knock-out barrier options, each respond differently when the barrier is "triggered". If a knock-out option's underlying touches the barrier, the option is eliminated and the holder receives a rebate. Conversely, a knock-in option touches the barrier to activate the option. If the knock-in option never reaches the barrier, the holder will receive a rebate.
+
+[More details](./EqBarrier.md) 
+
+
+### Cliquet Option
+
+A cliquet option, also called ratchet option, consists of a series of forward start options, each struck at the money on the date it becomes active. Typically, each option begins on the date corresponding to the expiry of the previous option. The cliquet is a series of at-the-money options, with periodic settlement, resetting the strike value at the then current price level, at which time, the option locks in the difference between the old and new strike and pays that out as the profit. The profit can be accumulated until final maturity, or paid out at each reset date.
+
+Cliquet options are widely traded in many retail-structured products. They consist of financial derivatives which provide a guaranteed minimum return in exchange for a capping of the maximal return over the life of the contract. A cliquet option is equivalent to a series of forward-starting at-the-money options, which may be globally and locally floored and capped. 
+
+[More details](./EqCliquet.md) 
 
    

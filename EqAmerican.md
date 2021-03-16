@@ -99,6 +99,6 @@ References:
 
 [Github AO](https://github.com/alanwhite1203/EqAmerican/raw/master/EqAmerican-1.pdf)
 
+[gitbook AO](https://captim.gitbook.io/eqamerican/)
 
-
-
+[science-media AO](https://science-media.org/userfiles/1020/presentations/1020_presentation_495.pdf)

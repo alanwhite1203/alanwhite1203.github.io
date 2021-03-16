@@ -134,4 +134,6 @@ LOGM.O	87.5
   
   [Github basket](https://github.com/alanwhite1203/EqBasket/raw/master/EqBasket-3.pdf)
   
+  [gitbook basket](https://captim.gitbook.io/eqbasket/)
  
+  [science-media basket](https://science-media.org/userfiles/1020/presentations/1020_presentation_498.pdf)

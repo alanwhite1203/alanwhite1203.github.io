@@ -149,3 +149,7 @@ References:
 [Pub pdf](https://assets.pubpub.org/a41h7lgw/71595703115219.pdf)
 
 [Github convertible](https://github.com/alanwhite1203/EqConvertible/raw/master/EqConvertible-4.pdf)
+
+[gitbook pdf](https://captim.gitbook.io/eqconvertible/)
+
+[science-media pdf](https://science-media.org/userfiles/1020/presentations/1020_presentation_497.pdf)

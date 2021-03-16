@@ -118,3 +118,9 @@ References:
  
  [Github Asian](https://github.com/alanwhite1203/EqAsian/raw/master/EqAsian-2.pdf)
  
+ [gitbook Asian](https://captim.gitbook.io/eqasian/)
+ 
+ [science-media Asian](https://science-media.org/userfiles/1020/presentations/1020_presentation_496.pdf)
+ 
+ 
+ 
