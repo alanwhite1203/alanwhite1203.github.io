@@ -96,6 +96,7 @@ An equity warrant gives the holder the right to purchase shares at a fixed price
 
 [Reference pdf](./EqWarrant-8.pdf)  
 
+
 ### Variance Swap
 
 A variance swap is an instrument which allows investors to trade future realized (historical) volatility against current implied volatility.
@@ -105,6 +106,16 @@ a combination of realized (historical) volatility and unrealized volatility obta
 
 [More details](./EqVariance.md)   
 
-   
+
+### Lookback Option
+
+A lookback option gives the option holder the right but not the obligation to buy the underlying asset at the lowest price. It pays a single call-option-style payoff based on the performance of the underlying asset’s final price relative to its initial price, where both the initial and final prices are computed using a lookback formula.
+
+The initial price is taken as the highest price observed over a set of Initial Lookback Dates. The final price is taken as the maximum of the running cumulative average, observed over a set of Payoff Observation Dates.
+
+
+[More details](./EqLookback.md)   
+
+  
 
    

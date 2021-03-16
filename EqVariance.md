@@ -30,4 +30,4 @@ References:
 
 [Pub variance pdf](https://assets.pubpub.org/yw4sd6a8/21615827774609.pdf)
 
-   
+[Github variance pdf](https://github.com/alanwhite1203/EqVariance/releases/download/1/EqVariance-9.pdf)  
