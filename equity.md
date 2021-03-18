@@ -134,4 +134,22 @@ Cliquet options are widely traded in many retail-structured products. They consi
 
 [More details](./EqCliquet.md) 
 
+
+### Binary Option
+
+A binary option is an option with a predetermined payoff, triggered only if the underlying price meets the strike price. These are also commonly referred to as “all or nothing” or “digital options”. Binary call pays a fixed amount if the underlying price ends up above the strike price, while binary put pays off a fixed amount if the underlying price is below the strike price at option maturity.
+
+The payoff of a digital option or binary option is either some fixed amount of some asset or nothing at all. The two main types of binary options are the cash-or-nothing binary option and the asset-or-nothing binary option. The cash-or-nothing binary option pays some fixed amount of cash if the option expires in-the-money while the asset-or-nothing pays the value of the underlying security.
+
+[More details](./EqBinary.md)
+
+
+### Quanto Option
+
+A quanto option is an option whose payout is made in a currency other than that of the underlying security, based on a fixed exchange rate. The term “quanto” is abbreviation for “quantity adjusted” that refers to the feature where the payoff of an option is determined by the financial price of index in one currency but the actual payout if realized in another currency.
+
+It is a common trend that domestic investors allocate their assets in foreign stock markets. The major reason behind this investment trend is that the regulation liberalization spreads throughout in the global security markets. Domestic investors who put their money into foreign stock markets will encounter both of the foreign stock price risk and foreign exchange rate risk. 
+
+[More details](./EqQuanto.md)
+
    
