@@ -11,20 +11,8 @@ The risk sensitivities, especially Gamma, may be unstable when at the money or n
 Binary options can be valued using the Black-Scholes models. The PV is calculated as the product of fixed payment times call price (c) or put price (p) where:
 
 Cash-or-nothing:
- 
- 
+
 Asset-or-nothing:
- 
- 
-where
-d_1=(ln⁡(s/x)+(r+σ^2/2)t)/(σ√t)
- 
-       and
-s is the current spot price
-r is the risk free interest rate
-t is the expiry date in years
-σ is the implied volatility
-Φ is the standard normal cumulative distribution function
 
 The risk sensitivities, especially Gamma, is very unstable under the Black-Scholes. Therefore, the better solution is to represent a binary option as a tight option spread.
 
