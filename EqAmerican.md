@@ -1,4 +1,4 @@
-## Equity American Option
+## Equity American Option Valuation
 
 An American option give an investor the right but not the obligation to buy a call or sell a put at a set strike price at any time prior to the contract’s expiry date. Since investors have the freedom to exercise their American options at any point during the life of the contract, they are more valuable than European options, which can only be exercised at maturity.  
 

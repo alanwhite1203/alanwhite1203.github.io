@@ -1,4 +1,4 @@
-## Cliquet Option
+## Cliquet Option Valuation
    
 A cliquet option, also called ratchet option, consists of a series of forward start options, each struck at the money on the date it becomes active. Typically, each option begins on the date corresponding to the expiry of the previous option. The cliquet is a series of at-the-money options, with periodic settlement, resetting the strike value at the then current price level, at which time, the option locks in the difference between the old and new strike and pays that out as the profit. The profit can be accumulated until final maturity, or paid out at each reset date.
 

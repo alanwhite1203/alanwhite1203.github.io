@@ -1,4 +1,4 @@
-## Fixed Rate Bond
+## Fixed Rate Bond Valuation
 
 A bond is a debt instrument in which an investor loans money to the issuer for a defined period of time and receives coupons paid by the issuer at fixed interest rate. The bond principal will be returned at maturity date. Bonds are usually issued by companies, municipalities, states/provinces and countries to finance a variety of projects and activities. This presentation gives an overview of fixed rate bonds and also elaborates two valuation models at http://www.finpricing.com/lib/FiBond.html
 

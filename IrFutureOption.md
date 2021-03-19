@@ -1,4 +1,4 @@
-## Future Option
+## Future Option Valuation
    
 An interest rate future option gives the holder the right but not the obligation to buy or sell an interest rate future at a specified price on a specified date. It is usually traded in an exchange. The buyer normally can exercise the option on any business day (American style) prior to expiration by giving notice to the exchange. Option sellers (writer) receive a fixed premium upfront and in return are obligated to buy or sell the underlying asset at a specified price.
 

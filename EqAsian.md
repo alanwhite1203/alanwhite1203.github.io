@@ -1,4 +1,4 @@
-## Equity Asian Option 
+## Equity Asian Option Valuation
 
  An Asian option or average option is a special type of option contract  where the payoff depends on the average price of the underlying asset over a certain period of time. The payoff is different from the case of a European option or American option, where the payoff of the option contract depends on the price of the underlying stock at exercise date. 
 

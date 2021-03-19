@@ -1,4 +1,4 @@
-## FX Futures
+## FX Futures Valuation
  
 A currency future, also known as an FX future , is a future contract to exchange one currency for another at a specified date in the future at an exchange rate that is fixed on the purchase date. By using a currency future contract, the parties are able to effectively lock-in the exchange rate for a future transaction. Speculation and hedging in currencies can be achieved primarily through future contracts. 
 A currency future or an FX future is a future contract between two parties to exchange one currency for another at a fixed exchange rate on a fixed future date. Currency futures are one of the main methods used to hedge against exchange rate volatility, as they avoid the impact of currency fluctuation over the period covered by the contract. 

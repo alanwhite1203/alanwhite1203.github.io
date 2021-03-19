@@ -1,4 +1,4 @@
-## Zero Coupon Bond
+## Zero Coupon Bond Valuation
 
 A company can raise capital in financial markets either by issuing equities or bonds. A zero coupon bond is a bond that doesn’t pay interest/coupon but instead pays one lump sum face value at maturity. Investors buy zero coupon bonds at a deep discount from their face value. A zero coupon bond generates gains from the difference between the purchase price and the face value while a coupon bond produces gains from the regular distribution of coupon/interest.
 Zero coupon bonds are issued at a deep discount and repaid the face value at maturity. The greater the length of the maturity is the cheaper price a bond has. Unlike other bonds, the investor’s return is the difference between the purchase price and the face value. An investor preferring a long-term investment may purchase zero coupon bonds such as saving money for children’s college tuition. The deep discount helps the investor grow a small amount of money into a sizable sum over several years. Normally investors buy zero coupon bonds when interest rates are high. This presentation gives an overview of zero coupon bond product and valuation. 

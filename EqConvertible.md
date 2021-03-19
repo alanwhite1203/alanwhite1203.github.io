@@ -1,4 +1,4 @@
-## Convertible Bond
+## Convertible Bond Valuation
   
 Convertible bonds can be thought of as normal corporate bonds with embedded options, which enable the holder to exchange the bond asset for the issuer's stock. Having properties of both stocks and bonds, convertibles can be an attractive choice for investors and have tended to have lower risk. 
 

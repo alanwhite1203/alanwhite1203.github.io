@@ -1,4 +1,4 @@
-## Quanto Option
+## Quanto Option Valuation
    
 A quanto option is an option whose payout is made in a currency other than that of the underlying security, based on a fixed exchange rate. The term “quanto” is abbreviation for “quantity adjusted” that refers to the feature where the payoff of an option is determined by the financial price of index in one currency but the actual payout if realized in another currency.
 

@@ -1,4 +1,4 @@
-## Binary Option
+## Binary Option Valuation
    
 A binary option is an option with a predetermined payoff, triggered only if the underlying price meets the strike price. These are also commonly referred to as “all or nothing” or “digital options”. Binary call pays a fixed amount if the underlying price ends up above the strike price, while binary put pays off a fixed amount if the underlying price is below the strike price at option maturity.
 
