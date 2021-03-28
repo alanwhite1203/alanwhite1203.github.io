@@ -152,4 +152,40 @@ It is a common trend that domestic investors allocate their assets in foreign st
 
 [More details](./EqQuanto.md)
 
+
+### Callable Exotics
+
+A callable note allows the issuer to exercise a call option on the note on a specified date or set of dates prior to maturity.
+
+Callable note or callable exotics are among the most challenging derivatives to price. These products are loosely defined by the provision that the holder or issuer has the right to call the product or exercise into various underlying instruments after a lock-out period expires.
+
+[More details](./EqCallable.md)
+
+
+### Spread Option
+
+A spread option is an option written on the difference of two underling assets, whose values at time t we denote by S1(t) and S2(t). We consider only options of the European type for which the buyer has the right to be paid, at the maturity date T, the difference S2(T)−S1(T), known as the spread. To exercise the option, the buyer must pay at maturity a prespecified price K, known as the strike, or the exercise price of the option.
+
+The use of spread options is widespread for speculation, basis risk mitigation, or even asset valuation. Spread options allow investors to simultaneously take positions in two are more assets and profit from their price difference over some spread.
+
+[More details](./EqSpread.md)
+
+
+### Best Performer Option
+
+A best performer option pays the option holder the best return at maturity among a given set of portfolios, where each portfolio may be defined by a set of weights on the same underlying basket or different baskets.
+
+These are chooser options that return the best performing among several baskets of funds or indices that reflect growth, moderate and conservative investment styles. The returns could be based on average (Asian), single currency or quanto. The final payoff could be capped and floored.
+
+[More details](./EqPerform.md)
+
+
+### Reverse Convertible Swap
+
+A reverse convertible autocallable swap allows two parties exchange floating coupons with fixed coupons on certain future dates. On some coupon dates, the swap may be cancelled. Should the swap be cancelled on coupon date t, the coupons due on coupon date t will be paid and all further cash flows are terminated.
+
+The decision to cancel the option is made based on the performance of an underlying asset, index, or basket of assets. The swap is called if its price at some observation date, relative to its initial price, exceeds the cancellation trigger level. The initial price is averaged over a short period after inception of the deal. This averaged price may be ‘reset’; that is, should the stock price on some ‘reset date’ be lower than the previously averaged price, the initial price is replaced by the price on the reset date.
+
+[More details](./EqReverse.md)
+
    
