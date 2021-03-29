@@ -10,7 +10,7 @@ An American option give an investor the right but not the obligation to buy a ca
 American options provide investors a way to hedge risk or speculate.  In general, American options do not have a closed-form solution. This presentation provides a 
 practical guide for pricing an American equity option. 
 
-[More details](EqAmerican.md)
+[Equity American Option](EqAmerican.md)
 
 [Reference Pdf](EqAmerican-1.pdf)
 
@@ -26,7 +26,7 @@ the OTC markets. Average price options are less expensive than regular options a
 of corporate treasurers. Average can be calculated in a number of ways (daily, weekly, monthly, etc.). This presentation provides an overview of Asian equity option 
 product and valuation. 
 
-[More details](EqAsian.md)
+[Equity Asian Option](EqAsian.md)
  
  
  
@@ -36,7 +36,7 @@ A Basket Option is an option whose payoff depends on the value of a portfolio or
 
 A basket option can be used to hedge the risk exposure to or speculate the market move on the underlying stock basket. Because it involves just one transaction, a basket option often costs less than multiple single options. The most important feature of a basket option is its ability to efficiently hedge risk on multiple assets at the same time. Rather than hedging each individual asset, the investor can manage risk for the basket, or portfolio, in one transaction. The benefits of a single transaction can be great, especially when avoiding the costs associated with hedging each and every component of the basket or portfolio.
 
-[More details](EqBasket.md)
+[Equity Basket Option](EqBasket.md)
 
   
   
@@ -46,7 +46,7 @@ Convertible bonds can be thought of as normal corporate bonds with embedded opti
 
 A convertible bond has an embedded call option that gives bondholders the right to convert their bonds into equity at a given time for a predetermined number of shares in the issuing company. Whereas a reverse convertible bond has an embedded put option that gives the issuer the right to convert the bond's principal into shares of equity at a set date. 
 
-[More details](EqConvertible.md)
+[Convertible Bond](EqConvertible.md)
 
 [Pdf reference](./EqConvertible-4.pdf)
   
@@ -58,7 +58,7 @@ An Equity Forward contract is an agreement between two counterparties to buy a s
 
 Differently from Equity Forward, an Equity Futures contract traded over the organized exchange. In this contract parties commit to buy or sell a specified amount of an individual equity or a basket of equities or an equity index at an agreed contract price on a specified date. Generally there are two types of Equity Futures: Index Future and Stock Future. Stock markets Index Futures are futures contracts used to replicate the performance of an underlying stock market index. They can be used for hedging against an existing equity position, or speculating on future movements of the index. Indices for futures include well-established indices such as S&P 500, FTSE 100, DAX, CAC 40 and other G12 country indices. Indices for OTC products are broadly similar, but offer more flexibility.
 
-[More details](EqFuture.md)
+[Equity Futures](EqFuture.md)
  
 [Reference pdf](./EqFuture-5.pdf)
    
@@ -70,7 +70,7 @@ Equity options, which are the most common type of equity derivatives, give an in
 
 Equity options or stock options provide investors a way to hedge risk or speculate.  Also option trading can limit an investor’s risk and leverage investing potential. Option investors have a number of strategies they can utilize, depending on risk tolerance and expected return. 
 
-[More details](EqOption.md)
+[Equity Option](EqOption.md)
    
 [Reference pdf](./EqOption-6.pdf) 
    
@@ -82,7 +82,7 @@ An equity swap is an OTC contract between two parties to exchange a set of cash 
 
 An equity swap can be used to transfer both the credit risk and the market risk of an underlying asset. Equity swaps can be also used to avoid transaction costs (including Tax), to avoid locally based dividend taxes, limitations on leverage (notably the US margin regime) or to get around rules governing the particular type of investment that an institution can hold. Equity swaps can make investment barriers vanish and help an investor create leverage. 
    
-[More details](./EqSwap.md)
+[Equity Swap](./EqSwap.md)
    
 
    
@@ -92,7 +92,7 @@ An equity warrant is an option on the equity of a firm issued by the same firm, 
 
 An equity warrant gives the holder the right to purchase shares at a fixed price from the firm. It is an option on the common stock of a firm issued by the same firm. Warrants are in many ways similar to call options, but a few key differences distinguish them. 
 
-[More details](./EqWarrant.md)   
+[Warrant](./EqWarrant.md)   
 
 [Reference pdf](./EqWarrant-8.pdf)  
 
@@ -104,7 +104,7 @@ A variance swap is an instrument which allows investors to trade future realized
 The market value of a variance swap is based on the variance determined from
 a combination of realized (historical) volatility and unrealized volatility obtained from broker's quote. 
 
-[More details](./EqVariance.md)   
+[Variance Swap](./EqVariance.md)   
 
 
 ### Lookback Option
@@ -113,8 +113,7 @@ A lookback option gives the option holder the right but not the obligation to bu
 
 The initial price is taken as the highest price observed over a set of Initial Lookback Dates. The final price is taken as the maximum of the running cumulative average, observed over a set of Payoff Observation Dates.
 
-
-[More details](./EqLookback.md)   
+[Lookback Option](./EqLookback.md)   
 
  
 ### Barrier Option
@@ -123,7 +122,7 @@ Barrier options are set up conditionally, so that within the life of the option,
 
 The two types of contracts, knock-in barrier options and knock-out barrier options, each respond differently when the barrier is "triggered". If a knock-out option's underlying touches the barrier, the option is eliminated and the holder receives a rebate. Conversely, a knock-in option touches the barrier to activate the option. If the knock-in option never reaches the barrier, the holder will receive a rebate.
 
-[More details](./EqBarrier.md) 
+[Barrier Option](./EqBarrier.md) 
 
 
 ### Cliquet Option
@@ -132,7 +131,7 @@ A cliquet option, also called ratchet option, consists of a series of forward st
 
 Cliquet options are widely traded in many retail-structured products. They consist of financial derivatives which provide a guaranteed minimum return in exchange for a capping of the maximal return over the life of the contract. A cliquet option is equivalent to a series of forward-starting at-the-money options, which may be globally and locally floored and capped. 
 
-[More details](./EqCliquet.md) 
+[Cliquet Option](./EqCliquet.md) 
 
 
 ### Binary Option
@@ -141,7 +140,7 @@ A binary option is an option with a predetermined payoff, triggered only if the 
 
 The payoff of a digital option or binary option is either some fixed amount of some asset or nothing at all. The two main types of binary options are the cash-or-nothing binary option and the asset-or-nothing binary option. The cash-or-nothing binary option pays some fixed amount of cash if the option expires in-the-money while the asset-or-nothing pays the value of the underlying security.
 
-[More details](./EqBinary.md)
+[Binary Option](./EqBinary.md)
 
 
 ### Quanto Option
@@ -150,7 +149,7 @@ A quanto option is an option whose payout is made in a currency other than that 
 
 It is a common trend that domestic investors allocate their assets in foreign stock markets. The major reason behind this investment trend is that the regulation liberalization spreads throughout in the global security markets. Domestic investors who put their money into foreign stock markets will encounter both of the foreign stock price risk and foreign exchange rate risk. 
 
-[More details](./EqQuanto.md)
+[Quanto Option](./EqQuanto.md)
 
 
 ### Callable Exotics
@@ -159,7 +158,7 @@ A callable note allows the issuer to exercise a call option on the note on a spe
 
 Callable note or callable exotics are among the most challenging derivatives to price. These products are loosely defined by the provision that the holder or issuer has the right to call the product or exercise into various underlying instruments after a lock-out period expires.
 
-[More details](./EqCallable.md)
+[Callable Exotics](./EqCallable.md)
 
 
 ### Spread Option
@@ -168,7 +167,7 @@ A spread option is an option written on the difference of two underling assets, 
 
 The use of spread options is widespread for speculation, basis risk mitigation, or even asset valuation. Spread options allow investors to simultaneously take positions in two are more assets and profit from their price difference over some spread.
 
-[More details](./EqSpread.md)
+[Spread Option](./EqSpread.md)
 
 
 ### Best Performer Option
@@ -177,7 +176,7 @@ A best performer option pays the option holder the best return at maturity among
 
 These are chooser options that return the best performing among several baskets of funds or indices that reflect growth, moderate and conservative investment styles. The returns could be based on average (Asian), single currency or quanto. The final payoff could be capped and floored.
 
-[More details](./EqPerform.md)
+[Best Performer Option](./EqPerform.md)
 
 
 ### Reverse Convertible Swap
@@ -186,6 +185,24 @@ A reverse convertible autocallable swap allows two parties exchange floating cou
 
 The decision to cancel the option is made based on the performance of an underlying asset, index, or basket of assets. The swap is called if its price at some observation date, relative to its initial price, exceeds the cancellation trigger level. The initial price is averaged over a short period after inception of the deal. This averaged price may be ‘reset’; that is, should the stock price on some ‘reset date’ be lower than the previously averaged price, the initial price is replaced by the price on the reset date.
 
-[More details](./EqReverse.md)
+[Reverse Convertible Swap](./EqReverse.md)
+
+
+### Constant Proportion Portfolio Insurance 
+
+A constant proportion portfolio insurance (CPPI) is a trading strategy where an initial investment is dynamically reallocated between a risky asset and risk-free bond such that a minimum payoff is guaranteed at maturity. The risky asset could be from equities, funds, or commodities.
+
+In upside markets, the strategy allocates more towards the risky asset whereas in downside, the strategy allocates more towards the safe asset. The capital protection feature makes CPPI one of the most popular derivative products. 
+
+[Constant Proportion Portfolio Insurance](./EqCppi.md)
+
+
+### Accelerated Return Note 
+
+An Accelerated Return Note (ARN) is a structured instrument that offers a potentially higher return linked to the performance of a reference entity that could be an equity, an index, or a basket of assets. The payoff depends on the performance of the underlying assets. Usually, it is capped but not floored, that means it does not offer any downside protection.
+
+The note normally pays the holder an increased participation rate on its underlying asset were its returns at maturity to be positive, while exposing the note holder to a lower participation rate should the underlying asset’s return at maturity be negative.
+
+[Accelerated Return Note](./EqArn.md)
 
    
