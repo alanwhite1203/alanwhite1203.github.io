@@ -436,7 +436,17 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>  
-  
+    <url>
+    <loc>https://alanwhite1203.github.io/EqCppi.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+   <url>
+    <loc>https://alanwhite1203.github.io/EqArn.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>  
+	
+  </url>    
 </urlset>
 <!--<guid value="c9cad7c1-a070-4c22-a0d6-3bfc89a08982" />-->
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
