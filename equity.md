@@ -205,4 +205,25 @@ The note normally pays the holder an increased participation rate on its underly
 
 [Accelerated Return Note](./EqArn.md)
 
+
+### Accelerated Share Repurchase 
+
+An accelerated share repurchase (ASR) agreement is a contract or an investment strategy used by a publicly traded company to buy back shares of stocks expeditiously from the market. In these agreements, firms are able to repurchase a significant number of their shares upfront. The intermediary must then repurchase the shares over a given time window that is equivalent to enter into a forward contract. 
+
+In a share buyback program, a firm normally sets out the amount of shares it wishes to buy back, and over a specified time window the shares are bought back and the firm agrees to pay the average volume weighted average price (VWAP) over this fixed time period. 
+
+
+[Accelerated Share Repurchase](./EqAsr.md)
+
+
+### Equity-Linked Bonus Coupon Note 
+
+A bonus coupon note, also referred to as coupon growth note or bonus enhanced note or basket coupon note, is an equity-linked note that provides guaranteed coupons over the life of the note with potential for a bonus coupon based on the underlying asset trading above a specified barrier level. 
+
+The note pays a series of coupons based on the weighted performance of all assets in the basket on each Coupon Determination Date. The coupons are usually capped and floored.
+
+
+[Bonus Coupon Note](./EqCoupon.md)
+
+
    
