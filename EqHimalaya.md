@@ -30,4 +30,4 @@ References:
 
 [Pub himalaya pdf](https://assets.pubpub.org/dt8sydqd/11617386263923.pdf)
 
-[Github rainbow](https://github.com/alanwhite1203/EqHimalaya/releases/download/1/EqHimalaya-25.pdf)  
+[Github himalaya](https://github.com/alanwhite1203/EqHimalaya/releases/download/1/EqHimalaya-25.pdf)  
