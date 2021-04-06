@@ -31,4 +31,4 @@ References:
 
 [Pub coupon pdf](https://assets.pubpub.org/hbjsvzd2/51617138248316.pdf)
 
-[Github asr](https://github.com/alanwhite1203/EqCoupon/releases/download/1/EqCoupon-22.pdf)  
+[Github coupon](https://github.com/alanwhite1203/EqCoupon/releases/download/1/EqCoupon-22.pdf)  

@@ -226,4 +226,33 @@ The note pays a series of coupons based on the weighted performance of all asset
 [Bonus Coupon Note](./EqCoupon.md)
 
 
+
+### Yield Note
+
+A yield note is a principal-protected structured note that pays periodic coupons that are linked to the performance of a basket of equities. A callable yield note gives the issuer the right to recall the note on specific observation dates. Once recalled, the cancellation coupon is paid, the notional is returned, and the deal is cancelled.
+
+The auto-call feature limits the total return paid to the buyer by automatically cancelling the note once the return of the worst performing asset is above the trigger (threshold). If the cancellation event is not triggered, the payoff on each payment date is equivalent to a spread-adjusted reference rate.
+
+[Yield Note](./EqYield.md)
+
+
+### Rainbow Option
+
+A rainbow option is an option on a basket that pays a non-equally weighted sum of returns over all assets in the basket according to their performance, where individual asset returns are computed as the percentage growth from initial levels to final levels that may be averages over multiple dates.
+
+Rainbow options are multi-asset options that have a payoff depending on the assets by their performance at maturity. When the rainbow only pays the best (worst) performing asset of the basket, it is also called the best (worst) of performing option.
+
+[Rainbow Option](./EqRainbow.md)
+
+
+### Himalaya Option
+
+Himalaya option is a popular version of maintain range options that basically pays the sum of the best performers of a basket of assets over a particular time horizon. Maintain range options are exotic options that have multiple underlying assets, path-dependency, and best (worst) of payoff structure. They include Everest options, Atlas options, Altiplano options, and Himalaya options. 
+
+A Himalaya option is an option on the sum of the returns of the best (worst) performing assets from a basket on predefined observation dates. It has a set of observation dates are defined. The number of observation dates are equal to the number of underlying assets. The unique feature of Himalaya option is the withdrawal of the best performer asset from the basket at each pre-defined observation date, until only one stock remains.
+
+[Himalaya Option}(./EqHimalaya.md)
+
+
+
    
