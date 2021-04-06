@@ -251,7 +251,7 @@ Himalaya option is a popular version of maintain range options that basically pa
 
 A Himalaya option is an option on the sum of the returns of the best (worst) performing assets from a basket on predefined observation dates. It has a set of observation dates are defined. The number of observation dates are equal to the number of underlying assets. The unique feature of Himalaya option is the withdrawal of the best performer asset from the basket at each pre-defined observation date, until only one stock remains.
 
-[Himalaya Option}(./EqHimalaya.md)
+[Himalaya Option](./EqHimalaya.md)
 
 
 
