@@ -472,4 +472,15 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>  	   
+  
+     <url>
+    <loc>https://alanwhite1203.github.io/EqCorrelationSwap.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>  	    
+   <url>
+    <loc>https://alanwhite1203.github.io/EqRangeAccrual.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>  	   
 </urlset>
