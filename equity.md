@@ -254,5 +254,24 @@ A Himalaya option is an option on the sum of the returns of the best (worst) per
 [Himalaya Option](./EqHimalaya.md)
 
 
+### Correlation Swap
+
+A Correlation Swap is a contract in which the option buyer receives the difference between the observed correlation and the strike correlation on a basket of assets, observed over a specified time interval. 
+
+For an outstanding contract, implied correlation needs to be computed for any future correlations that can be thought of as the market price of future correlation. The implied correlation or correlation mark can be backed out from observed correlation swap prices of from OTC dealer quotes. Most commonly it can be calculated via Monte-Carlo simulation. The total correlation is equal to a weighted average of the realized correlation and the implied correlation.
+
+[Correlation Swap](./EqCorrelationSwap.md)
+
+
+### Range Accrual
+
+A LIBOR range accrual swap is an interest rate swap where in the payoff is dependent on the reference rate (LIBOR) falling within a particular range. A callable LIBOR range accrual swap is a LIBOR range accrual swap in which the party paying the coupon (structured) leg has the right to cancel on any coupon date after a lock-out period expires.
+
+An equity range accrual note is a principal-protected note that pays out a series of coupons based on the performance of an underlying stock, index, or basket of assets. The holder receives these coupons on a set of scheduled payment dates, but only if the value of the underlying asset on that date is between a lower and upper threshold. More specifically, at each observation date, a coupon is accrued and added to the total accrued coupon for that period. When a coupon determination date is reached the total accrued coupon is paid and is reset to zero for the next period. As such, the coupons are effectively a series of digital-style options that pays a fixed amount when the asset price is within the specified range.
+
+[Range Accrual](./EqRangeAccrual.md)
+
+
+
 
    
