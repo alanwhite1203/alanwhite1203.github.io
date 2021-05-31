@@ -27,7 +27,7 @@ A currency forward or FX forward is a contract agreement between two parties to 
  
 [More details](./FxForward.md)
  
-[FlipHtml5 Forward] (https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgjM5UDN5ITPkl0av9mY)
+[FlipHtml5 Forward](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgjM5UDN5ITPkl0av9mY)
 
 [OSF forward](https://osf.io/ez6an/download)
 
