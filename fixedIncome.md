@@ -8,6 +8,10 @@ An amortizing bond is used specifically for tax purposes as the amortized princi
 
 [More details](./FiAmortizingBond.md)
 
+[Github amortizing bond](https://github.com/alanwhite1203/fiAmortizingBond)
+
+[OSF amortizing bond](https://osf.io/qrc8n/download)
+
 
 ### Fixed Rate Bond
 
@@ -17,6 +21,10 @@ Fixed rate bonds generally pay higher coupons than interest rates. An investor w
 
  
 [More details](./FiBond.md)
+
+[Github bond](https://github.com/alanwhite1203/fiBond)
+
+[OSF bond](https://osf.io/gtcma/download)
  
  
  
@@ -29,6 +37,12 @@ The seller usually picks up the cheapest bond in the basket to deliver, called t
 
 [More details](./FiBondFuture.md)
 
+[Github bond futures](https://github.com/alanwhite1203/fiBondFuture)
+
+[FlipHtml5 bond futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDO1gDM5ITPkl0av9mY)
+
+[OSF bond futures](https://osf.io/2vzq8/download)
+
 
 
 ### Bond Future Option
@@ -39,6 +53,13 @@ Bond futures options are also exchange traded derivatives on treasury instrument
 
 
 [More details](./FiBondFutureOption.md)
+
+[Github bond future option](https://github.com/alanwhite1203/fiBondFutureOption)
+
+[FlipHtml5 bond future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTM1ITM5ITPkl0av9mY)
+
+[OSF bond future option](https://osf.io/d2xaj/download)
+
 
 
    
@@ -51,6 +72,13 @@ For issuers, callable bonds allow them to reduce interest costs at a future date
 
 [More details](./FiCallableBond.md)
 
+[Github callable bond](https://github.com/alanwhite1203/fiCallable)
+
+[FlipHtml5 callabe bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzM1ITM5ITPkl0av9mY)
+
+[OSF callable](https://osf.io/qkbfn/download)
+
+
 
    
 ### Floating Rate Note
@@ -60,6 +88,14 @@ A floating rate note has variable coupons, depending on a money market reference
 The price of an FRN has very low sensitivity to changes in interest rates because the floating coupon increases but the discounting also increases as interest rate rises. An investor who wants conservative investments may choose floating rate bonds. FRNs become more popular when interest rates are expected to increase. An FRN carry lower yield than fixed rate bonds of the same maturity and has unpredictable coupon payments. This presentation gives an overview of FRNs valuation. 
 
 [More details](./FiFrn.md)
+
+[Github frn](https://github.com/alanwhite1203/fiFrn)
+
+[Zenodo frn](https://zenodo.org/record/3973196/files/FiFrn-14.pdf)
+
+[FlipHtml5 frn](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkzM1ITM5ITPkl0av9mY)
+
+[OSF frn](https://osf.io/yrbnh/download)
 
 
    
@@ -72,6 +108,13 @@ The main idea of inflation indexed bonds is that investing in the bond will gene
 
 [More details](./FiInflationBond.md)
 
+[Github inflation bond](https://github.com/alanwhite1203/fiInflation)
+
+[FlipHtml5 inflation bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamADM3QjM5ITPkl0av9mY)
+
+[OSF inflation bond](https://osf.io/f2qm9/download)
+
+
 
    
 ### Puttable Bond
@@ -83,6 +126,13 @@ Although a puttable bond is a higher cost to the investor and an uncertainty to 
 
 [More details](./FiPuttableBond.md)
 
+[Github puttable bond](https://github.com/alanwhite1203/fiPuttable)
+
+[FlipHtml5 puttable bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDM3QjM5ITPkl0av9mY)
+
+[OSF puttable bond](https://osf.io/veqj3/download)
+
+
 
 ### Zero Coupon Bond
 
@@ -92,4 +142,25 @@ Zero coupon bonds are issued at a deep discount and repaid the face value at mat
 
 
 [More details](./FiZeroBond.md)
+
+[Github zero](https://github.com/alanwhite1203/fiZeroBond)
+
+[FlipHtml5 zero](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDM3QjM5ITPkl0av9mY)
+
+[OSF zero](https://osf.io/d59wu/download)
+
+
+
+
+### Callable Floating Coupon Note 
+
+A callable floating coupon note gives the issuer to recall the note on specified future recall dates at a predetermined recall price. The callable future is known upfront and allows the issuer to cancel the note and pay off the notional before maturity.
+
+
+[Zenodo callable note](https://zenodo.org/record/4659043/files/FiCallableFrn-18.pdf)
+
+[FlipHtml5 callabe note](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTNxEjN4MTPkl0av9mY)
+
+[OSF callable note](https://osf.io/kjhsu/download)
+
 
