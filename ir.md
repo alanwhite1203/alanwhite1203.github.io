@@ -9,6 +9,11 @@ An interest rate cap is a financial contract between two parties that provides a
 
 [More details](./IrAmortizingCap.md)
 
+[Github amortizing cap](https://github.com/alanwhite1203/irAmortizingCap)
+
+[OSF amortizing cap](https://osf.io/rfa8e/download)
+
+
 
 ### Amortizing and Accreting Swap  
 
@@ -18,6 +23,12 @@ The notional principal of an amortizing swap is tied to an underlying financial 
  
  
 [More details](./IrAmortizingSwap.md)
+
+[Github amortizing swap](https://github.com/alanwhite1203/irAmortizingSwap)
+
+[Zenodo amortizing swap](https://zenodo.org/record/4015549/files/IrAmortizingSwap-26.pdf)
+
+[OSF amortizing swap](https://osf.io/mgc83/download)
  
  
  
@@ -29,6 +40,14 @@ A basis swap can be used to limit interest rate risk that a firm faces as a resu
 
  
 [More details](./IrBasisSwap.md)
+
+[Github basis swap](https://github.com/alanwhite1203/irBasisSwap)
+
+[Zenodo basis swap](https://zenodo.org/record/4015555/files/IrBasisSwap-27.pdf)
+
+[FlipHtml5 basis swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTO3gDN3ITPkl0av9mY)
+
+[OSF basis swap](https://osf.io/zcyuq/download)
   
  
   
@@ -40,6 +59,12 @@ Given those flexibilities, a Bermudan swaption is more expensive than a regular 
  
   
 [More details](./IrBermudan.md)
+
+[Github bermudan](https://github.com/alanwhite1203/irBermudan)
+
+[Zenodo bermudan](https://zenodo.org/record/4019675/files/IrBermudan-28.pdf)
+
+[OIS bermudan](https://osf.io/5dz4u/download)
   
 
    
@@ -49,16 +74,32 @@ A cancelable swap provides the right but not the obligation to cancel the intere
    
    
 [More details](./IrCancelableSwap.md)
+
+[Github cancelable swap](https://github.com/alanwhite1203/irCancellableSwap)
+
+[Zenodo cancelable swap](https://zenodo.org/record/4019681/files/IrCancelableSwap-29.pdf)
+
+[FlipHtml5 cancelable swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYzMwgDM5ITPkl0av9mY)
+
+[OSF cancelable swap](https://osf.io/v7whf/download)
    
    
    
 ### Interest Rate Caps and Floors 
    
-   An interest rate cap is a financial contract between two parties that provides an interest rate ceiling or cap on the floating rate payments. It actually 
-   consists of a series of European call options (caplets) on interest rates.  The buyer receives payments at the end of each period when the interest rate 
-   exceeds the strike.  In return, the buyer needs to pay an up-front premium to the seller.
-   
-   [More details](./IrCap.md) 
+An interest rate cap is a financial contract between two parties that provides an interest rate ceiling or cap on the floating rate payments. It actually 
+consists of a series of European call options (caplets) on interest rates.  The buyer receives payments at the end of each period when the interest rate 
+exceeds the strike.  In return, the buyer needs to pay an up-front premium to the seller.
+
+[More details](./IrCap.md) 
+
+[Github cap](https://github.com/alanwhite1203/irCap)
+
+[Zenodo cap](https://zenodo.org/record/4019685/files/IrCap-30.pdf)
+
+[FlipHtml5 cap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgDOygDM5ITPkl0av9mY)
+
+[OSF cap](https://osf.io/kvbyz/download)
    
    
    
@@ -70,6 +111,12 @@ A capped swap can be decomposed into a swap and a cap whereas a floored swap can
    
    
 [More details](./IrCappedSwap.md)
+
+[Github capped swap](https://github.com/alanwhite1203/irCappedSwap)
+
+[FlipHtml5 capped swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTOygDM5ITPkl0av9mY)
+
+[OSF capped swap](https://osf.io/jskhm/download)
    
    
    
@@ -79,6 +126,12 @@ A compounding swap is an interest rate swap in which interest, instead of being 
    
    
 [More details](./IrCompoundingSwap.md)
+
+[Github compounding swap](https://github.com/alanwhite1203/irCompoundingSwap)
+
+[FlipHtml5 compounding swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkzN5UjM5ITPkl0av9mY)
+
+[OSF compounding swap](https://osf.io/dqepj/download)
    
 
    
@@ -90,6 +143,10 @@ Some people believe that a FRA is equivalent to a one-period vanilla swap. That 
 
    
 [More details](./IrFra.md)
+
+[Github fra](https://github.com/alanwhite1203/irFra)
+
+[OSF frn](https://osf.io/k8v2q/download)
    
 
    
@@ -101,6 +158,14 @@ Eurodollar futures contract is a cash-settled futures contract. The underlying i
    
    
 [More details](./IrFuture.md)
+
+[Github futures](https://github.com/alanwhite1203/irFuture)
+
+[Zenodo futures](https://zenodo.org/record/4031743/files/IrFuture-34.pdf)
+
+[FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDO5UjM5ITPkl0av9mY)
+
+[OSF futures](https://osf.io/j9apv/download)
    
 
    
@@ -113,6 +178,12 @@ Interest rate future options can be used to hedge against adverse changes in int
    
    
 [More detials](./IrFutureOption.md)
+
+[Github future option](https://github.com/alanwhite1203/irFutureOption)
+
+[Zenodo future option](https://zenodo.org/record/4038197/files/IrFutureOption-35.pdf)
+
+[OSF future option](https://osf.io/gbzj3/download)
    
    
    
@@ -124,6 +195,10 @@ Interest rate swaps are the most popular OTC derivatives that are generally used
 
    
 [More details](./IrSwap.md)
+
+[Github swap](https://github.com/alanwhite1203/irSwap)
+
+[OSF swap](https://osf.io/kx5q2/download)
    
  
    
@@ -136,6 +211,12 @@ An payer swaption is also called a right-to-pay swaption that allows its holder 
    
 [More details](./IrSwaption.md)
    
+[Github swaption](https://github.com/alanwhite1203/irSwaption)
 
+[Zenodo swaption](https://zenodo.org/record/4038217/files/IrSwaption-37.pdf)
+
+[FlipHtml5 swaption](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN4gzM5ITPkl0av9mY)
+
+[OSF swaption](https://osf.io/f7yw9/download)
    
    
