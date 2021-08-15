@@ -500,6 +500,8 @@ An equity range accrual note is a principal-protected note that pays out a serie
 
 Autocallable Notes are hybrid instruments that offer a higher coupon if they are automatically called. The automatic call condition is based on a reference asset. The auto call happens If the reference asst is at or above its initial level on predefined observation dates. If called, the investor receives the principal plus a coupon.  The reference entity could be an equity, an index, or a backet of stocks.
 
+[Autocallable](./EqAutoCallable-28.pdf)
+
 [Zenodo autocallable](https://zenodo.org/record/4744701/files/EqAutoCallable-28.pdf)
 
 [FlipHtml5 autocallable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTM1gTMwQTPkl0av9mY)
@@ -507,5 +509,7 @@ Autocallable Notes are hybrid instruments that offer a higher coupon if they are
 [OSF autocallable](https://osf.io/8wfmq/download)
 
 [Github accrual](https://github.com/alanwhite1203/eqAutocallable)
+
+
 
    
