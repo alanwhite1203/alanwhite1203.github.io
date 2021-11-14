@@ -12,6 +12,10 @@ An amortizing bond is used specifically for tax purposes as the amortized princi
 
 [OSF amortizing bond](https://osf.io/qrc8n/download)
 
+[Gitbook amortizing bond](https://davidlee1203.gitbook.io/amortizing-bond/)
+
+
+
 
 ### Fixed Rate Bond
 
@@ -25,6 +29,9 @@ Fixed rate bonds generally pay higher coupons than interest rates. An investor w
 [Github bond](https://github.com/alanwhite1203/fiBond)
 
 [OSF bond](https://osf.io/gtcma/download)
+
+[Gibook bond](https://cmrm11.gitbook.io/bond-valuation/)
+
  
  
  
@@ -43,6 +50,8 @@ The seller usually picks up the cheapest bond in the basket to deliver, called t
 
 [OSF bond futures](https://osf.io/2vzq8/download)
 
+[Gitbook bond futures](https://cmrm11.gitbook.io/bond-futures/)
+
 
 
 ### Bond Future Option
@@ -59,6 +68,8 @@ Bond futures options are also exchange traded derivatives on treasury instrument
 [FlipHtml5 bond future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTM1ITM5ITPkl0av9mY)
 
 [OSF bond future option](https://osf.io/d2xaj/download)
+
+[Gitbook bond future option](https://cmrm11.gitbook.io/bond-future-option/)
 
 
 
@@ -77,6 +88,8 @@ For issuers, callable bonds allow them to reduce interest costs at a future date
 [FlipHtml5 callabe bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzM1ITM5ITPkl0av9mY)
 
 [OSF callable](https://osf.io/qkbfn/download)
+
+[Gitbook callable](https://cmrm11.gitbook.io/callable-bond/)
 
 
 
@@ -97,6 +110,9 @@ The price of an FRN has very low sensitivity to changes in interest rates becaus
 
 [OSF frn](https://osf.io/yrbnh/download)
 
+[Gitbook frn](https://cmrm11.gitbook.io/floating-rate-note/)
+
+
 
    
 ### Inflation Linked Bond
@@ -113,6 +129,8 @@ The main idea of inflation indexed bonds is that investing in the bond will gene
 [FlipHtml5 inflation bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamADM3QjM5ITPkl0av9mY)
 
 [OSF inflation bond](https://osf.io/f2qm9/download)
+
+[Gitbook inflation bond](https://cmrm11.gitbook.io/inflation-indexed-bond/)
 
 
 
@@ -131,6 +149,9 @@ Although a puttable bond is a higher cost to the investor and an uncertainty to 
 [FlipHtml5 puttable bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDM3QjM5ITPkl0av9mY)
 
 [OSF puttable bond](https://osf.io/veqj3/download)
+
+[Gitbook puttable bond](https://cmrm11.gitbook.io/puttable-bond/)
+
 
 
 
@@ -151,6 +172,9 @@ Zero coupon bonds are issued at a deep discount and repaid the face value at mat
 
 [Hcommons zero](https://hcommons.org/deposits/download/hc:41724/CONTENT/fizerobond-17.pdf)
 
+[Gitbook zero](https://cmrm11.gitbook.io/zero-coupon-bond/)
+
+
 
 
 ### Callable Floating Coupon Note 
@@ -165,5 +189,8 @@ A callable floating coupon note gives the issuer to recall the note on specified
 [OSF callable note](https://osf.io/kjhsu/download)
 
 [Hcommons callable note](https://hcommons.org/deposits/download/hc:41808/CONTENT/ficallablefrn-18.pdf)
+
+[Gitbook callable note](https://cmrm11.gitbook.io/callable-floating-coupon-note/)
+
 
 

@@ -91,6 +91,9 @@ Differently from Equity Forward, an Equity Futures contract traded over the orga
 [OSF futures](https://osf.io/t5vnp/download)
 
 [Github futures](https://github.com/alanwhite1203/EqFuture)
+
+[Gitbook futures](https://deripricing.gitbook.io/equity-futures-and-forwards-pricing/)
+
   
    
 ### Equity Option
@@ -109,6 +112,10 @@ Equity options or stock options provide investors a way to hedge risk or specula
 
 [Github option](https://github.com/alanwhite1203/eqOption)
 
+[Gitbook option](https://deripricing.gitbook.io/stock-option-product-and-valuation/)
+
+
+
    
 ### Equity Swap
    
@@ -123,6 +130,8 @@ An equity swap can be used to transfer both the credit risk and the market risk 
 [OSF swap](https://osf.io/72693/download)
 
 [Github swap](https://github.com/alanwhite1203/eqSwap)
+
+[Gitbook swap](https://deripricing.gitbook.io/total-return-swap-valuation/)
    
 
    
@@ -142,6 +151,9 @@ An equity warrant gives the holder the right to purchase shares at a fixed price
 
 [Github warrant](https://github.com/alanwhite1203/eqWarrant)
 
+[Gitbook warrant](https://deripricing.gitbook.io/warrant-valuation/)
+
+
 
 
 ### Variance Swap
@@ -160,6 +172,8 @@ a combination of realized (historical) volatility and unrealized volatility obta
 [OSF variance](https://osf.io/wgmq5/download)
 
 [Github variance](https://github.com/alanwhite1203/EqVariance)
+
+[Gitbook variance](https://deripricing.gitbook.io/variance-swap-pricing/)
 
 
 
@@ -182,6 +196,8 @@ The initial price is taken as the highest price observed over a set of Initial L
 
 [Hcommons lookback](https://hcommons.org/deposits/download/hc:38392/CONTENT/eqlookback-10.pdf)
 
+[Gitbook lookback](https://deripricing.gitbook.io/lookback-option-valuation/)
+
 
  
 ### Barrier Option
@@ -199,6 +215,8 @@ The two types of contracts, knock-in barrier options and knock-out barrier optio
 [OSF barrier](https://osf.io/ymt8n/download)
 
 [Github barrier](https://github.com/alanwhite1203/EqBarrier)
+
+[Gitbook barrier](https://deripricing.gitbook.io/barrier-option-pricing/)
 
 
 
@@ -219,6 +237,9 @@ Cliquet options are widely traded in many retail-structured products. They consi
 
 [Github cliquet](https://github.com/alanwhite1203/EqCliquet)
 
+[Gitbook cliquet](https://deripricing.gitbook.io/cliquet-option-valuation/)
+
+
 
 
 ### Binary Option
@@ -236,6 +257,9 @@ The payoff of a digital option or binary option is either some fixed amount of s
 [OSF binary](https://osf.io/e9u46/download)
 
 [Github binary](https://github.com/alanwhite1203/EqBinary)
+
+[Gitbook binary](https://deripricing.gitbook.io/binary-option-valuation/)
+
 
 
 
@@ -257,6 +281,9 @@ It is a common trend that domestic investors allocate their assets in foreign st
 
 [Hcommons quanto](https://hcommons.org/deposits/download/hc:38464/CONTENT/eqquanto-14.pdf)
 
+[Gitbook quanto](https://deripricing.gitbook.io/quanto-option-pricing/)
+
+
 
 
 ### Callable Exotics
@@ -276,6 +303,9 @@ Callable note or callable exotics are among the most challenging derivatives to 
 [Github exotic](https://github.com/alanwhite1203/EqCallable)
 
 [Hcommons exotic](https://hcommons.org/deposits/download/hc:38496/CONTENT/eqcallable-15.pdf)
+
+[Gitbook exotic](https://deripricing.gitbook.io/callable-exotic-pricing/)
+
 
 
 
@@ -297,6 +327,8 @@ The use of spread options is widespread for speculation, basis risk mitigation, 
 
 [Hcommons spread](https://hcommons.org/deposits/download/hc:38508/CONTENT/eqspread-16.pdf)
 
+[Gitbook spread](https://deripricing.gitbook.io/spread-option-pricing/)
+
 
 
 
@@ -315,6 +347,9 @@ These are chooser options that return the best performing among several baskets 
 [OSF best](https://osf.io/7pzms/download)
 
 [Github best](https://github.com/alanwhite1203/EqBest)
+
+[Gitbook best](https://deripricing.gitbook.io/best-of-option-pricing/)
+
 
 
 
@@ -335,6 +370,8 @@ The decision to cancel the option is made based on the performance of an underly
 [Github reverse](https://github.com/alanwhite1203/EqReverse)
 
 [Hcommons reverse](https://hcommons.org/deposits/download/hc:38540/CONTENT/eqreverse-18.pdf)
+
+[Gitbook reverse](https://deripricing.gitbook.io/reverse-convertible-autocallable-swap/)
 
 
 
@@ -357,6 +394,8 @@ In upside markets, the strategy allocates more towards the risky asset whereas i
 
 [Hcommons cppi](https://hcommons.org/deposits/download/hc:38648/CONTENT/eqcppi-19.pdf)
 
+[Gitbook cppi](https://deripricing.gitbook.io/cppi-pricing/)
+
 
 
 
@@ -375,6 +414,9 @@ The note normally pays the holder an increased participation rate on its underly
 [OSF arn](https://osf.io/yexkd/download)
 
 [Github arn](https://github.com/alanwhite1203/EqAccelerate)
+
+[Gitbook arn](https://davidlee1203.gitbook.io/accelerated-return-note-pricing/)
+
 
 
 
@@ -395,6 +437,8 @@ In a share buyback program, a firm normally sets out the amount of shares it wis
 
 [Github asr](https://github.com/alanwhite1203/EqAsr)
 
+[Gitbook asr](https://davidlee1203.gitbook.io/pricing-accelerated-share-repurchase/)
+
 
 
 
@@ -414,6 +458,8 @@ The note pays a series of coupons based on the weighted performance of all asset
 [OSF coupon](https://osf.io/x2rf8/download)
 
 [Github coupon](https://github.com/alanwhite1203/EqCoupon)
+
+[Gitbook coupon](https://davidlee1203.gitbook.io/bonus-coupon-note/)
 
 
 
@@ -436,6 +482,8 @@ The auto-call feature limits the total return paid to the buyer by automatically
 
 [Hcommons yield](https://hcommons.org/deposits/download/hc:41296/CONTENT/eqyield-23.pdf)
 
+[Gitbook yield](https://davidlee1203.gitbook.io/callable-yield-note/)
+
 
 
 
@@ -457,6 +505,9 @@ Rainbow options are multi-asset options that have a payoff depending on the asse
 
 [Hcommons rainbow](https://hcommons.org/deposits/download/hc:41308/CONTENT/eqrainbow-24.pdf)
 
+[Gitbook rainbow](https://davidlee1203.gitbook.io/rainbow-option/)
+
+
 
 
 ### Himalaya Option
@@ -476,6 +527,8 @@ A Himalaya option is an option on the sum of the returns of the best (worst) per
 [Github Himalaya](https://github.com/alanwhite1203/EqHimalaya)
 
 [Hcommons Himalaya](https://hcommons.org/deposits/download/hc:41448/CONTENT/eqhimalaya-25.pdf)
+
+[Gitbook Himalaya](https://davidlee1203.gitbook.io/himalaya-option/)
 
 
 
@@ -497,6 +550,9 @@ For an outstanding contract, implied correlation needs to be computed for any fu
 
 [Hcommons correlation](https://hcommons.org/deposits/download/hc:41486/CONTENT/eqcorrelationswap-26.pdf)
 
+[Gitbook correlation](https://davidlee1203.gitbook.io/correlation-swap/)
+
+
 
 
 ### Range Accrual
@@ -517,6 +573,8 @@ An equity range accrual note is a principal-protected note that pays out a serie
 
 [Hcommons accrual](https://hcommons.org/deposits/download/hc:41502/CONTENT/eqrangeaccrual-27.pdf)
 
+[Gitbook accrual](https://davidlee1203.gitbook.io/callable-range-accrual-note/)
+
 
 
 
@@ -535,6 +593,9 @@ Autocallable Notes are hybrid instruments that offer a higher coupon if they are
 [Github accrual](https://github.com/alanwhite1203/eqAutocallable)
 
 [Github accrual](https://hcommons.org/deposits/download/hc:41560/CONTENT/eqautocallable-28.pdf)
+
+[Gitbook accrual](https://davidlee1203.gitbook.io/autocallable-note/)
+
 
 
 
