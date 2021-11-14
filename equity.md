@@ -39,6 +39,8 @@ product and valuation.
 [OSF Asian](https://osf.io/efq6a/download)
 
 [Github Asian](https://github.com/alanwhite1203/EqAsian)
+
+[Hcommons Asian](https://hcommons.org/deposits/download/hc:38190/CONTENT/eqasian-2.pdf)
  
  
 ### Equity Basket Option
@@ -178,6 +180,7 @@ The initial price is taken as the highest price observed over a set of Initial L
 
 [Github lookback](https://github.com/alanwhite1203/EqLookback)
 
+[Hcommons lookback](https://hcommons.org/deposits/download/hc:38392/CONTENT/eqlookback-10.pdf)
 
 
  
@@ -252,6 +255,7 @@ It is a common trend that domestic investors allocate their assets in foreign st
 
 [Github quanto](https://github.com/alanwhite1203/EqQuanto)
 
+[Hcommons quanto](https://hcommons.org/deposits/download/hc:38464/CONTENT/eqquanto-14.pdf)
 
 
 
@@ -271,6 +275,7 @@ Callable note or callable exotics are among the most challenging derivatives to 
 
 [Github exotic](https://github.com/alanwhite1203/EqCallable)
 
+[Hcommons exotic](https://hcommons.org/deposits/download/hc:38496/CONTENT/eqcallable-15.pdf)
 
 
 
@@ -289,6 +294,8 @@ The use of spread options is widespread for speculation, basis risk mitigation, 
 [OSF spread](https://osf.io/4kcrh/download)
 
 [Github spread](https://github.com/alanwhite1203/EqSpread)
+
+[Hcommons spread](https://hcommons.org/deposits/download/hc:38508/CONTENT/eqspread-16.pdf)
 
 
 
@@ -327,6 +334,9 @@ The decision to cancel the option is made based on the performance of an underly
 
 [Github reverse](https://github.com/alanwhite1203/EqReverse)
 
+[Hcommons reverse](https://hcommons.org/deposits/download/hc:38540/CONTENT/eqreverse-18.pdf)
+
+
 
 
 ### Constant Proportion Portfolio Insurance 
@@ -344,6 +354,9 @@ In upside markets, the strategy allocates more towards the risky asset whereas i
 [OSF cppi](https://osf.io/rcf93/download)
 
 [Github cppi](https://github.com/alanwhite1203/EqCppi)
+
+[Hcommons cppi](https://hcommons.org/deposits/download/hc:38648/CONTENT/eqcppi-19.pdf)
+
 
 
 
@@ -421,6 +434,8 @@ The auto-call feature limits the total return paid to the buyer by automatically
 
 [Github yield](https://github.com/alanwhite1203/EqYield)
 
+[Hcommons yield](https://hcommons.org/deposits/download/hc:41296/CONTENT/eqyield-23.pdf)
+
 
 
 
@@ -440,6 +455,8 @@ Rainbow options are multi-asset options that have a payoff depending on the asse
 
 [Github rainbow](https://github.com/alanwhite1203/EqRainbow)
 
+[Hcommons rainbow](https://hcommons.org/deposits/download/hc:41308/CONTENT/eqrainbow-24.pdf)
+
 
 
 ### Himalaya Option
@@ -457,6 +474,8 @@ A Himalaya option is an option on the sum of the returns of the best (worst) per
 [OSF Himalaya](https://osf.io/3hf9y/download)
 
 [Github Himalaya](https://github.com/alanwhite1203/EqHimalaya)
+
+[Hcommons Himalaya](https://hcommons.org/deposits/download/hc:41448/CONTENT/eqhimalaya-25.pdf)
 
 
 
@@ -476,6 +495,8 @@ For an outstanding contract, implied correlation needs to be computed for any fu
 
 [Github correlation](https://github.com/alanwhite1203/EqCorrelation)
 
+[Hcommons correlation](https://hcommons.org/deposits/download/hc:41486/CONTENT/eqcorrelationswap-26.pdf)
+
 
 
 ### Range Accrual
@@ -494,6 +515,9 @@ An equity range accrual note is a principal-protected note that pays out a serie
 
 [Github accrual](https://github.com/alanwhite1203/EqRangeAccrual)
 
+[Hcommons accrual](https://hcommons.org/deposits/download/hc:41502/CONTENT/eqrangeaccrual-27.pdf)
+
+
 
 
 ### Autocallable Note 
@@ -509,6 +533,8 @@ Autocallable Notes are hybrid instruments that offer a higher coupon if they are
 [OSF autocallable](https://osf.io/8wfmq/download)
 
 [Github accrual](https://github.com/alanwhite1203/eqAutocallable)
+
+[Github accrual](https://hcommons.org/deposits/download/hc:41560/CONTENT/eqautocallable-28.pdf)
 
 
 

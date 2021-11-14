@@ -15,6 +15,8 @@ Asian FX options allow the buyer to purchase or sell the underlying foreign exch
 
 [Github Asian](https://github.com/alanwhite1203/fxAsian)
 
+[Hcommons Asian](https://hcommons.org/deposits/download/hc:42686/CONTENT/fxasian-18.pdf)
+
 
 
 
@@ -32,6 +34,8 @@ A currency forward or FX forward is a contract agreement between two parties to 
 [OSF forward](https://osf.io/ez6an/download)
 
 [Github forward](https://github.com/alanwhite1203/fxForward)
+
+[Hcommons forward](https://hcommons.org/deposits/download/hc:42736/CONTENT/fxforward-19.pdf)
 
  
  

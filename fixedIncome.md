@@ -149,6 +149,7 @@ Zero coupon bonds are issued at a deep discount and repaid the face value at mat
 
 [OSF zero](https://osf.io/d59wu/download)
 
+[Hcommons zero](https://hcommons.org/deposits/download/hc:41724/CONTENT/fizerobond-17.pdf)
 
 
 
@@ -162,5 +163,7 @@ A callable floating coupon note gives the issuer to recall the note on specified
 [FlipHtml5 callabe note](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTNxEjN4MTPkl0av9mY)
 
 [OSF callable note](https://osf.io/kjhsu/download)
+
+[Hcommons callable note](https://hcommons.org/deposits/download/hc:41808/CONTENT/ficallablefrn-18.pdf)
 
 

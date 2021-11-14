@@ -136,3 +136,8 @@ References:
 [Pub callable pdf](https://assets.pubpub.org/197a3mu4/41596633644858.pdf)
 
 [Github callable](https://github.com/alanwhite1203/fiCallable/raw/main/FiCallableBond-13.pdf)
+
+[Hcommons callable pdf](https://hcommons.org/deposits/download/hc:41630/CONTENT/ficallablebond-13.pdf)
+
+
+

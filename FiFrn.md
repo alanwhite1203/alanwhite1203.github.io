@@ -88,3 +88,7 @@ References:
 
 [Github frn](https://github.com/alanwhite1203/fiFrn/raw/main/FiFrn-14.pdf)
 
+[Hcommons frn](https://hcommons.org/deposits/download/hc:41644/CONTENT/fifrn-14.pdf)
+
+
+

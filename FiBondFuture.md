@@ -113,3 +113,7 @@ References:
 
 [Github futures](https://github.com/alanwhite1203/fiBondFuture/raw/main/FiBondFuture-11.pdf)
 
+[Hcommons futures pdf](https://hcommons.org/deposits/download/hc:41602/CONTENT/fibondfuture-11.pdf)
+
+
+

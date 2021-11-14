@@ -96,3 +96,7 @@ References:
 [Pub inflation pdf](https://assets.pubpub.org/0te2j7qv/71596801790262.pdf)
 
 [Github inflation](https://github.com/alanwhite1203/fiInflation/raw/main/FiInflationBond-15.pdf)
+
+[Hcommons inflation pdf](https://hcommons.org/deposits/download/hc:41668/CONTENT/fiinflationbond-15.pdf)
+
+

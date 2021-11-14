@@ -138,4 +138,6 @@ References:
 
 [Github bond future option](https://github.com/alanwhite1203/fiBondFutureOption/raw/main/FiBondFutureOption-12.pdf)
 
+[Hcommons bond future option pdf](https://hcommons.org/deposits/download/hc:41606/CONTENT/fibondfutureoption-12.pdf)
+
    
