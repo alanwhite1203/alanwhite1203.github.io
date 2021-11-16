@@ -37,6 +37,9 @@ A currency forward or FX forward is a contract agreement between two parties to 
 
 [Hcommons forward](https://hcommons.org/deposits/download/hc:42736/CONTENT/fxforward-19.pdf)
 
+[Science-media forward](https://science-media.org/userfiles/1020/presentations/1020_presentation_537.pdf)
+
+
  
  
 ### FX Futures
@@ -53,6 +56,8 @@ A currency future or an FX future is a future contract between two parties to ex
 [OSF futures](https://osf.io/rqd6v/download)
 
 [Github futures](https://github.com/alanwhite1203/fxFuture)
+
+[Science-media futures](https://science-media.org/userfiles/1020/presentations/1020_presentation_538.pdf)
 
 
   
@@ -72,6 +77,8 @@ A currency option, also known as FX Option, is a derivative contract that grants
 [OSF option](https://osf.io/xfjpz/download)
 
 [Github option](https://github.com/alanwhite1203/fxOption)
+
+[Science-media option](https://science-media.org/userfiles/1020/presentations/1020_presentation_539.pdf)
   
 
   
@@ -90,6 +97,8 @@ An FX swap or currency swap agreement is a contract  in which both parties agree
 [OSF swap](https://osf.io/vuyzn/download)
 
 [Github swap](https://github.com/alanwhite1203/fxSwap)
+
+[Science-media swap](https://science-media.org/userfiles/1020/presentations/1020_presentation_540.pdf)
    
 
    
@@ -108,6 +117,8 @@ A touch option is the sort of option that promises a payout once the price of an
 [OSF touch](https://osf.io/6m5jx/download)
 
 [Github touch](https://github.com/alanwhite1203/fxTouch)
+
+[Science-media touch](https://science-media.org/userfiles/1020/presentations/1020_presentation_541.pdf)
 
    
    

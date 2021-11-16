@@ -14,6 +14,8 @@ An amortizing bond is used specifically for tax purposes as the amortized princi
 
 [Gitbook amortizing bond](https://davidlee1203.gitbook.io/amortizing-bond/)
 
+[Science-media amortizing bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_526.pdf)
+
 
 
 
@@ -52,6 +54,9 @@ The seller usually picks up the cheapest bond in the basket to deliver, called t
 
 [Gitbook bond futures](https://cmrm11.gitbook.io/bond-futures/)
 
+[Science-media bond futures](https://science-media.org/userfiles/1020/presentations/1020_presentation_528.pdf)
+
+
 
 
 ### Bond Future Option
@@ -70,6 +75,8 @@ Bond futures options are also exchange traded derivatives on treasury instrument
 [OSF bond future option](https://osf.io/d2xaj/download)
 
 [Gitbook bond future option](https://cmrm11.gitbook.io/bond-future-option/)
+
+[Science-media bond future option](https://science-media.org/userfiles/1020/presentations/1020_presentation_529.pdf)
 
 
 
@@ -90,6 +97,8 @@ For issuers, callable bonds allow them to reduce interest costs at a future date
 [OSF callable](https://osf.io/qkbfn/download)
 
 [Gitbook callable](https://cmrm11.gitbook.io/callable-bond/)
+
+[Science-media callable](https://science-media.org/userfiles/1020/presentations/1020_presentation_531.pdf)
 
 
 
@@ -112,6 +121,8 @@ The price of an FRN has very low sensitivity to changes in interest rates becaus
 
 [Gitbook frn](https://cmrm11.gitbook.io/floating-rate-note/)
 
+[Science-media frn](https://science-media.org/userfiles/1020/presentations/1020_presentation_532.pdf)
+
 
 
    
@@ -132,6 +143,8 @@ The main idea of inflation indexed bonds is that investing in the bond will gene
 
 [Gitbook inflation bond](https://cmrm11.gitbook.io/inflation-indexed-bond/)
 
+[Science-media inflation bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_533.pdf)
+
 
 
    
@@ -151,6 +164,8 @@ Although a puttable bond is a higher cost to the investor and an uncertainty to 
 [OSF puttable bond](https://osf.io/veqj3/download)
 
 [Gitbook puttable bond](https://cmrm11.gitbook.io/puttable-bond/)
+
+[Science-media puttable bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_534.pdf)
 
 
 
@@ -173,6 +188,8 @@ Zero coupon bonds are issued at a deep discount and repaid the face value at mat
 [Hcommons zero](https://hcommons.org/deposits/download/hc:41724/CONTENT/fizerobond-17.pdf)
 
 [Gitbook zero](https://cmrm11.gitbook.io/zero-coupon-bond/)
+
+[Science-media zero](https://science-media.org/userfiles/1020/presentations/1020_presentation_535.pdf)
 
 
 

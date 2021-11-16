@@ -114,6 +114,8 @@ Equity options or stock options provide investors a way to hedge risk or specula
 
 [Gitbook option](https://deripricing.gitbook.io/stock-option-product-and-valuation/)
 
+[Sciece-media option](https://science-media.org/userfiles/1020/presentations/1020_presentation_501.pdf)
+
 
 
    
@@ -175,6 +177,8 @@ a combination of realized (historical) volatility and unrealized volatility obta
 
 [Gitbook variance](https://deripricing.gitbook.io/variance-swap-pricing/)
 
+[Sciece-media variance](https://science-media.org/userfiles/1020/presentations/1020_presentation_506.pdf)
+
 
 
 
@@ -198,6 +202,8 @@ The initial price is taken as the highest price observed over a set of Initial L
 
 [Gitbook lookback](https://deripricing.gitbook.io/lookback-option-valuation/)
 
+[Sciece-media lookback](https://science-media.org/userfiles/1020/presentations/1020_presentation_507.pdf)
+
 
  
 ### Barrier Option
@@ -217,6 +223,8 @@ The two types of contracts, knock-in barrier options and knock-out barrier optio
 [Github barrier](https://github.com/alanwhite1203/EqBarrier)
 
 [Gitbook barrier](https://deripricing.gitbook.io/barrier-option-pricing/)
+
+[Sciece-media barrier](https://science-media.org/userfiles/1020/presentations/1020_presentation_508.pdf)
 
 
 
@@ -239,6 +247,8 @@ Cliquet options are widely traded in many retail-structured products. They consi
 
 [Gitbook cliquet](https://deripricing.gitbook.io/cliquet-option-valuation/)
 
+[Sciece-media cliquet](https://science-media.org/userfiles/1020/presentations/1020_presentation_509.pdf)
+
 
 
 
@@ -259,6 +269,8 @@ The payoff of a digital option or binary option is either some fixed amount of s
 [Github binary](https://github.com/alanwhite1203/EqBinary)
 
 [Gitbook binary](https://deripricing.gitbook.io/binary-option-valuation/)
+
+[Sciece-media binary](https://science-media.org/userfiles/1020/presentations/1020_presentation_510.pdf/)
 
 
 
@@ -283,6 +295,8 @@ It is a common trend that domestic investors allocate their assets in foreign st
 
 [Gitbook quanto](https://deripricing.gitbook.io/quanto-option-pricing/)
 
+[Gitbook quanto](https://science-media.org/userfiles/1020/presentations/1020_presentation_511.pdf)
+
 
 
 
@@ -305,6 +319,8 @@ Callable note or callable exotics are among the most challenging derivatives to 
 [Hcommons exotic](https://hcommons.org/deposits/download/hc:38496/CONTENT/eqcallable-15.pdf)
 
 [Gitbook exotic](https://deripricing.gitbook.io/callable-exotic-pricing/)
+
+[Gitbook exotic](https://science-media.org/userfiles/1020/presentations/1020_presentation_512.pdf)
 
 
 
@@ -350,6 +366,8 @@ These are chooser options that return the best performing among several baskets 
 
 [Gitbook best](https://deripricing.gitbook.io/best-of-option-pricing/)
 
+[Sciece-media best](https://science-media.org/userfiles/1020/presentations/1020_presentation_514.pdf)
+
 
 
 
@@ -373,6 +391,8 @@ The decision to cancel the option is made based on the performance of an underly
 
 [Gitbook reverse](https://deripricing.gitbook.io/reverse-convertible-autocallable-swap/)
 
+[Sciece-media reverse](https://science-media.org/userfiles/1020/presentations/1020_presentation_515.pdf)
+
 
 
 
@@ -395,6 +415,8 @@ In upside markets, the strategy allocates more towards the risky asset whereas i
 [Hcommons cppi](https://hcommons.org/deposits/download/hc:38648/CONTENT/eqcppi-19.pdf)
 
 [Gitbook cppi](https://deripricing.gitbook.io/cppi-pricing/)
+
+[Sciece-media cppi](https://science-media.org/userfiles/1020/presentations/1020_presentation_516.pdf)
 
 
 
@@ -439,6 +461,8 @@ In a share buyback program, a firm normally sets out the amount of shares it wis
 
 [Gitbook asr](https://davidlee1203.gitbook.io/pricing-accelerated-share-repurchase/)
 
+[science-media asr](https://science-media.org/userfiles/1020/presentations/1020_presentation_518.pdf)
+
 
 
 
@@ -460,6 +484,8 @@ The note pays a series of coupons based on the weighted performance of all asset
 [Github coupon](https://github.com/alanwhite1203/EqCoupon)
 
 [Gitbook coupon](https://davidlee1203.gitbook.io/bonus-coupon-note/)
+
+[Sciece-media coupon](https://science-media.org/userfiles/1020/presentations/1020_presentation_519.pdf)
 
 
 
@@ -484,6 +510,8 @@ The auto-call feature limits the total return paid to the buyer by automatically
 
 [Gitbook yield](https://davidlee1203.gitbook.io/callable-yield-note/)
 
+[Sciece-media yield](https://science-media.org/userfiles/1020/presentations/1020_presentation_520.pdf)
+
 
 
 
@@ -506,6 +534,9 @@ Rainbow options are multi-asset options that have a payoff depending on the asse
 [Hcommons rainbow](https://hcommons.org/deposits/download/hc:41308/CONTENT/eqrainbow-24.pdf)
 
 [Gitbook rainbow](https://davidlee1203.gitbook.io/rainbow-option/)
+
+[Sciece-media rainbow](https://science-media.org/userfiles/1020/presentations/1020_presentation_521.pdf)
+
 
 
 
@@ -530,6 +561,9 @@ A Himalaya option is an option on the sum of the returns of the best (worst) per
 
 [Gitbook Himalaya](https://davidlee1203.gitbook.io/himalaya-option/)
 
+[Sciece-media Himalaya](https://science-media.org/userfiles/1020/presentations/1020_presentation_522.pdf)
+
+
 
 
 ### Correlation Swap
@@ -551,6 +585,8 @@ For an outstanding contract, implied correlation needs to be computed for any fu
 [Hcommons correlation](https://hcommons.org/deposits/download/hc:41486/CONTENT/eqcorrelationswap-26.pdf)
 
 [Gitbook correlation](https://davidlee1203.gitbook.io/correlation-swap/)
+
+[Sciece-media correlation](https://science-media.org/userfiles/1020/presentations/1020_presentation_523.pdf)
 
 
 
@@ -575,6 +611,8 @@ An equity range accrual note is a principal-protected note that pays out a serie
 
 [Gitbook accrual](https://davidlee1203.gitbook.io/callable-range-accrual-note/)
 
+[Sciece-media accrual](https://science-media.org/userfiles/1020/presentations/1020_presentation_524.pdf)
+
 
 
 
@@ -596,6 +634,7 @@ Autocallable Notes are hybrid instruments that offer a higher coupon if they are
 
 [Gitbook accrual](https://davidlee1203.gitbook.io/autocallable-note/)
 
+[Sciece-media accrual](https://science-media.org/userfiles/1020/presentations/1020_presentation_525.pdf)
 
 
 
