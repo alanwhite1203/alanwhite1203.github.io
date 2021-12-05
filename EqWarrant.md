@@ -80,23 +80,13 @@ References:
    
 [More details](./EqWarrant-8.pdf)     
    
-[FlipHtml5 warrant](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTNxgDN5ITPkl0av9mY)
-   
 [Zenodo warrant](https://zenodo.org/record/3948314/files/EqWarrant-8.pdf)
    
-[Pubpub warrant](https://david.pubpub.org/pub/tejvirlb/download/pdf)
-   
-[Github warrant](https://github.com/alanwhite1203/eqWarrant/raw/main/EqWarrant-8.pdf)
-   
-[Gitlab warrant](https://gitlab.com/finance15/eqwarrent/-/raw/master/EqWarrant-8.pdf)
-   
 [Bitbucket warrant](https://bitbucket.org/cmrm11/eqwarrant/downloads/EqWarrant-8.pdf)
-   
-[OSF warrant](https://osf.io/54xj6/download)
 
 [Pub warrant](https://david.pubpub.org/pub/tejvirlb/release/1)
 
-[Pub warrant pdf](https://assets.pubpub.org/hsibjid6/11596295082532.pdf)
-
-[Github warrant](https://github.com/alanwhite1203/eqWarrant/raw/main/EqWarrant-8.pdf)
+[archive warrant](https://ia903404.us.archive.org/22/items/eq-warrant-8/EqWarrant-archive.pdf)
    
+
+[OSF warrant](https://osf.io/54xj6/download)

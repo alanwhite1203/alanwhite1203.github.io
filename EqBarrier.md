@@ -36,14 +36,10 @@ References:
    
 [More details](./EqBarrier-11.pdf)     
    
-[FlipHtml5 barrier](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETNxUDO3MTPkl0av9mY)
-   
-[Zenodo barrier](https://zenodo.org/record/4608506/files/EqBarrier-11.pdf)
+[Zenodo barrier](https://zenodo.org/record/5759655/files/Zenodo-EqBarrier.pdf)
    
 [Pubpub barrier](https://david.pubpub.org/pub/8c4e0jp4/release/1)
    
 [OSF barrier](https://osf.io/ymt8n/download)
 
-[Pub barrier pdf](https://assets.pubpub.org/k31fkcpv/11615915611232.pdf)
-
-[Github barrier pdf](https://github.com/alanwhite1203/EqBarrier/releases/download/1/EqBarrier-11.pdf)  
+[Github barrier pdf](https://ia903403.us.archive.org/20/items/eq-barrier-11/EqBarrier-archive.pdf)  

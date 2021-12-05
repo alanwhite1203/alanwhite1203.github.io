@@ -20,14 +20,10 @@ References:
    
 [More details](./EqCorrelationSwap-26.pdf)   
    
-[FlipHtml5 correlation swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDN5gDM5MTPkl0av9mY)
-   
-[Zenodo correlation swap](https://zenodo.org/record/4683859/files/EqCorrelationSwap-26.pdf)
+[Zenodo correlation swap](https://zenodo.org/record/5759799/files/Zenodo-EqCorrelationSwap.pdf)
    
 [Pubpub correlation swap](https://david.pubpub.org/pub/7xhp22bd/release/1)
    
 [OSF correlation swap](https://osf.io/uwy25/download)
 
-[Pub correlation swap pdf](https://assets.pubpub.org/jbue1rye/71618329165684.pdf)
-
-[Github correlation swap](https://github.com/alanwhite1203/EqCorrelation/releases/download/1/EqCorrelationSwap-26.pdf)  
+[archive correlation swap](https://ia803401.us.archive.org/11/items/eq-correlation-swap-26/EqCorrelationSwap-archive.pdf)  

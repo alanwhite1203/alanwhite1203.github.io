@@ -20,14 +20,10 @@ References:
    
 [More details](./EqReverse-18.pdf)   
    
-[FlipHtml5 reverse](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzNyADN4MTPkl0av9mY)
-   
 [Zenodo reverse](https://zenodo.org/record/4642620/files/EqReverse-18.pdf)
    
 [Pubpub reverse](https://david.pubpub.org/pub/ni8fe306/release/1)
    
 [OSF reverse](https://osf.io/y6r57/download)
 
-[Pub reverse pdf](https://assets.pubpub.org/oz8vpkzn/31616956515732.pdf)
-
-[Github reverse](https://github.com/alanwhite1203/EqReverse/releases/download/1/EqReverse-18.pdf)  
+[archive reverse](https://ia803407.us.archive.org/2/items/eq-reverse-18/EqReverse-archive.pdf)  

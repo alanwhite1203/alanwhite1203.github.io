@@ -79,25 +79,9 @@ References:
 
 [More details](./EqAmerican-1.pdf)
 
-[FlipHtml5 American option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTOxgjM5ITPkl0av9mY)
+[Zenodo American](https://zenodo.org/record/5748070/files/Zenodo-EqAmerican.pdf)
 
-[Zenodo American](https://zenodo.org/record/3942431/files/EqAmerican-1.pdf)
-
-[Pubpub American](https://david.pubpub.org/pub/4fm8u3f4/download/pdf)
-
-[Github American](https://github.com/alanwhite1203/EqAmerican/raw/master/EqAmerican-1.pdf)
-
-[Gitlab American](https://gitlab.com/finance15/eqamerican/-/raw/master/EqAmerican-1.pdf)
-
-[Bitbucket American](https://bitbucket.org/cmrm11/eqamerican/downloads/EqAmerican-1.pdf)
-
-[OSF American](https://osf.io/zxyq9/download)
-
-[Pubpub AO](https://david.pubpub.org/pub/4fm8u3f4/release/1)
-
-[Pubpub AO pdf](https://assets.pubpub.org/9nch4zay/71595594784828.pdf)
-
-[Github AO](https://github.com/alanwhite1203/EqAmerican/raw/master/EqAmerican-1.pdf)
+[Archive AO](https://ia803409.us.archive.org/30/items/eq-american-1/EqAmerican-archive.pdf)
 
 [gitbook AO](https://captim.gitbook.io/eqamerican/)
 

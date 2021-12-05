@@ -20,8 +20,7 @@ Due to the complexity of the payoff structure, Monte Carlo simulation is the onl
 References:
    
 [More details](./EqCppi-19.pdf)   
-   
-[FlipHtml5 cppi](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzN3QDN4MTPkl0av9mY)
+
    
 [Zenodo cppi](https://zenodo.org/record/4645827/files/EqCppi-19.pdf)
    
@@ -29,6 +28,5 @@ References:
    
 [OSF cppi](https://osf.io/rcf93/download)
 
-[Pub cppi pdf](https://assets.pubpub.org/m6i81fur/71617041837188.pdf)
 
-[Github cppi](https://github.com/alanwhite1203/EqCppi/releases/download/1/EqCppi-19.pdf)  
+[archive cppi](https://ia803406.us.archive.org/32/items/eq-cppi-19/EqCppi-archive.pdf)  

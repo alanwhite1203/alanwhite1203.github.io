@@ -114,25 +114,15 @@ LOGM.O	87.5
  
   [More details](./EqBasket-3.pdf)
   
-  [FlipHtml5 basket option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMygjM5ITPkl0av9mY)
-  
-  [Zenodo basket](https://zenodo.org/record/3945086/files/EqBasket-3.pdf)
-  
-  [Pubpub basket](https://david.pubpub.org/pub/iycnkfjo/download/pdf)
-  
-  [Github basket](https://github.com/alanwhite1203/EqBasket/raw/master/EqBasket-3.pdf)
-  
-  [Gitlab basket](https://gitlab.com/finance15/eqbasket/-/raw/master/EqBasket-3.pdf)
+  [Zenodo basket](https://zenodo.org/record/5748077/files/Zenodo-EqBasket.pdf)
   
   [Bitbucket basket](https://bitbucket.org/cmrm11/eqbasket/downloads/EqBasket-3.pdf)
   
-  [OSF basket](https://osf.io/cjzba/download)
-  
   [Pub basket](https://david.pubpub.org/pub/iycnkfjo/release/1)
   
-  [Pub basket pdf](https://david.pubpub.org/pub/iycnkfjo/download/pdf)
+  [osf basket](https://osf.io/cjzba/download)
   
-  [Github basket](https://github.com/alanwhite1203/EqBasket/raw/master/EqBasket-3.pdf)
+  [archive basket](https://ia803403.us.archive.org/16/items/eq-basket-3/EqBasket-archive.pdf)
   
   [gitbook basket](https://captim.gitbook.io/eqbasket/)
  

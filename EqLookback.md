@@ -15,14 +15,10 @@ References:
    
 [More details](./EqLookback-10.pdf)     
    
-[FlipHtml5 lookback](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzNyQDO3MTPkl0av9mY)
-   
-[Zenodo lookback](https://zenodo.org/record/4608012/files/EqLookback-10.pdf)
+[Zenodo lookback](https://zenodo.org/record/5759630/files/Zenodo-EqLookback.pdf)
    
 [Pubpub lookback](https://david.pubpub.org/pub/1v149gwd/release/1)
    
 [OSF lookback](https://osf.io/my7zq/download)
 
-[Pub lookback pdf](https://assets.pubpub.org/ihs0hhhf/21615903281659.pdf)
-
-[Github lookback pdf](https://github.com//alanwhite1203/EqLookback/releases/download/1/EqLookback-10.pdf)  
+[Github lookback pdf](https://ia903402.us.archive.org/9/items/eq-lookback-10/EqLookback-archive.pdf)  

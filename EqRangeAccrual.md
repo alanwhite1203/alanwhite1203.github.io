@@ -33,12 +33,10 @@ References:
 
 [More details](./EqRangeAccrual-27.pdf)
 
-[FlipHtml5 range accrual](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETN5gDM5MTPkl0av9mY)
-
 [Zenodo range accrual](https://zenodo.org/record/4683873/files/EqRangeAccrual-27.pdf)
 
 [Pubpub range accrual](https://david.pubpub.org/pub/lodsaaco/release/1)
 
-[Github range accrual](https://github.com/alanwhite1203/EqRangeAccrual/releases/download/1/EqRangeAccrual-27.pdf)
+[archvie range accrual](https://ia903407.us.archive.org/23/items/eq-range-accrual-27/EqRangeAccrual-archive.pdf)
 
 [OSF range accrual](https://osf.io/476gc/download)

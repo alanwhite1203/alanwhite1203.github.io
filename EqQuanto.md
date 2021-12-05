@@ -25,15 +25,12 @@ Under the risk-neutral measure, Fj = E[Sj ] ; in particular, the forward quanto 
 References:
    
 [More details](./EqQuanto-14.pdf)     
+
    
-[FlipHtml5 Quanto](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN4ETO3MTPkl0av9mY)
-   
-[Zenodo Quanto](https://zenodo.org/record/4615643/files/EqQuanto-14.pdf)
+[Zenodo Quanto](https://zenodo.org/record/5759657/files/Zenodo-EqQuanto.pdf)
    
 [Pubpub Quanto](https://david.pubpub.org/pub/ebrcvcvd/release/1)
    
 [OSF Quanto](https://osf.io/2qjps/download)
 
-[Pub Quanto pdf](https://assets.pubpub.org/a7niz4j2/41616079182890.pdf)
-
-[Github Quanto pdf](https://github.com/alanwhite1203/EqQuanto/releases/download/1/EqQuanto-14.pdf)  
+[Archive Quanto](https://ia903402.us.archive.org/15/items/eq-quanto-14/EqQuanto-archive.pdf)  

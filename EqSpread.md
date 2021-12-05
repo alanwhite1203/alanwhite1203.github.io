@@ -22,15 +22,12 @@ A standard Call or Put payoff applies on the spread. The payoff may also be capp
 References:
    
 [More details](./EqSpread-16.pdf)   
+ 
    
-[FlipHtml5 spread](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNzQzM4MTPkl0av9mY)
-   
-[Zenodo spread](https://zenodo.org/record/4640027/files/EqSpread-16.pdf)
+[Zenodo spread](https://zenodo.org/record/5759678/files/Zenodo-EqSpread.pdf)
    
 [Pubpub spread](https://david.pubpub.org/pub/rx3k9ndm/release/1)
    
 [OSF spread](https://osf.io/4kcrh/download)
 
-[Pub spread pdf](https://assets.pubpub.org/i5stu022/11616778151850.pdf)
-
-[Github spread](https://github.com/alanwhite1203/EqSpread/releases/download/1/EqSpread-16.pdf)  
+[archive spread](https://ia803404.us.archive.org/12/items/eq-spread-16/EqSpread-archive.pdf)  

@@ -27,14 +27,10 @@ References:
    
 [More details](./EqAsr-21.pdf)   
    
-[FlipHtml5 asr](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYjM4ATN4MTPkl0av9mY)
-   
-[Zenodo asr](https://zenodo.org/record/4648534/files/EqAsr-21.pdf)
+[Zenodo asr](https://zenodo.org/record/5759786/files/Zenodo-EqAsr.pdf)
    
 [Pubpub asr](https://david.pubpub.org/pub/3zsqhi6y/release/1)
    
 [OSF asr](https://osf.io/vbhpd/download)
 
-[Pub asr pdf](https://assets.pubpub.org/nccqnodh/51617138069016.pdf)
-
-[Github asr](https://github.com/alanwhite1203/EqAsr/releases/download/1/EqAsr-21.pdf)  
+[archive asr](https://ia903407.us.archive.org/30/items/eq-asr-21/EqAsr-archive.pdf)  

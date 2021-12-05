@@ -27,15 +27,12 @@ payoff_T=max⁡(K-R^worst,0)
 References:
    
 [More details](./EqPerform-17.pdf)   
+
    
-[FlipHtml5 best](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAjNzQzM4MTPkl0av9mY)
-   
-[Zenodo best](https://zenodo.org/record/4640098/files/EqPerform-17.pdf)
+[Zenodo best](https://zenodo.org/record/5759679/files/Zenodo-EqPerform.pdf)
    
 [Pubpub best](https://david.pubpub.org/pub/2oovw4eq/release/1)
    
 [OSF best](https://osf.io/7pzms/download)
 
-[Pub best pdf](https://assets.pubpub.org/bpzyc7iv/01616778364921.pdf)
-
-[Github best](https://github.com/alanwhite1203/EqBest/releases/download/1/EqPerform-17.pdf)  
+[archive best](https://ia903403.us.archive.org/15/items/eq-perform-17/EqPerform-archive.pdf)  

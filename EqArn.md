@@ -21,14 +21,10 @@ References:
    
 [More details](./EqAccelerate-20.pdf)   
    
-[FlipHtml5 arn](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDO3QDN4MTPkl0av9mY)
-   
 [Zenodo arn](https://zenodo.org/record/4645863/files/EqAccelerate-20.pdf)
    
 [Pubpub arn](https://david.pubpub.org/pub/l983sk63/release/1)
    
 [OSF arn](https://osf.io/yexkd/download)
 
-[Pub arn pdf](https://assets.pubpub.org/uoui3gv5/41617041996286.pdf)
-
-[Github arn](https://github.com/alanwhite1203/EqAccelerate/releases/download/1/EqAccelerate-20.pdf)  
+[archive arn](https://ia803408.us.archive.org/0/items/eq-accelerate-20/EqAccelerate-archive.pdf)  

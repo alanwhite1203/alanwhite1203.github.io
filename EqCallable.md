@@ -44,15 +44,12 @@ Callable valuation is based on numeric approaches, such as FPE or Monte-Carlo.
 References:
    
 [More details](./EqCallable-15.pdf)     
+  
    
-[FlipHtml5 callalbe](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUTMzgTM4MTPkl0av9mY)
-   
-[Zenodo callable](https://zenodo.org/record/4632314/files/EqCallable-15.pdf)
+[Zenodo callable](https://zenodo.org/record/5759660/files/Zenodo-EqCallable.pdf)
    
 [Pubpub callable](https://david.pubpub.org/pub/qeg8gemk/release/1)
    
 [OSF callable](https://osf.io/khrcb/download)
 
-[Pub callable pdf](https://assets.pubpub.org/injchp6w/61616533287113.pdf)
-
-[Github callable pdf](https://github.com/alanwhite1203/EqCallable/releases/download/1/EqCallable-15.pdf)  
+[archive callable](https://ia803403.us.archive.org/32/items/eq-callable-15/EqCallable-archive.pdf)  

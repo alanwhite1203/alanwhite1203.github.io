@@ -129,26 +129,14 @@ Trigger days	20	Par Amount	1000
 References:
   
 [More details](./EqConvertible-4.pdf)
-  
-[FlipHtml5 convertible](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamczMygjM5ITPkl0av9mY)
-  
+
 [Zenodo convertible](https://zenodo.org/record/3945092/files/EqConvertible-4.pdf)
-  
-[Pubpub convertible](https://david.pubpub.org/pub/p5wrxj58/download/pdf)
-  
-[Github convertible](https://github.com/alanwhite1203/EqConvertible/raw/master/EqConvertible-4.pdf)
-  
-[Gitlab convertible](https://gitlab.com/finance15/eqconvertible/-/raw/master/EqConvertible-4.pdf)
   
 [Bitbucket convertible](https://bitbucket.org/cmrm11/eqconvertible/downloads/EqConvertible-4.pdf)
   
-[OSF convertible](https://osf.io/5uzdy/download)
-
 [Pub convertible](https://david.pubpub.org/pub/p5wrxj58/release/1)
 
-[Pub pdf](https://assets.pubpub.org/a41h7lgw/71595703115219.pdf)
-
-[Github convertible](https://github.com/alanwhite1203/EqConvertible/raw/master/EqConvertible-4.pdf)
+[archive convertible](https://ia803402.us.archive.org/6/items/eq-convertible-4/EqConvertible-archive.pdf)
 
 [gitbook pdf](https://captim.gitbook.io/eqconvertible/)
 

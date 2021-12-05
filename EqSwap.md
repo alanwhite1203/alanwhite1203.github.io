@@ -89,23 +89,12 @@ References:
    
 [Check](https://finpricing.com/lib/EqSwap.html)
    
-[FlipHtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNxgDN5ITPkl0av9mY)
-   
 [Zenodo swap](https://zenodo.org/record/3948310/files/EqSwap-7.pdf)
    
-[Pubpub swap](https://david.pubpub.org/pub/hmpp2r25/download/pdf)
-   
-[Github swap](https://github.com/alanwhite1203/eqSwap/raw/main/EqSwap-7.pdf)
-   
-[Gitlab swap](https://gitlab.com/finance15/eqswap/-/raw/master/EqSwap-7.pdf)
-   
 [Bitbucket swap](https://bitbucket.org/cmrm11/eqswap/downloads/EqSwap-7.pdf)
-   
-[OSF swap](https://osf.io/72693/download)
 
 [Pub swap](https://david.pubpub.org/pub/hmpp2r25/release/1)
 
-[Pub swap pdf](https://assets.pubpub.org/w6vjqzmn/21596290318664.pdf)
+[archive swap](https://ia803401.us.archive.org/32/items/eq-swap-7/EqSwap-archive.pdf)
 
-[Github swap](https://github.com/alanwhite1203/eqSwap/raw/main/EqSwap-7.pdf)
-
+[OSF swap](https://osf.io/72693/download)

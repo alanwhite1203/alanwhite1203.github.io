@@ -96,22 +96,13 @@ References:
    
 [Check](https://finpricing.com/lib/EqOption.html)
    
-[FlipHtml5 option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNxgDN5ITPkl0av9mY)
    
 [Zenodo option](https://zenodo.org/record/3948304/files/EqOption-6.pdf)
    
-[Pubpub option](https://david.pubpub.org/pub/4373ry94/download/pdf)
-   
-[Github option](https://github.com/alanwhite1203/eqOption/raw/main/EqOption-6.pdf)
-   
-[Gitlab option](https://gitlab.com/finance15/eqoption/-/raw/master/EqOption-6.pdf)
-   
 [Bitbucket option](https://bitbucket.org/cmrm11/eqoption/downloads/EqOption-6.pdf)
-   
-[OSF option](https://osf.io/86t9p/download)
 
 [Pub option](https://david.pubpub.org/pub/4373ry94/release/1)
 
-[Pub pdf](https://assets.pubpub.org/gji34vyl/01596052536273.pdf)
+[archive option](https://ia903400.us.archive.org/27/items/eq-option-6/EqOption-archive.pdf)
 
-[Github option](https://github.com/alanwhite1203/eqOption/raw/main/EqOption-6.pdf)
+[OSF option](https://osf.io/86t9p/download

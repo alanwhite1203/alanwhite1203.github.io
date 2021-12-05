@@ -35,6 +35,4 @@ References:
    
 [OSF cliquet](https://osf.io/swbg4/download)
 
-[Pub cliquet pdf](https://assets.pubpub.org/pzpf68lv/21615926032261.pdf)
-
 [Github cliquet pdf](https://github.com/alanwhite1203/EqCliquet/releases/download/1/EqCliquet-12.pdf)  

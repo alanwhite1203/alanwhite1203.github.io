@@ -20,14 +20,10 @@ References:
    
 [More details](./EqVariance-9.pdf)     
    
-[FlipHtml5 variance](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjM5kzN3MTPkl0av9mY)
-   
 [Zenodo variance](https://zenodo.org/record/4605794/files/EqVariance-9.pdf)
    
 [Pubpub variance](https://fixedincome.pubpub.org/pub/2tsz1ogw/release/1)
    
 [OSF warrant](https://osf.io/wgmq5/download)
 
-[Pub variance pdf](https://assets.pubpub.org/yw4sd6a8/21615827774609.pdf)
-
-[Github variance pdf](https://github.com/alanwhite1203/EqVariance/releases/download/1/EqVariance-9.pdf)  
+[Github variance pdf](https://ia803408.us.archive.org/0/items/eq-variance-9/EqVariance-archive.pdf)  

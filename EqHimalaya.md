@@ -20,14 +20,10 @@ References:
    
 [More details](./EqHimalaya-25.pdf)   
    
-[FlipHtml5 himalaya](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzM1QjN4MTPkl0av9mY)
-   
-[Zenodo himalaya](https://zenodo.org/record/4660329/files/EqHimalaya-25.pdf)
+[Zenodo himalaya](hhttps://zenodo.org/record/5759797/files/Zenodo-EqHimalaya.pdf)
    
 [Pubpub himalaya](https://david.pubpub.org/pub/3d3lpnvc/release/1)
    
 [OSF himalaya](https://osf.io/3hf9y/download)
 
-[Pub himalaya pdf](https://assets.pubpub.org/dt8sydqd/11617386263923.pdf)
-
-[Github himalaya](https://github.com/alanwhite1203/EqHimalaya/releases/download/1/EqHimalaya-25.pdf)  
+[archive himalaya](https://ia803400.us.archive.org/13/items/eq-himalaya-25/EqHimalaya-archive.pdf)  

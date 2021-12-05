@@ -97,26 +97,20 @@ Spent Average	4104.9327
 References:
  
  [More details](./EqAsian-2.pdf)
+
  
- [FlipHtml5 Asian option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTMygjM5ITPkl0av9mY)
+ [Zenodo Asian](https://zenodo.org/record/5748073/files/Zenodo-EqAsian.pdf)
  
- [Zenodo Asian](https://zenodo.org/record/3944987/files/EqAsian-2.pdf)
- 
- [Pubpub Asian](https://david.pubpub.org/pub/ccmadp61/download/pdf)
- 
- [Github Asian](https://github.com/alanwhite1203/EqAsian/raw/master/EqAsian-2.pdf)
- 
- [Gitlab Asian](https://gitlab.com/finance15/eqasian/-/raw/master/EqAsian-2.pdf)
  
  [Bitbucket Asian](https://bitbucket.org/cmrm11/eqasian/downloads/EqAsian-2.pdf)
  
- [OSF Asian](https://osf.io/efq6a/download)
  
  [Pub Asian](https://david.pubpub.org/pub/ccmadp61/release/1)
  
- [Pub Asian pdf](https://assets.pubpub.org/1mkloqg3/71595595675666.pdf)
  
- [Github Asian](https://github.com/alanwhite1203/EqAsian/raw/master/EqAsian-2.pdf)
+ [OSF Basket](https://osf.io/cjzba/download)
+ 
+ [archive Asian](https://ia601807.us.archive.org/20/items/eq-asian-2/EqAsian-Archive.pdf)
  
  [gitbook Asian](https://captim.gitbook.io/eqasian/)
  

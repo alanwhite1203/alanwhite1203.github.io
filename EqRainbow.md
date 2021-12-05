@@ -18,14 +18,10 @@ References:
    
 [More details](./EqRainbow-24.pdf)   
    
-[FlipHtml5 rainbow](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjM1QjN4MTPkl0av9mY)
-   
-[Zenodo rainbow](https://zenodo.org/record/4660325/files/EqRainbow-24.pdf)
+[Zenodo rainbow](https://zenodo.org/record/5759794/files/Zenodo-EqRainbow.pdf)
    
 [Pubpub rainbow](https://david.pubpub.org/pub/zr8o4n3k/release/1)
    
 [OSF rainbow](https://osf.io/47zwk/download)
 
-[Pub rainbow pdf](https://assets.pubpub.org/ktvbhbjc/11617386110286.pdf)
-
-[Github rainbow](https://github.com/alanwhite1203/EqRainbow/releases/download/1/EqRainbow-24.pdf)  
+[archive rainbow](https://ia903404.us.archive.org/15/items/eq-rainbow-24/EqRainbow-archive.pdf)  

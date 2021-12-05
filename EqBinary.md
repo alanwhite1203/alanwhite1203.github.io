@@ -21,15 +21,10 @@ The risk sensitivities, especially Gamma, is very unstable under the Black-Schol
 References:
    
 [More details](./EqBinary-13.pdf)     
-   
-[FlipHtml5 binary](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEjN4ETO3MTPkl0av9mY)
+ 
    
 [Zenodo binary](https://zenodo.org/record/4615284/files/EqBinary-13.pdf)
    
 [Pubpub binary](https://david.pubpub.org/pub/t9j3lz67/release/1)
    
 [OSF binary](https://osf.io/e9u46/download)
-
-[Pub binary pdf](https://assets.pubpub.org/di341tvq/21616078998541.pdf)
-
-[Github binary pdf](https://github.com/alanwhite1203/EqBinary/releases/download/1/EqBinary-13.pdf)  

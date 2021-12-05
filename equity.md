@@ -16,8 +16,6 @@ practical guide for pricing an American equity option.
 
 [FlipHtml5 American](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTOxgjM5ITPkl0av9mY)
 
-[OSF American](https://osf.io/zxyq9/download)
-
 [Github American](https://github.com/alanwhite1203/EqAmerican)
 
 
@@ -36,8 +34,6 @@ product and valuation.
  
 [FlipHtml5 Asian](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTMygjM5ITPkl0av9mY)
 
-[OSF Asian](https://osf.io/efq6a/download)
-
 [Github Asian](https://github.com/alanwhite1203/EqAsian)
 
 [Hcommons Asian](https://hcommons.org/deposits/download/hc:38190/CONTENT/eqasian-2.pdf)
@@ -53,7 +49,6 @@ A basket option can be used to hedge the risk exposure to or speculate the marke
 
 [FlipHtml5 Basket](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMygjM5ITPkl0av9mY)
 
-[OSF Basket](https://osf.io/cjzba/download)
 
 [Github Basket](https://github.com/alanwhite1203/EqBasket)
   
@@ -69,8 +64,6 @@ A convertible bond has an embedded call option that gives bondholders the right 
 [Pdf reference](./EqConvertible-4.pdf)
 
 [FlipHtml5 Convertible](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamczMygjM5ITPkl0av9mY)
-
-[OSF Convertible](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamczMygjM5ITPkl0av9mY)
 
 [Github Convertible](https://github.com/alanwhite1203/EqConvertible)
 
@@ -88,7 +81,6 @@ Differently from Equity Forward, an Equity Futures contract traded over the orga
 
 [FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATNxgDN5ITPkl0av9mY)
 
-[OSF futures](https://osf.io/t5vnp/download)
 
 [Github futures](https://github.com/alanwhite1203/EqFuture)
 
@@ -108,7 +100,6 @@ Equity options or stock options provide investors a way to hedge risk or specula
    
 [FlipHtml5 option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNxgDN5ITPkl0av9mY)
 
-[OSF option](https://osf.io/86t9p/download
 
 [Github option](https://github.com/alanwhite1203/eqOption)
 
@@ -129,7 +120,6 @@ An equity swap can be used to transfer both the credit risk and the market risk 
 
 [FlipHtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNxgDN5ITPkl0av9mY)
 
-[OSF swap](https://osf.io/72693/download)
 
 [Github swap](https://github.com/alanwhite1203/eqSwap)
 
@@ -149,7 +139,6 @@ An equity warrant gives the holder the right to purchase shares at a fixed price
 
 [FlipHtml5 warrant](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTNxgDN5ITPkl0av9mY)
 
-[OSF warrant](https://osf.io/54xj6/download)
 
 [Github warrant](https://github.com/alanwhite1203/eqWarrant)
 
@@ -167,11 +156,7 @@ a combination of realized (historical) volatility and unrealized volatility obta
 
 [Variance Swap](./EqVariance.md)   
 
-[Zenodo variance](https://zenodo.org/record/4605794/files/EqVariance-9.pdf)
-
 [FlipHtml5 variance](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjM5kzN3MTPkl0av9mY)
-
-[OSF variance](https://osf.io/wgmq5/download)
 
 [Github variance](https://github.com/alanwhite1203/EqVariance)
 
@@ -190,11 +175,8 @@ The initial price is taken as the highest price observed over a set of Initial L
 
 [Lookback Option](./EqLookback.md)   
 
-[Zenodo lookback](https://zenodo.org/record/4608012/files/EqLookback-10.pdf)
-
 [FlipHtml5 lookback](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzNyQDO3MTPkl0av9mY)
 
-[OSF lookback](https://osf.io/my7zq/download)
 
 [Github lookback](https://github.com/alanwhite1203/EqLookback)
 
@@ -214,11 +196,7 @@ The two types of contracts, knock-in barrier options and knock-out barrier optio
 
 [Barrier Option](./EqBarrier.md) 
 
-[Zenodo barrier](https://zenodo.org/record/4608506/files/EqBarrier-11.pdf)
-
 [FlipHtml5 barrier](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETNxUDO3MTPkl0av9mY)
-
-[OSF barrier](https://osf.io/ymt8n/download)
 
 [Github barrier](https://github.com/alanwhite1203/EqBarrier)
 
@@ -237,11 +215,7 @@ Cliquet options are widely traded in many retail-structured products. They consi
 
 [Cliquet Option](./EqCliquet.md) 
 
-[Zenodo cliquet](https://zenodo.org/record/4609253/files/EqCliquet-12.pdf)
-
 [FlipHtml5 cliquet](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQzN3UDO3MTPkl0av9mY)
-
-[OSF cliquet](https://osf.io/swbg4/download)
 
 [Github cliquet](https://github.com/alanwhite1203/EqCliquet)
 
@@ -260,11 +234,8 @@ The payoff of a digital option or binary option is either some fixed amount of s
 
 [Binary Option](./EqBinary.md)
 
-[Zenodo binary](https://zenodo.org/record/4615284/files/EqBinary-13.pdf)
 
 [FlipHtml5 binary](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEjN4ETO3MTPkl0av9mY)
-
-[OSF binary](https://osf.io/e9u46/download)
 
 [Github binary](https://github.com/alanwhite1203/EqBinary)
 
@@ -283,11 +254,7 @@ It is a common trend that domestic investors allocate their assets in foreign st
 
 [Quanto Option](./EqQuanto.md)
 
-[Zenodo quanto](https://zenodo.org/record/4615643/files/EqQuanto-14.pdf)
-
 [FlipHtml5 quanto](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN4ETO3MTPkl0av9mY)
-
-[OSF quanto](https://osf.io/2qjps/download)
 
 [Github quanto](https://github.com/alanwhite1203/EqQuanto)
 
@@ -308,11 +275,7 @@ Callable note or callable exotics are among the most challenging derivatives to 
 
 [Callable Exotics](./EqCallable.md)
 
-[Zenodo exotics](https://zenodo.org/record/4632314/files/EqCallable-15.pdf)
-
 [FlipHtml5 exotic](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUTMzgTM4MTPkl0av9mY)
-
-[OSF exotic](https://osf.io/khrcb/download)
 
 [Github exotic](https://github.com/alanwhite1203/EqCallable)
 
@@ -333,11 +296,7 @@ The use of spread options is widespread for speculation, basis risk mitigation, 
 
 [Spread Option](./EqSpread.md)
 
-[Zenodo spread](https://zenodo.org/record/4640027/files/EqSpread-16.pdf)
-
 [FlipHtml5 spread](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNzQzM4MTPkl0av9mY)
-
-[OSF spread](https://osf.io/4kcrh/download)
 
 [Github spread](https://github.com/alanwhite1203/EqSpread)
 
@@ -356,11 +315,8 @@ These are chooser options that return the best performing among several baskets 
 
 [Best Performer Option](./EqPerform.md)
 
-[Zenodo best](https://zenodo.org/record/4640098/files/EqPerform-17.pdf)
 
 [FlipHtml5 best](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAjNzQzM4MTPkl0av9mY)
-
-[OSF best](https://osf.io/7pzms/download)
 
 [Github best](https://github.com/alanwhite1203/EqBest)
 
@@ -379,11 +335,7 @@ The decision to cancel the option is made based on the performance of an underly
 
 [Reverse Convertible Swap](./EqReverse.md)
 
-[Zenodo reverse](https://zenodo.org/record/4642620/files/EqReverse-18.pdf)
-
 [FlipHtml5 reverse](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzNyADN4MTPkl0av9mY)
-
-[OSF reverse](https://osf.io/y6r57/download)
 
 [Github reverse](https://github.com/alanwhite1203/EqReverse)
 
@@ -404,11 +356,7 @@ In upside markets, the strategy allocates more towards the risky asset whereas i
 
 [Constant Proportion Portfolio Insurance](./EqCppi.md)
 
-[Zenodo cppi](https://zenodo.org/record/4645827/files/EqCppi-19.pdf)
-
 [FlipHtml5 cppi](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzN3QDN4MTPkl0av9mY)
-
-[OSF cppi](https://osf.io/rcf93/download)
 
 [Github cppi](https://github.com/alanwhite1203/EqCppi)
 
@@ -429,11 +377,9 @@ The note normally pays the holder an increased participation rate on its underly
 
 [Accelerated Return Note](./EqArn.md)
 
-[Zenodo arn](https://zenodo.org/record/4645863/files/EqAccelerate-20.pdf)
 
 [FlipHtml5 arn](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDO3QDN4MTPkl0av9mY)
 
-[OSF arn](https://osf.io/yexkd/download)
 
 [Github arn](https://github.com/alanwhite1203/EqAccelerate)
 
@@ -451,11 +397,9 @@ In a share buyback program, a firm normally sets out the amount of shares it wis
 
 [Accelerated Share Repurchase](./EqAsr.md)
 
-[Zenodo asr](https://zenodo.org/record/4648534/files/EqAsr-21.pdf)
 
 [FlipHtml5 asr](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYjM4ATN4MTPkl0av9mY)
 
-[OSF asr](https://osf.io/vbhpd/download)
 
 [Github asr](https://github.com/alanwhite1203/EqAsr)
 
@@ -475,11 +419,8 @@ The note pays a series of coupons based on the weighted performance of all asset
 
 [Bonus Coupon Note](./EqCoupon.md)
 
-[Zenodo coupon](https://zenodo.org/record/4648557/files/EqCoupon-22.pdf)
 
 [FlipHtml5 coupon](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkjM4ATN4MTPkl0av9mY)
-
-[OSF coupon](https://osf.io/x2rf8/download)
 
 [Github coupon](https://github.com/alanwhite1203/EqCoupon)
 
@@ -498,11 +439,9 @@ The auto-call feature limits the total return paid to the buyer by automatically
 
 [Yield Note](./EqYield.md)
 
-[Zenodo yield](https://zenodo.org/record/4659041/files/EqYield-23.pdf)
 
 [FlipHtml5 yield](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETNxEjN4MTPkl0av9mY)
 
-[OSF yield](https://osf.io/mhktc/download)
 
 [Github yield](https://github.com/alanwhite1203/EqYield)
 
@@ -523,11 +462,9 @@ Rainbow options are multi-asset options that have a payoff depending on the asse
 
 [Rainbow Option](./EqRainbow.md)
 
-[Zenodo rainbow](https://zenodo.org/record/4660325/files/EqRainbow-24.pdf)
 
 [FlipHtml5 rainbow](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjM1QjN4MTPkl0av9mY)
 
-[OSF rainbow](https://osf.io/47zwk/download)
 
 [Github rainbow](https://github.com/alanwhite1203/EqRainbow)
 
@@ -549,11 +486,9 @@ A Himalaya option is an option on the sum of the returns of the best (worst) per
 
 [Himalaya Option](./EqHimalaya.md)
 
-[Zenodo Himalaya](https://zenodo.org/record/4660329/files/EqHimalaya-25.pdf)
 
 [FlipHtml5 Himalaya](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzM1QjN4MTPkl0av9mY)
 
-[OSF Himalaya](https://osf.io/3hf9y/download)
 
 [Github Himalaya](https://github.com/alanwhite1203/EqHimalaya)
 
@@ -574,11 +509,8 @@ For an outstanding contract, implied correlation needs to be computed for any fu
 
 [Correlation Swap](./EqCorrelationSwap.md)
 
-[Zenodo correlation](https://zenodo.org/record/4683859/files/EqCorrelationSwap-26.pdf)
 
 [FlipHtml5 correlation](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDN5gDM5MTPkl0av9mY)
-
-[OSF correlation](https://osf.io/uwy25/download)
 
 [Github correlation](https://github.com/alanwhite1203/EqCorrelation)
 
@@ -599,11 +531,7 @@ An equity range accrual note is a principal-protected note that pays out a serie
 
 [Range Accrual](./EqRangeAccrual.md)
 
-[Zenodo accrual](https://zenodo.org/record/4683873/files/EqRangeAccrual-27.pdf)
-
 [FlipHtml5 accrual](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETN5gDM5MTPkl0av9mY)
-
-[OSF accrual](https://osf.io/476gc/download)
 
 [Github accrual](https://github.com/alanwhite1203/EqRangeAccrual)
 
@@ -636,6 +564,7 @@ Autocallable Notes are hybrid instruments that offer a higher coupon if they are
 
 [Sciece-media accrual](https://science-media.org/userfiles/1020/presentations/1020_presentation_525.pdf)
 
+[archive auto](https://ia803405.us.archive.org/31/items/eq-auto-callable-28/EqAutoCallable-archive.pdf)
 
 
    

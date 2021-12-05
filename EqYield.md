@@ -19,14 +19,10 @@ References:
    
 [More details](./EqYield-23.pdf)   
    
-[FlipHtml5 yield](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETNxEjN4MTPkl0av9mY)
-   
-[Zenodo yield](https://zenodo.org/record/4659041/files/EqYield-23.pdf)
+[Zenodo yield](https://zenodo.org/record/5759793/files/Zenodo-EqYield.pdf)
    
 [Pubpub yield](https://david.pubpub.org/pub/phabu3zx/release/1)
    
 [OSF yield](https://osf.io/mhktc/download)
 
-[Pub yield pdf](https://assets.pubpub.org/l2n8m7vu/51617311320754.pdf)
-
-[Github yield](https://github.com/alanwhite1203/EqYield/releases/download/1/EqYield-23.pdf)  
+[Github yield](https://ia803403.us.archive.org/0/items/eq-yield-23/EqYield-archive.pdf)  

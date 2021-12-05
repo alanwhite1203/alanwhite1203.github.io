@@ -21,14 +21,8 @@ References:
    
 [More details](./EqCoupon-22.pdf)   
    
-[FlipHtml5 coupon](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkjM4ATN4MTPkl0av9mY)
-   
-[Zenodo coupon](https://zenodo.org/record/4648557/files/EqCoupon-22.pdf)
+[Zenodo coupon](https://zenodo.org/record/5759790/files/Zenodo-EqCoupon.pdf)
    
 [Pubpub coupon](https://david.pubpub.org/pub/4f1by115/release/1)
    
 [OSF coupon](https://osf.io/x2rf8/download)
-
-[Pub coupon pdf](https://assets.pubpub.org/hbjsvzd2/51617138248316.pdf)
-
-[Github coupon](https://github.com/alanwhite1203/EqCoupon/releases/download/1/EqCoupon-22.pdf)  

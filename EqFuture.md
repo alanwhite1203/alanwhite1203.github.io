@@ -53,22 +53,14 @@ References:
    
 [More details](./EqFuture-5.pdf)
    
-[FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATNxgDN5ITPkl0av9mY)
-   
 [Zenodo futures](https://zenodo.org/record/3948301/files/EqFuture-5.pdf)
-   
-[Pubpub futures](https://david.pubpub.org/pub/oe0dizke/download/pdf)
-   
-[Github futures](https://github.com/alanwhite1203/EqFuture/raw/main/EqFuture-5.pdf)
-   
-[Gitlab futures](https://gitlab.com/finance15/eqfuture/-/raw/master/EqFuture-5.pdf)
+
+
+[OSF futures](https://osf.io/t5vnp/download)
    
 [Bitbucket futures](https://bitbucket.org/cmrm11/eqfuture/downloads/EqFuture-5.pdf)
-   
-[OSF futures](https://osf.io/t5vnp/download)
 
 [Pub futures](https://david.pubpub.org/pub/oe0dizke/release/1)
 
-[Pub pdf](https://assets.pubpub.org/3wz3a94n/41596052127823.pdf)
+[archive futures](https://ia903405.us.archive.org/8/items/eq-future-5/EqFuture-archive.pdf)
 
-[Github futures](https://github.com/alanwhite1203/EqFuture/raw/main/EqFuture-5.pdf)
