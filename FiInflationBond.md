@@ -81,21 +81,13 @@ References:
 
 [Zenodo inflation](https://zenodo.org/record/3978594/files/FiInflationBond-15.pdf)
 
-[Pubpub inflation](https://fixedincome.pubpub.org/pub/n232c4iu/download/pdf)
-
-[Github inflation](https://github.com/alanwhite1203/fiInflation/raw/main/FiInflationBond-15.pdf)
-
-[Gitlab inflation](https://gitlab.com/cmrm11/fiinflation/-/raw/master/FiInflationBond-15.pdf)
+[archive inflation](https://ia903408.us.archive.org/33/items/fi-inflation-bond-15/FiInflationBond-archive.pdf)
 
 [Bitbucket inflation](https://bitbucket.org/cmrm11/fiinflation/downloads/FiInflationBond-15.pdf)
 
 [OSF inflation](https://osf.io/f2qm9/download)
 
 [Pub inflation](https://fixedincome.pubpub.org/pub/n232c4iu/release/1)
-
-[Pub inflation pdf](https://assets.pubpub.org/0te2j7qv/71596801790262.pdf)
-
-[Github inflation](https://github.com/alanwhite1203/fiInflation/raw/main/FiInflationBond-15.pdf)
 
 [Hcommons inflation pdf](https://hcommons.org/deposits/download/hc:41668/CONTENT/fiinflationbond-15.pdf)
 

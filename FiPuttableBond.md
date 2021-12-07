@@ -117,11 +117,7 @@ References:
 
 [Zenodo puttable](https://zenodo.org/record/3978603/files/FiPuttableBond-16.pdf)
 
-[Pub[ub puttable](https://fixedincome.pubpub.org/pub/u95623j1/download/pdf)
-
-[Github puttable](https://github.com/alanwhite1203/fiPuttable/raw/main/FiPuttableBond-16.pdf)
-
-[Gitlab puttable](https://gitlab.com/cmrm11/fiputtable/-/raw/master/FiPuttableBond-16.pdf)
+[archive puttable](https://ia803402.us.archive.org/22/items/fi-puttable-bond-16/FiPuttableBond-archive.pdf)
 
 [Bitbucket putable](https://bitbucket.org/cmrm11/fiputtable/downloads/FiPuttableBond-16.pdf)
 
@@ -129,6 +125,3 @@ References:
 
 [Pub puttable](https://fixedincome.pubpub.org/pub/u95623j1/release/1)
 
-[Pub puttable pdf](https://assets.pubpub.org/aikhol8v/51596802158300.pdf)
-
-[Github puttable](https://github.com/alanwhite1203/fiPuttable/raw/main/FiPuttableBond-16.pdf)

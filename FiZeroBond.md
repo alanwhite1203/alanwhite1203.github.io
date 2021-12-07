@@ -63,13 +63,9 @@ References:
 
 [FlipHtml5 zero bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDM3QjM5ITPkl0av9mY)
 
-[Zenodo zero bond](https://zenodo.org/record/3978607/files/FiZeroBond-17.pdf)
+[Zenodo zero bond](https://zenodo.org/record/5765447/files/Zenodo-FiZeroBond.pdf)
 
-[Pubpub zero bond](https://fixedincome.pubpub.org/pub/xmrfe4fp/download/pdf)
-
-[Github zero bond](https://github.com/alanwhite1203/fiZeroBond/raw/main/FiZeroBond-17.pdf)
-
-[Gitlab zero bond](https://gitlab.com/cmrm11/fizerobond/-/raw/master/FiZeroBond-17.pdf)
+[archive zero bond](https://ia903403.us.archive.org/28/items/fi-zero-bond-17/FiZeroBond-archive.pdf)
 
 [Bitbucket zero bond](https://bitbucket.org/cmrm11/fizerobond/downloads/FiZeroBond-17.pdf)
 
@@ -77,9 +73,7 @@ References:
 
 [Pub zero bond](https://fixedincome.pubpub.org/pub/xmrfe4fp/release/1)
 
-[Pub zero bond pdf](https://assets.pubpub.org/6im6znxu/31596802430701.pdf)
 
-[Github zero bond](https://github.com/alanwhite1203/fiZeroBond/raw/main/FiZeroBond-17.pdf)
 
 
    

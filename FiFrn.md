@@ -70,23 +70,15 @@ References:
 
 [FlipHtml5 frn](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkzM1ITM5ITPkl0av9mY)
 
-[Zenodo frn](https://zenodo.org/record/3973196/files/FiFrn-14.pdf)
+[Zenodo frn](https://zenodo.org/record/5765104/files/Zenodo-FiFrn.pdf)
 
-[Pubpub frn](https://fixedincome.pubpub.org/pub/zr3i4t1g/download/pdf)
-
-[Github frn](https://github.com/alanwhite1203/fiFrn/raw/main/FiFrn-14.pdf)
-
-[Gitlab frn](https://gitlab.com/cmrm11/fifrn/-/raw/master/FiFrn-14.pdf)
+[archive frn](https://ia903406.us.archive.org/13/items/fi-frn-14/FiFrn-archive.pdf)
 
 [Bitbucket frn](https://bitbucket.org/cmrm11/fifrn/downloads/FiFrn-14.pdf)
 
 [OSF frn](https://osf.io/yrbnh/download)
 
 [Pub frn](https://fixedincome.pubpub.org/pub/zr3i4t1g/release/1)
-
-[Pub frn pdf](https://assets.pubpub.org/0bmtsbbp/21596634056341.pdf)
-
-[Github frn](https://github.com/alanwhite1203/fiFrn/raw/main/FiFrn-14.pdf)
 
 [Hcommons frn](https://hcommons.org/deposits/download/hc:41644/CONTENT/fifrn-14.pdf)
 

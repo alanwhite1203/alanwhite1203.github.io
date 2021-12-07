@@ -73,11 +73,8 @@ References:
 
 [Zenodo amortizing bond](https://zenodo.org/record/3958017/files/FiAmortizingBond-9.pdf)
 
-[Pubpub amortizing bond](https://fixedincome.pubpub.org/pub/2tsz1ogw/download/pdf)
 
-[Github amortizing bond](https://github.com/alanwhite1203/fiAmortizingBond/raw/main/FiAmortizingBond-9.pdf)
-
-[Gitlab amortizing bond](https://gitlab.com/finance15/fiamortizingbond/-/raw/master/FiAmortizingBond-9.pdf)
+[archive amortizing bond](https://ia803403.us.archive.org/28/items/fi-amortizing-bond-9/FiAmortizingBond-archive.pdf)
 
 [Bitbucket amortizing bond](https://bitbucket.org/cmrm11/fiamortizingbond/downloads/FiAmortizingBond-9.pdf)
 
@@ -85,7 +82,4 @@ References:
 
 [Pub amortizing bond](https://fixedincome.pubpub.org/pub/2tsz1ogw/release/1)
 
-[Pub amortizing bond pdf](https://assets.pubpub.org/yztiw920/61596457948732.pdf)
-
-[Github amortizing bond](https://github.com/alanwhite1203/fiAmortizingBond/raw/main/FiAmortizingBond-9.pdf)
 

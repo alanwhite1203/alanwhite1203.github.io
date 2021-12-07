@@ -120,23 +120,16 @@ References:
 
 [FlipHtml5 bond future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTM1ITM5ITPkl0av9mY)
 
-[Zenodo bond future option](https://zenodo.org/record/3958051/files/FiBondFutureOption-12.pdf)
+[Zenodo bond future option](https://zenodo.org/record/5765015/files/Zenodo-FiBondFutureOption.pdf)
 
-[Pubpub bond future option](https://fixedincome.pubpub.org/pub/8jo2auig/download/pdf)
+[archive bond future option](https://ia803407.us.archive.org/11/items/fi-bond-future-option-12/FiBondFutureOption-archive.pdf)
 
-[Github bond future option](https://github.com/alanwhite1203/fiBondFutureOption/raw/main/FiBondFutureOption-12.pdf)
-
-[Gitlab bond future option](https://gitlab.com/finance15/fibondfutureoption/-/raw/master/FiBondFutureOption-12.pdf)
 
 [Bitbucket bond future option](https://bitbucket.org/cmrm11/fibondfutureoption/downloads/FiBondFutureOption-12.pdf)
 
 [OSF bond future option](https://osf.io/d2xaj/download)
 
 [Pub bond future option](https://fixedincome.pubpub.org/pub/8jo2auig/release/1)
-
-[Pub bond future option pdf](https://assets.pubpub.org/b1yf2lou/31596541508941.pdf)
-
-[Github bond future option](https://github.com/alanwhite1203/fiBondFutureOption/raw/main/FiBondFutureOption-12.pdf)
 
 [Hcommons bond future option pdf](https://hcommons.org/deposits/download/hc:41606/CONTENT/fibondfutureoption-12.pdf)
 

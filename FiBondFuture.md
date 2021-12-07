@@ -97,11 +97,8 @@ References:
 
 [Zenodo futures](https://zenodo.org/record/3958039/files/FiBondFuture-11.pdf)
 
-[Pubpub futures](https://fixedincome.pubpub.org/pub/jxxynl4w/download/pdf)
+[archive futures](https://ia803404.us.archive.org/29/items/fi-bond-future-11/FiBondFuture-archive.pdf)
 
-[Github futures](https://github.com/alanwhite1203/fiBondFuture/raw/main/FiBondFuture-11.pdf)
-
-[Gitlab futures](https://gitlab.com/finance15/fibondfuture/-/raw/master/FiBondFuture-11.pdf)
 
 [Bitbucket futures](https://bitbucket.org/cmrm11/fibondfuture/downloads/FiBondFuture-11.pdf)
 
@@ -109,9 +106,6 @@ References:
 
 [Pub futures](https://fixedincome.pubpub.org/pub/jxxynl4w/release/1)
 
-[Pub futures pdf](https://assets.pubpub.org/6atcinjk/61596541223159.pdf)
-
-[Github futures](https://github.com/alanwhite1203/fiBondFuture/raw/main/FiBondFuture-11.pdf)
 
 [Hcommons futures pdf](https://hcommons.org/deposits/download/hc:41602/CONTENT/fibondfuture-11.pdf)
 

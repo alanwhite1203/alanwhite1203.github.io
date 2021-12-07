@@ -88,13 +88,11 @@ References:
  
 [FlipHtml5 bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM0cjNyETPkl0av9mY)
  
-[Zenodo bond](https://zenodo.org/record/3958026/files/FiBond-10.pdf)
+[Zenodo bond](https://zenodo.org/record/5764984/files/Zenodo-FiBond.pdf)
  
-[Pubpub bond](https://fixedincome.pubpub.org/pub/j5k0ljcd/download/pdf)
  
-[Github bond](https://github.com/alanwhite1203/fiBond/raw/main/FiBond-10.pdf)
+[archive bond](https://ia903400.us.archive.org/5/items/fi-bond-10/FiBond-archive.pdf)
  
-[Gitlab bond](https://gitlab.com/finance15/fibond/-/raw/master/FiBond-10.pdf)
  
 [Bitbucket bond](https://bitbucket.org/cmrm11/fibond/downloads/FiBond-10.pdf)
  
@@ -102,6 +100,3 @@ References:
 
 [Pub bond](https://fixedincome.pubpub.org/pub/j5k0ljcd/release/1)
 
-[Pub bond pdf](https://assets.pubpub.org/f1rpbaty/21596458284937.pdf)
-
-[Github bond](https://github.com/alanwhite1203/fiBond/raw/main/FiBond-10.pdf)

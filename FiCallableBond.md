@@ -117,25 +117,17 @@ References:
 
 [FlipHtml5 callable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzM1ITM5ITPkl0av9mY)
 
-[Zenodo callable](https://zenodo.org/record/3973190/files/FiCallableBond-13.pdf)
+[Zenodo callable](https://zenodo.org/record/5765076/files/Zenodo-FiCallableBond.pdf)
 
-[Pubpub callable](https://fixedincome.pubpub.org/pub/ylqcukjc/download/pdf)
-
-[Github callable](https://github.com/alanwhite1203/fiCallable/raw/main/FiCallableBond-13.pdf)
+[archive callable](https://ia903407.us.archive.org/20/items/fi-callable-bond-13/FiCallableBond-archive.pdf)
 
 [FlipHtml5 callable pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTMxkjNyETPkl0av9mY)
-
-[Gitlab callable](https://gitlab.com/finance15/ficallable/-/raw/master/FiCallableBond-13.pdf)
 
 [Bitbucket callable](https://bitbucket.org/cmrm11/ficallable/downloads/FiCallableBond-13.pdf)
 
 [OSF callable](https://osf.io/qkbfn/download)
 
 [Pub callable](https://fixedincome.pubpub.org/pub/ylqcukjc/release/1)
-
-[Pub callable pdf](https://assets.pubpub.org/197a3mu4/41596633644858.pdf)
-
-[Github callable](https://github.com/alanwhite1203/fiCallable/raw/main/FiCallableBond-13.pdf)
 
 [Hcommons callable pdf](https://hcommons.org/deposits/download/hc:41630/CONTENT/ficallablebond-13.pdf)
 

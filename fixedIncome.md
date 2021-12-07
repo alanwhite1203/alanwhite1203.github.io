@@ -8,15 +8,12 @@ An amortizing bond is used specifically for tax purposes as the amortized princi
 
 [More details](./FiAmortizingBond.md)
 
-[Github amortizing bond](https://github.com/alanwhite1203/fiAmortizingBond)
-
-[OSF amortizing bond](https://osf.io/qrc8n/download)
 
 [Gitbook amortizing bond](https://davidlee1203.gitbook.io/amortizing-bond/)
 
 [Science-media amortizing bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_526.pdf)
 
-
+[Github amortizing bond](https://github.com/alanwhite1203/fiAmortizingBond)
 
 
 ### Fixed Rate Bond
@@ -30,7 +27,6 @@ Fixed rate bonds generally pay higher coupons than interest rates. An investor w
 
 [Github bond](https://github.com/alanwhite1203/fiBond)
 
-[OSF bond](https://osf.io/gtcma/download)
 
 [Gibook bond](https://cmrm11.gitbook.io/bond-valuation/)
 
@@ -48,9 +44,6 @@ The seller usually picks up the cheapest bond in the basket to deliver, called t
 
 [Github bond futures](https://github.com/alanwhite1203/fiBondFuture)
 
-[FlipHtml5 bond futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDO1gDM5ITPkl0av9mY)
-
-[OSF bond futures](https://osf.io/2vzq8/download)
 
 [Gitbook bond futures](https://cmrm11.gitbook.io/bond-futures/)
 
@@ -70,9 +63,6 @@ Bond futures options are also exchange traded derivatives on treasury instrument
 
 [Github bond future option](https://github.com/alanwhite1203/fiBondFutureOption)
 
-[FlipHtml5 bond future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTM1ITM5ITPkl0av9mY)
-
-[OSF bond future option](https://osf.io/d2xaj/download)
 
 [Gitbook bond future option](https://cmrm11.gitbook.io/bond-future-option/)
 
@@ -92,9 +82,6 @@ For issuers, callable bonds allow them to reduce interest costs at a future date
 
 [Github callable bond](https://github.com/alanwhite1203/fiCallable)
 
-[FlipHtml5 callabe bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzM1ITM5ITPkl0av9mY)
-
-[OSF callable](https://osf.io/qkbfn/download)
 
 [Gitbook callable](https://cmrm11.gitbook.io/callable-bond/)
 
@@ -113,11 +100,6 @@ The price of an FRN has very low sensitivity to changes in interest rates becaus
 
 [Github frn](https://github.com/alanwhite1203/fiFrn)
 
-[Zenodo frn](https://zenodo.org/record/3973196/files/FiFrn-14.pdf)
-
-[FlipHtml5 frn](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkzM1ITM5ITPkl0av9mY)
-
-[OSF frn](https://osf.io/yrbnh/download)
 
 [Gitbook frn](https://cmrm11.gitbook.io/floating-rate-note/)
 
@@ -137,10 +119,6 @@ The main idea of inflation indexed bonds is that investing in the bond will gene
 
 [Github inflation bond](https://github.com/alanwhite1203/fiInflation)
 
-[FlipHtml5 inflation bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamADM3QjM5ITPkl0av9mY)
-
-[OSF inflation bond](https://osf.io/f2qm9/download)
-
 [Gitbook inflation bond](https://cmrm11.gitbook.io/inflation-indexed-bond/)
 
 [Science-media inflation bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_533.pdf)
@@ -158,10 +136,6 @@ Although a puttable bond is a higher cost to the investor and an uncertainty to 
 [More details](./FiPuttableBond.md)
 
 [Github puttable bond](https://github.com/alanwhite1203/fiPuttable)
-
-[FlipHtml5 puttable bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDM3QjM5ITPkl0av9mY)
-
-[OSF puttable bond](https://osf.io/veqj3/download)
 
 [Gitbook puttable bond](https://cmrm11.gitbook.io/puttable-bond/)
 
@@ -181,10 +155,6 @@ Zero coupon bonds are issued at a deep discount and repaid the face value at mat
 
 [Github zero](https://github.com/alanwhite1203/fiZeroBond)
 
-[FlipHtml5 zero](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDM3QjM5ITPkl0av9mY)
-
-[OSF zero](https://osf.io/d59wu/download)
-
 [Hcommons zero](https://hcommons.org/deposits/download/hc:41724/CONTENT/fizerobond-17.pdf)
 
 [Gitbook zero](https://cmrm11.gitbook.io/zero-coupon-bond/)
@@ -199,7 +169,7 @@ Zero coupon bonds are issued at a deep discount and repaid the face value at mat
 A callable floating coupon note gives the issuer to recall the note on specified future recall dates at a predetermined recall price. The callable future is known upfront and allows the issuer to cancel the note and pay off the notional before maturity.
 
 
-[Zenodo callable note](https://zenodo.org/record/4659043/files/FiCallableFrn-18.pdf)
+[Zenodo callable note](https://zenodo.org/record/5759806/files/Zenodo-FiCallableFrn.pdf)
 
 [FlipHtml5 callabe note](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTNxEjN4MTPkl0av9mY)
 
@@ -209,5 +179,5 @@ A callable floating coupon note gives the issuer to recall the note on specified
 
 [Gitbook callable note](https://cmrm11.gitbook.io/callable-floating-coupon-note/)
 
-
+[archive callable note](https://ia903407.us.archive.org/10/items/fi-callable-frn-18/FiCallableFrn-archive.pdf)
 
