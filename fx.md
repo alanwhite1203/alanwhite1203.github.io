@@ -9,10 +9,6 @@ Asian FX options allow the buyer to purchase or sell the underlying foreign exch
 	
 [More details](./FxAsian.md)
 
-[FlipHtml5 Asian](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDM5UDN5ITPkl0av9mY)
-
-[OSF Asian](https://osf.io/g73qw/download)
-
 [Github Asian](https://github.com/alanwhite1203/fxAsian)
 
 [Hcommons Asian](https://hcommons.org/deposits/download/hc:42686/CONTENT/fxasian-18.pdf)
@@ -28,10 +24,6 @@ A currency forward or FX forward is a contract agreement between two parties to 
 
  
 [More details](./FxForward.md)
- 
-[FlipHtml5 Forward](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgjM5UDN5ITPkl0av9mY)
-
-[OSF forward](https://osf.io/ez6an/download)
 
 [Github forward](https://github.com/alanwhite1203/fxForward)
 
@@ -51,10 +43,6 @@ A currency future or an FX future is a future contract between two parties to ex
 
 [More details](./FxFuture.md)
 
-[FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUzM5UDN5ITPkl0av9mY)
-
-[OSF futures](https://osf.io/rqd6v/download)
-
 [Github futures](https://github.com/alanwhite1203/fxFuture)
 
 [Science-media futures](https://science-media.org/userfiles/1020/presentations/1020_presentation_538.pdf)
@@ -72,10 +60,6 @@ A currency option, also known as FX Option, is a derivative contract that grants
   
 [More details](./FxOption.md)
 
-[FlipHtml5 opton](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjMwATN5ITPkl0av9mY)
-
-[OSF option](https://osf.io/xfjpz/download)
-
 [Github option](https://github.com/alanwhite1203/fxOption)
 
 [Science-media option](https://science-media.org/userfiles/1020/presentations/1020_presentation_539.pdf)
@@ -92,10 +76,6 @@ An FX swap or currency swap agreement is a contract  in which both parties agree
 
 [More details](./FxSwap.md)
 
-[FlipHtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMwATN5ITPkl0av9mY)
-
-[OSF swap](https://osf.io/vuyzn/download)
-
 [Github swap](https://github.com/alanwhite1203/fxSwap)
 
 [Science-media swap](https://science-media.org/userfiles/1020/presentations/1020_presentation_540.pdf)
@@ -111,10 +91,6 @@ A touch option is the sort of option that promises a payout once the price of an
    
    
 [More details](./FxTouch.md) 
-   
-[FlipHtml5 touch](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUzMwATN5ITPkl0av9mY)
-
-[OSF touch](https://osf.io/6m5jx/download)
 
 [Github touch](https://github.com/alanwhite1203/fxTouch)
 

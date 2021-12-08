@@ -131,13 +131,9 @@ References:
   
 [FlipHtml5 fx option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjMwATN5ITPkl0av9mY)
   
-[Zenodo fx option](https://zenodo.org/record/3990516/files/FxOption-22.pdf)
+[Zenodo fx option](https://zenodo.org/record/5768242/files/Zenodo-FxOption.pdf)
   
-[Pubpub fx option](https://fixedincome.pubpub.org/pub/81ff8xek/download/pdf)
-  
-[Github fx option](https://github.com/alanwhite1203/fxOption/raw/main/FxOption-22.pdf)
-  
-[Gitlab fx option](https://gitlab.com/cmrm11/fxoption/-/raw/master/FxOption-22.pdf)
+[archive fx option](https://ia803400.us.archive.org/15/items/fx-option-22/FxOption-archive.pdf)
   
 [Bitbucket fx option](https://bitbucket.org/cmrm11/fxoption/downloads/FxOption-22.pdf)
   
@@ -145,7 +141,4 @@ References:
 
 [Pub option](https://fixedincome.pubpub.org/pub/81ff8xek/release/1)
 
-[Pub option pdf](https://assets.pubpub.org/cq8xezis/51597687990319.pdf)
-
-[Github option](https://github.com/alanwhite1203/fxOption/raw/main/FxOption-22.pdf)
 

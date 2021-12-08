@@ -94,11 +94,7 @@ References:
    
 [Zenodo touch](https://zenodo.org/record/3990522/files/FxTouch-24.pdf)
    
-[Pubpub touch](https://fixedincome.pubpub.org/pub/c4yuodf7/download/pdf)
-   
-[Github touch](https://github.com/alanwhite1203/fxTouch/raw/main/FxTouch-24.pdf)
-   
-[Gitlab touch](https://gitlab.com/cmrm11/fxtouch/-/raw/master/FxTouch-24.pdf)
+[archive touch](https://ia803408.us.archive.org/9/items/fx-touch-24/FxTouch-archive.pdf)
    
 [Bitbucket touch](https://bitbucket.org/cmrm11/fxtouch/downloads/FxTouch-24.pdf)
    
@@ -106,7 +102,5 @@ References:
 
 [Pub touch](https://fixedincome.pubpub.org/pub/c4yuodf7/release/1)
 
-[Pub touch pdf](https://assets.pubpub.org/pc73s2n4/21597688628152.pdf)
 
-[Github touch](https://github.com/alanwhite1203/fxTouch/raw/main/FxTouch-24.pdf)
    

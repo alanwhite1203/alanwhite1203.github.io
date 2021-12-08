@@ -106,13 +106,9 @@ References:
 
 [FlipHtml5 fx Asian](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDM5UDN5ITPkl0av9mY)
 
-[Zenodo fx Asian](https://zenodo.org/record/3988538/files/FxAsian-18.pdf)
+[Zenodo fx Asian](https://zenodo.org/record/5768214/files/Zenodo-FxAsian.pdf)
 
-[Pubpub Asian](https://fixedincome.pubpub.org/pub/wl8hffch/download/pdf)
-
-[Github Asian](https://github.com/alanwhite1203/fxAsian/raw/main/FxAsian-18.pdf)
-
-[Gitlab Asian](https://gitlab.com/cmrm11/fxasian/-/raw/master/FxAsian-18.pdf)
+[archive Asian](https://ia803406.us.archive.org/6/items/fx-asian-18/FxAsian-archive.pdf)
 
 [Bitbucket Asian](https://bitbucket.org/cmrm11/fxasian/downloads/FxAsian-18.pdf)
 
@@ -120,7 +116,4 @@ References:
 
 [Pub Asian](https://fixedincome.pubpub.org/pub/wl8hffch/release/1)
 
-[Pub Asian pdf](https://assets.pubpub.org/yrkwcr4o/11597087224135.pdf)
-
-[Github Asian](https://github.com/alanwhite1203/fxAsian/raw/main/FxAsian-18.pdf)
 

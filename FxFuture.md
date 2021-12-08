@@ -98,13 +98,9 @@ References:
   
 [FlipHtml5 fx futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUzM5UDN5ITPkl0av9mY)
   
-[Zenodo fx futures](https://zenodo.org/record/3988546/files/FxFuture-21.pdf)
+[Zenodo fx futures](https://zenodo.org/record/5768241/files/Zenodo-FxFuture.pdf)
   
-[Pubpub fx futures](https://fixedincome.pubpub.org/pub/olni7vl6/download/pdf)
-  
-[Github fx futures](https://github.com/alanwhite1203/fxFuture/raw/main/FxFuture-21.pdf)
-  
-[Gitlab fx futures](https://gitlab.com/cmrm11/fxfuture/-/raw/master/FxFuture-21.pdf)
+[archive fx futures](https://ia803403.us.archive.org/10/items/fx-future-21/FxFuture-archive.pdf)
   
 [Bitbucket fx futures](https://bitbucket.org/cmrm11/fxfuture/downloads/FxFuture-21.pdf)
   
@@ -112,6 +108,3 @@ References:
 
 [Pub futures](https://fixedincome.pubpub.org/pub/olni7vl6/release/1)
 
-[Pub futures pdf](https://assets.pubpub.org/w72dki68/51597087717478.pdf)
-
-[Github futures](https://github.com/alanwhite1203/fxFuture/raw/main/FxFuture-21.pdf)

@@ -97,13 +97,9 @@ References:
  
 [FlipHtml5 fx forward](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgjM5UDN5ITPkl0av9mY)
  
-[Zenodo fx forward](https://zenodo.org/record/3988542/files/FxForward-19.pdf)
+[Zenodo fx forward](https://zenodo.org/record/5768221/files/Zenodo-FxForward.pdf)
  
-[Pubpub Asian](https://fixedincome.pubpub.org/pub/q7x5shxj/download/pdf)
- 
-[Github fx forward](https://github.com/alanwhite1203/fxForward/raw/main/FxForward-19.pdf)
- 
-[Gitlab fx forward](https://gitlab.com/cmrm11/fxforward/-/raw/master/FxForward-19.pdf)
+[archive Asian](https://ia903403.us.archive.org/16/items/fx-forward-19/FxForward-archive.pdf)
  
 [Bitbucket fx forward](https://bitbucket.org/cmrm11/fxforward/downloads/FxForward-19.pdf)
  
@@ -111,6 +107,4 @@ References:
 
 [Pub forward](https://fixedincome.pubpub.org/pub/q7x5shxj/release/1)
 
-[Pub forward pdf](https://assets.pubpub.org/y7lxa9ne/01597087443305.pdf)
 
-[Github forward](https://github.com/alanwhite1203/fxForward/raw/main/FxForward-19.pdf)

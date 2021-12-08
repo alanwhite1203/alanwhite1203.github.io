@@ -114,11 +114,7 @@ References:
    
 [Zenodo fx swap](https://zenodo.org/record/3990518/files/FxSwap-23.pdf)
    
-[Pubpub fx swap](https://fixedincome.pubpub.org/pub/k0brdlqc/download/pdf)
-   
-[Github fx swap](https://github.com/alanwhite1203/fxSwap/raw/main/FxSwap-23.pdf)
-   
-[Gitlab fx swap](https://gitlab.com/cmrm11/fxswap/-/raw/master/FxSwap-23.pdf)
+[archive fx swap](https://ia804500.us.archive.org/24/items/fx-swap-23/FxSwap-archive.pdf)
    
 [Bitbucket fx swap](https://bitbucket.org/cmrm11/fxswap/downloads/FxSwap-23.pdf)
    
@@ -126,9 +122,6 @@ References:
 
 [Pub swap](https://fixedincome.pubpub.org/pub/k0brdlqc/release/1)
 
-[Pub swap pdf](https://assets.pubpub.org/rx49oovd/51597688417835.pdf)
-
-[Github swap](https://github.com/alanwhite1203/fxSwap/raw/main/FxSwap-23.pdf)
 
 
    
