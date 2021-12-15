@@ -71,7 +71,7 @@ References:
 
 [OSF zero bond](https://osf.io/d59wu/download)
 
-[Pub zero bond](https://fixedincome.pubpub.org/pub/xmrfe4fp/release/1)
+[Pub zero bond](https://fixedincome.pubpub.org/pub/xmrfe4fp)
 
 
 

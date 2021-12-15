@@ -80,6 +80,6 @@ References:
 
 [OSF amortizing bond](https://osf.io/qrc8n/download)
 
-[Pub amortizing bond](https://fixedincome.pubpub.org/pub/2tsz1ogw/release/1)
+[Pub amortizing bond](https://fixedincome.pubpub.org/pub/2tsz1ogw)
 
 

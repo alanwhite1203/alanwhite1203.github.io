@@ -98,5 +98,5 @@ References:
  
 [OSF bond](https://osf.io/gtcma/download)
 
-[Pub bond](https://fixedincome.pubpub.org/pub/j5k0ljcd/release/1)
+[Pub bond](https://fixedincome.pubpub.org/pub/j5k0ljcd)
 

@@ -87,7 +87,7 @@ References:
 
 [OSF inflation](https://osf.io/f2qm9/download)
 
-[Pub inflation](https://fixedincome.pubpub.org/pub/n232c4iu/release/1)
+[Pub inflation](https://fixedincome.pubpub.org/pub/n232c4iu)
 
 [Hcommons inflation pdf](https://hcommons.org/deposits/download/hc:41668/CONTENT/fiinflationbond-15.pdf)
 

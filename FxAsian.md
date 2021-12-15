@@ -114,6 +114,6 @@ References:
 
 [OSF Asian](https://osf.io/g73qw/download)
 
-[Pub Asian](https://fixedincome.pubpub.org/pub/wl8hffch/release/1)
+[Pub Asian](https://fixedincome.pubpub.org/pub/wl8hffch)
 
 

@@ -127,7 +127,7 @@ References:
 
 [OSF callable](https://osf.io/qkbfn/download)
 
-[Pub callable](https://fixedincome.pubpub.org/pub/ylqcukjc/release/1)
+[Pub callable](https://fixedincome.pubpub.org/pub/ylqcukjc)
 
 [Hcommons callable pdf](https://hcommons.org/deposits/download/hc:41630/CONTENT/ficallablebond-13.pdf)
 

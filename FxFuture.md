@@ -106,5 +106,5 @@ References:
   
 [OSF futures](https://osf.io/rqd6v/download)
 
-[Pub futures](https://fixedincome.pubpub.org/pub/olni7vl6/release/1)
+[Pub futures](https://fixedincome.pubpub.org/pub/olni7vl6)
 

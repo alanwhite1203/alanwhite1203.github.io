@@ -104,7 +104,7 @@ References:
 
 [OSF futures](https://osf.io/2vzq8/download)
 
-[Pub futures](https://fixedincome.pubpub.org/pub/jxxynl4w/release/1)
+[Pub futures](https://fixedincome.pubpub.org/pub/jxxynl4w)
 
 
 [Hcommons futures pdf](https://hcommons.org/deposits/download/hc:41602/CONTENT/fibondfuture-11.pdf)

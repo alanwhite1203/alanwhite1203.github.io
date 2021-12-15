@@ -105,6 +105,6 @@ References:
  
 [OSF forward](https://osf.io/ez6an/download)
 
-[Pub forward](https://fixedincome.pubpub.org/pub/q7x5shxj/release/1)
+[Pub forward](https://fixedincome.pubpub.org/pub/q7x5shxj)
 
 
