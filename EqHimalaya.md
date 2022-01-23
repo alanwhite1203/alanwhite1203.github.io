@@ -27,3 +27,5 @@ References:
 [OSF himalaya](https://osf.io/3hf9y/download)
 
 [archive himalaya](https://ia803400.us.archive.org/13/items/eq-himalaya-25/EqHimalaya-archive.pdf)  
+
+[hcommons himalaya](https://hcommons.org/deposits/download/hc:41448/CONTENT/eqhimalaya-25.pdf)

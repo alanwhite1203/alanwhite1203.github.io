@@ -116,7 +116,7 @@ References:
    
 [archive fx swap](https://ia804500.us.archive.org/24/items/fx-swap-23/FxSwap-archive.pdf)
    
-[Bitbucket fx swap](https://bitbucket.org/cmrm11/fxswap/downloads/FxSwap-23.pdf)
+[hcommons fx swap](https://hcommons.org/deposits/download/hc:43228/CONTENT/fxswap-23.pdf)
    
 [OSF swap](https://osf.io/vuyzn/download)
 

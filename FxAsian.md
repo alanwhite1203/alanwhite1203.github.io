@@ -110,7 +110,7 @@ References:
 
 [archive Asian](https://ia803406.us.archive.org/6/items/fx-asian-18/FxAsian-archive.pdf)
 
-[Bitbucket Asian](https://bitbucket.org/cmrm11/fxasian/downloads/FxAsian-18.pdf)
+[hcommons Asian](https://hcommons.org/deposits/download/hc:42686/CONTENT/fxasian-18.pdf)
 
 [OSF Asian](https://osf.io/g73qw/download)
 

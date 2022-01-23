@@ -27,3 +27,5 @@ References:
 [OSF warrant](https://osf.io/wgmq5/download)
 
 [Github variance pdf](https://ia803408.us.archive.org/0/items/eq-variance-9/EqVariance-archive.pdf)  
+
+[hcommons warrant](https://hcommons.org/deposits/download/hc:38384/CONTENT/eqvariance-9.pdf)

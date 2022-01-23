@@ -27,3 +27,5 @@ References:
 [OSF reverse](https://osf.io/y6r57/download)
 
 [archive reverse](https://ia803407.us.archive.org/2/items/eq-reverse-18/EqReverse-archive.pdf)  
+
+[hcommons reverse](https://hcommons.org/deposits/download/hc:38540/CONTENT/eqreverse-18.pdf)

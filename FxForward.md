@@ -101,7 +101,7 @@ References:
  
 [archive Asian](https://ia903403.us.archive.org/16/items/fx-forward-19/FxForward-archive.pdf)
  
-[Bitbucket fx forward](https://bitbucket.org/cmrm11/fxforward/downloads/FxForward-19.pdf)
+[hcommons fx forward](https://hcommons.org/deposits/download/hc:42736/CONTENT/fxforward-19.pdf)
  
 [OSF forward](https://osf.io/ez6an/download)
 

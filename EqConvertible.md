@@ -132,7 +132,7 @@ References:
 
 [Zenodo convertible](https://zenodo.org/record/3945092/files/EqConvertible-4.pdf)
   
-[Bitbucket convertible](https://bitbucket.org/cmrm11/eqconvertible/downloads/EqConvertible-4.pdf)
+[hcommons convertible](https://hcommons.org/deposits/download/hc:38228/CONTENT/eqconvertible-4.pdf)
   
 [Pub convertible](https://david.pubpub.org/pub/p5wrxj58/release/1)
 

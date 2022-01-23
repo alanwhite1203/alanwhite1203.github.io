@@ -102,7 +102,7 @@ References:
  [Zenodo Asian](https://zenodo.org/record/5748073/files/Zenodo-EqAsian.pdf)
  
  
- [Bitbucket Asian](https://bitbucket.org/cmrm11/eqasian/downloads/EqAsian-2.pdf)
+ [hcommons Asian](https://hcommons.org/deposits/download/hc:38190/CONTENT/eqasian-2.pdf)
  
  
  [Pub Asian](https://david.pubpub.org/pub/ccmadp61/release/1)

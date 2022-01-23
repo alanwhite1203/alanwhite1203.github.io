@@ -116,7 +116,7 @@ LOGM.O	87.5
   
   [Zenodo basket](https://zenodo.org/record/5748077/files/Zenodo-EqBasket.pdf)
   
-  [Bitbucket basket](https://bitbucket.org/cmrm11/eqbasket/downloads/EqBasket-3.pdf)
+  [hcommons basket](https://hcommons.org/deposits/download/hc:38410/CONTENT/eqbarrier-11.pdf)
   
   [Pub basket](https://david.pubpub.org/pub/iycnkfjo/release/1)
   

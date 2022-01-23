@@ -30,3 +30,5 @@ References:
 
 
 [archive cppi](https://ia803406.us.archive.org/32/items/eq-cppi-19/EqCppi-archive.pdf)  
+
+[hcommons cppi](https://hcommons.org/deposits/download/hc:38648/CONTENT/eqcppi-19.pdf)

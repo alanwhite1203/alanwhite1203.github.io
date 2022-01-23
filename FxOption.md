@@ -135,7 +135,7 @@ References:
   
 [archive fx option](https://ia803400.us.archive.org/15/items/fx-option-22/FxOption-archive.pdf)
   
-[Bitbucket fx option](https://bitbucket.org/cmrm11/fxoption/downloads/FxOption-22.pdf)
+[hcommons fx option](https://hcommons.org/deposits/download/hc:43226/CONTENT/fxoption-22.pdf)
   
 [OSF option](https://osf.io/xfjpz/download)
 

@@ -31,3 +31,5 @@ References:
 [OSF spread](https://osf.io/4kcrh/download)
 
 [archive spread](https://ia803404.us.archive.org/12/items/eq-spread-16/EqSpread-archive.pdf)  
+
+[hcommons spread](https://hcommons.org/deposits/download/hc:38508/CONTENT/eqspread-16.pdf)

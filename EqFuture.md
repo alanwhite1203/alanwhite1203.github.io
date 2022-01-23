@@ -58,7 +58,7 @@ References:
 
 [OSF futures](https://osf.io/t5vnp/download)
    
-[Bitbucket futures](https://bitbucket.org/cmrm11/eqfuture/downloads/EqFuture-5.pdf)
+[hcommons futures](https://hcommons.org/deposits/download/hc:38282/CONTENT/eqfuture-5.pdf)
 
 [Pub futures](https://david.pubpub.org/pub/oe0dizke/release/1)
 

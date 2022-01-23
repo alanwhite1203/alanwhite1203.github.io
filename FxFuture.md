@@ -102,7 +102,7 @@ References:
   
 [archive fx futures](https://ia803403.us.archive.org/10/items/fx-future-21/FxFuture-archive.pdf)
   
-[Bitbucket fx futures](https://bitbucket.org/cmrm11/fxfuture/downloads/FxFuture-21.pdf)
+[hcommons fx futures](https://hcommons.org/deposits/download/hc:42804/CONTENT/fxfuture-21.pdf)
   
 [OSF futures](https://osf.io/rqd6v/download)
 

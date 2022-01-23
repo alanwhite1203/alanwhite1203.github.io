@@ -28,3 +28,5 @@ References:
 [OSF arn](https://osf.io/yexkd/download)
 
 [archive arn](https://ia803408.us.archive.org/0/items/eq-accelerate-20/EqAccelerate-archive.pdf)  
+
+[hcommons arn](https://hcommons.org/deposits/download/hc:38846/CONTENT/eqaccelerate-20.pdf)

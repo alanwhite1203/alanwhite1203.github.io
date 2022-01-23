@@ -34,3 +34,5 @@ References:
 [OSF Quanto](https://osf.io/2qjps/download)
 
 [Archive Quanto](https://ia903402.us.archive.org/15/items/eq-quanto-14/EqQuanto-archive.pdf)  
+
+[hcommons Quanto](https://hcommons.org/deposits/download/hc:38464/CONTENT/eqquanto-14.pdf)

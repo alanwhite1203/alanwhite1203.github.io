@@ -40,3 +40,5 @@ References:
 [archvie range accrual](https://ia903407.us.archive.org/23/items/eq-range-accrual-27/EqRangeAccrual-archive.pdf)
 
 [OSF range accrual](https://osf.io/476gc/download)
+
+[hcommons range accrual](https://hcommons.org/deposits/download/hc:41502/CONTENT/eqrangeaccrual-27.pdf)

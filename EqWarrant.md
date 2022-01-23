@@ -82,7 +82,7 @@ References:
    
 [Zenodo warrant](https://zenodo.org/record/3948314/files/EqWarrant-8.pdf)
    
-[Bitbucket warrant](https://bitbucket.org/cmrm11/eqwarrant/downloads/EqWarrant-8.pdf)
+[hcommons warrant](https://hcommons.org/deposits/download/hc:38350/CONTENT/eqwarrant-8.pdf)
 
 [Pub warrant](https://david.pubpub.org/pub/tejvirlb/release/1)
 

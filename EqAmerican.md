@@ -86,3 +86,5 @@ References:
 [gitbook AO](https://captim.gitbook.io/eqamerican/)
 
 [science-media AO](https://science-media.org/userfiles/1020/presentations/1020_presentation_495.pdf)
+
+[hcommons AO](https://hcommons.org/deposits/download/hc:38106/CONTENT/eqamerican-1.pdf)

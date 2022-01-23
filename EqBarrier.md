@@ -42,4 +42,4 @@ References:
    
 [OSF barrier](https://osf.io/ymt8n/download)
 
-[Github barrier pdf](https://ia903403.us.archive.org/20/items/eq-barrier-11/EqBarrier-archive.pdf)  
+[hcommons barrier](https://hcommons.org/deposits/download/hc:38410/CONTENT/eqbarrier-11.pdf)

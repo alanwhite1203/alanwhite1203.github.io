@@ -35,4 +35,4 @@ References:
    
 [OSF cliquet](https://osf.io/swbg4/download)
 
-[Github cliquet pdf](https://github.com/alanwhite1203/EqCliquet/releases/download/1/EqCliquet-12.pdf)  
+[hcommons cliquet pdf](https://hcommons.org/deposits/download/hc:38442/CONTENT/eqcliquet-12.pdf)  

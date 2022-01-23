@@ -67,7 +67,7 @@ References:
 
 [archive zero bond](https://ia903403.us.archive.org/28/items/fi-zero-bond-17/FiZeroBond-archive.pdf)
 
-[Bitbucket zero bond](https://bitbucket.org/cmrm11/fizerobond/downloads/FiZeroBond-17.pdf)
+[hcommons zero bond](https://hcommons.org/deposits/download/hc:41724/CONTENT/fizerobond-17.pdf)
 
 [OSF zero bond](https://osf.io/d59wu/download)
 

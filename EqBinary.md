@@ -28,3 +28,5 @@ References:
 [Pubpub binary](https://david.pubpub.org/pub/t9j3lz67/release/1)
    
 [OSF binary](https://osf.io/e9u46/download)
+
+[barrier binary](https://hcommons.org/deposits/download/hc:38452/CONTENT/eqbinary-13.pdf)

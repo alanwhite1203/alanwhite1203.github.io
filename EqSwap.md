@@ -91,7 +91,7 @@ References:
    
 [Zenodo swap](https://zenodo.org/record/3948310/files/EqSwap-7.pdf)
    
-[Bitbucket swap](https://bitbucket.org/cmrm11/eqswap/downloads/EqSwap-7.pdf)
+[hcommons swap](https://hcommons.org/deposits/download/hc:38334/CONTENT/eqswap-7.pdf)
 
 [Pub swap](https://david.pubpub.org/pub/hmpp2r25/release/1)
 

@@ -21,4 +21,4 @@ References:
    
 [OSF lookback](https://osf.io/my7zq/download)
 
-[Github lookback pdf](https://ia903402.us.archive.org/9/items/eq-lookback-10/EqLookback-archive.pdf)  
+[hcommons lookback pdf](https://hcommons.org/deposits/download/hc:38392/CONTENT/eqlookback-10.pdf)  

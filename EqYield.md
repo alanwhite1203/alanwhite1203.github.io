@@ -25,6 +25,6 @@ References:
    
 [OSF yield](https://osf.io/mhktc/download)
 
-[Github yield](https://ia803403.us.archive.org/0/items/eq-yield-23/EqYield-archive.pdf)  
+[hcommons yield](https://hcommons.org/deposits/download/hc:41296/CONTENT/eqyield-23.pdf)  
 
 [archive yield](https://ia803403.us.archive.org/0/items/eq-yield-23/EqYield-archive.pdf)

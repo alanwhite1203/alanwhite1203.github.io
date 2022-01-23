@@ -99,7 +99,7 @@ References:
    
 [Zenodo option](https://zenodo.org/record/3948304/files/EqOption-6.pdf)
    
-[Bitbucket option](https://bitbucket.org/cmrm11/eqoption/downloads/EqOption-6.pdf)
+[hcommons option](https://hcommons.org/deposits/download/hc:38296/CONTENT/eqoption-6.pdf)
 
 [Pub option](https://david.pubpub.org/pub/4373ry94/release/1)
 
