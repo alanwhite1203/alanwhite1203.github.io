@@ -105,4 +105,9 @@ References:
 
 [archive option](https://ia903400.us.archive.org/27/items/eq-option-6/EqOption-archive.pdf)
 
-[OSF option](https://osf.io/86t9p/download
+[OSF option](https://osf.io/86t9p/download)
+
+[gitbook option](https://deripricing.gitbook.io/stock-option-product-and-valuation/)
+
+[science-media option](https://science-media.org/userfiles/1020/presentations/1020_presentation_501.pdf)
+

@@ -98,3 +98,5 @@ References:
 [archive swap](https://ia803401.us.archive.org/32/items/eq-swap-7/EqSwap-archive.pdf)
 
 [OSF swap](https://osf.io/72693/download)
+
+[gitbook swap](https://deripricing.gitbook.io/total-return-swap-valuation/)

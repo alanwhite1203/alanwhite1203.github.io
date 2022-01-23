@@ -29,3 +29,7 @@ References:
 [archive himalaya](https://ia803400.us.archive.org/13/items/eq-himalaya-25/EqHimalaya-archive.pdf)  
 
 [hcommons himalaya](https://hcommons.org/deposits/download/hc:41448/CONTENT/eqhimalaya-25.pdf)
+
+[gitbook himalaya](https://davidlee1203.gitbook.io/himalaya-option/)
+
+[science-media himalaya](https://science-media.org/userfiles/1020/presentations/1020_presentation_522.pdf)

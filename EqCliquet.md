@@ -36,3 +36,7 @@ References:
 [OSF cliquet](https://osf.io/swbg4/download)
 
 [hcommons cliquet pdf](https://hcommons.org/deposits/download/hc:38442/CONTENT/eqcliquet-12.pdf)  
+
+[gitbook cliquet](https://deripricing.gitbook.io/cliquet-option-valuation/)
+
+[science-media cliquet](https://science-media.org/userfiles/1020/presentations/1020_presentation_509.pdf)

@@ -22,3 +22,7 @@ References:
 [OSF lookback](https://osf.io/my7zq/download)
 
 [hcommons lookback pdf](https://hcommons.org/deposits/download/hc:38392/CONTENT/eqlookback-10.pdf)  
+
+[gitbook lookback](https://deripricing.gitbook.io/lookback-option-valuation/)
+
+[science-media lookback](https://science-media.org/userfiles/1020/presentations/1020_presentation_507.pdf)

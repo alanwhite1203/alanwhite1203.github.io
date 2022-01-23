@@ -123,13 +123,15 @@ References:
 
 [FlipHtml5 callable pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTMxkjNyETPkl0av9mY)
 
-[Bitbucket callable](https://bitbucket.org/cmrm11/ficallable/downloads/FiCallableBond-13.pdf)
+[gitbook callable](https://cmrm11.gitbook.io/callable-bond/)
 
 [OSF callable](https://osf.io/qkbfn/download)
 
 [Pub callable](https://fixedincome.pubpub.org/pub/ylqcukjc)
 
 [Hcommons callable pdf](https://hcommons.org/deposits/download/hc:41630/CONTENT/ficallablebond-13.pdf)
+
+[science-media callable](https://science-media.org/userfiles/1020/presentations/1020_presentation_531.pdf)
 
 
 

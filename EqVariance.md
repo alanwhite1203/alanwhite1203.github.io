@@ -26,6 +26,11 @@ References:
    
 [OSF warrant](https://osf.io/wgmq5/download)
 
-[Github variance pdf](https://ia803408.us.archive.org/0/items/eq-variance-9/EqVariance-archive.pdf)  
+[Github variance pdf](https://github.com/alanwhite1203/EqVariance)  
 
 [hcommons warrant](https://hcommons.org/deposits/download/hc:38384/CONTENT/eqvariance-9.pdf)
+
+[gitbook warrant](https://deripricing.gitbook.io/variance-swap-pricing/)
+
+
+[science-media warrant](https://science-media.org/userfiles/1020/presentations/1020_presentation_506.pdf)

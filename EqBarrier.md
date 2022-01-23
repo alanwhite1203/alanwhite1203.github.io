@@ -43,3 +43,7 @@ References:
 [OSF barrier](https://osf.io/ymt8n/download)
 
 [hcommons barrier](https://hcommons.org/deposits/download/hc:38410/CONTENT/eqbarrier-11.pdf)
+
+[gitbook barrier](https://deripricing.gitbook.io/barrier-option-pricing/)
+
+[science-media barrier](https://science-media.org/userfiles/1020/presentations/1020_presentation_508.pdf)

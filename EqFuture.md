@@ -64,3 +64,4 @@ References:
 
 [archive futures](https://ia903405.us.archive.org/8/items/eq-future-5/EqFuture-archive.pdf)
 
+[gitbook futures](https://deripricing.gitbook.io/equity-futures-and-forwards-pricing/)

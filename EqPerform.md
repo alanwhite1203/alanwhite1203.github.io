@@ -38,3 +38,7 @@ References:
 [archive best](https://ia903403.us.archive.org/15/items/eq-perform-17/EqPerform-archive.pdf) 
 
 [hcommons best](https://hcommons.org/deposits/download/hc:38524/CONTENT/eqperform-17.pdf) 
+
+[gitbook best](https://deripricing.gitbook.io/best-of-option-pricing/)
+
+[science-media best](https://science-media.org/userfiles/1020/presentations/1020_presentation_514.pdf)

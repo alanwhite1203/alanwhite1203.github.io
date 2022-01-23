@@ -76,10 +76,14 @@ References:
 
 [archive amortizing bond](https://ia803403.us.archive.org/28/items/fi-amortizing-bond-9/FiAmortizingBond-archive.pdf)
 
-[Bitbucket amortizing bond](https://bitbucket.org/cmrm11/fiamortizingbond/downloads/FiAmortizingBond-9.pdf)
+[gitbook amortizing bond](https://davidlee1203.gitbook.io/amortizing-bond/)
 
 [OSF amortizing bond](https://osf.io/qrc8n/download)
 
 [Pub amortizing bond](https://fixedincome.pubpub.org/pub/2tsz1ogw)
+
+[science-media amortizing bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_528.pdf)
+
+[gitbook amortizing bond](https://davidlee1203.gitbook.io/amortizing-bond/)
 
 

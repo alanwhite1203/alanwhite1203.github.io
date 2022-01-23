@@ -29,4 +29,8 @@ References:
    
 [OSF binary](https://osf.io/e9u46/download)
 
-[barrier binary](https://hcommons.org/deposits/download/hc:38452/CONTENT/eqbinary-13.pdf)
+[hcommons binary](https://hcommons.org/deposits/download/hc:38452/CONTENT/eqbinary-13.pdf)
+
+[gitbook binary](https://deripricing.gitbook.io/binary-option-valuation/)
+
+[science-media binary](https://science-media.org/userfiles/1020/presentations/1020_presentation_510.pdf)

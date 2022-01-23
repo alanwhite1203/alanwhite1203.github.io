@@ -29,3 +29,7 @@ References:
 [archive reverse](https://ia803407.us.archive.org/2/items/eq-reverse-18/EqReverse-archive.pdf)  
 
 [hcommons reverse](https://hcommons.org/deposits/download/hc:38540/CONTENT/eqreverse-18.pdf)
+
+[gitbook reverse](https://deripricing.gitbook.io/reverse-convertible-autocallable-swap/)
+
+[science-media reverse](https://science-media.org/userfiles/1020/presentations/1020_presentation_515.pdf)

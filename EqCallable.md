@@ -55,3 +55,7 @@ References:
 [archive callable](https://ia803403.us.archive.org/32/items/eq-callable-15/EqCallable-archive.pdf)  
 
 [hcommons callable](https://hcommons.org/deposits/download/hc:38496/CONTENT/eqcallable-15.pdf)
+
+[gitbook callable](https://deripricing.gitbook.io/callable-exotic-pricing/)
+
+[science-media callable](https://science-media.org/userfiles/1020/presentations/1020_presentation_512.pdf)

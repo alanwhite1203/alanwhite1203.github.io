@@ -36,3 +36,7 @@ References:
 [Archive Quanto](https://ia903402.us.archive.org/15/items/eq-quanto-14/EqQuanto-archive.pdf)  
 
 [hcommons Quanto](https://hcommons.org/deposits/download/hc:38464/CONTENT/eqquanto-14.pdf)
+
+[gitbook Quanto](https://deripricing.gitbook.io/quanto-option-pricing/)
+
+[science-media Quanto](https://science-media.org/userfiles/1020/presentations/1020_presentation_511.pdf)

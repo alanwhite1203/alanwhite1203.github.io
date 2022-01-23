@@ -27,3 +27,7 @@ References:
 [archive rainbow](https://ia903404.us.archive.org/15/items/eq-rainbow-24/EqRainbow-archive.pdf)  
 
 [hcommons rainbow](https://hcommons.org/deposits/download/hc:41308/CONTENT/eqrainbow-24.pdf)
+
+[gitbook rainbow](https://davidlee1203.gitbook.io/rainbow-option/)
+
+[science-media rainbow](https://science-media.org/userfiles/1020/presentations/1020_presentation_521.pdf)

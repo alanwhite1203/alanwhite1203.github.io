@@ -26,3 +26,8 @@ References:
 [Pubpub coupon](https://david.pubpub.org/pub/4f1by115/release/1)
    
 [OSF coupon](https://osf.io/x2rf8/download)
+
+[gitbook coupon](https://davidlee1203.gitbook.io/bonus-coupon-note/)
+
+[science-media coupon](https://science-media.org/userfiles/1020/presentations/1020_presentation_519.pdf)
+

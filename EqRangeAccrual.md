@@ -42,3 +42,7 @@ References:
 [OSF range accrual](https://osf.io/476gc/download)
 
 [hcommons range accrual](https://hcommons.org/deposits/download/hc:41502/CONTENT/eqrangeaccrual-27.pdf)
+
+[gitbook range accrual](https://davidlee1203.gitbook.io/callable-range-accrual-note/)
+
+[science-media range accrual](https://science-media.org/userfiles/1020/presentations/1020_presentation_524.pdf)

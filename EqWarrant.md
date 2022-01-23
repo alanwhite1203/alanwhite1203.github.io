@@ -90,3 +90,6 @@ References:
    
 
 [OSF warrant](https://osf.io/54xj6/download)
+
+[gitbook warrant](https://deripricing.gitbook.io/warrant-valuation/)
+

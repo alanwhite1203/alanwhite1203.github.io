@@ -94,7 +94,7 @@ References:
 [archive bond](https://ia903400.us.archive.org/5/items/fi-bond-10/FiBond-archive.pdf)
  
  
-[Bitbucket bond](https://bitbucket.org/cmrm11/fibond/downloads/FiBond-10.pdf)
+[gitbook bond](https://cmrm11.gitbook.io/bond-valuation/)
  
 [OSF bond](https://osf.io/gtcma/download)
 

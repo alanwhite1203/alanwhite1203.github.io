@@ -100,7 +100,7 @@ References:
 [archive futures](https://ia803404.us.archive.org/29/items/fi-bond-future-11/FiBondFuture-archive.pdf)
 
 
-[Bitbucket futures](https://bitbucket.org/cmrm11/fibondfuture/downloads/FiBondFuture-11.pdf)
+[gitbook futures](https://cmrm11.gitbook.io/bond-futures/)
 
 [OSF futures](https://osf.io/2vzq8/download)
 
@@ -108,6 +108,8 @@ References:
 
 
 [Hcommons futures pdf](https://hcommons.org/deposits/download/hc:41602/CONTENT/fibondfuture-11.pdf)
+
+[science-media futures](https://science-media.org/userfiles/1020/presentations/1020_presentation_528.pdf)
 
 
 

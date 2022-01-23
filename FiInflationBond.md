@@ -83,12 +83,14 @@ References:
 
 [archive inflation](https://ia903408.us.archive.org/33/items/fi-inflation-bond-15/FiInflationBond-archive.pdf)
 
-[Bitbucket inflation](https://bitbucket.org/cmrm11/fiinflation/downloads/FiInflationBond-15.pdf)
+[gitbook inflation](https://cmrm11.gitbook.io/inflation-indexed-bond/)
 
 [OSF inflation](https://osf.io/f2qm9/download)
 
 [Pub inflation](https://fixedincome.pubpub.org/pub/n232c4iu)
 
 [Hcommons inflation pdf](https://hcommons.org/deposits/download/hc:41668/CONTENT/fiinflationbond-15.pdf)
+
+[science-media inflation](https://science-media.org/userfiles/1020/presentations/1020_presentation_533.pdf)
 
 

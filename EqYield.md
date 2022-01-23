@@ -28,3 +28,7 @@ References:
 [hcommons yield](https://hcommons.org/deposits/download/hc:41296/CONTENT/eqyield-23.pdf)  
 
 [archive yield](https://ia803403.us.archive.org/0/items/eq-yield-23/EqYield-archive.pdf)
+
+[gitbook yield](https://davidlee1203.gitbook.io/callable-yield-note/)
+
+[science-media yield](https://science-media.org/userfiles/1020/presentations/1020_presentation_520.pdf)

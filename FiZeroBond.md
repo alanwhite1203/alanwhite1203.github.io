@@ -73,6 +73,10 @@ References:
 
 [Pub zero bond](https://fixedincome.pubpub.org/pub/xmrfe4fp)
 
+[gitbook zero bond](https://cmrm11.gitbook.io/zero-coupon-bond/)
+
+[science-media zero bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_534.pdf)
+
 
 
 

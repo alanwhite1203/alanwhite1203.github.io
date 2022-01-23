@@ -34,3 +34,7 @@ References:
 [OSF asr](https://osf.io/vbhpd/download)
 
 [archive asr](https://ia903407.us.archive.org/30/items/eq-asr-21/EqAsr-archive.pdf)  
+
+[gitbook asr](https://davidlee1203.gitbook.io/pricing-accelerated-share-repurchase/)
+
+[science-media asr](https://science-media.org/userfiles/1020/presentations/1020_presentation_518.pdf)

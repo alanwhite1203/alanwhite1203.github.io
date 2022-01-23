@@ -27,3 +27,7 @@ References:
 [OSF correlation swap](https://osf.io/uwy25/download)
 
 [archive correlation swap](https://ia803401.us.archive.org/11/items/eq-correlation-swap-26/EqCorrelationSwap-archive.pdf)  
+
+[science-media correlation swap](https://science-media.org/userfiles/1020/presentations/1020_presentation_523.pdf)
+
+[gitbook correlation swap](https://davidlee1203.gitbook.io/correlation-swap/)

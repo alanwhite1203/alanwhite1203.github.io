@@ -125,12 +125,14 @@ References:
 [archive bond future option](https://ia803407.us.archive.org/11/items/fi-bond-future-option-12/FiBondFutureOption-archive.pdf)
 
 
-[Bitbucket bond future option](https://bitbucket.org/cmrm11/fibondfutureoption/downloads/FiBondFutureOption-12.pdf)
+[gitbook bond future option](https://cmrm11.gitbook.io/bond-future-option/)
 
 [OSF bond future option](https://osf.io/d2xaj/download)
 
 [Pub bond future option](https://fixedincome.pubpub.org/pub/8jo2auig/release/1)
 
 [Hcommons bond future option pdf](https://hcommons.org/deposits/download/hc:41606/CONTENT/fibondfutureoption-12.pdf)
+
+[science-media bond future option](https://science-media.org/userfiles/1020/presentations/1020_presentation_529.pdf)
 
    

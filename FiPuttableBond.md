@@ -119,9 +119,11 @@ References:
 
 [archive puttable](https://ia803402.us.archive.org/22/items/fi-puttable-bond-16/FiPuttableBond-archive.pdf)
 
-[Bitbucket putable](https://bitbucket.org/cmrm11/fiputtable/downloads/FiPuttableBond-16.pdf)
+[gitbook putable](https://cmrm11.gitbook.io/puttable-bond/)
 
 [OSF puttable](https://osf.io/veqj3/download)
 
 [Pub puttable](https://fixedincome.pubpub.org/pub/u95623j1/release/1)
+
+[science-media puttable](https://science-media.org/userfiles/1020/presentations/1020_presentation_534.pdf)
 

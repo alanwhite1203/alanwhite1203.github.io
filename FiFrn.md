@@ -74,13 +74,15 @@ References:
 
 [archive frn](https://ia903406.us.archive.org/13/items/fi-frn-14/FiFrn-archive.pdf)
 
-[Bitbucket frn](https://bitbucket.org/cmrm11/fifrn/downloads/FiFrn-14.pdf)
+[gitbook frn](https://cmrm11.gitbook.io/floating-rate-note/)
 
 [OSF frn](https://osf.io/yrbnh/download)
 
 [Pub frn](https://fixedincome.pubpub.org/pub/zr3i4t1g/release/1)
 
 [Hcommons frn](https://hcommons.org/deposits/download/hc:41644/CONTENT/fifrn-14.pdf)
+
+[science-media frn](https://science-media.org/userfiles/1020/presentations/1020_presentation_532.pdf)
 
 
 

@@ -30,3 +30,5 @@ References:
 [archive arn](https://ia803408.us.archive.org/0/items/eq-accelerate-20/EqAccelerate-archive.pdf)  
 
 [hcommons arn](https://hcommons.org/deposits/download/hc:38846/CONTENT/eqaccelerate-20.pdf)
+
+[gitbook arn](https://davidlee1203.gitbook.io/accelerated-return-note-pricing/)
