@@ -76,18 +76,6 @@ Practical notes
 	Then you need to calculate equity forward price correctly by taking all dividends into account.
 	Finally, you can get the price using the Black formula.
 
-A real world example
-
-
-
-Underlying equity	.CSEARC5E
-Currency	USD
-Strike	150.4292
-Maturity Date	2/24/2022
-Call or Put	Call
-Exercise Type	European
-Settlement Type	Physical
-Position	598.2881
 
 
 References:
@@ -97,11 +85,9 @@ References:
 [Check](https://finpricing.com/lib/EqOption.html)
    
    
-[Zenodo option](https://zenodo.org/record/3948304/files/EqOption-6.pdf)
+[Zenodo option](https://zenodo.org/record/3948304#.YpPda8PMKUk)
    
 [hcommons option](https://hcommons.org/deposits/download/hc:38296/CONTENT/eqoption-6.pdf)
-
-[Pub option](https://david.pubpub.org/pub/4373ry94/release/1)
 
 [archive option](https://ia903400.us.archive.org/27/items/eq-option-6/EqOption-archive.pdf)
 

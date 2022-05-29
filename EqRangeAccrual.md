@@ -25,7 +25,6 @@ If Recall Dates are specified, the issuer has the option of recalling the option
 
 The product can be structured as a note, in which case the issuer pays the note holder the Notional amount at maturity. In the case of a callable note, exercising the recall feature cancels the redemption of Notional at maturity; hence the recall prices should include the Notional amount to be returned. 
 
-Due to the complexity of the product, the note is normally priced via Monte Carlo simulation. 
 
 
 
@@ -33,9 +32,7 @@ References:
 
 [More details](./EqRangeAccrual-27.pdf)
 
-[Zenodo range accrual](https://zenodo.org/record/4683873/files/EqRangeAccrual-27.pdf)
-
-[Pubpub range accrual](https://david.pubpub.org/pub/lodsaaco/release/1)
+[Zenodo range accrual](https://zenodo.org/record/6480438#.YpPegcPMKUk)
 
 [archvie range accrual](https://ia903407.us.archive.org/23/items/eq-range-accrual-27/EqRangeAccrual-archive.pdf)
 

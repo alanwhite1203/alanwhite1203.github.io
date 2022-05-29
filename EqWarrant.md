@@ -62,33 +62,18 @@ Strictly speaking, A is the asset price of the firm and σ is the volatility of 
 	There are several assumptions in this simplified warrant model (5): 1) the price process of the stock follows a geometric Brownian motion; 2) the stock provides a continuous proportional instantaneous pay-out (continuous dividend); 3) the risk-free interest rate is deterministic; 4) the volatility is constant; 5) the asset value per share is equal to the stock price; 6) the volatility of the firm is equal to the volatility of the stock.
 
 
-	A Real World Example
-
-
-Outstanding Shares	109254024
-Underlying equity	BTX.A
-Currency	USD
-Strike	4.55
-Maturity Date	10/1/2018
-CallPut	Call
-Exercise Type	European
-Settlement Type	Physical
-Position	2038
 
 
 References:
    
 [More details](./EqWarrant-8.pdf)     
    
-[Zenodo warrant](https://zenodo.org/record/3948314/files/EqWarrant-8.pdf)
+[Zenodo warrant](https://zenodo.org/record/6478663#.YpPhgMPMKUk)
    
 [hcommons warrant](https://hcommons.org/deposits/download/hc:38350/CONTENT/eqwarrant-8.pdf)
 
-[Pub warrant](https://david.pubpub.org/pub/tejvirlb/release/1)
-
 [archive warrant](https://ia903404.us.archive.org/22/items/eq-warrant-8/EqWarrant-archive.pdf)
-   
-
+ 
 [OSF warrant](https://osf.io/54xj6/download)
 
 [gitbook warrant](https://deripricing.gitbook.io/warrant-valuation/)

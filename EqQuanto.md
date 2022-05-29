@@ -27,9 +27,7 @@ References:
 [More details](./EqQuanto-14.pdf)     
 
    
-[Zenodo Quanto](https://zenodo.org/record/5759657/files/Zenodo-EqQuanto.pdf)
-   
-[Pubpub Quanto](https://david.pubpub.org/pub/ebrcvcvd/release/1)
+[Zenodo Quanto](https://zenodo.org/record/5759657#.YpPd-MPMKUk)
    
 [OSF Quanto](https://osf.io/2qjps/download)
 

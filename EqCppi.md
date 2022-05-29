@@ -21,13 +21,9 @@ References:
    
 [More details](./EqCppi-19.pdf)   
 
-   
-[Zenodo cppi](https://zenodo.org/record/4645827/files/EqCppi-19.pdf)
-   
-[Pubpub cppi](https://david.pubpub.org/pub/o76lo6w1/release/1)
-   
-[OSF cppi](https://osf.io/rcf93/download)
+[Zenodo cppi](https://zenodo.org/record/4645827#.YpPaC8PMKUk)
 
+[OSF cppi](https://osf.io/rcf93/download)
 
 [archive cppi](https://ia803406.us.archive.org/32/items/eq-cppi-19/EqCppi-archive.pdf)  
 

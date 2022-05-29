@@ -29,9 +29,7 @@ References:
 [More details](./EqPerform-17.pdf)   
 
    
-[Zenodo best](https://zenodo.org/record/5759679/files/Zenodo-EqPerform.pdf)
-   
-[Pubpub best](https://david.pubpub.org/pub/2oovw4eq/release/1)
+[Zenodo best](https://zenodo.org/record/6480269#.YpPdu8PMKUk)
    
 [OSF best](https://osf.io/7pzms/download)
 

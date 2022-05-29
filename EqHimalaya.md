@@ -12,7 +12,6 @@ A Digital Reverse Himalaya option contains a barrier feature. On each observatio
 
 Himalaya option is appealing to an investor due to the payoff structure as the option evaluates the maximum return of the best performing asset.
 
-Due to the complexity of the payoff structure, the option is normally priced via Monte Carlo simulation. 
 
 
 
@@ -20,10 +19,8 @@ References:
    
 [More details](./EqHimalaya-25.pdf)   
    
-[Zenodo himalaya](hhttps://zenodo.org/record/5759797/files/Zenodo-EqHimalaya.pdf)
-   
-[Pubpub himalaya](https://david.pubpub.org/pub/3d3lpnvc/release/1)
-   
+[Zenodo himalaya](https://zenodo.org/record/6480393#.YpPcacPMKUk)
+     
 [OSF himalaya](https://osf.io/3hf9y/download)
 
 [archive himalaya](https://ia803400.us.archive.org/13/items/eq-himalaya-25/EqHimalaya-archive.pdf)  

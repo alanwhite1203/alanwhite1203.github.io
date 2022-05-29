@@ -18,9 +18,7 @@ References:
    
 [More details](./EqRainbow-24.pdf)   
    
-[Zenodo rainbow](https://zenodo.org/record/5759794/files/Zenodo-EqRainbow.pdf)
-   
-[Pubpub rainbow](https://david.pubpub.org/pub/zr8o4n3k/release/1)
+[Zenodo rainbow](https://zenodo.org/record/5759794#.YpPeR8PMKUk)
    
 [OSF rainbow](https://osf.io/47zwk/download)
 

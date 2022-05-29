@@ -66,21 +66,7 @@ The present value of the equity swap from the equity receiver perspective is giv
 	Accrual period is calculated according to the start date and end date of a cash flow plus day count convention 
 	Forward rate is continuously compounded rather than other compounding types
 
-	A Real World Example
-Equity Leg	Interest Rate Leg
-Currency	USD	Currency	USD
-Initial Price	164.38	Leg Type	Float
-Start Date	2/15/2017	Day Count	dcAct360
-Maturity Date	8/15/2017	Notional	4931400
-Shares	30000	PayReceive	Receive
-Notional	4931400	Start Date	2/15/2017
-PayReceive	Pay	Maturity Date	8/15/2017
-Payment Frequency	1M	Payment Frequency	1M
-Underlying	737446807=	Spread	0.0075
-		Index Definition
-		Index Day Count	dcAct360
-		Index Tenor	1M
-		Index Type	LIBOR
+
 
 
 References:
@@ -89,11 +75,9 @@ References:
    
 [Check](https://finpricing.com/lib/EqSwap.html)
    
-[Zenodo swap](https://zenodo.org/record/3948310/files/EqSwap-7.pdf)
+[Zenodo swap](https://zenodo.org/record/3948310#.YpPf_sPMKUk)
    
 [hcommons swap](https://hcommons.org/deposits/download/hc:38334/CONTENT/eqswap-7.pdf)
-
-[Pub swap](https://david.pubpub.org/pub/hmpp2r25/release/1)
 
 [archive swap](https://ia803401.us.archive.org/32/items/eq-swap-7/EqSwap-archive.pdf)
 

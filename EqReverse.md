@@ -20,9 +20,7 @@ References:
    
 [More details](./EqReverse-18.pdf)   
    
-[Zenodo reverse](https://zenodo.org/record/4642620/files/EqReverse-18.pdf)
-   
-[Pubpub reverse](https://david.pubpub.org/pub/ni8fe306/release/1)
+[Zenodo reverse](https://zenodo.org/record/6480239#.YpPeysPMKUk)
    
 [OSF reverse](https://osf.io/y6r57/download)
 

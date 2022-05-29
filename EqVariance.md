@@ -20,17 +20,12 @@ References:
    
 [More details](./EqVariance-9.pdf)     
    
-[Zenodo variance](https://zenodo.org/record/4605794/files/EqVariance-9.pdf)
-   
-[Pubpub variance](https://fixedincome.pubpub.org/pub/2tsz1ogw/release/1)
+[Zenodo variance](https://zenodo.org/record/4605794#.YpPhOMPMKUk)
    
 [OSF warrant](https://osf.io/wgmq5/download)
-
-[Github variance pdf](https://github.com/alanwhite1203/EqVariance)  
 
 [hcommons warrant](https://hcommons.org/deposits/download/hc:38384/CONTENT/eqvariance-9.pdf)
 
 [gitbook warrant](https://deripricing.gitbook.io/variance-swap-pricing/)
-
 
 [science-media warrant](https://science-media.org/userfiles/1020/presentations/1020_presentation_506.pdf)
