@@ -46,9 +46,7 @@ References:
 [More details](./EqCallable-15.pdf)     
   
    
-[Zenodo callable](https://zenodo.org/record/5759660/files/Zenodo-EqCallable.pdf)
-   
-[Pubpub callable](https://david.pubpub.org/pub/qeg8gemk/release/1)
+[Zenodo callable](https://zenodo.org/record/5759660#.YpPMucPMKUk)
    
 [OSF callable](https://osf.io/khrcb/download)
 

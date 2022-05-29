@@ -27,9 +27,7 @@ References:
    
 [More details](./EqAsr-21.pdf)   
    
-[Zenodo asr](https://zenodo.org/record/5759786/files/Zenodo-EqAsr.pdf)
-   
-[Pubpub asr](https://david.pubpub.org/pub/3zsqhi6y/release/1)
+[Zenodo asr](https://zenodo.org/record/6480292#.YpPIRMPMKUk)
    
 [OSF asr](https://osf.io/vbhpd/download)
 

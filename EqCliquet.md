@@ -29,9 +29,7 @@ References:
    
 [FlipHtml5 cliquet](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQzN3UDO3MTPkl0av9mY)
    
-[Zenodo cliquet](https://zenodo.org/record/4609253/files/EqCliquet-12.pdf)
-   
-[Pubpub cliquet](https://david.pubpub.org/pub/l2t7uxsu/release/1)
+[Zenodo cliquet](https://zenodo.org/record/4609253#.YpPNDMPMKUk)
    
 [OSF cliquet](https://osf.io/swbg4/download)
 

@@ -21,9 +21,7 @@ References:
    
 [More details](./EqCoupon-22.pdf)   
    
-[Zenodo coupon](https://zenodo.org/record/5759790/files/Zenodo-EqCoupon.pdf)
-   
-[Pubpub coupon](https://david.pubpub.org/pub/4f1by115/release/1)
+[Zenodo coupon](https://zenodo.org/record/5759790#.YpPOw8PMKUk)
    
 [OSF coupon](https://osf.io/x2rf8/download)
 

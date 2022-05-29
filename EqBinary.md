@@ -4,6 +4,12 @@ A binary option is an option with a predetermined payoff, triggered only if the 
 
 The payoff of a digital option or binary option is either some fixed amount of some asset or nothing at all. The two main types of binary options are the cash-or-nothing binary option and the asset-or-nothing binary option. The cash-or-nothing binary option pays some fixed amount of cash if the option expires in-the-money while the asset-or-nothing pays the value of the underlying security.
 
+Digital option is an option with discontinuous payoff. Our model is based on standard Black-Scholes framework. This is a single factor model and is a
+standard market model. The option payoff is well-defined at maturity. Since the option is a European type, we
+can derive a closed form solution.
+
+
+
 For a call, the underlying price must be higher than the strike at expiry to trigger the rebate or receipt of the underlying. For a put, the underlying price must be lower than the strike at expiry to trigger the rebate or receipt of the underlying. 
 
 The risk sensitivities, especially Gamma, may be unstable when at the money or near the exercise date due to the discontinuous property inherent in digital option. Risk sensitivities become less meaningful near discontinuities and kinks. As Vega may change signs near the strike, it is probably difficult to create a conservative estimate of the volatility.
@@ -23,9 +29,8 @@ References:
 [More details](./EqBinary-13.pdf)     
  
    
-[Zenodo binary](https://zenodo.org/record/4615284/files/EqBinary-13.pdf)
-   
-[Pubpub binary](https://david.pubpub.org/pub/t9j3lz67/release/1)
+[Zenodo binary](https://zenodo.org/record/6478717#.YpPKSMPMKUk)
+
    
 [OSF binary](https://osf.io/e9u46/download)
 

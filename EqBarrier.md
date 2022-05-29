@@ -36,9 +36,7 @@ References:
    
 [More details](./EqBarrier-11.pdf)     
    
-[Zenodo barrier](https://zenodo.org/record/5759655/files/Zenodo-EqBarrier.pdf)
-   
-[Pubpub barrier](https://david.pubpub.org/pub/8c4e0jp4/release/1)
+[Zenodo barrier](https://zenodo.org/record/5759655#.YpPJoMPMKUk)
    
 [OSF barrier](https://osf.io/ymt8n/download)
 

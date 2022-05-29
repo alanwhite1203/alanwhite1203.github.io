@@ -49,25 +49,6 @@ T – the expiry time
 K – the exercise price
 C and P – the  payoffs for the call and put options respectively
 
-	Practical Guide
-
-	To solve the PDE using the finite difference method, one needs to define the grid.
-	In the time dimension, divide the time t into N equally spaced intervals of length ∆t=T⁄N where T is the option maturity date.
-	In the stock price dimension, divide the stock price into M equally spaced intervals of length ∆Z=σ√3∆t, which should cover at least 3 standard deviations.
-	One challenge is how to define the grid in the case of discrete dividends. If the grid is missing a discrete dividend, the price of the option might significantly differ from the fair value.
-	In the FinPricing Platform, the finite difference grid is constructed dynamically to mitigate the above mentioned risks.
-	For the case of discrete dividends, FinPricing dynamically inserts an extra point on the grid, if necessary, to calculate the fair value of the option.
-
-	A Real World Example
-Underlying equity	CCJ.N
-Currency	USD
-Strike	8
-Maturity Date	1/19/2018
-Call or Put	Put
-Buy or Sell	Buy
-Exercise Type	American
-Settlement Type	Physical
-Position	250000
 
 
 On this grid, the point (i,j) corresponds to time i∆t and stock price j∆Z. Let the value of the option at (i,j) be denoted by f_(i,j). Values for N and M are chosen based on the life of the option and the desired level of accuracy.
@@ -79,7 +60,7 @@ References:
 
 [More details](./EqAmerican-1.pdf)
 
-[Zenodo American](https://zenodo.org/record/5748070/files/Zenodo-EqAmerican.pdf)
+[Zenodo American](https://zenodo.org/record/5748070#.YpPJAcPMKUk)
 
 [Archive AO](https://ia803409.us.archive.org/30/items/eq-american-1/EqAmerican-archive.pdf)
 

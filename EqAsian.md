@@ -81,17 +81,7 @@ K^*=T_2/(T_1+T_2 ) K-T_1/T_2  S ̅
 〖PV〗_C=T_2/(T_1+T_2 ) (M_1-K^* )D
 〖PV〗_P=T_2/(T_1+T_2 ) (K^*-M_1 )D
 
-	A Real World Example
 
-Face Value	3361.12
-Currency	CAD
-Start Date	1/10/2017
-Maturity Date	7/10/2017
-Call or Put	Call
-Buy or Sell	Sell
-Underlying Assets	.GSPTXBA
-Position	-2790.764362
-Spent Average	4104.9327
 
 
 References:
@@ -99,13 +89,10 @@ References:
  [More details](./EqAsian-2.pdf)
 
  
- [Zenodo Asian](https://zenodo.org/record/5748073/files/Zenodo-EqAsian.pdf)
+ [Zenodo Asian](https://zenodo.org/record/5748073#.YpPIjsPMKUk)
  
  
  [hcommons Asian](https://hcommons.org/deposits/download/hc:38190/CONTENT/eqasian-2.pdf)
- 
- 
- [Pub Asian](https://david.pubpub.org/pub/ccmadp61/release/1)
  
  
  [OSF Basket](https://osf.io/cjzba/download)

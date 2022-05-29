@@ -3,28 +3,6 @@
 Convertible bonds can be thought of as normal corporate bonds with embedded options, which enable the holder to exchange the bond asset for the issuer's stock. Having properties of both stocks and bonds, convertibles can be an attractive choice for investors and have tended to have lower risk. 
 
 
-
-A convertible bond has an embedded call option that gives bondholders the right to convert their bonds into equity at a given time for a predetermined number of shares in the issuing company. Whereas a reverse convertible bond has an embedded put option that gives the issuer the right to convert the bond's principal into shares of equity at a set date. 
-
-
-Convertible bonds typically have lower yields than the yields on similar bonds without the convertible option. Reverse convertible bonds usually have shorter terms to maturity and higher yields than most other bonds.
-
-Most convertible bonds are subordinated debt of the issuer. In the event of bankruptcy, the claims of other bondholders take priority over convertible bondholders, who themselves have priority over owners of the preferred and common stock.
-
-
-Issuers have several reasons to use convertible financing. By issuing convertibles they can lower their cost of debt funding compared to straight debt alone. Lower-credit companies who may not be able to access the straight debt market can often still issue convertible debt. Companies who anticipate equity appreciation can use convertibles to defer equity financing to a time when growth has been achieved.
-	
-Investors find several features of convertibles appealing. They offer greater satiability of income than common stock. They provide a yield that is often higher than the dividend yield of common stock. Finally, because they are often theoretically underpriced, they may provide a cheap source of common stock volatility. This presentation gives an overview of convertible bond and valuation model.
-
-
-Keyword
-
-Convertible bond, reverse convertible bond, conversion ratio, hybrid security, valuation, PDE
-
-
-
-	Introduction
-
 	A convertible bond has an embedded call option that gives bondholders the right to convert their bonds into equity at a given time for a predetermined number of shares in the issuing company.
 	An reverse convertible bond (RCB) has an embedded put option that gives the issuer the right to convert the bond's principal into shares of equity at a set date.
 	Convertible bonds typically have lower yields than the yields on similar bonds without the convertible option.
@@ -110,31 +88,15 @@ EndFor
 	The value at node[0][y] is the convertible bond price where the equity price at node[0][y] is equal to the current market stock price.
 
 
-	A Real World Example
-
-Underlying Equity	EFN.TO	Conversion Ratio	52.35
-Convertible Bond ISIN	CA286181AB88	Conversion Start Date	1/1/2016
-Currency	CAD	Conversion End Date	6/30/2020
-Face Value	100	Coupon	0.0425
-Percent Redemption	1	First Coupon Date	12/31/2015
-DayCount	dc30360U	First Settle Date	5/29/2015
-Call Start Date	6/30/2018	Coupon Frequency	SEMIANNUAL
-Call End Date	6/29/2020	Roll Type	Following
-Call Price	100	Issue Price	100
-Call Notice Period	30	Market Quote Type	CLEAN
-Call Trigger	125	Maturity	6/30/2020
-Trigger days	20	Par Amount	1000
 
 
 References:
   
 [More details](./EqConvertible-4.pdf)
 
-[Zenodo convertible](https://zenodo.org/record/3945092/files/EqConvertible-4.pdf)
+[Zenodo convertible](https://zenodo.org/record/3945092#.YpPNY8PMKUk)
   
 [hcommons convertible](https://hcommons.org/deposits/download/hc:38228/CONTENT/eqconvertible-4.pdf)
-  
-[Pub convertible](https://david.pubpub.org/pub/p5wrxj58/release/1)
 
 [archive convertible](https://ia803402.us.archive.org/6/items/eq-convertible-4/EqConvertible-archive.pdf)
 

@@ -21,9 +21,7 @@ References:
    
 [More details](./EqAccelerate-20.pdf)   
    
-[Zenodo arn](https://zenodo.org/record/4645863/files/EqAccelerate-20.pdf)
-   
-[Pubpub arn](https://david.pubpub.org/pub/l983sk63/release/1)
+[Zenodo arn](https://zenodo.org/record/4645863#.YpPIzsPMKUk)
    
 [OSF arn](https://osf.io/yexkd/download)
 

@@ -14,15 +14,20 @@ For an outstanding contract, implied correlation needs to be computed for any fu
 
 Investors can use a correlation swap to hedge correlation risk. It gives investor exposures to the average correlation of an index. Correlation swaps also allow investors to speculate or bet or hedge future correlations.
 
+We use the quote for the expectation of the future correlation to cover for the Alpha and Beta contributions, but it is not
+theoretically clear how that is possible. From a practical point a view it may actually be
+satisfactory. To account for the theoretical inaccuracies the model needs reserves.
+The generic bid/ask reserve will take care of the future correlation part.
+
+We focus here on the historical correlation part, which, if the role of Alpha were to be recognized,
+is not quite “historical”. To set up a reserve for this part we need lower and upper bounds for Alpha.
 
 
 References:
    
 [More details](./EqCorrelationSwap-26.pdf)   
    
-[Zenodo correlation swap](https://zenodo.org/record/5759799/files/Zenodo-EqCorrelationSwap.pdf)
-   
-[Pubpub correlation swap](https://david.pubpub.org/pub/7xhp22bd/release/1)
+[Zenodo correlation swap](https://zenodo.org/record/6480430#.YpPNrsPMKUk)
    
 [OSF correlation swap](https://osf.io/uwy25/download)
 

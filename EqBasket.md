@@ -95,18 +95,7 @@ c=M_1-d∙exp(1/(2b^2 )-a/b)
 R=∑_(j=1)^m▒∑_(i=1)^n▒〖w_i 〖W_j S〗_ij/F_i 〗
 where Wj is the weight for schedule time  ,  
 
-	A Real World Example
 
-Face Value	87.5
-Currency	USD
-Digital Rebate	1
-Maturity Date	6/16/2017
-Call or Put	Call
-Buy or Sell	Sell
-Position	-21800
-Underlying Assets	Initial Fixing
-CTXS.O	87.5
-LOGM.O	87.5
 
  
  
@@ -114,11 +103,9 @@ LOGM.O	87.5
  
   [More details](./EqBasket-3.pdf)
   
-  [Zenodo basket](https://zenodo.org/record/5748077/files/Zenodo-EqBasket.pdf)
+  [Zenodo basket](https://zenodo.org/record/5748077#.YpPJ8MPMKUk)
   
   [hcommons basket](https://hcommons.org/deposits/download/hc:38410/CONTENT/eqbarrier-11.pdf)
-  
-  [Pub basket](https://david.pubpub.org/pub/iycnkfjo/release/1)
   
   [osf basket](https://osf.io/cjzba/download)
   
