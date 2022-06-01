@@ -50,27 +50,6 @@ where
 	The bond price is the sum of all the present values.
 
 
-	A Real World Example
-
-Buy Sell	Buy
-Calendar	NYC
-Coupon Type	Fixed
-Coupon	0.00375
-Currency	USD
-Issue Date	7/31/2015
-Interest Accrual Date	7/15/2015
-First Coupon Date	1/15/2016
-Last Coupon Date	1/15/2025
-Maturity Date	7/15/2025
-Settlement Date	7/31/2015
-Settlement Lag	1
-Day Count	dcActAct
-Payment Frequency	6M
-Pay Receive	Receive
-Inflation Reference Index	CONSUMER PRICE INDEX US
-Inflation Reference Index Level	237.14365
-Notional	100
-
 
 References:
 
@@ -79,18 +58,12 @@ References:
 
 [FlipHtml5 inflation](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamADM3QjM5ITPkl0av9mY)
 
-[Zenodo inflation](https://zenodo.org/record/3978594/files/FiInflationBond-15.pdf)
+[Zenodo inflation](https://zenodo.org/record/6484024#.YpU4jcPMKUk)
 
 [archive inflation](https://ia903408.us.archive.org/33/items/fi-inflation-bond-15/FiInflationBond-archive.pdf)
 
-[gitbook inflation](https://cmrm11.gitbook.io/inflation-indexed-bond/)
-
 [OSF inflation](https://osf.io/f2qm9/download)
 
-[Pub inflation](https://fixedincome.pubpub.org/pub/n232c4iu)
-
-[Hcommons inflation pdf](https://hcommons.org/deposits/download/hc:41668/CONTENT/fiinflationbond-15.pdf)
-
-[science-media inflation](https://science-media.org/userfiles/1020/presentations/1020_presentation_533.pdf)
+[Zenodo caption](https://zenodo.org/record/6561073#.YpDwZagpDq4)
 
 

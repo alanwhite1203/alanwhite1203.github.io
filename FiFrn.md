@@ -43,24 +43,7 @@ Dirty Price = Clean Price + Accrued Interest
 	We use LIBOR curve plus credit spread rather than bond specific curves for discounting because bond specific curves rarely exist in the market, especially issued by small entities. Using LIBOR curve plus credit spread not only accounts for credit/issuer risk but also solves the missing data issue.
 	Usually the forecasting curve is different from the discounting curve. For instance, the forecasting curve is the treasury curve but the discounting curve is the LIBOR curve plus credit spread.
 
- 
-	A Real World Example
-Buy Sell	Buy
-Calendar	NYC
-Coupon Type	Floating
-Currency	USD
-First Coupon Date	10/31/2015
-Interest Accrual Date	7/31/2015
-Issue Date	7/31/2015
-Last Coupon Date	4/30/2017
-Maturity Date	7/31/2017
-Settlement Date	7/31/2015
-Settlement Lag	1
-Notional	100
-Pay Receive	Receive
-Day Count	dcAct360
-Payment Frequency	3M
-Spread	0.00077
+
 
 
 References:
@@ -70,19 +53,14 @@ References:
 
 [FlipHtml5 frn](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkzM1ITM5ITPkl0av9mY)
 
-[Zenodo frn](https://zenodo.org/record/5765104/files/Zenodo-FiFrn.pdf)
+[Zenodo frn](https://zenodo.org/record/5765104#.YpU4QsPMKUk)
 
 [archive frn](https://ia903406.us.archive.org/13/items/fi-frn-14/FiFrn-archive.pdf)
 
-[gitbook frn](https://cmrm11.gitbook.io/floating-rate-note/)
-
 [OSF frn](https://osf.io/yrbnh/download)
 
-[Pub frn](https://fixedincome.pubpub.org/pub/zr3i4t1g/release/1)
+[Zenodo capped frn](https://zenodo.org/record/6558277#.YpDwUqgpDq4)
 
-[Hcommons frn](https://hcommons.org/deposits/download/hc:41644/CONTENT/fifrn-14.pdf)
-
-[science-media frn](https://science-media.org/userfiles/1020/presentations/1020_presentation_532.pdf)
 
 
 

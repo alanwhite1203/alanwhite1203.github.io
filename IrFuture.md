@@ -33,21 +33,7 @@ Practical Notes
 	The forward yield is derived from the interest rate zero curve by calculating the annually compounded forward rate between the maturity date of the futures contract and the maturity date of the underlying rate.
 	Theoretically a convexity adjustment is needed for pricing a future contract. However, the impact is small.
 
-A Real World Example
-Interest rate future specification
-Buy Sell	Buy
-Currency	USD
-Contract Size	10000
-First Delivery Date	5/30/2018
-Last Delivery Date	6/29/2018
-Future Maturity Date	6/18/2018
-Tenor	3M
-Future Ticker	EDM18
-Future Ticker Size	100
-Future Ticker Value	25
-Number of Contract	100
-Quote Price	98.405
-Trade Date	12/2/2016
+
 
 
 References:
@@ -59,18 +45,7 @@ References:
    
 [Zenodo futures](https://zenodo.org/record/4031743/files/IrFuture-34.pdf)
    
-[Pubpub future](https://interestrate.pubpub.org/pub/672l95nk/download/pdf)
-   
-[Github futures](https://github.com/alanwhite1203/irFuture/raw/main/IrFuture-34.pdf)
-   
-[Gitlab futures](https://gitlab.com/cmrm11/irfuture/-/raw/master/IrFuture-34.pdf)
-   
-[Bitbucket future](https://bitbucket.org/cmrm11/irfuture/downloads/IrFuture-34.pdf)
-   
 [OSF futures](https://osf.io/j9apv/download)
 
-[Pub futures](https://interestrate.pubpub.org/pub/672l95nk/release/1)
+[Zenodo sheet](https://zenodo.org/record/6548879#.YpDvbagpDq4)
 
-[Pub futures pdf](https://assets.pubpub.org/nrrt2uny/11597601136046.pdf)
-
-[Github futures](https://github.com/alanwhite1203/irFuture/raw/main/IrFuture-34.pdf)

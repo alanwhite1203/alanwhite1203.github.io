@@ -72,23 +72,6 @@ where
 C 	a constant used to match the market price.
 
 
-A Real World Example
-
-Buy Sell	Buy
-Base Currency	USD
-Base Notional	2212500
-Underlying Currency	JPY
-Underlying Notional	12500000
-Instrument	CME JPYUSD
-Future Maturity Label	MAR 17
-Number of Contracts	20
-Spot Quotation Denominator	JPY
-Spot Quotation Numerator	USD
-Price	0.885
-Trade Date	2/17/2017
-Maturity Date	3/13/2017
-Last Cash Flow Date	3/14/2017
-Settlement Date	3/15/2017
 
 
 References:
@@ -106,5 +89,5 @@ References:
   
 [OSF futures](https://osf.io/rqd6v/download)
 
-[Pub futures](https://fixedincome.pubpub.org/pub/olni7vl6)
+[Zenodo collateralized](https://zenodo.org/record/6539697#.YpDuTKgpDq4)
 

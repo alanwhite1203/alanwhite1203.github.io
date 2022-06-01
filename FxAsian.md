@@ -78,25 +78,6 @@ K		the strike
 〖PV〗_p=((K-ψA-δ)N(〖-d〗_2 )-y_1 N(-d_1 ))D
 
 
-	A Real World Example
-
-Name	Value	Fixing Date	Fixing Value
-Reporting Currency	USD	1/6/2017	1.2283
-Average Type	Rate	1/13/2017	1.2219
-Call Put	Put	1/20/2017	1.236
-Buy Sell	Sell	1/27/2017	1.2554
-Delivery Type	Cash	2/3/2017	1.2481
-Base Currency	GBP	2/10/2017	1.2486
-Base Currency Notional	9300000	2/17/2017	1.24635
-Underlying Currency	USD	2/24/2017	1.24575
-Underlying Currency Notional	11490150	3/3/2017	1.2298
-Trade Date	1/5/2017		
-Maturity Date	3/31/2017		
-Settlement Date	4/4/2017		
-Strike and Spot Quotation	USD/GBP		
-Strike Value	1.2355		
-Instrument	GBP/USD		
-Fixing Date	3/3/2017		
 
 
 References:
@@ -106,7 +87,7 @@ References:
 
 [FlipHtml5 fx Asian](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDM5UDN5ITPkl0av9mY)
 
-[Zenodo fx Asian](https://zenodo.org/record/5768214/files/Zenodo-FxAsian.pdf)
+[Zenodo fx Asian](https://zenodo.org/record/6484837#.YpaXkcPMKUk)
 
 [archive Asian](https://ia803406.us.archive.org/6/items/fx-asian-18/FxAsian-archive.pdf)
 
@@ -114,6 +95,9 @@ References:
 
 [OSF Asian](https://osf.io/g73qw/download)
 
-[Pub Asian](https://fixedincome.pubpub.org/pub/wl8hffch)
+[Zenodo exposure](https://zenodo.org/record/6539344#.YpDtxagpDq4)
+
+
+
 
 

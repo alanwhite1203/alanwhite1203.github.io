@@ -69,24 +69,6 @@ is the forward price of all coupons between t and T. Those coupons should be exc
 	Bond clean price = bond dirty price – accrual interest
 
 
-	A Real World Example
-
-Buy Sell	Sell
-Currency	USD
-Contract Size	50000
-Conversion Factor	0.8272
-First Delivery Date	6/1/2017
-Last Delivery Date	6/30/2017
-Future Ticker	TYM17
-Future Ticker Size	64
-Future Ticker Value	15.625
-Number of Contract	83
-Quote Price	124.46875
-Trade Date	2/23/2017
-Future Maturity Date	6/21/2017
-Underlying Bond Type	UST
-Underlying Bond Coupon	0.0275
-Underlying Bond Maturity Date	2/15/2024
 
 
 References:
@@ -95,21 +77,14 @@ References:
 
 [FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDO1gDM5ITPkl0av9mY)
 
-[Zenodo futures](https://zenodo.org/record/3958039/files/FiBondFuture-11.pdf)
+[Zenodo futures](https://zenodo.org/record/6480530#.YpU3K8PMKUk)
 
 [archive futures](https://ia803404.us.archive.org/29/items/fi-bond-future-11/FiBondFuture-archive.pdf)
 
-
-[gitbook futures](https://cmrm11.gitbook.io/bond-futures/)
-
 [OSF futures](https://osf.io/2vzq8/download)
 
-[Pub futures](https://fixedincome.pubpub.org/pub/jxxynl4w)
+[Zenodo knockout](https://zenodo.org/record/6551223#.YpDv2agpDq4)
 
-
-[Hcommons futures pdf](https://hcommons.org/deposits/download/hc:41602/CONTENT/fibondfuture-11.pdf)
-
-[science-media futures](https://science-media.org/userfiles/1020/presentations/1020_presentation_528.pdf)
 
 
 

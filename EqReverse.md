@@ -30,4 +30,4 @@ References:
 
 [gitbook reverse](https://deripricing.gitbook.io/reverse-convertible-autocallable-swap/)
 
-[science-media reverse](https://science-media.org/userfiles/1020/presentations/1020_presentation_515.pdf)
+[Zenodo basis](https://zenodo.org/record/6588375#.YpEh86gpDq4)

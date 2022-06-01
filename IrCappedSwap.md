@@ -61,23 +61,7 @@ Where d_1,2=(ln⁡(F_i/K)±0.5σ_i^2 T_i )/(σ_i √(T_i )) and Φ – the cumul
 	The present value of the floor is given by
 
 〖PV〗_cap (t)=N∑_(i=1)^n▒〖τ_i D_i (KΦ(-d_2 )-F_i Φ(〖-d〗_1 )) 〗
-	A real world example
-Cap/Floor specification	Underlying swap specification
-Buy Sell	Buy	Leg 1	Leg 2
-Cap Floor	Floor	Currency	USD	Currency	USD
-Strike	0.001	Day Count	dcAct360	Day Count	dcAct360
-Trade Date	11/3/2016	Leg Type	Fixed	Leg Type	Float
-Start Date	11/4/2016	Notional	200000000	Notional	200000000
-Maturity Date	11/2/2020	Payment Freq	1	Payment Freq	1
-Currency	USD	Pay Receive	Pay	Pay Receive	Receive
-Day Count	dcAct360	Star tDate	11/4/2016	Start Date	11/4/2016
-Notional	200000000	End Date	11/1/2020	End Date	11/1/2020
-Pay Receive	Receive	Fixed Rate	0.01043	Spread	0
-Payment Freq	1			Index specification
-Index specification			Type	LIBOR
-Day count	dcAct360			Tenor	1M
-Tenor	1M			Day Count	dcAct360
-Type	LIBOR				
+
 
 
 References:
@@ -88,19 +72,8 @@ References:
 [FlipHtml5 capped swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTOygDM5ITPkl0av9mY)
    
 [Zenodo capped swap](https://zenodo.org/record/4031727/files/IrCappedSwap-31.pdf)
-   
-[Pubpub capped swap](https://interestrate.pubpub.org/pub/fxsafefl/download/pdf)
-   
-[Github capped swap](https://github.com/alanwhite1203/irCappedSwap/raw/main/IrCappedSwap-31.pdf)
-   
-[Gitlab capped swap](https://gitlab.com/cmrm11/ircappedswap/-/raw/master/IrCappedSwap-31.pdf)
-   
-[Bitbucket capped swap](https://bitbucket.org/cmrm11/ircappedswap/downloads/IrCappedSwap-31.pdf)
-   
+ 
 [OSF capped](https://osf.io/jskhm/download)
 
-[Pub capped](https://interestrate.pubpub.org/pub/fxsafefl/release/1)
+[Zenodo deferred asset](https://zenodo.org/record/6547212#.YpDvPqgpDq4)
 
-[Pub capped pdf](https://assets.pubpub.org/6y6s1f1d/01597422026310.pdf)
-
-[Github capped](https://github.com/alanwhite1203/irCappedSwap/raw/main/IrCappedSwap-31.pdf)

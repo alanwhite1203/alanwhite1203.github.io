@@ -58,13 +58,7 @@ The present value of the equity swap from the equity receiver perspective is giv
 
 	PV(t)=〖PV〗_equity (t)-〖PV〗_floating
 
-	Practical Note:
-	We consider discrete dividends only as described in <equity future>. 
-	To value an equity swap, you need to generate cash flows first, based on the start time, end time and payment frequency of the leg, plus calendar (holidays), business convention (e.g., modified following, following, etc.) and whether sticky month end.
-	Second, an interest rate curve needs to be constructed via the most liquid interest rate instruments. <> provides useful tools to construct various curves and volatility surfaces.
-	Then, you need to compute equity forward prices correctly by accounting for all discrete dividends. This is a key factor for all equity related valuation.
-	Accrual period is calculated according to the start date and end date of a cash flow plus day count convention 
-	Forward rate is continuously compounded rather than other compounding types
+
 
 
 
@@ -84,3 +78,5 @@ References:
 [OSF swap](https://osf.io/72693/download)
 
 [gitbook swap](https://deripricing.gitbook.io/total-return-swap-valuation/)
+
+[Zenodo double cms](https://zenodo.org/record/6578517#.YpDwuqgpDq4)

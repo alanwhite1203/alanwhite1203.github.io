@@ -42,18 +42,6 @@ s – credit spread
 	After making the model price equal to the market price, one can calculate sensitivities by shocking interest rate curve and credit spread.
 	We use LIBOR curve plus credit spread rather than bond specific curves for discounting because bond specific curves rarely exist in the market, especially issued by small entities. Using LIBOR curve plus credit spread not only accounts for credit/issuer risk but also solves the missing data issue.
 
- 
-	A Real World Example
-Buy Sell	Buy
-Calendar	NYC
-Coupon Type	Zero
-Currency	USD
-Issue Date	3/2/2017
-Maturity Date	8/31/2017
-Settlement Date	3/2/2017
-Settlement Lag	1
-Face Value	100
-Pay Receive	Receive
 
 
 References:
@@ -63,19 +51,12 @@ References:
 
 [FlipHtml5 zero bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDM3QjM5ITPkl0av9mY)
 
-[Zenodo zero bond](https://zenodo.org/record/5765447/files/Zenodo-FiZeroBond.pdf)
+[Zenodo zero bond](https://zenodo.org/record/5765447#.YpU5mMPMKUk)
 
 [archive zero bond](https://ia903403.us.archive.org/28/items/fi-zero-bond-17/FiZeroBond-archive.pdf)
 
-[hcommons zero bond](https://hcommons.org/deposits/download/hc:41724/CONTENT/fizerobond-17.pdf)
-
 [OSF zero bond](https://osf.io/d59wu/download)
 
-[Pub zero bond](https://fixedincome.pubpub.org/pub/xmrfe4fp)
-
-[gitbook zero bond](https://cmrm11.gitbook.io/zero-coupon-bond/)
-
-[science-media zero bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_534.pdf)
 
 
 

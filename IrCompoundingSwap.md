@@ -52,21 +52,7 @@ where r_0 is the reset rate.
 	The present value of the reset cash flow should be added into the present value of the floating leg.
 	Some dealers take bid-offer spreads into account. In this case, one should use bid curve constructed from bid quotes for forwarding and offer curve built from offer quotes for discounting.
 
-	A Real World Example
-Leg 1 Specification	Leg 2 Specification
-Currency	USD	Currency	USD
-Day Count	dcAct360	Day Count	dcAct360
-Leg Type	Fixed	Leg Type	Float
-Notional	5000000	Notional	5000000
-Pay Receive	Receive	Pay Receive	Pay
-Payment Frequency	6M	Payment Frequency	6M
-Start Date	7/1/2015	Start Date	7/1/2015
-End Date	3/1/2023	End Date	3/1/2023
-Fixed Rate	0.0455	Spread	0
-		Index Specification
-		Index Type	LIBOR
-		Index Tenor	1M
-		Index Day Count	dcAct360
+
 
 
 References:
@@ -78,18 +64,7 @@ References:
    
 [Zenodo compounding](https://zenodo.org/record/4031735/files/IrCompoundingSwap-32.pdf)
    
-[Pubpub compounding](https://interestrate.pubpub.org/pub/d4m2qpav/download/pdf)
-   
-[Github compounding](https://github.com/alanwhite1203/irCompoundingSwap/raw/main/IrCompoundingSwap-32.pdf)
-   
-[Gitlab compounding](https://gitlab.com/cmrm11/ircompoundingswap/-/raw/master/IrCompoundingSwap-32.pdf)
-   
-[Bitbucket compounding](https://bitbucket.org/cmrm11/ircompoundingswap/downloads/IrCompoundingSwap-32.pdf)
-   
 [OSF compounding](https://osf.io/dqepj/download)
 
-[Pub compounding](https://interestrate.pubpub.org/pub/d4m2qpav/release/1)
+[Zenodo commitment](https://zenodo.org/record/6547376#.YpDvTKgpDq4)
 
-[Pub compounding pdf](https://assets.pubpub.org/elboq1ia/61597422295041.pdf)
-
-[Github compounding](https://github.com/alanwhite1203/irCompoundingSwap/raw/main/IrCompoundingSwap-32.pdf)

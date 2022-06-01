@@ -29,3 +29,5 @@ References:
 [gitbook warrant](https://deripricing.gitbook.io/variance-swap-pricing/)
 
 [science-media warrant](https://science-media.org/userfiles/1020/presentations/1020_presentation_506.pdf)
+
+[Zenodo arrear fra](https://zenodo.org/record/6578408#.YpDwq6gpDq4)

@@ -51,20 +51,6 @@ d_1,2=(ln⁡(F_i/K)±0.5σ_i^2 T_i)/(σ_i √(T_i ))
 
    which should be added into the above present value.
 
-	A Real World Example
-Buy Sell	Sell
-Strike	0.035
-Trade Date	1/11/2016
-Start Date	1/13/2016
-Maturity Date	1/2/2019
-Currency	USD
-Day Count	dcAct360
-Rate type	Float
-Notional	15090000
-Pay Receive	Pay
-Payment Frequency	1M
-Index Tenor	1M
-Index Type	LIBOR
 
 
 References:
@@ -76,18 +62,7 @@ References:
    
 [Zenodo cap](https://zenodo.org/record/4019685/files/IrCap-30.pdf)
    
-[Pubpub cap](https://interestrate.pubpub.org/pub/ui0nvxtj/download/pdf)
-   
-[Github cap](https://github.com/alanwhite1203/irCap/raw/main/IrCap-30.pdf)
-   
-[Gitlab cap](https://gitlab.com/cmrm11/ircap/-/raw/master/IrCap-30.pdf)
-   
-[Bitbucket cap](https://bitbucket.org/cmrm11/ircap/downloads/IrCap-30.pdf)
-   
 [OSF cap](https://osf.io/kvbyz/download)
 
-[Pub cap](https://interestrate.pubpub.org/pub/ui0nvxtj/release/1)
+[Zenodo acquisation](https://zenodo.org/record/6547140#.YpDvKKgpDq4)
 
-[Pub cap pdf](https://assets.pubpub.org/mogc5jel/61597421792571.pdf)
-
-[Github cap](https://github.com/alanwhite1203/irCap/raw/main/IrCap-30.pdf)

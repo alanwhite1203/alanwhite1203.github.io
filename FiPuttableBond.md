@@ -88,24 +88,6 @@ At time t, X(0)=0 and H(0)=0. Thus Z(0,0;T)=D(T). In other words, the LGM automa
 	Compare exercise values with intrinsic values at each exercise date.
 	The value at the valuation date is the price of the callable bond.
 
-	A real world example
-
-Bond specification	Callable schedule
-Buy Sell	Buy	Call Price	Notification Date
-Calendar	NYC	100	1/26/2015
-Coupon Type	Fixed	100	7/25/2018
-Currency	USD		
-First Coupon Date	7/30/2013		
-Interest Accrual Date	1/30/2013		
-Issue Date	1/30/2013		
-Last Coupon Date	1/30/2018		
-Maturity Date	7/30/2018		
-Settlement Lag	1		
-Face Value	100		
-Pay Receive	Receive		
-Day Count	dc30360		
-Payment Frequency	6		
-Coupon	0.012		
 
 
 References:
@@ -115,7 +97,7 @@ References:
 
 [FlipHtml5 puttable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDM3QjM5ITPkl0av9mY)
 
-[Zenodo puttable](https://zenodo.org/record/3978603/files/FiPuttableBond-16.pdf)
+[Zenodo puttable](https://zenodo.org/record/6484069#.YpU428PMKUk)
 
 [archive puttable](https://ia803402.us.archive.org/22/items/fi-puttable-bond-16/FiPuttableBond-archive.pdf)
 
@@ -123,7 +105,6 @@ References:
 
 [OSF puttable](https://osf.io/veqj3/download)
 
-[Pub puttable](https://fixedincome.pubpub.org/pub/u95623j1/release/1)
+[Zenodo chooser](https://zenodo.org/record/6546805#.YpDu9KgpDq4)
 
-[science-media puttable](https://science-media.org/userfiles/1020/presentations/1020_presentation_534.pdf)
 

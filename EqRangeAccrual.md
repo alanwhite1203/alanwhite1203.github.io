@@ -42,4 +42,4 @@ References:
 
 [gitbook range accrual](https://davidlee1203.gitbook.io/callable-range-accrual-note/)
 
-[science-media range accrual](https://science-media.org/userfiles/1020/presentations/1020_presentation_524.pdf)
+[Zenodo cms swap](https://zenodo.org/record/6588555#.YpE20qgpDq4)

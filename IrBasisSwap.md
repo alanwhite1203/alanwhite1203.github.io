@@ -18,19 +18,7 @@ References:
   
 [Zenodo basis swap](https://zenodo.org/record/4015555/files/IrBasisSwap-27.pdf)
   
-[Pubpub basis swap](https://interestrate.pubpub.org/pub/guflw7pz/download/pdf)
-  
-[Github basis swap](https://github.com/alanwhite1203/irBasisSwap/raw/main/IrBasisSwap-27.pdf)
-  
-[Gitlab basis swap](https://gitlab.com/cmrm11/irbasisswap/-/raw/master/IrBasisSwap-27.pdf)
-  
-[Bitbucket basis swap](https://bitbucket.org/cmrm11/irbasisswap/downloads/IrBasisSwap-27.pdf)
-  
 [OSF basis swap](https://osf.io/zcyuq/download)
 
-[Pub basis swap](https://interestrate.pubpub.org/pub/guflw7pz/release/1)
-
-[Pub basis swap pdf](https://assets.pubpub.org/zjtsmkdg/51596914483275.pdf)
-
-[Github basis swap](https://github.com/alanwhite1203/irBasisSwap/raw/main/IrBasisSwap-27.pdf)
+[Zenodo foreign asset](https://zenodo.org/record/6546805#.YpDu9KgpDq4)
 

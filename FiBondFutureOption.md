@@ -87,32 +87,6 @@ J = 1,…,m
 
 
 
-	Practical Guide
-	First compute the CTD forward bond price first.
-	Then determine the volatility of the forward bond price.
-	After that, call Black formula for pricing European bond future options.
-	Or build binomial tree to value American bond future options.
-
-
-	A Real World Example
-
-
-Option Specification	Future Specification
-Buy Sell	Buy	Contract Size	33333.33
-Call Put	Call	Conversion Factor	0.8851
-Currency	USD	First Delivery Date	6/1/2017
-Option Maturity Date	5/26/2017	Last Delivery Date	6/30/2017
-Option Expiry Date	5/26/2017	Future Ticker	USM17
-Strike	151	Future Ticker Size	32
-Option Ticker	USM17C 151	Future Ticker Value	31.25
-Settlement Amount	-173875	Number of Contract	52
-Settlement Date	2/9/2017	Quote Price	3.34375
-		Trade Date	2/9/2017
-		Future Maturity Date	6/21/2017
-		Underlying Bond Type	UST
-		Underlying Bond Coupon	0.05
-		Underlying Bond Maturity Date	5/15/2037
-
 
 References:
 
@@ -120,19 +94,13 @@ References:
 
 [FlipHtml5 bond future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTM1ITM5ITPkl0av9mY)
 
-[Zenodo bond future option](https://zenodo.org/record/5765015/files/Zenodo-FiBondFutureOption.pdf)
+[Zenodo bond future option](https://zenodo.org/record/5765015#.YpU3psPMKUk)
 
 [archive bond future option](https://ia803407.us.archive.org/11/items/fi-bond-future-option-12/FiBondFutureOption-archive.pdf)
 
-
-[gitbook bond future option](https://cmrm11.gitbook.io/bond-future-option/)
-
 [OSF bond future option](https://osf.io/d2xaj/download)
 
-[Pub bond future option](https://fixedincome.pubpub.org/pub/8jo2auig/release/1)
+[Zenodo arrear cap](https://zenodo.org/record/6551437#.YpDwOKgpDq4)
 
-[Hcommons bond future option pdf](https://hcommons.org/deposits/download/hc:41606/CONTENT/fibondfutureoption-12.pdf)
-
-[science-media bond future option](https://science-media.org/userfiles/1020/presentations/1020_presentation_529.pdf)
 
    

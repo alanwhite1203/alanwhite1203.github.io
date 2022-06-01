@@ -68,21 +68,8 @@ L	the barrier level
 R	the domestic cash amount
 w 	the rebate value
 
-	A Real World Example
-Delivery Type	Delivery	Barrier Level High	1.25
-Buy Sell	Buy	Barrier Level Low	0
-Call Put	Put	Barrier Option Type	Single Down And In
-Currency One	CAD	Barrier Payment Time	At Maturity
-Notional One	65000	Rebate Amount	0
-Currency Two	USD	Barrier Window Start	1/17/2018
-Notional Two	50000	Barrier Window End	1/17/2018
-Strike Rate	1.3	Barrier Level High	1.25
-Base Currency	USD	Barrier Level Low	0
-Underlying Currency	CAD	Barrier Option Type	Single Down And In
-Instrument	USD/CAD		
-Trade Date	2/23/2017		
-Maturity Date	1/17/2018		
-Settlement Date	1/18/2018		
+
+	
 				
 
 References:
@@ -100,7 +87,7 @@ References:
    
 [OSF touch](https://osf.io/6m5jx/download)
 
-[Pub touch](https://fixedincome.pubpub.org/pub/c4yuodf7/release/1)
+[Zenodo adjusted](https://zenodo.org/record/6539925#.YpDurqgpDq4)
 
 
    

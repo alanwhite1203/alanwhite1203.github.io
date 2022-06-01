@@ -105,21 +105,6 @@ The curve construction in FX world is different from the one in interest rate wo
 	After that, you can use formula (1) or (2) to calculate the fair value.
 
 
-	A Real World Example
-Reporting Currency	USD
-Base Currency	USD
-Base Currency Notional	1790000
-Underlying Currency	JPY
-Underlying Currency Notional	200000000
-Trade Date	11/23/2016
-Maturity Date	6/9/2017
-Settlement Date	6/9/2017
-Underlying Future Label	JUN 17
-Call or Put	Put
-Buy or Sell	Buy
-Strike Quotation	USD/JPY
-Strike Value	0.895
-Instrument	CME JPYUSD
 
 
 References:
@@ -139,6 +124,6 @@ References:
   
 [OSF option](https://osf.io/xfjpz/download)
 
-[Pub option](https://fixedincome.pubpub.org/pub/81ff8xek/release/1)
+[Zenodo VaR](https://zenodo.org/record/6539777#.YpDue6gpDq4)
 
 

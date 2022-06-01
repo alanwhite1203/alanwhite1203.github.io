@@ -64,22 +64,7 @@ where all notations are the same as (1)
 	Any compounded interest zero rate curves can be used to compute discount factor, of course the formulas will be slightly different. The most common used one is continuously compounded zero rates.
 	The other key for accurately pricing an outstanding swaption is to construct an arbitrage-free volatility surface. Unlike a cap/floor volatility surface that is 3 dimensional (maturity – strike – volatility), a swaption volatility surface is 4 dimensional (swaption maturity – underlying swap tenor – strike – volatility).
 
-	A Real World Example
-Swaption Specification	Underlying Swap Specification
-Buy Sell	Buy	Leg 1 Specification	Leg 2 Specification
-Pay Receive	Ray	Currency	USD	Currency	USD
-Notification Lag	2	Day Count	dc30360	Day Count	dcAct360
-Settlement	Cash	Leg Type	Fixed	Leg Type	Float
-Exercise Type	Call	Notional	25000000	Notional	25000000
-Notification Date	4/30/2020	Pay Receive	Pay	Pay Receive	Receive
-Settlement Date	5/5/2020	Payment Freq	6	Payment Freq	3
-Forward Premium Amount	3375000	Start Date	5/5/2020	Start Date	5/5/2020
-Premium Pay Receive	Pay	End Date	5/5/2030	End Date	5/5/2030
-Forward Premium Date	5/5/2020	Fixed Rate	0.02855	Spread	0
-				Index Specification
-				Type	LIBOR
-				Tenor	3M
-				Day Count	dcAct360
+
 
 
 References:
@@ -91,19 +76,8 @@ References:
    
 [Zenodo swaption](https://zenodo.org/record/4038217/files/IrSwaption-37.pdf)
    
-[Pubpub swaption](https://interestrate.pubpub.org/pub/xktu5bnp/download/pdf)
-   
-[Github swaption](https://github.com/alanwhite1203/irSwaption/raw/main/IrSwaption-37.pdf)
-   
-[Gitlab swaption](https://gitlab.com/cmrm11/irswaption/-/raw/master/IrSwaption-37.pdf)
-   
-[Bitbucket swaption](https://bitbucket.org/cmrm11/irswaption/downloads/IrSwaption-37.pdf)
-   
 [OSF swaption](https://osf.io/f7yw9/download)
 
-[Pub swaption](https://interestrate.pubpub.org/pub/xktu5bnp/release/1)
+[Zenodo pass](https://zenodo.org/record/6549222#.YpDvoKgpDq4)
 
-[Pub swaption pdf](https://assets.pubpub.org/cy48hxc6/61597601844789.pdf)
-
-[Github swaption](https://github.com/alanwhite1203/irSwaption/raw/main/IrSwaption-37.pdf)
    

@@ -45,21 +45,6 @@ where r_0 is the reset rate.
 	The present value of the reset cash flow should be added into the present value of the floating leg.
 	Some dealers take bid-offer spreads into account. In this case, one should use bid curve constructed from bid quotes for forwarding and offer curve built from offer quotes for discounting.
 
-	A Real World Example
-Fixed Leg Specification	Floating Leg Specification	Notional Schedule
-Currency	USD	Currency	USD	6100520	9/1/2015
-Day Count	dcAct360	Day Count	dcAct360	6075492	10/1/2015
-Leg Type	Fixed	Leg Type	Float	6050464	11/1/2015
-Notional	6100520	Notional	6100520	6024284	12/1/2015
-Pay Receive	Receive	Pay Receive	Pay	5998104	1/1/2016
-Payment Frequency	1M	Payment Frequency	1M	5971924	2/1/2016
-Start Date	9/1/2015	Start Date	9/1/2015	5945744	3/1/2016
-End Date	4/3/2023	End Date	4/3/2023	5919564	4/1/2016
-Fixed Rate	0.0245	Spread	0	5893384	5/1/2016
-		Index Specification	5867204	6/1/2016
-		Index Type	LIBOR	5841024	7/1/2016
-		Index Tenor	1M	5814844	8/1/2016
-		Index DayCount	dcAct360	5788664	9/1/2016
 
 
 References:
@@ -71,19 +56,8 @@ References:
  
 [Zenodo amortizing swap](https://zenodo.org/record/4015549/files/IrAmortizingSwap-26.pdf)
  
-[Pubpub amortizing swap](https://interestrate.pubpub.org/pub/0d3i9ep0/download/pdf)
- 
-[Github amortizing swap](https://github.com/alanwhite1203/irAmortizingSwap/raw/main/IrAmortizingSwap-26.pdf)
- 
-[Gitlab amortizing swap](https://gitlab.com/cmrm11/iramortizingswap/-/raw/master/IrAmortizingSwap-26.pdf)
- 
-[Bitbucket amortizing swap](https://bitbucket.org/cmrm11/iramortizingswap/downloads/IrAmortizingSwap-26.pdf)
- 
 [OSF amortizing swap](https://osf.io/mgc83/download)
 
-[Pub amortizing swap](https://interestrate.pubpub.org/pub/0d3i9ep0/release/1)
+[Zenodo swap](https://zenodo.org/record/6546723#.YpDu3qgpDq4)
 
-[Pub amortizing swap pdf](https://assets.pubpub.org/x1wm9s1g/51596914233689.pdf)
-
-[Github amortizing swap](https://github.com/alanwhite1203/irAmortizingSwap/raw/main/IrAmortizingSwap-26.pdf)
 

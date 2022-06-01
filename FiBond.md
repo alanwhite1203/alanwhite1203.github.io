@@ -60,24 +60,7 @@ Dirty Price = Clean Price + Accrued Interest
 	After making the model price equal to the market price, one can calculate sensitivities by shocking interest rate curve and credit spread.
 	We use LIBOR curve plus credit spread rather than bond specific curves for discounting because bond specific curves rarely exist in the market, especially issued by small entities. Using LIBOR curve plus credit spread not only accounts for credit/issuer risk but also solves the missing data issue.
 
- 
-	A Real World Example
 
-Buy Sell	Buy
-Calendar	NYC
-Coupon Type	Fixed
-Currency	USD
-First Coupon Date	11/15/1988
-Interest Accrual Date	5/15/1988
-Issue Date	5/16/1988
-Last Coupon Date	11/15/2017
-Maturity Date	5/15/2018
-Settlement Lag	1
-Face Value	100
-Pay Receive	Receive
-Day Count	dcActAct
-Payment Frequency	6M
-Coupon	0.09125
 
 
 References:
@@ -88,15 +71,10 @@ References:
  
 [FlipHtml5 bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM0cjNyETPkl0av9mY)
  
-[Zenodo bond](https://zenodo.org/record/5764984/files/Zenodo-FiBond.pdf)
- 
+[Zenodo bond](https://zenodo.org/record/5764984#.YpU2zMPMKUk)
  
 [archive bond](https://ia903400.us.archive.org/5/items/fi-bond-10/FiBond-archive.pdf)
  
- 
-[gitbook bond](https://cmrm11.gitbook.io/bond-valuation/)
- 
 [OSF bond](https://osf.io/gtcma/download)
 
-[Pub bond](https://fixedincome.pubpub.org/pub/j5k0ljcd)
 

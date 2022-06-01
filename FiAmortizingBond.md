@@ -43,25 +43,6 @@ Dirty Price = Clean Price + Accrued Interest
 	We use LIBOR curve plus credit spread rather than bond specific curves for discounting because bond specific curves rarely exist in the market, especially issued by small entities. Using LIBOR curve plus credit spread not only accounts for credit/issuer risk but also solves the missing data issue.
 
  
-	A Real World Example
-
-Bond Definition	Principal Schedules
-Name	Value	Principal	Start Date
-Buy Sell	Buy	100	8/24/2009
-Calendar	TOR	98.75	5/31/2010
-Coupon Type	Fixed	97.5	11/30/2010
-Currency	CAD	95	5/31/2011
-First Coupon Date	11/30/2009	92.5	11/30/2011
-Interest Accrual Date	8/24/2009	90	5/31/2012
-Issue Date	8/24/2009	87.5	11/30/2012
-Last Coupon Date	5/31/2019	79	5/31/2013
-Maturity Date	11/30/2019	70.5	11/30/2013
-Settlement Lag	3	62	5/31/2014
-Principal	100	53.5	11/30/2014
-Pay Receive	Receive	45	5/31/2015
-Day Count	dcAct365	36.5	11/30/2015
-Payment Frequency	6M	28.75	5/31/2016
-Coupon	0.0434	21	11/30/2016
 
 
 References:
@@ -71,19 +52,12 @@ References:
 
 [FlipHtml5 amortizing bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN1gDM5ITPkl0av9mY)
 
-[Zenodo amortizing bond](https://zenodo.org/record/3958017/files/FiAmortizingBond-9.pdf)
-
+[Zenodo amortizing bond](https://zenodo.org/record/6484737#.YpU2dsPMKUk)
 
 [archive amortizing bond](https://ia803403.us.archive.org/28/items/fi-amortizing-bond-9/FiAmortizingBond-archive.pdf)
 
-[gitbook amortizing bond](https://davidlee1203.gitbook.io/amortizing-bond/)
-
 [OSF amortizing bond](https://osf.io/qrc8n/download)
 
-[Pub amortizing bond](https://fixedincome.pubpub.org/pub/2tsz1ogw)
-
-[science-media amortizing bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_528.pdf)
-
-[gitbook amortizing bond](https://davidlee1203.gitbook.io/amortizing-bond/)
+[Zenodo digital](https://zenodo.org/record/6549248#.YpDvyKgpDq4)
 
 

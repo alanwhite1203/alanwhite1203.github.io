@@ -74,21 +74,6 @@ where
 
 
 
-	A Real World Example
-
-Delivery Type	Delivery
-Leg One Currency	USD
-Leg One Notional	120750
-Leg Two Currency	CNY
-Leg Two Notional	826050.75
-Net Price	6.841
-Buy Sell	Buy
-Base Currency	USD
-Underlying Currency	CNY
-Quotation	USD/CNY
-Trade Date	10/25/2016
-Maturity Date	2/26/2018
-
 
 References:
 
@@ -105,6 +90,6 @@ References:
  
 [OSF forward](https://osf.io/ez6an/download)
 
-[Pub forward](https://fixedincome.pubpub.org/pub/q7x5shxj)
+[Zenodo principal](https://zenodo.org/record/6539656#.YpDuMqgpDq4)
 
 

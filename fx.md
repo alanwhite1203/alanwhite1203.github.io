@@ -9,8 +9,6 @@ Asian FX options allow the buyer to purchase or sell the underlying foreign exch
 	
 [More details](./FxAsian.md)
 
-[Github Asian](https://github.com/alanwhite1203/fxAsian)
-
 [Hcommons Asian](https://hcommons.org/deposits/download/hc:42686/CONTENT/fxasian-18.pdf)
 
 
@@ -25,7 +23,6 @@ A currency forward or FX forward is a contract agreement between two parties to 
  
 [More details](./FxForward.md)
 
-[Github forward](https://github.com/alanwhite1203/fxForward)
 
 [Hcommons forward](https://hcommons.org/deposits/download/hc:42736/CONTENT/fxforward-19.pdf)
 
@@ -43,7 +40,6 @@ A currency future or an FX future is a future contract between two parties to ex
 
 [More details](./FxFuture.md)
 
-[Github futures](https://github.com/alanwhite1203/fxFuture)
 
 [Science-media futures](https://science-media.org/userfiles/1020/presentations/1020_presentation_538.pdf)
 
@@ -60,7 +56,6 @@ A currency option, also known as FX Option, is a derivative contract that grants
   
 [More details](./FxOption.md)
 
-[Github option](https://github.com/alanwhite1203/fxOption)
 
 [Science-media option](https://science-media.org/userfiles/1020/presentations/1020_presentation_539.pdf)
   
@@ -76,7 +71,6 @@ An FX swap or currency swap agreement is a contract  in which both parties agree
 
 [More details](./FxSwap.md)
 
-[Github swap](https://github.com/alanwhite1203/fxSwap)
 
 [Science-media swap](https://science-media.org/userfiles/1020/presentations/1020_presentation_540.pdf)
    
@@ -92,7 +86,6 @@ A touch option is the sort of option that promises a payout once the price of an
    
 [More details](./FxTouch.md) 
 
-[Github touch](https://github.com/alanwhite1203/fxTouch)
 
 [Science-media touch](https://science-media.org/userfiles/1020/presentations/1020_presentation_541.pdf)
 

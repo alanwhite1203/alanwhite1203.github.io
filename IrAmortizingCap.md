@@ -53,22 +53,7 @@ d_1,2=(ln⁡(F_i/K)±0.5σ_i^2 T_i)/(σ_i √(T_i ))
 
    which should be added into the above present value.
 
-	A Real World Example
-Cap Terms and Conditions	Notional Schedule
-Buy Sell	Sell	9000000	2/6/2015
-Strike	0.025	8785714.29	3/31/2015
-Trade Date	2/6/2015	8464285.72	6/30/2015
-Start Date	2/6/2015	8142857.15	9/30/2015
-Maturity Date	2/4/2019	7821428.58	12/31/2015
-Currency	USD	7500000.01	3/31/2016
-Day Count	dcAct360	7178571.44	6/30/2016
-Rate type	Float	6857142.87	9/30/2016
-Notional	9000000	6535714.3	12/30/2016
-Pay Receive	Pay	6214285.73	3/31/2017
-Payment Frequency	1M	5892857.16	6/30/2017
-Index Tenor	1M	5571428.59	9/29/2017
-Index Type	LIBOR	5250000.02	12/29/2017
-		4928571.45	3/30/2018
+
 
 
 References:
@@ -80,18 +65,7 @@ References:
 
 [Zenodo amortizing cap](https://zenodo.org/record/4015544/files/IrAmortizingCap-25.pdf)
 
-[Pubpub amortizing cap](https://interestrate.pubpub.org/pub/ho3dwvhh/download/pdf)
-
-[Github amortizing cap](https://github.com/alanwhite1203/irAmortizingCap/raw/main/IrAmortizingCap-25.pdf)
-
-[Gitlab amortizing cap](https://gitlab.com/cmrm11/iramortizingcap/-/raw/master/IrAmortizingCap-25.pdf)
-
-[Bitbucket amortizing cap](https://bitbucket.org/cmrm11/iramortizingcap/downloads/IrAmortizingCap-25.pdf)
-
 [OSF amortizing cap](https://osf.io/rfa8e/download)
 
-[Pub amortizing cap](https://interestrate.pubpub.org/pub/ho3dwvhh/release/1)
+[Zenodo index](https://zenodo.org/record/6546586#.YpDuxKgpDq4)
 
-[Pub amortizing cap pdf](https://assets.pubpub.org/skchd8j4/71596913935475.pdf)
-
-[Github amortizing cap](https://github.com/alanwhite1203/irAmortizingCap/raw/main/IrAmortizingCap-25.pdf)

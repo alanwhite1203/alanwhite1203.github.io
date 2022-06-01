@@ -73,20 +73,7 @@ K – the strike
 D – the discount factor
 Φ – accumulative normal distribution function.
 
-	A real world example
 
-Future option specification	Underlying future specification
-Quote Price	0.05	Contract Size	10000
-Trade Date	11/23/2016	First Delivery Date	5/30/2017
-Option Maturity Date	6/19/2017	Last Delivery Date	6/30/2017
-Option Expiry Date	6/19/2017	Future Maturity Date	6/19/2017
-Settlement Amount	-62500	Tenor	3M
-Settlement Date	11/23/2016	Future Ticker	EDM17
-Strike	98.75	Future Ticker Size	100
-Option Ticker	EDM17P 98.75	Number of Contract	500
-Call Put	Put		
-Currency	USD		
-Buy Sell	Buy		
 
 
 References:
@@ -98,18 +85,7 @@ References:
    
 [Zenodo future option](https://zenodo.org/record/4038197/files/IrFutureOption-35.pdf)
    
-[Pubpub future option](https://interestrate.pubpub.org/pub/ayoefgzr/download/pdf)
-   
-[Github future option](https://github.com/alanwhite1203/irFutureOption/raw/main/IrFutureOption-35.pdf)
-   
-[Gitlab future option](https://gitlab.com/cmrm11/irfutureoption/-/raw/master/IrFutureOption-35.pdf)
-   
-[Bitbucket future option](https://bitbucket.org/cmrm11/irfutureoption/downloads/IrFutureOption-35.pdf)
-   
 [OSF future option](https://osf.io/gbzj3/download)
 
-[Pub future option](https://interestrate.pubpub.org/pub/ayoefgzr/release/1)
+[Zenodo mortgage](https://zenodo.org/record/6548953#.YpDvfKgpDq4)
 
-[Pub future option pdf](https://assets.pubpub.org/uloyiim5/71597601350677.pdf)
-
-[Github futre option](https://github.com/alanwhite1203/irFutureOption/raw/main/IrFutureOption-35.pdf)

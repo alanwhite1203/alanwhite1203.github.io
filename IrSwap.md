@@ -57,21 +57,6 @@ where r_0 is the reset rate.
 	The present value of the reset cash flow should be added into the present value of the floating leg.
 	Some dealers take bid-offer spreads into account. In this case, one should use bid curve constructed from bid quotes for forwarding and offer curve built from offer quotes for discounting.
 
-	A Real World Example
-Leg 1 Specification	Leg 2 Specification
-Currency	USD	Currency	USD
-Day Count	dcAct360	Day Count	dcAct360
-Leg Type	Fixed	Leg Type	Float
-Notional	5000000	Notional	5000000
-Pay Receive	Receive	Pay Receive	Pay
-Payment Frequency	1M	Payment Frequency	1M
-Start Date	7/1/2015	Start Date	7/1/2015
-End Date	3/1/2023	End Date	3/1/2023
-Fixed Rate	0.0455	Spread	0
-		Index Specification
-		Index Type	LIBOR
-		Index Tenor	1M
-		Index Day Count	dcAct360
 
 
 References:
@@ -83,20 +68,8 @@ References:
    
 [Zenodo swap](https://zenodo.org/record/4038207/files/IrSwap-36.pdf)
    
-[Pubpub swap](https://interestrate.pubpub.org/pub/qigecbra/download/pdf)
-   
-[Github swap](https://github.com/alanwhite1203/irSwap/raw/main/IrSwap-36.pdf)
-   
-[Gitlab swap](https://gitlab.com/cmrm11/irswap/-/raw/master/IrSwap-36.pdf)
-   
-[Bitbucket swap](https://bitbucket.org/cmrm11/irswap/downloads/IrSwap-36.pdf)
-   
 [OSF swap](https://osf.io/kx5q2/download)
 
-[Pub swap](https://interestrate.pubpub.org/pub/qigecbra/release/1)
-
-[Pub swap pdf](https://assets.pubpub.org/zs1bo158/41597601583681.pdf)
-
-[Github swap](https://github.com/alanwhite1203/irSwap/raw/main/IrSwap-36.pdf)
+[Zenodo lock](https://zenodo.org/record/6549162#.YpDvjagpDq4)
 
    

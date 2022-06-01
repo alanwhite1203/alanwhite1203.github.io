@@ -79,29 +79,7 @@ At time t, X(0)=0 and H(0)=0. Thus Z(0,0;T)=D(T). In other words, the LGM automa
 
 
 
-Cancelable swap definition
-Counterparty 	xxx
-Buy or sell	Buy
-Payer or receiver	Payer
-Currency	USD
-Settlement	Physical
-Trade date	9/12/2012
-Underlying swap definition	Leg 1	Leg2
-Day Count	dcAct360	dcAct360
-Leg Type	Fixed	Float
-Notional	250000	250000
-Payment Frequency	1	1
-Pay Receive	Receive	Pay
-Start Date	9/14/2012	9/14/2012
-End Date	9/14/2022	9/14/2022
-Fix rate	0.0398	NA
-Index Type	NA	LIBOR
-Index Tenor	NA	1M
-Index Day Count	NA	dcAct360
-Exercise Schedules
-Exercise Type	Notification Date	Settlement Date
-Call	1/12/2017	1/14/2017
-Call	1/10/2018	1/14/2018
+
 
 
 References:
@@ -113,18 +91,7 @@ References:
    
 [Zenodo cancelable](https://zenodo.org/record/4019681/files/IrCancelableSwap-29.pdf)
    
-[Pubpub cancelable](https://interestrate.pubpub.org/pub/guflw7pz/download/pdf)
-   
-[Github cancelable](https://github.com/alanwhite1203/irCancellableSwap/raw/main/IrCancelableSwap-29.pdf)
-   
-[Gitlab cancelable](https://gitlab.com/cmrm11/ircancellableswap/-/raw/master/IrCancelableSwap-29.pdf)
-   
-[Bitbucket cancelable](https://bitbucket.org/cmrm11/ircancelableswap/downloads/IrCancelableSwap-29.pdf)
-   
 [OSF cancelable](https://osf.io/v7whf/download)
 
-[Pub cancelable](https://interestrate.pubpub.org/pub/y2w2qn3n/release/1)
+[Zenodo fair value](https://zenodo.org/record/6547047#.YpDvGKgpDq4)
 
-[Pub cancelable pdf](https://assets.pubpub.org/m44wct04/21597421210694.pdf)
-
-[Github cancelable](https://github.com/alanwhite1203/irCancellableSwap/raw/main/IrCancelableSwap-29.pdf)

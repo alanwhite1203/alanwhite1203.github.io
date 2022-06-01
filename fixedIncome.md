@@ -13,7 +13,6 @@ An amortizing bond is used specifically for tax purposes as the amortized princi
 
 [Science-media amortizing bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_526.pdf)
 
-[Github amortizing bond](https://github.com/alanwhite1203/fiAmortizingBond)
 
 
 ### Fixed Rate Bond
@@ -24,9 +23,6 @@ Fixed rate bonds generally pay higher coupons than interest rates. An investor w
 
  
 [More details](./FiBond.md)
-
-[Github bond](https://github.com/alanwhite1203/fiBond)
-
 
 [Gibook bond](https://cmrm11.gitbook.io/bond-valuation/)
 
@@ -41,9 +37,6 @@ The seller usually picks up the cheapest bond in the basket to deliver, called t
 
 
 [More details](./FiBondFuture.md)
-
-[Github bond futures](https://github.com/alanwhite1203/fiBondFuture)
-
 
 [Gitbook bond futures](https://cmrm11.gitbook.io/bond-futures/)
 
@@ -61,9 +54,6 @@ Bond futures options are also exchange traded derivatives on treasury instrument
 
 [More details](./FiBondFutureOption.md)
 
-[Github bond future option](https://github.com/alanwhite1203/fiBondFutureOption)
-
-
 [Gitbook bond future option](https://cmrm11.gitbook.io/bond-future-option/)
 
 [Science-media bond future option](https://science-media.org/userfiles/1020/presentations/1020_presentation_529.pdf)
@@ -80,9 +70,6 @@ For issuers, callable bonds allow them to reduce interest costs at a future date
 
 [More details](./FiCallableBond.md)
 
-[Github callable bond](https://github.com/alanwhite1203/fiCallable)
-
-
 [Gitbook callable](https://cmrm11.gitbook.io/callable-bond/)
 
 [Science-media callable](https://science-media.org/userfiles/1020/presentations/1020_presentation_531.pdf)
@@ -97,8 +84,6 @@ A floating rate note has variable coupons, depending on a money market reference
 The price of an FRN has very low sensitivity to changes in interest rates because the floating coupon increases but the discounting also increases as interest rate rises. An investor who wants conservative investments may choose floating rate bonds. FRNs become more popular when interest rates are expected to increase. An FRN carry lower yield than fixed rate bonds of the same maturity and has unpredictable coupon payments. This presentation gives an overview of FRNs valuation. 
 
 [More details](./FiFrn.md)
-
-[Github frn](https://github.com/alanwhite1203/fiFrn)
 
 
 [Gitbook frn](https://cmrm11.gitbook.io/floating-rate-note/)
@@ -117,7 +102,6 @@ The main idea of inflation indexed bonds is that investing in the bond will gene
 
 [More details](./FiInflationBond.md)
 
-[Github inflation bond](https://github.com/alanwhite1203/fiInflation)
 
 [Gitbook inflation bond](https://cmrm11.gitbook.io/inflation-indexed-bond/)
 
@@ -135,7 +119,6 @@ Although a puttable bond is a higher cost to the investor and an uncertainty to 
 
 [More details](./FiPuttableBond.md)
 
-[Github puttable bond](https://github.com/alanwhite1203/fiPuttable)
 
 [Gitbook puttable bond](https://cmrm11.gitbook.io/puttable-bond/)
 
@@ -152,8 +135,6 @@ Zero coupon bonds are issued at a deep discount and repaid the face value at mat
 
 
 [More details](./FiZeroBond.md)
-
-[Github zero](https://github.com/alanwhite1203/fiZeroBond)
 
 [Hcommons zero](https://hcommons.org/deposits/download/hc:41724/CONTENT/fizerobond-17.pdf)
 

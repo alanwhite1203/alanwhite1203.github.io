@@ -69,21 +69,7 @@ where
 	The accrual period is calculated according to the start date and end date of a cash flow plus day count convention 
 	We assume that accrual periods are the same as forwarding periods and payment dates are the same as accrual end dates in the above formulas for brevity. But in fact, they are slightly different due to different market conventions.
 
-	A real world example
-Leg 1 Specification	Leg 2 Specification
-Currency	USD	Currency	USD
-Day Count	dcAct360	Day Count	dcAct360
-Leg Type	Fixed	Leg Type	Float
-Notional	250000000	Notional	250000000
-Pay Receive	Pay	Pay Receive	Receive
-Start Date	4/7/2017	Start Date	4/7/2017
-End Date	10/10/2017	End Date	10/10/2017
-Settlement Date	10/10/2017	Settlement Date	10/10/2017
-Fixed Rate	0.014399	Spread	-0.014399
-		Index Specification
-		Type	LIBOR
-		Tenor	6M
-		Day Count	dcAct360
+
 
 
 References:
@@ -95,18 +81,7 @@ References:
    
 [Zenodo fra](https://zenodo.org/record/4031737/files/IrFra-33.pdf)
    
-[Pubpub fra](https://interestrate.pubpub.org/pub/gy0flby2/download/pdf)
-   
-[Github fra](https://github.com/alanwhite1203/irFra/raw/main/IrFra-33.pdf)
-   
-[Gitlab fra](https://gitlab.com/cmrm11/irfra/-/raw/master/IrFra-33.pdf)
-   
-[Bitbucket fra](https://bitbucket.org/cmrm11/irfra/downloads/IrFra-33.pdf)
-   
 [OSF fra](https://osf.io/k8v2q/download)
 
-[Pub fra](https://interestrate.pubpub.org/pub/gy0flby2/release/1)
+[Zenodo performance](https://zenodo.org/record/6547457#.YpDvW6gpDq4)
 
-[Pub fra pdf](https://assets.pubpub.org/q8zv76np/71597600836643.pdf)
-
-[Github fra](https://github.com/alanwhite1203/irFra/raw/main/IrFra-33.pdf)

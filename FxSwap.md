@@ -87,24 +87,6 @@ where
 
 
 
-	A Real World Example
-
-Delivery Type	Delivery
-Leg One Currency	GBP
-Leg One Notional	10043000
-Leg Two Currency	USD
-Leg Two Notional	12289368.03
-Net Price	1.223675
-Buy Sell	Buy
-Base Currency	GBP
-Underlying Currency	USD
-Instrument	GBP/USD
-Spot Quotation Denominator	GBP
-Spot Quotation Numerator	USD
-Trade Date	10/28/2016
-Maturity Date	11/1/2017
-Settlement Date	11/1/2017
-
 
 References:
   
@@ -120,7 +102,7 @@ References:
    
 [OSF swap](https://osf.io/vuyzn/download)
 
-[Pub swap](https://fixedincome.pubpub.org/pub/k0brdlqc/release/1)
+[Zenodo barrier](https://zenodo.org/record/6539852#.YpDum6gpDq4)
 
 
 

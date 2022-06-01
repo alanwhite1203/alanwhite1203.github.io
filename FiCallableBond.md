@@ -90,24 +90,7 @@ At time t, X(0)=0 and H(0)=0. Thus Z(0,0;T)=D(T). In other words, the LGM automa
 	Compare exercise values with intrinsic values at each exercise date.
 	The value at the valuation date is the price of the callable bond.
 
-	A real world example
 
-Bond specification	Callable schedule
-Buy Sell	Buy	Call Price	Notification Date
-Calendar	NYC	100	1/26/2015
-Coupon Type	Fixed	100	7/25/2018
-Currency	USD		
-First Coupon Date	7/30/2013		
-Interest Accrual Date	1/30/2013		
-Issue Date	1/30/2013		
-Last Coupon Date	1/30/2018		
-Maturity Date	7/30/2018		
-Settlement Lag	1		
-Face Value	100		
-Pay Receive	Receive		
-Day Count	dc30360		
-Payment Frequency	6		
-Coupon	0.012		
 
 
 References:
@@ -117,21 +100,14 @@ References:
 
 [FlipHtml5 callable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzM1ITM5ITPkl0av9mY)
 
-[Zenodo callable](https://zenodo.org/record/5765076/files/Zenodo-FiCallableBond.pdf)
+[Zenodo callable](https://zenodo.org/record/5765076#.YpU3-sPMKUk)
 
 [archive callable](https://ia903407.us.archive.org/20/items/fi-callable-bond-13/FiCallableBond-archive.pdf)
 
-[FlipHtml5 callable pdf](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTMxkjNyETPkl0av9mY)
-
-[gitbook callable](https://cmrm11.gitbook.io/callable-bond/)
+[Zenodo bma swap](https://zenodo.org/record/6558053#.YpDwC6gpDq4)
 
 [OSF callable](https://osf.io/qkbfn/download)
 
-[Pub callable](https://fixedincome.pubpub.org/pub/ylqcukjc)
-
-[Hcommons callable pdf](https://hcommons.org/deposits/download/hc:41630/CONTENT/ficallablebond-13.pdf)
-
-[science-media callable](https://science-media.org/userfiles/1020/presentations/1020_presentation_531.pdf)
 
 
 
