@@ -12,9 +12,6 @@ practical guide for pricing an American equity option.
 
 [Equity American Option](EqAmerican.md)
 
-[Reference Pdf](EqAmerican-1.pdf)
-
-[FlipHtml5 American](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTOxgjM5ITPkl0av9mY)
 
 
 
@@ -30,11 +27,7 @@ of corporate treasurers. Average can be calculated in a number of ways (daily, w
 product and valuation. 
 
 [Equity Asian Option](EqAsian.md)
- 
-[FlipHtml5 Asian](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTMygjM5ITPkl0av9mY)
 
-
-[Hcommons Asian](https://hcommons.org/deposits/download/hc:38190/CONTENT/eqasian-2.pdf)
  
  
 ### Equity Basket Option
@@ -45,7 +38,6 @@ A basket option can be used to hedge the risk exposure to or speculate the marke
 
 [Equity Basket Option](EqBasket.md)
 
-[FlipHtml5 Basket](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMygjM5ITPkl0av9mY)
 
 
 
@@ -59,11 +51,6 @@ A convertible bond has an embedded call option that gives bondholders the right 
 
 [Convertible Bond](EqConvertible.md)
 
-[Pdf reference](./EqConvertible-4.pdf)
-
-[FlipHtml5 Convertible](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamczMygjM5ITPkl0av9mY)
-
-
 
   
    
@@ -74,12 +61,7 @@ An Equity Forward contract is an agreement between two counterparties to buy a s
 Differently from Equity Forward, an Equity Futures contract traded over the organized exchange. In this contract parties commit to buy or sell a specified amount of an individual equity or a basket of equities or an equity index at an agreed contract price on a specified date. Generally there are two types of Equity Futures: Index Future and Stock Future. Stock markets Index Futures are futures contracts used to replicate the performance of an underlying stock market index. They can be used for hedging against an existing equity position, or speculating on future movements of the index. Indices for futures include well-established indices such as S&P 500, FTSE 100, DAX, CAC 40 and other G12 country indices. Indices for OTC products are broadly similar, but offer more flexibility.
 
 [Equity Futures](EqFuture.md)
- 
-[Reference pdf](./EqFuture-5.pdf)
 
-[FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATNxgDN5ITPkl0av9mY)
-
-[Gitbook futures](https://deripricing.gitbook.io/equity-futures-and-forwards-pricing/)
 
   
    
@@ -90,14 +72,7 @@ Equity options, which are the most common type of equity derivatives, give an in
 Equity options or stock options provide investors a way to hedge risk or speculate.  Also option trading can limit an investor’s risk and leverage investing potential. Option investors have a number of strategies they can utilize, depending on risk tolerance and expected return. 
 
 [Equity Option](EqOption.md)
-   
-[Reference pdf](./EqOption-6.pdf) 
-   
-[FlipHtml5 option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNxgDN5ITPkl0av9mY)
 
-[Gitbook option](https://deripricing.gitbook.io/stock-option-product-and-valuation/)
-
-[Sciece-media option](https://science-media.org/userfiles/1020/presentations/1020_presentation_501.pdf)
 
 
 

@@ -4,24 +4,7 @@ An American option give an investor the right but not the obligation to buy a ca
 
 An American option give an investor the right but not the obligation to buy a call or sell a put at a set strike price at any time prior to the contract’s expiry date. American options provide investors a way to hedge risk or speculate.  In general, American options do not have a closed-form solution. This presentation provides a practical guide for pricing an American equity option. 
 
-	American Option Introduction
-
-	An American option give an investor the right but not the obligation to buy a call or sell a put at a set strike price at any time prior to the contract’s expiry date. 
-	Since investors have the freedom to exercise their American options at any point during the life of the contract, they are more valuable than European options, which can only be exercised at maturity. 
-	An investor holding an American-style option and seeking optimal value prefer to sell it on, rather than exercise it before maturity under certain circumstances. 
-	Investors and traders can use equity options to take a long or short position in a stock without actually buying or shorting the stock. 
-	This is advantageous because taking a position with options allows the investor/trader more leverage in that the amount of capital needed is much less than a similar outright long or short position on margin. 
-	Investors/traders can therefore profit more from a price movement in the underlying stock.
-	American options provide investors a way to hedge risk or speculate.  Also option trading can limit an investor’s risk and leverage investing potential. 
-	Option investors have a number of strategies they can utilize, depending on risk tolerance and expected return.
-	Buying call options allows you to benefit from an upward price movement. The right to buy stock at a fixed price becomes more valuable as the price of the underlying stock increases.
-	Put options may provide a more attractive method than shorting stock for profiting on stock price declines.
-	If you have an established profitable long stock position, you can buy puts to protect this position against short-term stock price declines. 
-	An option seller earns the premium if the underlying stock price would not change much.
-
-	Valuation
-
-	In general, American options do not have a closed-form solution.
+		In general, American options do not have a closed-form solution.
 	There are several methods to approximate the price of an American option: Roll-Geske-Whaley, Barone-Adesi and Whaley, Bjerksund and Stensland.
 	To accreately value an American option, one needs to use a numerical approach.
 	The most popular numerical methods are tree, lattice, PDE and Monte Carlo.
@@ -66,6 +49,6 @@ References:
 
 [gitbook AO](https://captim.gitbook.io/eqamerican/)
 
-[science-media AO](https://science-media.org/userfiles/1020/presentations/1020_presentation_495.pdf)
+[FlipHtml5 American](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTOxgjM5ITPkl0av9mY)
 
-[hcommons AO](https://hcommons.org/deposits/download/hc:38106/CONTENT/eqamerican-1.pdf)
+[Github gic pooling](https://github.com/timxiao1203/EquityLinkedGICPooling)

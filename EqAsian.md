@@ -8,25 +8,6 @@ One advantage of Asian options is that they reduce the risk of market manipulati
 
 Asian options have relatively low volatility due to the averaging mechanism. They are used by traders who are exposed to the underlying asset over a period of time. The Asian option can be used for hedging and trading Equity Linked Notes issuance. The arithmetic average price options are generally used to smooth out the impact from high volatility periods or prevent price manipulation near the maturity date, which makes the options less expensive.
 
-	Asian Option Introduction
-
-	An Asian option or average option is a special type of option contract  where the payoff depends on the average price of the underlying asset over a certain period of time 
-	The payoff is different from the case of a European option or American option, where the payoff of the option contract depends on the price of the underlying stcok at exercise date.
-	Asian options allow the buyer to purchase (or sell) the underlying asset at the average price instead of the spot price.
-	Asian options are commonly seen options over the OTC markets.
-	Average price options are less expensive than regular options and are arguably more appropriate than regular options for meeting some of the needs of corporate treasurers.
-	average can be calculated in a number of ways (daily, weekly, monthly, etc.).
-
-	The Use of Asian Options
-
-	One advantage of Asian options is that they reduce the risk of market manipulation of the underlying instrument at maturity. 
-	Another advantage of Asian options involves the relative cost of Asian options compared to European or American options. Because of the averaging feature, Asian options reduce the volatility inherent in the option; therefore, Asian options are typically cheaper than European or American options.
-	Asian options have relatively low volatility due to the averaging mechanism. They are used by traders who are exposed to the underlying asset over a period of time
-	The Asian option can be used for hedging and trading Equity Linked Notes issuance.
-	The arithmetic average price options are generally used to smooth out the impact from high volatility periods or prevent price manipulation near the maturity date, which makes the options less expensive.
-
-	Valuation
-
 	The payoff of an average price call is max(0, Savg - K) and that of an average price put is max(0, K- Savg), where Savg  is the average value of the underlying asset calculated over a predetermined averaging period. 
 	If the underlying asset price, S, is assumed to be lognormally distributed and Save is a geometric average of the S’s, analytic formulas are available for valuing European average price options. This is because the geometric average of a set of lognormally distributed variables is also lognormal. 
 	When, as is nearly always the case, Asian options are defined in terms of arithmetic averages, exact analytic pricing formulas are not available. This is because the distribution of the arithmetic average of a set of lognormal distributions does not have analytically tractable properties.
@@ -86,22 +67,17 @@ K^*=T_2/(T_1+T_2 ) K-T_1/T_2  S ̅
 
 References:
  
- [More details](./EqAsian-2.pdf)
+[More details](./EqAsian-2.pdf)
 
+[Zenodo Asian](https://zenodo.org/record/5748073#.YpPIjsPMKUk)
+
+[OSF Basket](https://osf.io/cjzba/download)
  
- [Zenodo Asian](https://zenodo.org/record/5748073#.YpPIjsPMKUk)
+[archive Asian](https://ia601807.us.archive.org/20/items/eq-asian-2/EqAsian-Archive.pdf)
  
- 
- [hcommons Asian](https://hcommons.org/deposits/download/hc:38190/CONTENT/eqasian-2.pdf)
- 
- 
- [OSF Basket](https://osf.io/cjzba/download)
- 
- [archive Asian](https://ia601807.us.archive.org/20/items/eq-asian-2/EqAsian-Archive.pdf)
- 
- [gitbook Asian](https://captim.gitbook.io/eqasian/)
- 
- [science-media Asian](https://science-media.org/userfiles/1020/presentations/1020_presentation_496.pdf)
- 
- 
+[gitbook Asian](https://captim.gitbook.io/eqasian/)
+
+[Github quanto himalaya](https://github.com/timxiao1203/QuantoHimalayan)
+
+
  

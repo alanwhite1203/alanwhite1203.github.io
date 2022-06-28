@@ -1,6 +1,7 @@
 ## Convertible Bond Valuation
   
-Convertible bonds can be thought of as normal corporate bonds with embedded options, which enable the holder to exchange the bond asset for the issuer's stock. Having properties of both stocks and bonds, convertibles can be an attractive choice for investors and have tended to have lower risk. 
+Convertible bonds can be thought of as normal corporate bonds with embedded options, which enable the holder to exchange the bond asset for the issuer's stock. Having properties of both stocks and bonds, 
+convertibles can be an attractive choice for investors and have tended to have lower risk. 
 
 
 	A convertible bond has an embedded call option that gives bondholders the right to convert their bonds into equity at a given time for a predetermined number of shares in the issuing company.
@@ -10,17 +11,13 @@ Convertible bonds can be thought of as normal corporate bonds with embedded opti
 	Convertible bonds are hybrid securities that have both debt and equity features.
 	Most convertible bonds are subordinated debt of the issuer. In the event of bankruptcy, the claims of other bondholders take priority over convertible bondholders except the preferred and common stock owners.
 
-	The Use of convertible bonds
+
 	By issuing convertibles they can lower their cost of debt funding compared to straight debt alone.
 	Lower-credit companies who may not be able to access the straight debt market can often still issue convertible debt.
 	Companies who anticipate equity appreciation can use convertibles to defer equity financing to a time when growth has been achieved.
 	Convertible bonds offer greater satiability of income than common stock. 
 	They provide a yield that is often higher than the dividend yield of common stock.
 	Given the optionality, convertibles have tended to have lower risk.
-
-
-	Valuation
-	Convertible bonds are hybrid securities that have both debt and equity features.
 
 	The valuation of convertible or reverse convertible bonds can be quite complex because of its dual nature as a normal bond and as an equity call/put option.
 	There is no closed-form solution for convertibles.
@@ -77,17 +74,6 @@ B ̃ is the continuation value of the bond component
 G ̃ is the continuation value of the equity component.
 
 
-	Implementation
-	The valuation can be done via backward induction. The procedure is as follows.
-For i = penultimateTime to currentTime
-	// determine accrual interest and call/put prices
-	// determine boundary nodes
-// use the PSOR (Projected Successive over Relaxation) method to obtain the    
-continuation value of the bond component   and the continuation value of the equity  component  , applying the constraints (31). 
-EndFor
-	The value at node[0][y] is the convertible bond price where the equity price at node[0][y] is equal to the current market stock price.
-
-
 
 
 References:
@@ -95,11 +81,10 @@ References:
 [More details](./EqConvertible-4.pdf)
 
 [Zenodo convertible](https://zenodo.org/record/3945092#.YpPNY8PMKUk)
-  
-[hcommons convertible](https://hcommons.org/deposits/download/hc:38228/CONTENT/eqconvertible-4.pdf)
 
 [archive convertible](https://ia803402.us.archive.org/6/items/eq-convertible-4/EqConvertible-archive.pdf)
 
 [gitbook pdf](https://captim.gitbook.io/eqconvertible/)
 
-[science-media pdf](https://science-media.org/userfiles/1020/presentations/1020_presentation_497.pdf)
+[github 3 factor](https://github.com/timxiao1203/ConvertibleThreeFactor)
+

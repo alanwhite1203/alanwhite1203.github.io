@@ -1,15 +1,6 @@
 ## Equity Futures Valuation
    
-An Equity Forward contract is an agreement between two counterparties to buy a specific number of equity stocks, stock index or basket at a given price (called strike price) at a given date. For any forward contract no cash changes hands until the maturity of the contract. Equity forward contracts are cash settled in most cases. At maturity, the two counterparties exchange a cashflow equivalent to the difference between the stock closing price and the strike price. Equity forward contract is traded over the counter (OTC) instead of exchange market. 
 Differently from Equity Forward, an Equity Futures contract traded over the organized exchange. In this contract parties commit to buy or sell a specified amount of an individual equity or a basket of equities or an equity index at an agreed contract price on a specified date. Generally there are two types of Equity Futures: Index Future and Stock Future. Stock markets Index Futures are futures contracts used to replicate the performance of an underlying stock market index. They can be used for hedging against an existing equity position, or speculating on future movements of the index. Indices for futures include well-established indices such as S&P 500, FTSE 100, DAX, CAC 40 and other G12 country indices. Indices for OTC products are broadly similar, but offer more flexibility.
-Single-stock futures are exchange-traded futures contracts based on an individual underlying security rather than a stock index. Their performance is similar to that of the underlying equity itself, although as futures contracts they are usually traded with greater leverage. Another difference is that holders of long positions in single stock futures typically do not receive dividends and holders of short positions do not pay dividends. Single-stock futures may be cash-settled or physically settled by the transfer of the underlying stocks at expiration, although in the United States only physical settlement is used to avoid speculation in the market.
-
-A future takes place on an organized exchange where the all of the contract's terms and conditions, except price, are formalized. The future's standardization helps to create liquidity in the marketplace enabling participants to close out positions before expiration. Equity forward contract is traded over the counter (OTC).  They are customized to meet the user's special needs. Forwards have credit risk, but futures do not because a clearing house guarantees against default risk
-
-The theoretical computation of Future price does not take into account the delivery
-type. Thus, the theoretical price is assumed to be the price if the underlying index is
-delivered in cash.
-
 
 1.	Equity Forward Introduction
 •	An Equity Forward contract is an agreement between two counterparties to buy a specific number of equity stocks, stock index or basket at a given price (called strike price) at a given date. 
@@ -55,9 +46,11 @@ References:
 [Zenodo futures](https://zenodo.org/record/6480510#.YpPb6MPMKUk)
 
 [OSF futures](https://osf.io/t5vnp/download)
-   
-[hcommons futures](https://hcommons.org/deposits/download/hc:38282/CONTENT/eqfuture-5.pdf)
 
 [archive futures](https://ia903405.us.archive.org/8/items/eq-future-5/EqFuture-archive.pdf)
 
 [gitbook futures](https://deripricing.gitbook.io/equity-futures-and-forwards-pricing/)
+
+[Github securitization](https://github.com/timxiao1203/MutualFundSecuritization)
+
+

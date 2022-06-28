@@ -8,31 +8,6 @@ A basket option can be used to hedge the risk exposure to or speculate the marke
 Buying a basket of shares is an obvious way to participate in the anticipated rapid appreciation of a sector of the stock market, without active management. An investor bullish on a sectr but wanting downside protection may favor a call option on a basket of shares from that sector. A trader who think the market overestimates a basket’s volatility may sell a butterfly spread on the basket. A relatively risk averse investor may favor a basket buy or write. A trader who anticipates that the average correlation among different shares is going to increase might buy a basket option, hedge against a change in volatility by selling options on the component shares, and delta-hedge the remaining exposure to the underlying shares. This presentation gives an overview of equity basket option definition and valuation.
 
 
-Keywords
-Basket option, equity basket option, option, valuation, risk, pricing model
-
-
-	Equity Basket Option Introduction
-	A basket option is a financial contract whose underlying is a weighted sum or average of different assets that have been grouped together in a basket.
-	The assets in an equity basket option could be equity indices or individual equities.
-	A basket option can be used to hedge the risk exposure to or speculate the market move on the underlying stock basket.
-	Because it involves just one transaction, a basket option often costs less than multiple single options.
-	The most important feature of a basket option is its ability to efficiently hedge risk on multiple assets at the same time. 
-	Rather than hedging each individual asset, the investor can manage risk for the basket, or portfolio, in one transaction. 
-	The benefits of a single transaction can be great, especially when avoiding the costs associated with hedging each and every component of the basket or portfolio.
-
-	The Use of Basket Options
-	A basket offers a combination of two contracdictory benefits: focus on an investment style or sector, and diversification across the spectrum of stocks in the sector.
-	One advantage of Asian options is that these reduce the risk of market manipulation of the underlying instrument at maturity. 
-	Another advantage of Asian options is the cheaper price compared to European or American options, because of the averaging feature that reduces the price volatility. 
-	Buying a basket of shares is an obvious way to participate in the anticipated rapid appreciation of a sector of the stock market, without active management.
-	An investor bullish on a sectr but wanting downside protection may favor a call option on a basket of shares from that sector.
-	A trader who think the market overestimates a basket’s volatility may sell a butterfly spread on the basket.
-	A relatively risk averse investor may favor a basket buy or write.
-	A trader who anticipates that the average correlation among different shares is going to increase might buy a basket option, hedge against a change in volatility by selling options on the component shares, and delta-hedge the remaining exposure to the underlying shares.
-
-
-	Payoffs
 	In a basket option, the payoff is determined by the weighted average prices of the underlying stocks in a basket. This is different from the case of the usual European option and American option, where the payoff of the option contract depends on the price of the only one underlying instrument at exercise. 
 	Trading desks use this type of option to construct the payoff structures in various Equity Linked Notes to issue. 
 	The payoff for a basket call option is given by
@@ -52,7 +27,6 @@ Si	the spot price for asset   at time T
 〖Payoff〗_P (T)=N∙P∙max⁡(K-R,0)
 
 
-	Valuation
 	The Asian basket option payoff function can be solved either analytically or using sample paths generated with the independent Monte Carlo engine.
 	In this paper, we focus on the analytical solution. It assumes that the basket price can be approximated by a lognormal distribution with moments matched to the distribution of the weighted sum of the individual stock prices. The model includes two- and three-moment matching algorithms.
 	The model also can be used to price an Asian basket option by including a period of dates in the averaging schedule.
@@ -86,14 +60,6 @@ c=M_1-d∙exp(1/(2b^2 )-a/b)
 		+d∙exp(-a/b+1/(2b^2 ))(1-Φ(b∙ln((K-c)/d)+a-1/b))D
 	where D is the discount factor.
 
-	Practical Guide
-	This model assumes that the basket price can be approximated by a lognormal distribution with moments matched to the distribution of the weighted sum of the individual stock prices.
-	The asset value can be accurately expressed using a volatility skew model. This represents best market practice.
-	Interest rates are deterministic.
-	The model can be easily extended to price an Asian basket option by including a period of dates in the averaging schedule, i.e.,
-
-R=∑_(j=1)^m▒∑_(i=1)^n▒〖w_i 〖W_j S〗_ij/F_i 〗
-where Wj is the weight for schedule time  ,  
 
 
 
@@ -105,12 +71,8 @@ where Wj is the weight for schedule time  ,
   
   [Zenodo basket](https://zenodo.org/record/5748077#.YpPJ8MPMKUk)
   
-  [hcommons basket](https://hcommons.org/deposits/download/hc:38410/CONTENT/eqbarrier-11.pdf)
-  
   [osf basket](https://osf.io/cjzba/download)
   
-  [archive basket](https://ia803403.us.archive.org/16/items/eq-basket-3/EqBasket-archive.pdf)
-  
   [gitbook basket](https://captim.gitbook.io/eqbasket/)
- 
-  [science-media basket](https://science-media.org/userfiles/1020/presentations/1020_presentation_498.pdf)
+  
+  [Github forward starting](https://github.com/timxiao1203/ForwardStartingOption)
