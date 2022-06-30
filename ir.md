@@ -9,9 +9,6 @@ An interest rate cap is a financial contract between two parties that provides a
 
 [More details](./IrAmortizingCap.md)
 
-[OSF amortizing cap](https://osf.io/rfa8e/download)
-
-[Science-media amortizing cap](https://science-media.org/userfiles/1020/presentations/1020_presentation_542.pdf)
 
 
 
@@ -25,11 +22,6 @@ The notional principal of an amortizing swap is tied to an underlying financial 
  
 [More details](./IrAmortizingSwap.md)
 
-[Zenodo amortizing swap](https://zenodo.org/record/4015549/files/IrAmortizingSwap-26.pdf)
-
-[OSF amortizing swap](https://osf.io/mgc83/download)
-
-[Science-media amortizing swap](https://science-media.org/userfiles/1020/presentations/1020_presentation_543.pdf)
 
  
  
@@ -43,13 +35,6 @@ A basis swap can be used to limit interest rate risk that a firm faces as a resu
  
 [More details](./IrBasisSwap.md)
 
-[Zenodo basis swap](https://zenodo.org/record/4015555/files/IrBasisSwap-27.pdf)
-
-[FlipHtml5 basis swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTO3gDN3ITPkl0av9mY)
-
-[OSF basis swap](https://osf.io/zcyuq/download)
-
-[Science-media basis swap](https://science-media.org/userfiles/1020/presentations/1020_presentation_544.pdf)
 
   
  
@@ -63,11 +48,6 @@ Given those flexibilities, a Bermudan swaption is more expensive than a regular 
   
 [More details](./IrBermudan.md)
 
-[Zenodo bermudan](https://zenodo.org/record/4019675/files/IrBermudan-28.pdf)
-
-[OIS bermudan](https://osf.io/5dz4u/download)
-
-[Science-media bermudan](https://science-media.org/userfiles/1020/presentations/1020_presentation_545.pdf)
 
   
 
@@ -79,13 +59,6 @@ A cancelable swap provides the right but not the obligation to cancel the intere
    
 [More details](./IrCancelableSwap.md)
 
-[Zenodo cancelable swap](https://zenodo.org/record/4019681/files/IrCancelableSwap-29.pdf)
-
-[FlipHtml5 cancelable swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYzMwgDM5ITPkl0av9mY)
-
-[OSF cancelable swap](https://osf.io/v7whf/download)
-
-[Science-media cancelable swap](https://science-media.org/userfiles/1020/presentations/1020_presentation_546.pdf)
 
    
    
@@ -98,13 +71,6 @@ exceeds the strike.  In return, the buyer needs to pay an up-front premium to th
 
 [More details](./IrCap.md) 
 
-[Zenodo cap](https://zenodo.org/record/4019685/files/IrCap-30.pdf)
-
-[FlipHtml5 cap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgDOygDM5ITPkl0av9mY)
-
-[OSF cap](https://osf.io/kvbyz/download)
-
-[Science-media cap](https://science-media.org/userfiles/1020/presentations/1020_presentation_547.pdf)
 
    
    
@@ -118,11 +84,6 @@ A capped swap can be decomposed into a swap and a cap whereas a floored swap can
    
 [More details](./IrCappedSwap.md)
 
-[FlipHtml5 capped swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTOygDM5ITPkl0av9mY)
-
-[OSF capped swap](https://osf.io/jskhm/download)
-
-[Science-media capped swap](https://science-media.org/userfiles/1020/presentations/1020_presentation_548.pdf)
 
    
    
@@ -134,11 +95,6 @@ A compounding swap is an interest rate swap in which interest, instead of being 
    
 [More details](./IrCompoundingSwap.md)
 
-[FlipHtml5 compounding swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkzN5UjM5ITPkl0av9mY)
-
-[OSF compounding swap](https://osf.io/dqepj/download)
-
-[Science-media compounding swap](https://science-media.org/userfiles/1020/presentations/1020_presentation_549.pdf)
 
 
    
@@ -153,9 +109,6 @@ Some people believe that a FRA is equivalent to a one-period vanilla swap. That 
    
 [More details](./IrFra.md)
 
-[OSF frn](https://osf.io/k8v2q/download)
-
-[Science-media frn](https://science-media.org/userfiles/1020/presentations/1020_presentation_550.pdf)
 
    
 
@@ -169,13 +122,6 @@ Eurodollar futures contract is a cash-settled futures contract. The underlying i
    
 [More details](./IrFuture.md)
 
-[Zenodo futures](https://zenodo.org/record/4031743/files/IrFuture-34.pdf)
-
-[FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDO5UjM5ITPkl0av9mY)
-
-[OSF futures](https://osf.io/j9apv/download)
-
-[Science-media futures](https://science-media.org/userfiles/1020/presentations/1020_presentation_551.pdf)
    
 
    
@@ -189,11 +135,6 @@ Interest rate future options can be used to hedge against adverse changes in int
    
 [More detials](./IrFutureOption.md)
 
-[Zenodo future option](https://zenodo.org/record/4038197/files/IrFutureOption-35.pdf)
-
-[OSF future option](https://osf.io/gbzj3/download)
-
-[Science-media future option](https://science-media.org/userfiles/1020/presentations/1020_presentation_552.pdf)
 
    
    
@@ -207,11 +148,6 @@ Interest rate swaps are the most popular OTC derivatives that are generally used
    
 [More details](./IrSwap.md)
 
-[Github swap](https://github.com/alanwhite1203/irSwap)
-
-[OSF swap](https://osf.io/kx5q2/download)
-
-[Science-media swap](https://science-media.org/userfiles/1020/presentations/1020_presentation_553.pdf)
 
    
  
@@ -224,16 +160,7 @@ An payer swaption is also called a right-to-pay swaption that allows its holder 
 
    
 [More details](./IrSwaption.md)
-   
-[Github swaption](https://github.com/alanwhite1203/irSwaption)
 
-[Zenodo swaption](https://zenodo.org/record/4038217/files/IrSwaption-37.pdf)
-
-[FlipHtml5 swaption](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN4gzM5ITPkl0av9mY)
-
-[OSF swaption](https://osf.io/f7yw9/download)
-
-[Science-media swaption](https://science-media.org/userfiles/1020/presentations/1020_presentation_554.pdf)
 
    
    

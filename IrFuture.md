@@ -6,15 +6,7 @@ Eurodollar futures contract is a cash-settled futures contract. The underlying i
 
 	Interest rate futures are used to hedge against interest rate risk. Investors can use Eurodollar futures to secure an interest rate for money it plans to borrow or lend in the future. Interest rate futures are mainly listed for 3-month Eurodollar, 1-month LIBOR, 1-month banker’s acceptance futures and 3-month banker’s acceptance futures.
 
-Advantages of trading interest rate futures
-Interest rate futures are used to hedge against interest rate risk. Investors can use interest rate futures to secure an interest rate for money it plans to borrow or lend in the future.  Futures markets tend to be more liquid than underlying cash markets.
-Other benefits
-	Price transparency and liquidity
-	Immediate execution and confirmation
-	Reduction of counterparty risk
-	Centralized clearing.
 
-Valuation
 The price of an interest rate future is quoted by the exchange. A model is mainly used for calculating sensitivities and managing market risk.
 
 The present value of an interest rate future is given by
@@ -28,10 +20,6 @@ where
 	n – contract size
 	F_o – quoted future contract price at the trade date T_0, T_0≤t≤T
 
-Practical Notes
-	You need to construct an interest zero rate curve by bootstring some most liquity interest rate instruments. FinPricing provides useful tools to build various curves, such as interest rate base curve, basis curve, OIS curve, bond curve, treasury curve, etc. <a href="/curveVolList.html">Go to the list of the tools</a>
-	The forward yield is derived from the interest rate zero curve by calculating the annually compounded forward rate between the maturity date of the futures contract and the maturity date of the underlying rate.
-	Theoretically a convexity adjustment is needed for pricing a future contract. However, the impact is small.
 
 
 
@@ -43,9 +31,11 @@ References:
    
 [FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDO5UjM5ITPkl0av9mY)
    
-[Zenodo futures](https://zenodo.org/record/4031743/files/IrFuture-34.pdf)
+[Zenodo futures](https://zenodo.org/record/5771055/files/Zenodo-IrFuture.pdf)
    
 [OSF futures](https://osf.io/j9apv/download)
 
 [Zenodo sheet](https://zenodo.org/record/6548879#.YpDvbagpDq4)
+
+[github mbs](https://github.com/cfrm17/DigitalAdjustments)
 

@@ -2,19 +2,6 @@
    
 A cancelable swap provides the right but not the obligation to cancel the interest rate swap at predefined dates. Most commonly traded cancelable swaps have multiple exercise dates. Given its Bermudan style optionality, a cancelable swap can be represented as a vanilla swap embedded with a Bermudan swaption. Therefore, it can be decomposed into a swap and a Bermudan swaption. Most Bermudan swaptions in a bank book actually come from cancelable swaps. This presentation provides practical details for pricing cancelable swaps.
 
-	Keywords
-Cancelable swap, interest rate swap, Bermudan swaption, swaption, LGM model, valuation, pricing model
-
-	Cancelable Swap Definition
-	A cancelable swap gives the holder the right but not the obligation to cancel the swap at predetermined dates prior to maturity.
-	It can be decomposed into a vanilla swap and a Bermudan swaption. A vanilla swap is well understood. Hence we focus on Bermudan swaption for the rest of the presentation.
-	A Bermudan swaption is an option on an interest rate swap with a predefined exercise schedules.
-	A Bermudan swaption gives the holder the right but not the obligation to enter an interest rate swap at predefined dates.
-	Bermudan swaptions give the holders several some flexibility to enter swaps.
-	A comparison of European swaption, American swaption and Bermudan swaption
-	European swaption has only one exercise date at the maturity.
-	American swaption has multiple exercise dates (daily)
-	Bermudan swaption has multiple exercise dates (but not daily): such as quarterly, monthly, etc.
 
 	A Cancelable Swap Example
 
@@ -31,31 +18,7 @@ Payoff(T)=max⁡(0,V_swap (T))
 Payoff(T_i )=max(V_swap (T_i ),I(T_i))
 Where V_swap (T_i) is the exercise value of the Bermudan swap and I(T_i) is the intrinsic value.
 
-	Model Selection Criteria
-	Given the complexity of Bermudan swaption valuation, there is no closed form solution. Therefore, we need to select an interest rate term structure model and a numeric solution to price Bermudan swaptions.
-	The selection of interest rate term structure models
-	Popular IR term structure models: 
-Hull-White, Linear Gaussian Model (LGM), Quadratic Gaussian Model (QGM), Heath Jarrow Morton (HJM), Libor Market Model (LMM).
-	HJM and LMM are too complex.
-	Hull-White is inaccurate for computing sensitivities.
-	Therefore, we choose either LGM or QGM.
-	 The selection of numeric approaches
-	After selecting a term structure model, we need to choose a numeric approach to approximate the underlying stochastic process of the model.
-	Commonly used numeric approaches are tree, partial differential equation (PDE), lattice, and Monte Carlo simulation.
-	Tree and Monte Carlo are notorious for inaccuracy in sensitivity calculation.
-	Therefore, we choose either PDE or lattice.
-	Our decision is to use LGM plus lattice. 
 
-	LGM Model
-	The dynamics
-dX(t)=α(t)dW
-	Where X is the single state variable; W is the Wiener process.
-	The numeraire is given by
-N(t,X)=(H(t)X+0.5H^2 (t)ζ(t))/D(t)
-	The zero coupon bond price is
-B(t,X;T)=D(T)exp(-H(t)X-0.5H^2 (t)ζ(t))
-
-	LGM Assumption
 	The LGM model is mathematically equivalent to the Hull-White model but offers
 	Significant improvements in calibration stability and accuracy.
 	More accurate and stable in sensitivity calculation.
@@ -87,11 +50,11 @@ References:
    
 [More details](./IrCancelableSwap-29.pdf)
    
-[FlipHtml5 cancelable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYzMwgDM5ITPkl0av9mY)
-   
-[Zenodo cancelable](https://zenodo.org/record/4019681/files/IrCancelableSwap-29.pdf)
+[Zenodo cancelable](https://zenodo.org/record/6492737/files/Zenodo-IrCancelableSwap.pdf)
    
 [OSF cancelable](https://osf.io/v7whf/download)
 
 [Zenodo fair value](https://zenodo.org/record/6547047#.YpDvGKgpDq4)
+
+[github performance](https://github.com/cfrm17/PerformanceDeferredShare)
 

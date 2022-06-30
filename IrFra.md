@@ -8,25 +8,7 @@ FRAs are over-the-counter (OTC) derivatives. They are cash-settled with the paym
 
 A FRA can be used to hedge future interest rate or exchange rate exposure. The buyer hedges against the risk of rising interest rate whereas the seller hedges against the risk of falling interest rates. In other words, the buyer locks in the interest rate to protect against the increase of interest rates while the seller protects against the possible decrease of interest rates. A speculator can also use FRAs to make bets on future directional changes in interest rates. Market participants can also take advantage of price differences between an FRA and other interest rate instruments. FRAs are money market instruments that are liquid in all major currencies. This presentation provides an introduction to FRA product and valuation. 
 
-	Keywords
-Forward rate agreement, FRA, swaplet, financial product, valuation model.
 
-	FRA Introduction
-	A forward rate agreement, or FRA, is a forward contract between two parties in which one party will pay a fixed rate while the other party will pay a reference interest rate for a set future period.
-	FRAs are over-the-counter (OTC) derivatives.
-	They are cash-settled with the payment based on the net difference between the floating interest rate and the fixed (reference) rate in the contract.
-	Similar to a swap, a FRA has two legs associating with each party: a fixed leg and a floating leg. But each leg only has one cash flow.
-	The party paying the fixed rate is usually referred to as the buyer, while the party receiving the floating rate is referred to as the seller.
-
-	Use of FRA
-	A FRA can be used to hedge future interest rate or exchange rate exposure.
-	The buyer hedges against the risk of rising interest rate whereas the seller hedges against the risk of falling interest rates.
-	In other words, the buyer locks in the interest rate to protect against the increase of interest rates while the seller protects against the possible decrease of interest rates.
-	A speculator can also use FRAs to make bets on future directional changes in interest rates.
-	Market participants can also take advantage of price differences between an FRA and other interest rate instruments.
-	FRAs are money market instruments that are liquid in all major currencies.
-
-	FRA Payoff
 	From the seller perspective, the payoff of a FRA at payment date T is given by
 〖Payff〗_seller=Nτ(R-F)		(1)
 where 
@@ -37,7 +19,6 @@ F – the realized floating rate in simply compounding
 	From the puyer perspective, the payoff of the FRA at payment date T is given by
 〖Payff〗_buyer=Nτ(F-R)		(2)
 
-	Valuation
 	Some people believe that a FRA is equivalent to a one-period vanilla swap. That is not completely true from valuation perspective. 
 	A FRA is usually settled and paid at the end of a forwarding period, called settle in arrear, while a regular swaplet is settled at the beginning of the forward period and paid at the end. 
 	Strictly speaking, FRAs need convexity adjustment. However, given FRA is such a simple product, the adjustment is very simple as well.
@@ -61,14 +42,6 @@ where
 	For the payer perspective, PV=〖PV〗_float-〖PV〗_fixed		
 	From the receiver perspective, PV=〖PV〗_fixed-〖PV〗_float
 
-	Practical Guide
-	Usually a FRA is settled at arrear, i.e,  the end of a forwarding period while a swaplet is settled at the beginning of the forward period, although both are paid at the end. The denominators in (3) and (3) are reflected the adjustment to this difference.
-	Using fixed leg as an example, we first calculate the payoff NRτ at the end of the period. The payoff needs to be discounted to the start date as NRτ⁄((1+Rτ)). Finally the amount is discounted from the payment date or end date.
-	Any compounded interest zero rate curves can be used to compute discount factor, of course the formulas will be slightly different. The most common used one is continuously compounded zero rates.
-	To use the formula, you need to compute simply compounded forward rate instead of other compounding types.
-	The accrual period is calculated according to the start date and end date of a cash flow plus day count convention 
-	We assume that accrual periods are the same as forwarding periods and payment dates are the same as accrual end dates in the above formulas for brevity. But in fact, they are slightly different due to different market conventions.
-
 
 
 
@@ -79,9 +52,11 @@ References:
    
 [FlipHtml5 fra](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamADO5UjM5ITPkl0av9mY)
    
-[Zenodo fra](https://zenodo.org/record/4031737/files/IrFra-33.pdf)
+[Zenodo fra](https://zenodo.org/record/6493996/files/Zenodo-IrFra.pdf)
    
 [OSF fra](https://osf.io/k8v2q/download)
 
 [Zenodo performance](https://zenodo.org/record/6547457#.YpDvW6gpDq4)
+
+[github mbs](https://github.com/cfrm17/MBSPassThrough)
 

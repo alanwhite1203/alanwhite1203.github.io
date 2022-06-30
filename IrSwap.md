@@ -66,10 +66,12 @@ References:
    
 [FlipHtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjN4gzM5ITPkl0av9mY)
    
-[Zenodo swap](https://zenodo.org/record/4038207/files/IrSwap-36.pdf)
+[Zenodo swap](https://zenodo.org/record/5771057/files/Zenodo-IrSwap.pdf)
    
 [OSF swap](https://osf.io/kx5q2/download)
 
 [Zenodo lock](https://zenodo.org/record/6549162#.YpDvjagpDq4)
+
+[github arrear cap](https://github.com/cfrm17/ArrearCap)
 
    

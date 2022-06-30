@@ -4,24 +4,6 @@ An interest rate future option gives the holder the right but not the obligation
 
 Interest rate future options can be used to hedge against adverse changes in interest rates. In general futures markets tend to be more liquid than underlying cash markets. This presentation gives an overview of interest rate future option product and pricing model. 
 
-	Keywords
-Interest rate futures, interest rate future option, Eurodollar futures, hedge, valuation, exchange.
-
-	Interest Rate Future Option Definition
-	An interest rate future option gives the holder the right but not the obligation to buy or sell an interest rate future at a specified price on a specified date.
-	Interest rate future options are usually traded in an exchange.
-	It is used to hedge against adverse changes in interest rates.
-	The buyer normally can exercise the option on any business day (American style) prior to expiration by giving notice to the exchange.
-	Option sellers (writer) receive a fixed premium upfront and in return are obligated to buy or sell the underlying asset at a specified price.
-	Option writers are exposed to unlimited liability.
-
-	Interest Rate Future Definition
-	An interest rate future is a contract between the buyer and seller to deliver an interest rate asset at a specified rate on a specified date.
-	The future allows the buyer and seller to lock in the price of the interest rate asset at a future date.
-	It is used to hedge against adverse changes in interest rates.
-	Interest rate futures are mainly listed for 3-month Eurodollar, 1-month LIBOR, 1-month banker’s acceptance futures and 3-month banker’s acceptance futures.
-
-	Advantages of trading interest rate futures and future options
 	An investor who expected short-term interest rates to decline would also be expecting the price of the future contracts to increase. Thus, they might be inclined to purchase a 3-month ED futures call option to speculate on their belief.
 	The advantage of future options over options of a spot asset stems from the liquidity of futures contracts.
 	Futures markets tend to be more liquid than underlying cash markets.
@@ -83,9 +65,11 @@ References:
    
 [FlipHtml5 future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjN4gzM5ITPkl0av9mY)
    
-[Zenodo future option](https://zenodo.org/record/4038197/files/IrFutureOption-35.pdf)
+[Zenodo future option](https://zenodo.org/record/6494261/files/Zenodo-IrFutureOption.pdf)
    
 [OSF future option](https://osf.io/gbzj3/download)
 
 [Zenodo mortgage](https://zenodo.org/record/6548953#.YpDvfKgpDq4)
+
+[github knockout](https://github.com/cfrm17/KnockoutSwap)
 

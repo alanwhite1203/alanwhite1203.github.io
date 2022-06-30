@@ -4,22 +4,11 @@ A capped swap is an interest rate swap with an interest rate cap option where th
 
 A capped swap can be decomposed into a swap and a cap whereas a floored swap can be decomposed into a swap and a floor. Given the optionality, an up-front fee or premium has to be paid by the floating rate payer for a capped swap and an up-front fee or premium has to be paid by the floating rate receiver for a floored swap. This presentation gives an overview of capped/floored swap product and valuation.
 
-	Keywords
-Capped swap, floored swap, cap, floor, interest swap, valuation, pricing model.
-
-	Capped Swap Definition
-	A capped swap is an interest rate swap with a cap where the floating rate of the swap is capped at a certain level.
-	It limits the risk of the floating rate payer to adverse movements in interest rates.
-	Given the optionality, an up-front fee or premium has to be paid by the floating rate payer.
-	A capped swap can be decomposed as a swap plus an interest rate cap.
-
-	Floored Swap Definition
 	A floored swap is an interest rate swap with a floor where the floating rate of the swap is floored at a certain level.
 	It limits the risk of the floating rate receiver to adverse movements in interest rates.
 	Given the optionality, an up-front fee or premium has to be paid by the floating rate receiver.
 	A floored swap can be decomposed as a swap plus an interest rate floor.
 
-	Valuation
 	There are four types of capped or floored swap.
 	Capped payer swap
 	Capped receiver swap
@@ -69,11 +58,12 @@ References:
    
 [More details](./IrCappedSwap-31.pdf)
    
-[FlipHtml5 capped swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTOygDM5ITPkl0av9mY)
-   
-[Zenodo capped swap](https://zenodo.org/record/4031727/files/IrCappedSwap-31.pdf)
+[Zenodo capped swap](https://zenodo.org/record/6493574/files/Zenodo-IrCappedSwap.pdf)
  
 [OSF capped](https://osf.io/jskhm/download)
 
 [Zenodo deferred asset](https://zenodo.org/record/6547212#.YpDvPqgpDq4)
+
+[Github mortgage](https://github.com/cfrm17/MortgageAnalytics)
+
 

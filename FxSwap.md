@@ -54,7 +54,7 @@ References:
   
 [More details](./FxSwap-23.pdf)
    
-[Zenodo fx swap](https://zenodo.org/record/3990518/files/FxSwap-23.pdf)
+[Zenodo fx swap](https://zenodo.org/record/6491270/files/Zenodo-FxSwap.pdf)
    
 [archive fx swap](https://ia804500.us.archive.org/24/items/fx-swap-23/FxSwap-archive.pdf)
    

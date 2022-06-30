@@ -58,7 +58,7 @@ References:
    
 [More details](./FxTouch-24.pdf) 
    
-[Zenodo touch](https://zenodo.org/record/3990522/files/FxTouch-24.pdf)
+[Zenodo touch](https://zenodo.org/record/6491587/files/Zenodo-FxTouch.pdf)
    
 [archive touch](https://ia803408.us.archive.org/9/items/fx-touch-24/FxTouch-archive.pdf)
    
