@@ -12,25 +12,6 @@ Currency options are one of the most common ways for corporations, individuals o
 
 Options give market participants many opportunities to limit risk and increase profit. Currency market fluctuations can have a lasting impact on cash flow whether it is buying a property, paying salaries, making an investment or settling invoices. By utilizing FX Asian Options, business can protect themselves against adverse movements in exchange rates. This presentation provides an overview of FX Asian option product and valuation. 
 
-	Asian Option Introduction
-	An Asian option or average option is a special type of option contract  where the payoff depends on the average rate of the underlying asset over a certain period of time 
-	The payoff is different from the case of a European option or American option, where the payoff of the option contract depends on the price of the underlying asset at exercise date.
-	Asian options allow the buyer to purchase (or sell) the underlying asset at the average price instead of the spot price.
-	Asian options are commonly seen options over the OTC markets.
-	Average price options are less expensive than regular options and are arguably more appropriate than regular options for meeting some of the needs of corporate treasurers.
-	Average can be calculated in a number of ways (daily, weekly, monthly, etc.).
-
-
-	The Use of Asian Options
-	One advantage of Asian options is that they reduce the risk of market manipulation of the underlying instrument at maturity. 
-	Another advantage of Asian options involves the relative cost of Asian options compared to European or American options. Because of the averaging feature, Asian options reduce the volatility inherent in the option; therefore, Asian options are typically cheaper than European or American options.
-	Asian options have relatively low volatility due to the averaging mechanism. They are used by traders who are exposed to the underlying asset over a period of time
-	The arithmetic average rate options are generally used to smooth out the impact from high volatility periods or prevent rate manipulation near the maturity date, which makes the options less expensive.
-	Currency options are one of the most common ways for corporations, individuals or financial institutions to hedge against adverse movements in exchange rates. 
-	Corporations primarily use FX options to hedge uncertain future cash flows in a foreign currency. The general rule is to hedge certain foreign currency cash flows with forwards, and uncertain foreign cash flows with options. 
-
-
-	Valuation
 	The payoff of an average rate call is max(0, Xavg - K) and that of an average price put is max(0, K- Xavg), where Xavg  is the average rate of the underlying asset calculated over a predetermined averaging period. 
 	If the underlying exchange rate, X, is assumed to be lognormally distributed and Xave is a geometric average of the X’s, analytic formulas are available for valuing European average rate options. This is because the geometric average of a set of lognormally distributed variables is also lognormal. 
 	When, as is nearly always the case, Asian options are defined in terms of arithmetic averages, exact analytic pricing formulas are not available. This is because the distribution of the arithmetic average of a set of lognormal distributions does not have analytically tractable properties.
@@ -85,19 +66,15 @@ References:
 	
 [More details](./FxAsian-18.pdf)
 
-[FlipHtml5 fx Asian](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDM5UDN5ITPkl0av9mY)
-
 [Zenodo fx Asian](https://zenodo.org/record/6484837#.YpaXkcPMKUk)
 
 [archive Asian](https://ia803406.us.archive.org/6/items/fx-asian-18/FxAsian-archive.pdf)
-
-[hcommons Asian](https://hcommons.org/deposits/download/hc:42686/CONTENT/fxasian-18.pdf)
 
 [OSF Asian](https://osf.io/g73qw/download)
 
 [Zenodo exposure](https://zenodo.org/record/6539344#.YpDtxagpDq4)
 
-
+[github var](https://github.com/cfrm17/HedgeFundVaR)
 
 
 

@@ -11,25 +11,6 @@ Clients, who prefer to hedge, trade touch options as a rebate in order to secure
 
 An investor who chooses no touch option type is trading on the assumption that the price of their selected asset will fail to reach a specific level before the end of the expiry period. The investor may trade touch options, if he believes that the price of their selected asset will reach a specific level before the end of the expiry period. This presentation provides an introduction to FX touch options valuation. 
 
-	Introduction
-	A touch option is the sort of option that promises a payout once the price of an underlying asset reaches or passes a predetermined level.
-	Touch options allow investors to choose the target price, time to expiration, and the premium to be received when the target price is reached. 
-	There are only two possible outcomes. If the barrier is broken a trader will receive the agreed full payout. If the barrier isn’t broken, the trader will lose the premium paid to the broker.
-	Unlike vanilla calls and puts, one-touch options allow investors to profit from a simplified yes-or-no market forecast. 
-	Like regular call and put options, most one-touch option trades can be closed before expiration for a profit or a loss depending on how close the underlying market or asset is to the target price. 
-	Touch options are usually less expensive than double one-touch options, and are becoming very popular with commodity and Forex traders.
-
-	The Use of FX Touch Option
-	This type of option is popular with traders who believe the price of an underlying asset will pass a certain level in the future, and for those who aren’t sure whether the higher price level is a sustainable one.
-	Speculative market participants like to use one-touch options as bets on a rising or falling exchange rate.
-	Clients, who prefer to hedge, trade one-touch options as a rebate in order to secure themselves compensation in case their strategy doesn’t work out. 
-	Touch options are also often integrated into structured products to increase returns on forward and interest rates
-	They become especially useful during times of market volatility when prices might be uncertain.
-	An investor who chooses no touch option type is trading on the assumption that the price of their selected asset will fail to reach a specific level before the end of the expiry period.
-	The investor may trade touch options, if he believe that the price of their selected asset will reach a specific level before the end of the expiry period.
-
-
-	Payoffs and Conditions.
 	Depending on the barrier types, the touch option can be divided into the following categories: one touch up/down; no touch up/down; double one touch; double no touch; one touch down no touch up; one touch up no touch down.
 	Barrier conditions for different types of touch options
 
@@ -77,17 +58,13 @@ References:
    
 [More details](./FxTouch-24.pdf) 
    
-[FlipHtml5 touch](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNxgDN5ITPkl0av9mY)
-   
 [Zenodo touch](https://zenodo.org/record/3990522/files/FxTouch-24.pdf)
    
 [archive touch](https://ia803408.us.archive.org/9/items/fx-touch-24/FxTouch-archive.pdf)
-   
-[Bitbucket touch](https://bitbucket.org/cmrm11/fxtouch/downloads/FxTouch-24.pdf)
    
 [OSF touch](https://osf.io/6m5jx/download)
 
 [Zenodo adjusted](https://zenodo.org/record/6539925#.YpDurqgpDq4)
 
-
+[github hedge](https://github.com/cfrm17/AssetsHedge)
    

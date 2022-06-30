@@ -9,37 +9,6 @@ Investors use futures contracts to hedge against foreign exchange risk. If an in
 The currency future contracts are usually used by exporters and importers to hedge their foreign currency payments from exchange rate fluctuations. By using FX future contracts, investors can protect costs on products and services purchased abroad or protect profit margins on products and services sold abroad lock-in exchange rates as much as a year in advance.
 Future contracts are traded in an exchange and thus have no credit risk. By locking-in the exchange rates at which the currency will be bought, the party forfeits the opportunity of profiting from a favorable exchange rate movement. Additionally, unfavorable exchange rate movements may take away further opportunity of the party for profit. This presentation gives an overview of currency futures and valuation model. 
 
-	Currency Future or FX Future Introduction
-	A currency future or an FX future is a future contract between two parties to exchange one currency for another at a fixed exchange rate on a fixed future date. 
-	Currency futures are traded via exchanges.
-	Currency futures are based upon the exchange rate of a currency pair, and are settled in cash in the underlying currency.
-	Because currency futures contracts are marked-to-market daily, investors can exit their obligation to buy or sell the currency prior to the contract's delivery date. 
-	Future market participants and speculators usually close out their positions before the date of settlement, so most contracts do not tend to last until the date of delivery.
-	Currency futures contracts are legally binding and counterparties that are still holding the contracts on the expiration date must trade the currency pair at a specified price on the specified delivery date.
-	Currency futures are one of the main methods used to hedge against exchange rate volatility, as they avoid the impact of currency fluctuation over the period covered by the contract.
-
-
-	The Use of Currency Forward, Future and Swap
-	Investors use futures contracts to hedge against foreign exchange risk. 
-	If an investor will receive a cashflow denominated in a foreign currency on some future date, that investor can lock in the current exchange rate by entering into an offsetting currency futures position that expires on the date of the cashflow.
-	Currency futures can also be used to speculate and, by incurring a risk, attempt to profit from rising or falling exchange rates.
-	The currency future contracts are usually used by exporters and importers to hedge their foreign currency payments from exchange rate fluctuations.
-	By using FX future contracts, investors can protect costs on products and services purchased abroad or protect profit margins on products and services sold abroad lock-in exchange rates as much as a year in advance.
-	Future contracts are traded in an exchange and thus have no credit risk.
-	By locking-in the exchange rates at which the currency will be bought, the party forfeits the opportunity of profiting from a favorable exchange rate movement. Additionally, unfavorable exchange rate movements may take away further opportunity of the party for profit
-
-	Forex Market Convention
-	One of the biggest sources of confusion for those new to the FX market is the market convention. We need to make clear the meaning of the following terms in the forex market first.
-
-	FX quotation: the quotation EUR/USD 1.25 means that one Euro is exchanged for 1.25 USD. Here EUR (nominator) is the base or primary currency and USD (denominator) is the quote currency. One can convert any amount of base currency to quote currency by
-QuoteCurrencyAmount = FxRate * BaseCurrencyAmount
-
-	Spot Days: The spot date or value date is the day the two parties actually exchange the two currencies. In other words, a currency pair requires a specification of the number of days between the quotation date (trade date) and the Spot Date on which the exchange is to take place at that quote. Spot days can be different for each currency pair, although typically it is two business days.
-
-	Holidays: Each currency pair has a set of holidays associated with it. The holidays of a currency pair is the union of the holidays of the two currencies.
-
-
-	Forward FX Rate
 Given spot rate X_s , spot date T_s and forward date T, the FX forward rate can be represented as
 
 
@@ -53,9 +22,6 @@ where
 	D_q (T_s,T) 	the discount factor of quote currency from spot date to forward date
 
 
-	Valuation
-
-	Currency futures prices are usually quoted by exchanges.
 	A pricing model is mainly used to calculate risk for a future contract, although it may produce both price and risk.
 
 The present value of an FX forward contract is given by
@@ -79,15 +45,12 @@ References:
  
 [More details](./FxFuture-21.pdf)
   
-[FlipHtml5 fx futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUzM5UDN5ITPkl0av9mY)
-  
 [Zenodo fx futures](https://zenodo.org/record/5768241/files/Zenodo-FxFuture.pdf)
   
 [archive fx futures](https://ia803403.us.archive.org/10/items/fx-future-21/FxFuture-archive.pdf)
-  
-[hcommons fx futures](https://hcommons.org/deposits/download/hc:42804/CONTENT/fxfuture-21.pdf)
   
 [OSF futures](https://osf.io/rqd6v/download)
 
 [Zenodo collateralized](https://zenodo.org/record/6539697#.YpDuTKgpDq4)
 
+[github mortgage](https://github.com/cfrm17/AdjustableRateMortgages)

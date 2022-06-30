@@ -9,30 +9,6 @@ Currency forwards are over-the-counter (OTC) instruments. Unlike standardized FX
 The currency forward contracts are usually used by exporters and importers to hedge their foreign currency payments from exchange rate fluctuations.  By using FX forward contracts, investors can protect costs on products and services purchased abroad and protect profit margins on products and services sold abroad by locking-in exchange rates as much as years in advance
 Currency forwards can also be used to speculate and, by incurring a risk, attempt to profit from rising or falling exchange rates. A currency forward contract has credit risk. In the case that one of the parties is unable to fulfill its obligation, the other party will have to sign another contract with a third party, thus being exposed to market risk at that time. By locking-in the exchange rates at which the currency will be bought, the party forfeits the opportunity of profiting from a favorable exchange rate movement. This presentation gives an overview of currency forwards and valuation model. 
 
-
-
-	Currency Forward or FX Forward Introduction
-	A currency forward or FX forward is an agreement between two parties to exchange a certain amount of a currency for another currency at a fixed exchange rate on a fixed future date.
-	Currency forwards are over-the-counter (OTC) instruments,
-	Unlike standardized FX future, a FX forward can be tailored to a particular amount and delivery period. 
-	By locking into a forward contract to sell a currency, the seller sets a future exchange rate with no upfront cost.
-	Currency forward settlement can either be on a cash or a delivery basis, provided that the option is mutually acceptable and has been specified beforehand in the contract.
-	Forward contracts are one of the main methods used to hedge against exchange rate volatility, as they avoid the impact of currency fluctuation over the period covered by the contract.
-
-
-	The Use of Currency Forwards
-	Currency forwards are an effective hedging vehicle and also allow buyers to indicate the exact amount to be exchanged and the date on which to settle in the forward contract.
-	If an investor will receive a cashflow denominated in a foreign currency on some future date, that investor can lock in the current exchange rate by entering into an offsetting currency forward position that expires on the date of the cashflow.
-	Currency forwards can also be used to speculate and, by incurring a risk, attempt to profit from rising or falling exchange rates.
-	by using FX forward contracts, investors can protect costs on products and services purchased abroad and protect profit margins on products and services sold abroad lock-in exchange rates as much as years in advance
-	The currency forward contracts are usually used by exporters and importers to hedge their foreign currency payments from exchange rate fluctuations.
-	A currency forward contract has credit risk. In the case that one of the parties is unable to fulfill its obligation, the other party will have to sign another contract with a third party, thus being exposed to market risk at that time.
-	By locking-in the exchange rates at which the currency will be bought, the party forfeits the opportunity of profiting from a favorable exchange rate movement. 
-
-
-	Forex Market Convention
-	One of the biggest sources of confusion for those new to the FX market is the market convention. We need to make clear the meaning of the following terms in the forex market first.
-
 	FX quotation: the quotation EUR/USD 1.25 means that one Euro is exchanged for 1.25 USD. Here EUR (nominator) is the base or primary currency and USD (denominator) is the quote currency. One can convert any amount of base currency to quote currency by
 QuoteCurrencyAmount = FxRate * BaseCurrencyAmount
 
@@ -55,11 +31,6 @@ where
 	D_q (T_s,T) 	the discount factor of quote currency from spot date to forward date
 
 
-	
-
-	Valuation
-
-
 The present value of an FX forward contract is given by
 
 PV(t)=N_b D_b (t,T) X_0-N_q D_q (t,T)
@@ -80,16 +51,12 @@ References:
  
 [More details](./FxForward-19.pdf)
  
-[FlipHtml5 fx forward](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgjM5UDN5ITPkl0av9mY)
- 
 [Zenodo fx forward](https://zenodo.org/record/5768221/files/Zenodo-FxForward.pdf)
  
 [archive Asian](https://ia903403.us.archive.org/16/items/fx-forward-19/FxForward-archive.pdf)
- 
-[hcommons fx forward](https://hcommons.org/deposits/download/hc:42736/CONTENT/fxforward-19.pdf)
  
 [OSF forward](https://osf.io/ez6an/download)
 
 [Zenodo principal](https://zenodo.org/record/6539656#.YpDuMqgpDq4)
 
-
+[gith barrier](https://github.com/cfrm17/HedgeFundBarrierOption)

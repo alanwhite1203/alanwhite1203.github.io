@@ -14,41 +14,7 @@ The most common use of FX Swaps is for institutions to fund their foreign exchan
 
 Currency swaps are OTC trades and have credit risk. In the case that one of the parties is unable to fulfill its obligation, the other party will have to sign another contract with a third party, thus being exposed to market risk at that time. This presentation gives an overview of FX swaps and valuation model. 
 
-	Currency Swap or FX Swap Introduction
-	An FX swap agreement is a contract  in which both parties agree to exchange one currency for another currency at a spot FX rate. The agreement also stipulates to re-exchange the same amounts at a certain future date also at a swap FX rate.
-	Many people confuse currency swaps with cross currency swaps. They are totally different. A cross currency swap is an interest rate swap in which two parties to exchange interest payments and principal on loans denominated in two different currencies..
-	In a currency swap, one party simultaneously borrows one currency and lends another currency to a second party. The repayment obligation is used as collateral and the amount of repayment is fixed at the FX forward rate. 
-	FX swaps can be considered riskless collateralized borrowing/lending. The contract virtually allows you to utilize the funds you have in one currency to fund obligations denominated in a different currency, without incurring foreign exchange risk. 
-	An FX swap is a simultaneous purchase and sale of identical amounts of one currency for another with two different value dates, normally spot to forward. 
-	Therefore, an FX swap consists of two transactions:  a spot transaction and a forward transaction.
-	Effectively the FX swap is two exchange contracts packed in one: a spot foreign exchange transaction, and a forward foreign exchange transaction
 
-
-	The Use of Currency Forward, Future and Swap
-	A swap deal can be used if you have a currency, which you do not need before a certain time, but at the same time have a short-term need for another currency 
-
-	Swap deals are used for managing currency risks, postponing the term of forward-deal and optimizing financing.
-
-	The most common use of FX Swaps is for institutions to fund their foreign exchange balances. 
-
-	FX swaps are also used by importers and exporters, as well as institutional investors who wish to hedge their positions. 
-
-	They are also used to speculate and, by incurring a risk, attempt to profit from rising or falling exchange rates.
-	Currency swaps are OTC trades and have credit risk. In the case that one of the parties is unable to fulfill its obligation, the other party will have to sign another contract with a third party, thus being exposed to market risk at that time.
-
-
-	Forex Market Convention
-	One of the biggest sources of confusion for those new to the FX market is the market convention. We need to make clear the meaning of the following terms in the forex market first.
-
-	FX quotation: the quotation EUR/USD 1.25 means that one Euro is exchanged for 1.25 USD. Here EUR (nominator) is the base or primary currency and USD (denominator) is the quote currency. One can convert any amount of base currency to quote currency by
-QuoteCurrencyAmount = FxRate * BaseCurrencyAmount
-
-	Spot Days: The spot date or value date is the day the two parties actually exchange the two currencies. In other words, a currency pair requires a specification of the number of days between the quotation date (trade date) and the Spot Date on which the exchange is to take place at that quote. Spot days can be different for each currency pair, although typically it is two business days.
-
-	Holidays: Each currency pair has a set of holidays associated with it. The holidays of a currency pair is the union of the holidays of the two currencies.
-
-
-	Forward FX Rate
 Given spot rate X_s , spot date T_s and forward date T, the FX forward rate can be represented as
 
 
@@ -61,10 +27,6 @@ where
 	D_b (T_s,T) 	the discount factor of base currency from spot date to forward date
 	D_q (T_s,T) 	the discount factor of quote currency from spot date to forward date
 
-
-	
-
-	Valuation
 
 An FX swap is a simultaneous purchase and sale of identical amounts of one currency for another with two different value dates, normally spot date and forward date. Therefore, an FX swap has two legs – a spot transaction and a forward transaction.
 
@@ -92,19 +54,15 @@ References:
   
 [More details](./FxSwap-23.pdf)
    
-[FlipHtml5 fx swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMwATN5ITPkl0av9mY)
-   
 [Zenodo fx swap](https://zenodo.org/record/3990518/files/FxSwap-23.pdf)
    
 [archive fx swap](https://ia804500.us.archive.org/24/items/fx-swap-23/FxSwap-archive.pdf)
-   
-[hcommons fx swap](https://hcommons.org/deposits/download/hc:43228/CONTENT/fxswap-23.pdf)
    
 [OSF swap](https://osf.io/vuyzn/download)
 
 [Zenodo barrier](https://zenodo.org/record/6539852#.YpDum6gpDq4)
 
-
+[github trust](https://github.com/cfrm17/TrustSwap)
 
    
    

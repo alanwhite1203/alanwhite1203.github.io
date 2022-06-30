@@ -9,7 +9,6 @@ Asian FX options allow the buyer to purchase or sell the underlying foreign exch
 	
 [More details](./FxAsian.md)
 
-[Hcommons Asian](https://hcommons.org/deposits/download/hc:42686/CONTENT/fxasian-18.pdf)
 
 
 
@@ -24,10 +23,6 @@ A currency forward or FX forward is a contract agreement between two parties to 
 [More details](./FxForward.md)
 
 
-[Hcommons forward](https://hcommons.org/deposits/download/hc:42736/CONTENT/fxforward-19.pdf)
-
-[Science-media forward](https://science-media.org/userfiles/1020/presentations/1020_presentation_537.pdf)
-
 
  
  
@@ -40,8 +35,6 @@ A currency future or an FX future is a future contract between two parties to ex
 
 [More details](./FxFuture.md)
 
-
-[Science-media futures](https://science-media.org/userfiles/1020/presentations/1020_presentation_538.pdf)
 
 
   
@@ -56,8 +49,6 @@ A currency option, also known as FX Option, is a derivative contract that grants
   
 [More details](./FxOption.md)
 
-
-[Science-media option](https://science-media.org/userfiles/1020/presentations/1020_presentation_539.pdf)
   
 
   
@@ -71,8 +62,6 @@ An FX swap or currency swap agreement is a contract  in which both parties agree
 
 [More details](./FxSwap.md)
 
-
-[Science-media swap](https://science-media.org/userfiles/1020/presentations/1020_presentation_540.pdf)
    
 
    

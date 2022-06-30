@@ -16,31 +16,6 @@ One of the most common reasons for using FX options is for short-term hedges of 
 
 FX Options are also useful tools which can be easily combined with Spot and Forward contracts to create bespoke hedging strategies. There are many bullish, bearish and even neutral strategies that can be implemented with options contracts. Spread strategies that are used in equity options can also be used with FX options, including vertical spreads, straddles, condors and butterflies. This presentation gives an overview of FX option definition and pricing model. 
 
-	FX Option Introduction
-	A currency option is a derivative contract that grants the buyer the right but not the obligation to exchange money denominated in one currency into another currency at a pre-agreed exchange rate on a specified future date.
-	The FX options market is the deepest, largest and most liquid market for options of any kind. 
-	Most trading is over the counter (OTC) and is lightly regulated.
-	There are call options and put options. Also a currency option could be European style or American style.
-	Call options provide the holder the right but not the obligation to purchase an underlying currency at a specified FX rate on a future date.
-	Put options give the holder the right to sell an underlying currency at a specified FX rate on a future date.
-	A European option can be exercised only at the expiration date of the option.
-	An American option can be exercised anytime during its life.
-	FX options contain Vanilla FX option and Listed FX option. Although both have similar characteristics, they differ mainly in two respects: First, Vanilla options are traded OTC while Listed options are exchanged-traded. Secondly, the underlying of Vanilla options is FX spot while the one of Listed options is FX future. Nevertheless, their analytics are very similar.
-
-
-	The Use of FX Options
-	Currency options are one of the most common ways for corporations, individuals or financial institutions to hedge against adverse movements in exchange rates.
-
-	Corporations primarily use FX options to hedge uncertain future cash flows in a foreign currency. The general rule is to hedge certain foreign currency cash flows with forwards, and uncertain foreign cash flows with options.
-	Options give market participants many opportunities to limit risk and increase profit. 
-	Investors buy calls when they think the FX rate will rise or sell a call if they think it will fall. Selling an option is also referred to as ''writing'' an option.
-	Investors buy puts if they think the FX rate will fall, or sell one if they think it will rise.
-	One of the most common reasons for using FX options is for short-term hedges of spot FX or foreign market positions. Unlike a forward contract that locks in the FX rate for a future transaction, FX options allow the investors to benefit from favorable FX rate movements.
-	Currency market fluctuations can have a lasting impact on cash flow whether it is buying a property, paying salaries, making an investment or settling invoices. By utilising FX Options, business can protect themselves against adverse movements in exchange rates.
-	FX Options are also useful tools which can be easily combined with Spot and Forward contracts to create bespoke hedging strategies.
-	There are many bullish, bearish and even neutral strategies that can be implemented with options contracts. Spread strategies that are used in equity options can also be used with FX options, including vertical spreads, straddles, condors and butterflies.
-
-3. 	Payoffs
 
 	The payoff of a European call option
 
@@ -65,10 +40,6 @@ K – the strike
 
 	Payoff diagram of a European put option
 
- 
-
-	Valuation
-European FX Option
 The present value of a European call option is given by
 
  PV(t)=[X_0 e^(-r_q (T_d-T_s ) ) Φ(d_1 )-Ke^(-r_b (T_d-T_s ) ) Φ(d_2)]
@@ -96,13 +67,6 @@ FinPricing is using the Odd-Even Cox Ross Binomial model to compute prices and r
 
 The Odd-Even Binomial model is an extension of the Cox Ross Binomial model. Compared to Cox Ross Binomial model, the Odd-Even Binomial model provides better price accuracy. It was implemented by creating two tress, one with even number n of iterations and another with n+1 number of iterations, then taking the average of the two results. This method also helps to reduce the number of oscillations that can be observed with traditional Binomial models, where the option value depends quite heavily on the number of periods. 
 
-	Practical Notes
-	Anyone new to the FX market needs to understand the forex market conventions first. <a href=”/lib/FxFuture.html”>See details</a>
-	Please note the time differences in (1) and (2), which is an important factor in order to apply the Black formula to the FX market. Usually the delivery date is different from the expiry date.
-	First, you need to construct interest rate zero curves for both base and quote currencies.
-The curve construction in FX world is different from the one in interest rate world. <> provides useful tools to contruct various curves and volatility surfaces.
-	Second, you need to construct an arbitrage-free volatility surface. <> is using Vanna Volga model to construct FX volatility surface.
-	After that, you can use formula (1) or (2) to calculate the fair value.
 
 
 
@@ -120,10 +84,10 @@ References:
   
 [archive fx option](https://ia803400.us.archive.org/15/items/fx-option-22/FxOption-archive.pdf)
   
-[hcommons fx option](https://hcommons.org/deposits/download/hc:43226/CONTENT/fxoption-22.pdf)
-  
 [OSF option](https://osf.io/xfjpz/download)
 
 [Zenodo VaR](https://zenodo.org/record/6539777#.YpDue6gpDq4)
+
+[github index](https://github.com/cfrm17/HedgeFundIndex)
 
 
