@@ -9,10 +9,6 @@ An amortizing bond is used specifically for tax purposes as the amortized princi
 [More details](./FiAmortizingBond.md)
 
 
-[Gitbook amortizing bond](https://davidlee1203.gitbook.io/amortizing-bond/)
-
-[Science-media amortizing bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_526.pdf)
-
 
 
 ### Fixed Rate Bond
@@ -24,7 +20,6 @@ Fixed rate bonds generally pay higher coupons than interest rates. An investor w
  
 [More details](./FiBond.md)
 
-[Gibook bond](https://cmrm11.gitbook.io/bond-valuation/)
 
  
  
@@ -38,9 +33,6 @@ The seller usually picks up the cheapest bond in the basket to deliver, called t
 
 [More details](./FiBondFuture.md)
 
-[Gitbook bond futures](https://cmrm11.gitbook.io/bond-futures/)
-
-[Science-media bond futures](https://science-media.org/userfiles/1020/presentations/1020_presentation_528.pdf)
 
 
 
@@ -54,9 +46,6 @@ Bond futures options are also exchange traded derivatives on treasury instrument
 
 [More details](./FiBondFutureOption.md)
 
-[Gitbook bond future option](https://cmrm11.gitbook.io/bond-future-option/)
-
-[Science-media bond future option](https://science-media.org/userfiles/1020/presentations/1020_presentation_529.pdf)
 
 
 
@@ -70,9 +59,6 @@ For issuers, callable bonds allow them to reduce interest costs at a future date
 
 [More details](./FiCallableBond.md)
 
-[Gitbook callable](https://cmrm11.gitbook.io/callable-bond/)
-
-[Science-media callable](https://science-media.org/userfiles/1020/presentations/1020_presentation_531.pdf)
 
 
 
@@ -85,10 +71,6 @@ The price of an FRN has very low sensitivity to changes in interest rates becaus
 
 [More details](./FiFrn.md)
 
-
-[Gitbook frn](https://cmrm11.gitbook.io/floating-rate-note/)
-
-[Science-media frn](https://science-media.org/userfiles/1020/presentations/1020_presentation_532.pdf)
 
 
 
@@ -103,10 +85,6 @@ The main idea of inflation indexed bonds is that investing in the bond will gene
 [More details](./FiInflationBond.md)
 
 
-[Gitbook inflation bond](https://cmrm11.gitbook.io/inflation-indexed-bond/)
-
-[Science-media inflation bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_533.pdf)
-
 
 
    
@@ -120,10 +98,6 @@ Although a puttable bond is a higher cost to the investor and an uncertainty to 
 [More details](./FiPuttableBond.md)
 
 
-[Gitbook puttable bond](https://cmrm11.gitbook.io/puttable-bond/)
-
-[Science-media puttable bond](https://science-media.org/userfiles/1020/presentations/1020_presentation_534.pdf)
-
 
 
 
@@ -136,12 +110,6 @@ Zero coupon bonds are issued at a deep discount and repaid the face value at mat
 
 [More details](./FiZeroBond.md)
 
-[Hcommons zero](https://hcommons.org/deposits/download/hc:41724/CONTENT/fizerobond-17.pdf)
-
-[Gitbook zero](https://cmrm11.gitbook.io/zero-coupon-bond/)
-
-[Science-media zero](https://science-media.org/userfiles/1020/presentations/1020_presentation_535.pdf)
-
 
 
 
@@ -152,11 +120,7 @@ A callable floating coupon note gives the issuer to recall the note on specified
 
 [Zenodo callable note](https://zenodo.org/record/5759806/files/Zenodo-FiCallableFrn.pdf)
 
-[FlipHtml5 callabe note](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTNxEjN4MTPkl0av9mY)
-
 [OSF callable note](https://osf.io/kjhsu/download)
-
-[Hcommons callable note](https://hcommons.org/deposits/download/hc:41808/CONTENT/ficallablefrn-18.pdf)
 
 [Gitbook callable note](https://cmrm11.gitbook.io/callable-floating-coupon-note/)
 

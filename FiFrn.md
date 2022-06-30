@@ -4,23 +4,6 @@ A floating rate note has variable coupons, depending on a money market reference
 
 The price of an FRN has very low sensitivity to changes in interest rates because the floating coupon increases but the discounting also increases as interest rate rises. An investor who wants conservative investments may choose floating rate bonds. FRNs become more popular when interest rates are expected to increase. An FRN carry lower yield than fixed rate bonds of the same maturity and has unpredictable coupon payments. This presentation gives an overview of FRNs valuation. 
 
-Floating Rate Note Introduction
-A floating rate note (FRN) is a bond in which the investor will receive coupons paid by the issuer at a floating coupon equivalent to a money market reference rate, such as LIBOR or federal fund rate plus a spread at specified dates before bond maturity.
-The bond principal will be returned at maturity date.
-Almost all FRNs have quarterly coupons.
-FRNs are usually issued by corporations, federal agencies, municipalities and states/provinces to finance a variety of projects and activities. 
-
-The Use of Floating Rate Notes
-A FRN carry little interest rate risk as its duration is close to zero due to periodic reset.
-The price of a FRN has very low sensitivity to changes in interest rates because the floating coupon increases but the discounting also increases as interest rate rises.
-An investor who wants conservative investments may choose floating rate bonds. 
-FRNs become more popular when interest rates are expected to increase.
-A FRN carry lower yield than fixed rate bonds of the same maturity.
-FRNs have unpredictable coupon payments.
-
-
-
-Practical Guide
 The present value of a bond computed by any pricing models is the dirty price of the bond. To purchase a bond, the buyer pays this dirty price.
 Although investors pay dirty prices, bonds are typically quoted in terms of clean prices. 
 Dirty Price = Clean Price + Accrued Interest
@@ -49,6 +32,9 @@ References:
 
 [Zenodo capped frn](https://zenodo.org/record/6558277#.YpDwUqgpDq4)
 
+[Gitbook frn](https://cmrm11.gitbook.io/floating-rate-note/)
+
+[github short](https://github.com/timxiao1203/ShortTermCurve)
 
 
 

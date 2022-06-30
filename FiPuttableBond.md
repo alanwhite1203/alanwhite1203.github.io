@@ -4,21 +4,6 @@ A puttable bond is a bond in which the investor has the right to sell the bond b
 
 Although a puttable bond is a higher cost to the investor and an uncertainty to the issuer comparing to a regular bond, it is actually quite attractive to both issuers and investors. For investors, puttable bonds allow them to reduce interest costs at a future date should rate increase. For issuers, puttable bonds allow them to pay a lower interest rate of return until the bonds are sold back. If interest rates have increased since the issuer first issues the bond, the investor is like to call its current bond and reinvest it at a higher coupon. This presentation gives an overview of puttable bond and valuation model. 
 
-
-	Puttable Bond Definition
-	A puttable bond is a bond in which the investor has the right to sell the bond back to the issuer at specified times (puttable dates) for a specified price (put price).
-	At each puttable date prior to the bond maturity, the investor may sell the bond back to its issuer and get the investment money back.
-	The underlying bonds can be fixed rate bonds or floating rate bonds.
-	A puttable bond can therefore be considered a vanilla underlying bond with an embedded Bermudan style option.
-	Puttable bonds protect investors. Therefore, a puttable bond normally pays investors a lower coupon than a non-callable bond. 
-
-	The Advantage of Puttable Bonds
-	Although a puttable bond is a higher cost to the investor and an uncertainty to the issuer comparing to a regular bond, it is actually quite attractive to both issuers and investors.
-	For investors, puttable bonds allow them to reduce interest costs at a future date should rate increase.
-	For issuers, puttable bonds allow them to pay a lower interest rate of return until the bonds are sold back.
-	If interest rates have increased since the issuer first issues the bond, the investor is like to call its current bond and reinvest it at a higher coupon.
-
-	Puttable Bond Payoffs
 	At the bond maturity T, the payoff of a puttable bond is given by
 
 
@@ -41,25 +26,7 @@ max (x, y) – the maximum of x and y
 T_i -  the i-th call date;
 
 
-
-
-	Model Selection Criteria
-	Given the valuation complexity of a callable bond (e.g., embedded Bermudan option), there is no closed form solution. Therefore, we need to select an interest rate term structure model and a numeric solution to price the callable bond.
-	The selection of interest rate term structure models
-	Popular IR term structure models: 
-Hull-White, Linear Gaussian Model (LGM), Quadratic Gaussian Model (QGM), Heath Jarrow Morton (HJM), Libor Market Model (LMM).
-	HJM and LMM are too complex.
-	Hull-White is inaccurate for computing sensitivities.
-	Therefore, we choose either LGM or QGM.
-	 The selection of numeric approaches
-	After selecting a term structure model, we need to choose a numeric approach to approximate the underlying stochastic process of the model.
-	Commonly used numeric approaches are tree, partial differential equation (PDE), lattice, and Monte Carlo simulation.
-	Tree and Monte Carlo are notorious for inaccuracy in sensitivity calculation.
-	Therefore, we choose either PDE or lattice.
-	We decide to use LGM plus lattice. 
-
-	LGM Model
-	The dynamics
+	The dynamics of LGM model is given by
 dX(t)=α(t)dW
 	Where X is the single state variable; W is the Wiener process.
 	The numeraire is given by
@@ -67,26 +34,11 @@ N(t,X)=(H(t)X+0.5H^2 (t)ζ(t))/D(t)
 	The zero coupon bond price is
 B(t,X;T)=D(T)exp(-H(t)X-0.5H^2 (t)ζ(t))
 
-	LGM Assumption
-	The LGM model is mathematically equivalent to the Hull-White model but offers
-	Significant improvements in calibration stability and accuracy.
-	More accurate and stable in sensitivity calculation.
-	The state variable is normally distributed under the appropriate measure.
-	The LGM model has only one stochastic driver (one-factor), thus changes in rates are perfected correlated.
-
-	LGM calibration
-	Match today’s curve
 At time t, X(0)=0 and H(0)=0. Thus Z(0,0;T)=D(T). In other words, the LGM automatically fits today’s discount curve.
 	Select a group of market swaptions.
 	Solve parameters by minimizing the relative error between the market swaption prices and the LGM model swaption prices.
 
-	Valuation Implementation
-	Calibrate the LGM model.
-	Create the lattice based on the LGM: the grid range should cover at least 3 standard deviations.
-	Find the underlying swap value at each final note.
-	Conduct backward induction process iteratively rolling back from final dates until reaching the valuation date.
-	Compare exercise values with intrinsic values at each exercise date.
-	The value at the valuation date is the price of the callable bond.
+
 
 
 
@@ -94,8 +46,6 @@ References:
 
 
 [More details](./FiPuttableBond-16.pdf)
-
-[FlipHtml5 puttable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDM3QjM5ITPkl0av9mY)
 
 [Zenodo puttable](https://zenodo.org/record/6484069#.YpU428PMKUk)
 
@@ -107,4 +57,5 @@ References:
 
 [Zenodo chooser](https://zenodo.org/record/6546805#.YpDu9KgpDq4)
 
+[github principal](https://github.com/cfrm17/PrincipalNote-)
 

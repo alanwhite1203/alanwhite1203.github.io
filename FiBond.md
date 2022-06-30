@@ -9,25 +9,6 @@ There are two types of bond valuation models in the market: yield-to-maturity mo
 A fixed rate bond is a debt instrument in which an investor loans money to the issuer for a defined period of time and receives coupons paid by the issuer at fixed interest rate. The bond principal will be returned at maturity date. Bonds are usually issued by companies, municipalities, states/provinces and countries to finance a variety of projects and activities. This presentation gives an overview of fixed rate bonds and also discusses two valuation models. 
 
 
-
-Bond, fixed rate bond, fixed income security, coupon, face value, dirty price, clean price, yield-to-maturity valuation model, credit spread valuation model
-
-	Fixed Rate Bond Introduction
-	A bond is a debt instrument in which an investor loans money to the issuer for a defined period of time. 
-	Over the life of a fixed rate bond, the investor will receive coupons paid by the issuer at a predetermined  interest rate at specified dates before bond maturity.
-	The bond principal will be returned at maturity date.
-	A fixed rate bond is usually a long term paper.
-	Bonds are usually issued by companies, municipalities, states/provinces and countries to finance a variety of projects and activities. 
-
-	The Use of Fixed Rate Bond
-	Fixed rate bonds generally pay higher coupons than interest rates.
-	An investor who wants to earn a guaranteed interest rate for a specified term can choose fixed rate bonds. 
-	The benefit of a fixed rate bond is that investors know for certain how much interest rate they will earn and for how long.
-	Due to the fixed coupon, the market value of a fixed rate bond is susceptible to fluctuation in interest rate and therefore has a significant interest rate risk.
-	The long maturity schedule and fixed coupon rate offers an investor a solidified return.
-	The real value of a fixed rate bond is also susceptible to inflation rate given its long term.
-
-	Valuation: Yield-to-Maturity Approach
 	There are two types of bond valuation models in the market: yield-to-maturity model and credit spread model.
 	The present value of a bond under the yield-to-maturity model is given by
 V(t)=∑_(i=1)^n▒〖cP/(1+y)^i +P/(1+y)^n 〗
@@ -50,16 +31,6 @@ s – the credit spread
 P – the principal amount or face value
 c – the coupon rate
 
-	Practical Guide
-	The present value of a bond computed by any pricing models is the dirty price of the bond. To purchase a bond, the buyer pays this dirty price.
-	Although investors pay dirty prices, bonds are typically quoted in terms of clean prices. 
-Dirty Price = Clean Price + Accrued Interest
-	The Yield-To-Maturity Model is a good tool to compute the present value or the fair value of a bond. But it is very difficult to calculate risk, such as term structure sensitivities, that is more important than the fair value in trading, hedging and risk management. Therefore, we introduce the Credit Spread Model for computing both risk and fair value.
-	Intuitively,   e^(-(r+s)T)   can be regarded as a credit risk adjusted discount factor.
-	To use the model, one should first calibrate the model price to the market quoted price by solving the credit spread. Comparing to curve construction or calibration for exotic products, the solving here is very simple.
-	After making the model price equal to the market price, one can calculate sensitivities by shocking interest rate curve and credit spread.
-	We use LIBOR curve plus credit spread rather than bond specific curves for discounting because bond specific curves rarely exist in the market, especially issued by small entities. Using LIBOR curve plus credit spread not only accounts for credit/issuer risk but also solves the missing data issue.
-
 
 
 
@@ -76,5 +47,9 @@ References:
 [archive bond](https://ia903400.us.archive.org/5/items/fi-bond-10/FiBond-archive.pdf)
  
 [OSF bond](https://osf.io/gtcma/download)
+
+[Gibook bond](https://cmrm11.gitbook.io/bond-valuation/)
+
+[github bond option](https://github.com/timxiao1203/MunicipalBondOption)
 
 

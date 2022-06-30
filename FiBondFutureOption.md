@@ -7,33 +7,6 @@ Bond futures options are also exchange traded derivatives on treasury instrument
 There are established global markets for bond futures and future options so they are very liquid. Investors use bond future options to hedge an existing bond portfolio against adverse interest rate movements or enhance the long-term performance of a portfolio of assets. Arbitrageurs profit from the price difference between the spot bonds and the bond futures. Speculators use bond future option in the hope of making a profit on short-term movements in prices. This presentation provides an overview of bond future option product and valuation. 
 
 
-	Bond Future Option Introduction
-	
-	A bond future option is an option contract that gives the holder the right but not the obligation to buy or sell a bond future at a predetermined price. 
-	The writer/seller receives a premium from the buyer for undertaking this obligation.
-	Options are leveraged instruments that allow the owner to control a large amount of the underlying asset with a smaller amount of money.
-	Bond future options offer significant advantages for reducing costs, enhancing returns and managing risk, as strategic financial instruments.
-	A bond future is a future contract in which the asset for delivery is a government bond.
-	Bond future options could be European style or American style.
-
-
-
-	The Use of Bond Future Options
-
-	Bond futures options are also exchange traded derivatives on treasury instruments. 
-	Bond future options provide market participants with the ability to adjust their interest rate exposures.
-	A bond future option is also a good tool for hedging, income enhancement, duration adjustments, interest rate speculation and spread trading.
-	Bond future options are also liquid. There are established global markets for bond future options.
-	Investors use bond future options to hedge an existing bond portfolio against adverse interest rate movements or enhance the long-term performance of a portfolio of assets.
-	Arbitrageurs profit from the price difference between the spot bonds and the bond futures.
-	Speculators use bond future option in the hope of making a profit on short-term movements in prices. 
-
-
-
-
-	Valuation: European Option
-
-
 	The present value of a call bond future option is represented as: 
 
 
@@ -83,7 +56,6 @@ J = 1,…,m
 	σ=αDyσ_y/CF is the volatility described above
 
 
-	After constructing the tree, valuation is performed backward until the valuation. The option value at node 0 is the present value of the bond future option.
 
 
 
@@ -91,8 +63,6 @@ J = 1,…,m
 References:
 
 [More details](./FiBondFutureOption-12.pdf)
-
-[FlipHtml5 bond future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTM1ITM5ITPkl0av9mY)
 
 [Zenodo bond future option](https://zenodo.org/record/5765015#.YpU3psPMKUk)
 
@@ -102,5 +72,8 @@ References:
 
 [Zenodo arrear cap](https://zenodo.org/record/6551437#.YpDwOKgpDq4)
 
+[Gitbook bond future option](https://cmrm11.gitbook.io/bond-future-option/)
+
+[github sabr](https://github.com/timxiao1203/SABR-Calibration)
 
    
