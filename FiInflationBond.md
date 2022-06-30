@@ -6,20 +6,6 @@ The main idea of inflation indexed bonds is that investing in the bond will gene
 
 An inflation indexed bond is designed to hedge the inflation risk of the bond. Since inflation indexed bonds offer investors a very high level of safety, their coupons are typically lower than high-yield bonds. It is an important vehicle for investors whose liabilities indexed to changes in inflation or wages. Inflation indexed bonds have favorable performance and lower volatility relative to other risk assets. It is favorable to retirement planning and pension funds given its inflation protection. Inflation indexed bonds are less liquid than regular bonds. This presentation provides an overview of inflation indexed bond product and valuation. 
 
-	The present value of an inflation indexed bond is given by
-
-	 
-
-
- 		PV(t)=∑_(i=1)^n▒C ̅_i  D_i+(P_n ) ̅D_n
-where
-	t	the valuation date
-	(C_i ) ̅=C*CPI(T_i )/CPI(T_I)	the inflation adjusted coupon at payment  date T_i                      
-	(P_n ) ̅=P*CPI(T_n )/CPI(T_I)	the inflation adjusted principal at maturity date T_n
-	CPI(t)	the base reference CPI at time t.
-	CPI(T_i )/CPI(T_I)	the CPI ratio at T_i
-	T_I	the issue date.
-	D_i=D(t,T_i)	the discount factor from T_i to t.
 
 
 
