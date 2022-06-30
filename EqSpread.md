@@ -28,8 +28,8 @@ References:
 
 [archive spread](https://ia803404.us.archive.org/12/items/eq-spread-16/EqSpread-archive.pdf)  
 
-[hcommons spread](https://hcommons.org/deposits/download/hc:38508/CONTENT/eqspread-16.pdf)
-
 [gitbook spread](https://deripricing.gitbook.io/spread-option-pricing/)
 
 [Zenodo closeout](https://zenodo.org/record/6585388#.YpDwxagpDq4)
+
+[github ratchet](https://github.com/timxiao1203/Ratchet-Swap-)

@@ -27,14 +27,11 @@ References:
    
 [More details](./EqCliquet-12.pdf)     
    
-[FlipHtml5 cliquet](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQzN3UDO3MTPkl0av9mY)
-   
 [Zenodo cliquet](https://zenodo.org/record/4609253#.YpPNDMPMKUk)
    
 [OSF cliquet](https://osf.io/swbg4/download)
 
-[hcommons cliquet pdf](https://hcommons.org/deposits/download/hc:38442/CONTENT/eqcliquet-12.pdf)  
-
 [gitbook cliquet](https://deripricing.gitbook.io/cliquet-option-valuation/)
 
-[science-media cliquet](https://science-media.org/userfiles/1020/presentations/1020_presentation_509.pdf)
+[github American](https://github.com/timxiao1203/AmericanBondOption)
+

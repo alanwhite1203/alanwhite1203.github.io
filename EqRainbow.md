@@ -28,4 +28,4 @@ References:
 
 [gitbook rainbow](https://davidlee1203.gitbook.io/rainbow-option/)
 
-[science-media rainbow](https://science-media.org/userfiles/1020/presentations/1020_presentation_521.pdf)
+[github mbs](https://github.com/timxiao1203/MBS-Model)

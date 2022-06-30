@@ -27,3 +27,7 @@ References:
 [archive yield](https://ia803403.us.archive.org/0/items/eq-yield-23/EqYield-archive.pdf)
 
 [Zenodo chooser cap](https://zenodo.org/record/6561499#.YpDwjKgpDq4)
+
+[Gitbook yield](https://davidlee1203.gitbook.io/callable-yield-note/)
+
+[github local vol](https://github.com/timxiao1203/LocalVolatilityGaussianModel)

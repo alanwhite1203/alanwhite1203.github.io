@@ -27,8 +27,6 @@ References:
 
 [archive cppi](https://ia803406.us.archive.org/32/items/eq-cppi-19/EqCppi-archive.pdf)  
 
-[hcommons cppi](https://hcommons.org/deposits/download/hc:38648/CONTENT/eqcppi-19.pdf)
-
 [gitbook cppi](https://deripricing.gitbook.io/cppi-pricing/)
 
-[science-media cppi](https://science-media.org/userfiles/1020/presentations/1020_presentation_516.pdf)
+[github digital swap](https://github.com/timxiao1203/DailyDigitalLIBORSwap)

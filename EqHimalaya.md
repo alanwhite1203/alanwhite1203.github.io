@@ -29,4 +29,4 @@ References:
 
 [gitbook himalaya](https://davidlee1203.gitbook.io/himalaya-option/)
 
-[science-media himalaya](https://science-media.org/userfiles/1020/presentations/1020_presentation_522.pdf)
+[github interpolation](https://github.com/timxiao1203/InterpolationAnalytics)

@@ -85,9 +85,6 @@ An equity swap can be used to transfer both the credit risk and the market risk 
    
 [Equity Swap](./EqSwap.md)
 
-[FlipHtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNxgDN5ITPkl0av9mY)
-
-[Gitbook swap](https://deripricing.gitbook.io/total-return-swap-valuation/)
    
 
    
@@ -99,11 +96,6 @@ An equity warrant gives the holder the right to purchase shares at a fixed price
 
 [Warrant](./EqWarrant.md)   
 
-[Reference pdf](./EqWarrant-8.pdf)  
-
-[FlipHtml5 warrant](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTNxgDN5ITPkl0av9mY)
-
-[Gitbook warrant](https://deripricing.gitbook.io/warrant-valuation/)
 
 
 
@@ -117,11 +109,6 @@ a combination of realized (historical) volatility and unrealized volatility obta
 
 [Variance Swap](./EqVariance.md)   
 
-[FlipHtml5 variance](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjM5kzN3MTPkl0av9mY)
-
-[Gitbook variance](https://deripricing.gitbook.io/variance-swap-pricing/)
-
-[Sciece-media variance](https://science-media.org/userfiles/1020/presentations/1020_presentation_506.pdf)
 
 
 
@@ -134,13 +121,6 @@ The initial price is taken as the highest price observed over a set of Initial L
 
 [Lookback Option](./EqLookback.md)   
 
-[FlipHtml5 lookback](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzNyQDO3MTPkl0av9mY)
-
-[Hcommons lookback](https://hcommons.org/deposits/download/hc:38392/CONTENT/eqlookback-10.pdf)
-
-[Gitbook lookback](https://deripricing.gitbook.io/lookback-option-valuation/)
-
-[Sciece-media lookback](https://science-media.org/userfiles/1020/presentations/1020_presentation_507.pdf)
 
 
  
@@ -152,11 +132,6 @@ The two types of contracts, knock-in barrier options and knock-out barrier optio
 
 [Barrier Option](./EqBarrier.md) 
 
-[FlipHtml5 barrier](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETNxUDO3MTPkl0av9mY)
-
-[Gitbook barrier](https://deripricing.gitbook.io/barrier-option-pricing/)
-
-[Sciece-media barrier](https://science-media.org/userfiles/1020/presentations/1020_presentation_508.pdf)
 
 
 
@@ -169,11 +144,6 @@ Cliquet options are widely traded in many retail-structured products. They consi
 
 [Cliquet Option](./EqCliquet.md) 
 
-[FlipHtml5 cliquet](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQzN3UDO3MTPkl0av9mY)
-
-[Gitbook cliquet](https://deripricing.gitbook.io/cliquet-option-valuation/)
-
-[Sciece-media cliquet](https://science-media.org/userfiles/1020/presentations/1020_presentation_509.pdf)
 
 
 
@@ -187,12 +157,6 @@ The payoff of a digital option or binary option is either some fixed amount of s
 [Binary Option](./EqBinary.md)
 
 
-[FlipHtml5 binary](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEjN4ETO3MTPkl0av9mY)
-
-[Gitbook binary](https://deripricing.gitbook.io/binary-option-valuation/)
-
-[Sciece-media binary](https://science-media.org/userfiles/1020/presentations/1020_presentation_510.pdf/)
-
 
 
 
@@ -203,14 +167,6 @@ A quanto option is an option whose payout is made in a currency other than that 
 It is a common trend that domestic investors allocate their assets in foreign stock markets. The major reason behind this investment trend is that the regulation liberalization spreads throughout in the global security markets. Domestic investors who put their money into foreign stock markets will encounter both of the foreign stock price risk and foreign exchange rate risk. 
 
 [Quanto Option](./EqQuanto.md)
-
-[FlipHtml5 quanto](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN4ETO3MTPkl0av9mY)
-
-[Hcommons quanto](https://hcommons.org/deposits/download/hc:38464/CONTENT/eqquanto-14.pdf)
-
-[Gitbook quanto](https://deripricing.gitbook.io/quanto-option-pricing/)
-
-[Gitbook quanto](https://science-media.org/userfiles/1020/presentations/1020_presentation_511.pdf)
 
 
 
@@ -223,13 +179,6 @@ Callable note or callable exotics are among the most challenging derivatives to 
 
 [Callable Exotics](./EqCallable.md)
 
-[FlipHtml5 exotic](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUTMzgTM4MTPkl0av9mY)
-
-[Hcommons exotic](https://hcommons.org/deposits/download/hc:38496/CONTENT/eqcallable-15.pdf)
-
-[Gitbook exotic](https://deripricing.gitbook.io/callable-exotic-pricing/)
-
-[Gitbook exotic](https://science-media.org/userfiles/1020/presentations/1020_presentation_512.pdf)
 
 
 
@@ -242,11 +191,6 @@ The use of spread options is widespread for speculation, basis risk mitigation, 
 
 [Spread Option](./EqSpread.md)
 
-[FlipHtml5 spread](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNzQzM4MTPkl0av9mY)
-
-[Hcommons spread](https://hcommons.org/deposits/download/hc:38508/CONTENT/eqspread-16.pdf)
-
-[Gitbook spread](https://deripricing.gitbook.io/spread-option-pricing/)
 
 
 
@@ -259,11 +203,6 @@ These are chooser options that return the best performing among several baskets 
 
 [Best Performer Option](./EqPerform.md)
 
-[FlipHtml5 best](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAjNzQzM4MTPkl0av9mY)
-
-[Gitbook best](https://deripricing.gitbook.io/best-of-option-pricing/)
-
-[Sciece-media best](https://science-media.org/userfiles/1020/presentations/1020_presentation_514.pdf)
 
 
 
@@ -276,13 +215,6 @@ The decision to cancel the option is made based on the performance of an underly
 
 [Reverse Convertible Swap](./EqReverse.md)
 
-[FlipHtml5 reverse](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzNyADN4MTPkl0av9mY)
-
-[Hcommons reverse](https://hcommons.org/deposits/download/hc:38540/CONTENT/eqreverse-18.pdf)
-
-[Gitbook reverse](https://deripricing.gitbook.io/reverse-convertible-autocallable-swap/)
-
-[Sciece-media reverse](https://science-media.org/userfiles/1020/presentations/1020_presentation_515.pdf)
 
 
 
@@ -295,13 +227,6 @@ In upside markets, the strategy allocates more towards the risky asset whereas i
 
 [Constant Proportion Portfolio Insurance](./EqCppi.md)
 
-[FlipHtml5 cppi](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzN3QDN4MTPkl0av9mY)
-
-[Hcommons cppi](https://hcommons.org/deposits/download/hc:38648/CONTENT/eqcppi-19.pdf)
-
-[Gitbook cppi](https://deripricing.gitbook.io/cppi-pricing/)
-
-[Sciece-media cppi](https://science-media.org/userfiles/1020/presentations/1020_presentation_516.pdf)
 
 
 
@@ -314,10 +239,6 @@ The note normally pays the holder an increased participation rate on its underly
 
 [Accelerated Return Note](./EqArn.md)
 
-
-[FlipHtml5 arn](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDO3QDN4MTPkl0av9mY)
-
-[Gitbook arn](https://davidlee1203.gitbook.io/accelerated-return-note-pricing/)
 
 
 
@@ -332,12 +253,6 @@ In a share buyback program, a firm normally sets out the amount of shares it wis
 [Accelerated Share Repurchase](./EqAsr.md)
 
 
-[FlipHtml5 asr](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYjM4ATN4MTPkl0av9mY)
-
-[Gitbook asr](https://davidlee1203.gitbook.io/pricing-accelerated-share-repurchase/)
-
-[science-media asr](https://science-media.org/userfiles/1020/presentations/1020_presentation_518.pdf)
-
 
 
 
@@ -351,12 +266,6 @@ The note pays a series of coupons based on the weighted performance of all asset
 [Bonus Coupon Note](./EqCoupon.md)
 
 
-[FlipHtml5 coupon](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkjM4ATN4MTPkl0av9mY)
-
-[Gitbook coupon](https://davidlee1203.gitbook.io/bonus-coupon-note/)
-
-[Sciece-media coupon](https://science-media.org/userfiles/1020/presentations/1020_presentation_519.pdf)
-
 
 
 
@@ -369,14 +278,6 @@ The auto-call feature limits the total return paid to the buyer by automatically
 [Yield Note](./EqYield.md)
 
 
-[FlipHtml5 yield](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETNxEjN4MTPkl0av9mY)
-
-[Hcommons yield](https://hcommons.org/deposits/download/hc:41296/CONTENT/eqyield-23.pdf)
-
-[Gitbook yield](https://davidlee1203.gitbook.io/callable-yield-note/)
-
-[Sciece-media yield](https://science-media.org/userfiles/1020/presentations/1020_presentation_520.pdf)
-
 
 
 
@@ -388,14 +289,6 @@ Rainbow options are multi-asset options that have a payoff depending on the asse
 
 [Rainbow Option](./EqRainbow.md)
 
-
-[FlipHtml5 rainbow](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjM1QjN4MTPkl0av9mY)
-
-[Hcommons rainbow](https://hcommons.org/deposits/download/hc:41308/CONTENT/eqrainbow-24.pdf)
-
-[Gitbook rainbow](https://davidlee1203.gitbook.io/rainbow-option/)
-
-[Sciece-media rainbow](https://science-media.org/userfiles/1020/presentations/1020_presentation_521.pdf)
 
 
 
@@ -410,14 +303,6 @@ A Himalaya option is an option on the sum of the returns of the best (worst) per
 [Himalaya Option](./EqHimalaya.md)
 
 
-[FlipHtml5 Himalaya](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzM1QjN4MTPkl0av9mY)
-
-[Hcommons Himalaya](https://hcommons.org/deposits/download/hc:41448/CONTENT/eqhimalaya-25.pdf)
-
-[Gitbook Himalaya](https://davidlee1203.gitbook.io/himalaya-option/)
-
-[Sciece-media Himalaya](https://science-media.org/userfiles/1020/presentations/1020_presentation_522.pdf)
-
 
 
 
@@ -430,14 +315,6 @@ For an outstanding contract, implied correlation needs to be computed for any fu
 [Correlation Swap](./EqCorrelationSwap.md)
 
 
-[FlipHtml5 correlation](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDN5gDM5MTPkl0av9mY)
-
-[Hcommons correlation](https://hcommons.org/deposits/download/hc:41486/CONTENT/eqcorrelationswap-26.pdf)
-
-[Gitbook correlation](https://davidlee1203.gitbook.io/correlation-swap/)
-
-[Sciece-media correlation](https://science-media.org/userfiles/1020/presentations/1020_presentation_523.pdf)
-
 
 
 
@@ -449,13 +326,6 @@ An equity range accrual note is a principal-protected note that pays out a serie
 
 [Range Accrual](./EqRangeAccrual.md)
 
-[FlipHtml5 accrual](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETN5gDM5MTPkl0av9mY)
-
-[Hcommons accrual](https://hcommons.org/deposits/download/hc:41502/CONTENT/eqrangeaccrual-27.pdf)
-
-[Gitbook accrual](https://davidlee1203.gitbook.io/callable-range-accrual-note/)
-
-[Sciece-media accrual](https://science-media.org/userfiles/1020/presentations/1020_presentation_524.pdf)
 
 
 
@@ -468,13 +338,9 @@ Autocallable Notes are hybrid instruments that offer a higher coupon if they are
 
 [Zenodo autocallable](https://zenodo.org/record/4744701/files/EqAutoCallable-28.pdf)
 
-[FlipHtml5 autocallable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTM1gTMwQTPkl0av9mY)
-
 [OSF autocallable](https://osf.io/8wfmq/download)
 
 [Gitbook accrual](https://davidlee1203.gitbook.io/autocallable-note/)
-
-[Sciece-media accrual](https://science-media.org/userfiles/1020/presentations/1020_presentation_525.pdf)
 
 [archive auto](https://ia803405.us.archive.org/31/items/eq-auto-callable-28/EqAutoCallable-archive.pdf)
 

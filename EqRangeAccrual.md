@@ -1,10 +1,5 @@
 ## Callable Range Accrual Valuation
 
-FinPricing provides valuation models for
-	Equity Range Accrual Note
-	Callable Equity Range Accrual Note
-	Libor Range Accrual
-	Callable Libor Range Accrual Note
 
 Range accrual products can be categorized as interest rate range accrual, equity range accrual, and FX range accrual. 
 
@@ -43,3 +38,5 @@ References:
 [gitbook range accrual](https://davidlee1203.gitbook.io/callable-range-accrual-note/)
 
 [Zenodo cms swap](https://zenodo.org/record/6588555#.YpE20qgpDq4)
+
+[github cms cap](https://github.com/timxiao1203/CMS-Cap)

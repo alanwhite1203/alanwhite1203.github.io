@@ -35,4 +35,4 @@ References:
 
 [gitbook asr](https://davidlee1203.gitbook.io/pricing-accelerated-share-repurchase/)
 
-[science-media asr](https://science-media.org/userfiles/1020/presentations/1020_presentation_518.pdf)
+[github inflation swap](https://github.com/timxiao1203/InflationSwap)

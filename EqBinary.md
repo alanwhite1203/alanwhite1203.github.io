@@ -38,4 +38,4 @@ References:
 
 [gitbook binary](https://deripricing.gitbook.io/binary-option-valuation/)
 
-[science-media binary](https://science-media.org/userfiles/1020/presentations/1020_presentation_510.pdf)
+[github cms spread](https://github.com/timxiao1203/CMSSpreadOption)

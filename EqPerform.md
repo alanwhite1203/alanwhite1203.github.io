@@ -39,4 +39,4 @@ References:
 
 [gitbook best](https://deripricing.gitbook.io/best-of-option-pricing/)
 
-[science-media best](https://science-media.org/userfiles/1020/presentations/1020_presentation_514.pdf)
+[github hw vol](https://github.com/timxiao1203/HullWhiteVolatilityCalibration)

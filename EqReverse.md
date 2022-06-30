@@ -26,8 +26,8 @@ References:
 
 [archive reverse](https://ia803407.us.archive.org/2/items/eq-reverse-18/EqReverse-archive.pdf)  
 
-[hcommons reverse](https://hcommons.org/deposits/download/hc:38540/CONTENT/eqreverse-18.pdf)
-
 [gitbook reverse](https://deripricing.gitbook.io/reverse-convertible-autocallable-swap/)
 
-[Zenodo](https://zenodo.org/record/6588375#.YpEh86gpDq4)
+[Zenodo xccy swaption](https://zenodo.org/record/6588375#.YpEh86gpDq4)
+
+[github hw vol](https://github.com/timxiao1203/HullWhiteVolatilityCalibration)

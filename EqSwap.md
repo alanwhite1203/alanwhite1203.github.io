@@ -12,20 +12,7 @@ The party receiving the total returns gains exposure to the performance of the r
 
 Equity swaps allow parties to potentially benefit from returns of an equity security without the need to own its shares. In general, a party enters an equity swap with the objective of either obtaining return exposure or hedge existing equity risk for a period of time. This presentation gives an introduction to equity swap product and valuation. 
 
-	Equity Swap Introduction
-	An equity swap is an OTC contract between two parties to exchange a set of cash flows in the future. Normally one party pays the return based on capital gains and dividends realized on an equity security and the other party pays the return based on a floating interest rate plus a spread. 
-	The party receiving the total returns gains exposure to the performance of the reference asset without actually owning the asset; hence this instrument can be used to obtain a leveraged exposure.
-	On the other hand, the party receiving payments based on the reference rate receives protection against a loss in the value of the underlying equity. 
-	Unlike other swap types, the equity swap notional resets on each cash flow reset date, depending on the performance of the underlying asset.
 
-	The Use of Equity Swap
-	Equity swaps allow parties to potentially benefit from returns of an equity security without the need to own its shares.
-	In general, a party enters an equity swap with the objective of either obtaining return exposure or hedge existing equity risk for a period of time. 
-	An equity swap can be used to transfer both the credit risk and the market risk of an underlying asset. 
-	Equity swaps can be also used to avoid transaction costs (including Tax), to avoid locally based dividend taxes, limitations on leverage (notably the US margin regime) or to get around rules governing the particular type of investment that an institution can hold.  
-	Equity swaps can make investment barriers vanish and help an investor create leverage.
-
-	Valuation
 	There are two legs in an equity swap: an equity leg and a floating interest leg. 
 	The payoff for both legs could be set at every reset date or at maturity; or could be one side at maturity and the other at every reset date. 
 	The price of the swap is the difference between the present values of both legs' cash flows. In other words, the present value of swap is net of present value of "equity leg" and "money market leg".
@@ -80,3 +67,9 @@ References:
 [gitbook swap](https://deripricing.gitbook.io/total-return-swap-valuation/)
 
 [Zenodo double cms](https://zenodo.org/record/6578517#.YpDwuqgpDq4)
+
+[FlipHtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNxgDN5ITPkl0av9mY)
+
+[github Asset backed](https://github.com/timxiao1203/AssetBackedNote)
+
+

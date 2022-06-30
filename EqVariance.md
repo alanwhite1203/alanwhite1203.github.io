@@ -24,10 +24,8 @@ References:
    
 [OSF warrant](https://osf.io/wgmq5/download)
 
-[hcommons warrant](https://hcommons.org/deposits/download/hc:38384/CONTENT/eqvariance-9.pdf)
-
-[gitbook warrant](https://deripricing.gitbook.io/variance-swap-pricing/)
-
-[science-media warrant](https://science-media.org/userfiles/1020/presentations/1020_presentation_506.pdf)
-
 [Zenodo arrear fra](https://zenodo.org/record/6578408#.YpDwq6gpDq4)
+
+[Gitbook variance](https://deripricing.gitbook.io/variance-swap-pricing/)
+
+[Github Extendable](https://github.com/timxiao1203/ExtendableSwap)

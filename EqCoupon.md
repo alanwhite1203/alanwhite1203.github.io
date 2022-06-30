@@ -27,5 +27,5 @@ References:
 
 [gitbook coupon](https://davidlee1203.gitbook.io/bonus-coupon-note/)
 
-[science-media coupon](https://science-media.org/userfiles/1020/presentations/1020_presentation_519.pdf)
+[github tarn swap](https://github.com/timxiao1203/TARN-Swap)
 

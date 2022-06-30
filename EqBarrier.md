@@ -27,9 +27,6 @@ The option is said to be triggered when the asset level exceeds the high barrier
 
 The option may be Knock-In (where triggering enables the payoff) or Knock-Out (where triggering disables the payoff). For Knock-Out options, a rebate amount may be specified to be paid if the option becomes triggered. The payoff at maturity, if active, may be a call, a put, a digital call, or a digital put payoff on the deal Notional. 
 
-In-out parity
-There are some relationships among knock-in, knock-out, and vanilla options.
-
 
 
 References:
@@ -40,8 +37,7 @@ References:
    
 [OSF barrier](https://osf.io/ymt8n/download)
 
-[hcommons barrier](https://hcommons.org/deposits/download/hc:38410/CONTENT/eqbarrier-11.pdf)
-
 [gitbook barrier](https://deripricing.gitbook.io/barrier-option-pricing/)
 
-[science-media barrier](https://science-media.org/userfiles/1020/presentations/1020_presentation_508.pdf)
+[github flexible](https://github.com/timxiao1203/FlexibleGIC)
+
