@@ -50,13 +50,11 @@ References:
 		
 [More details](./IrFra-33.pdf)
    
-[FlipHtml5 fra](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamADO5UjM5ITPkl0av9mY)
-   
 [Zenodo fra](https://zenodo.org/record/6493996/files/Zenodo-IrFra.pdf)
    
 [OSF fra](https://osf.io/k8v2q/download)
 
-[Zenodo performance](https://zenodo.org/record/6547457#.YpDvW6gpDq4)
+[Zenodo performance](https://zenodo.org/record/6547457)
 
 [github mbs](https://github.com/cfrm17/MBSPassThrough)
 

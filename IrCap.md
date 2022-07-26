@@ -18,7 +18,7 @@ where N – the notional; R – the realized interest rate; K – the strike; τ
 
 	Valuation
 	The present value of a cap is given by
-PV(0)=N∑_(i=1)^n▒〖τ_i D_i (F_i Φ(d_1 )-KΦ(d_2)) 〗
+PV(0)=N∑_(i=1)^n〖τ_i D_i (F_i Φ(d_1 )-KΦ(d_2)) 〗
 where 
 D_i=D(0,T_i) – the discount factor; 
 F_i=F(t;T_(i-1),T_i )=(D_(i-1)/D_i -1)/τ_i – the forward rate for period (T_(i-1),T_i).
@@ -38,7 +38,7 @@ References:
    
 [OSF cap](https://osf.io/kvbyz/download)
 
-[Zenodo acquisation](https://zenodo.org/record/6547140#.YpDvKKgpDq4)
+[Zenodo acquisation](https://zenodo.org/record/6547140)
 
 [github balance](https://github.com/cfrm17/BalanceSheetRisk)
 

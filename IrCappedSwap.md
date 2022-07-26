@@ -38,18 +38,18 @@ Where  〖PV〗_floor is the present value of the embedded floor.
 
 
 	The present value of the fixed leg is given by
-〖PV〗_fixed (t)=RN∑_(i=1)^n▒〖τ_i D_i 〗
+〖PV〗_fixed (t)=RN∑_(i=1)^n〖τ_i D_i 〗
 Where R – the fixed rate; N – the notional; τ_i – the day count fraction for period [T_(i-1),T_i]; D_i=D(t,T_i) – the discount factor.
 	The present value of the floating leg is given by
-〖PV〗_float (t)=N∑_(i=1)^n▒〖(F_i+s)τ_i D_i 〗
+〖PV〗_float (t)=N∑_(i=1)^n〖(F_i+s)τ_i D_i 〗
 Where s – the floating spread; F_i=F(t;T_(i-1),T_i )=1/τ_i  (D_(i-1)/D_i -1) – the simply compounded forward rate
 	The present value of the cap is given by
 
-〖PV〗_cap (t)=N∑_(i=1)^n▒〖τ_i D_i (F_i Φ(d_1 )-KΦ(d_2)) 〗
+〖PV〗_cap (t)=N∑_(i=1)^n〖τ_i D_i (F_i Φ(d_1 )-KΦ(d_2)) 〗
 Where d_1,2=(ln⁡(F_i/K)±0.5σ_i^2 T_i )/(σ_i √(T_i )) and Φ – the cumulative normal distribution function.
 	The present value of the floor is given by
 
-〖PV〗_cap (t)=N∑_(i=1)^n▒〖τ_i D_i (KΦ(-d_2 )-F_i Φ(〖-d〗_1 )) 〗
+〖PV〗_cap (t)=N∑_(i=1)^n〖τ_i D_i (KΦ(-d_2 )-F_i Φ(〖-d〗_1 )) 〗
 
 
 
@@ -62,7 +62,7 @@ References:
  
 [OSF capped](https://osf.io/jskhm/download)
 
-[Zenodo deferred asset](https://zenodo.org/record/6547212#.YpDvPqgpDq4)
+[Zenodo deferred asset](https://zenodo.org/record/6547212)
 
 [Github mortgage](https://github.com/cfrm17/MortgageAnalytics)
 

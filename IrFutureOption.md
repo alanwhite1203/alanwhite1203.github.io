@@ -63,13 +63,11 @@ References:
    
 [More detials](./IrFutureOption-35.pdf)
    
-[FlipHtml5 future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjN4gzM5ITPkl0av9mY)
-   
 [Zenodo future option](https://zenodo.org/record/6494261/files/Zenodo-IrFutureOption.pdf)
    
 [OSF future option](https://osf.io/gbzj3/download)
 
-[Zenodo mortgage](https://zenodo.org/record/6548953#.YpDvfKgpDq4)
+[Zenodo mortgage](https://zenodo.org/record/6548953)
 
 [github knockout](https://github.com/cfrm17/KnockoutSwap)
 

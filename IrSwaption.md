@@ -26,7 +26,7 @@ S_T – the swap rate at time T.
 where
 	t   –  valuation date
 	N  – notational principal amount
-A=∑_(i=1)^n▒〖τ_i D_i 〗 – annuity factor or forward basis point value
+A=∑_(i=1)^n〖τ_i D_i 〗 – annuity factor or forward basis point value
 S=[D_1-D_n ]⁄A  - forward swap rate
   -  the cumulative standard normal distribution function
 	i  –  ith cash flow (swaplet) of the underlying swap from 1 to n
@@ -49,7 +49,7 @@ References:
    
 [OSF swaption](https://osf.io/f7yw9/download)
 
-[Zenodo pass](https://zenodo.org/record/6549222#.YpDvoKgpDq4)
+[Zenodo pass](https://zenodo.org/record/6549222)
 
 [github mba swap](https://github.com/cfrm17/MBASwap)
    

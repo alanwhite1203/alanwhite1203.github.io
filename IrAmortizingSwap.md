@@ -23,11 +23,9 @@ References:
 		
 [More details](./IrAmortizingSwap-26.pdf)
  
-[FlipHtml5 amortizing swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamITO3gDN3ITPkl0av9mY)
- 
 [OSF amortizing swap](https://osf.io/mgc83/download)
 
-[Zenodo swap](https://zenodo.org/record/6546723#.YpDu3qgpDq4)
+[Zenodo swap](https://zenodo.org/record/6546723)
 
 [Zenodo amortizing swap](https://zenodo.org/record/5771045/files/Zenodo-IrAmortizingSwap.pdf)
 

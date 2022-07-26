@@ -29,13 +29,11 @@ References:
    
 [More details](./IrFuture-34.pdf)
    
-[FlipHtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDO5UjM5ITPkl0av9mY)
-   
 [Zenodo futures](https://zenodo.org/record/5771055/files/Zenodo-IrFuture.pdf)
    
 [OSF futures](https://osf.io/j9apv/download)
 
-[Zenodo sheet](https://zenodo.org/record/6548879#.YpDvbagpDq4)
+[Zenodo sheet](https://zenodo.org/record/6548879)
 
 [github mbs](https://github.com/cfrm17/DigitalAdjustments)
 

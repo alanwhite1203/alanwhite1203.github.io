@@ -36,10 +36,10 @@ F – the realized floating rate in simply compounding
 	Valuation
 	The present value of a fixed rate leg is given by
 
-〖PV〗_fixed (t)=RN∑_(i=1)^n▒〖τ_i D_i 〗
+〖PV〗_fixed (t)=RN∑_(i=1)^n〖τ_i D_i 〗
 where t is the valuation date and D_i=D(t,T_i) is the discount factor.
 	The present value of a floating leg is given by
-〖PV〗_float (t)=N∑_(i=1)^n▒〖(F_i+s) τ_i D_i 〗
+〖PV〗_float (t)=N∑_(i=1)^n〖(F_i+s) τ_i D_i 〗
 where F_i=(D_(i-1)/D_i -1)/τ_i is the simply compounded forward rate and s is the floating spread.
 	The present value of an interest rate swap can expressed as
 	From the fixed rate payer perspective, PV=〖PV〗_float-〖PV〗_fixed		
@@ -64,13 +64,11 @@ References:
 		
 [More details](./IrSwap-36.pdf)
    
-[FlipHtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjN4gzM5ITPkl0av9mY)
-   
 [Zenodo swap](https://zenodo.org/record/5771057/files/Zenodo-IrSwap.pdf)
    
 [OSF swap](https://osf.io/kx5q2/download)
 
-[Zenodo lock](https://zenodo.org/record/6549162#.YpDvjagpDq4)
+[Zenodo lock](https://zenodo.org/record/6549162)
 
 [github arrear cap](https://github.com/cfrm17/ArrearCap)
 

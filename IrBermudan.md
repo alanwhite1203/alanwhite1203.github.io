@@ -42,13 +42,11 @@ References:
  
 [More details](./IrBermudan-28.pdf)
   
-[FlipHtml5 bermudan](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTMxkjNyETPkl0av9mY)
-  
 [Zenodo bermudan](https://zenodo.org/record/6492307/files/Zenodo-IrBermudan.pdf)
    
 [OSF bermudan](https://osf.io/5dz4u/download)
 
-[Zenodo flow](https://zenodo.org/record/6546938#.YpDvB6gpDq4)
+[Zenodo flow](https://zenodo.org/record/6546938)
 
 [github mortgage](https://github.com/cfrm17/MortgageCommitment)
 

@@ -54,7 +54,7 @@ References:
    
 [OSF cancelable](https://osf.io/v7whf/download)
 
-[Zenodo fair value](https://zenodo.org/record/6547047#.YpDvGKgpDq4)
+[Zenodo fair value](https://zenodo.org/record/6547047)
 
 [github performance](https://github.com/cfrm17/PerformanceDeferredShare)
 

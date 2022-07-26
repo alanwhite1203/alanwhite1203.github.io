@@ -11,7 +11,7 @@ where
 N- the notional;
  τ – accrual period in years (e.g., a 3 month period ≈ 3/12 = 0.25)
 R – the fixed rate in simply compounding.
-F=∏_(j=1)^k▒〖(1+Q_j )-1〗 – the realized compounded floating rate for a payment period, e.g., 6-month
+F=∏_(j=1)^k〖(1+Q_j )-1〗 – the realized compounded floating rate for a payment period, e.g., 6-month
 Q_j=r_j τ_j – the accrued interest for a calculation period, say, 1-month
 	From the fixed rate receiver perspective, the payoff of a swap or swaplet at payment date T is given by
 〖Payff〗_receiver=Nτ(F-R)
@@ -19,10 +19,10 @@ Q_j=r_j τ_j – the accrued interest for a calculation period, say, 1-month
 	Valuation
 	The present value of a fixed rate leg is given by
 
-〖PV〗_fixed (t)=RN∑_(i=1)^n▒〖τ_i D_i 〗
+〖PV〗_fixed (t)=RN∑_(i=1)^n〖τ_i D_i 〗
 where t is the valuation date and D_i=D(t,T_i) is the discount factor.
 	The present value of a floating leg is given by
-〖PV〗_compound (t)=N∑_(i=1)^n▒〖(∏_(j=1)^k▒〖(1+Q_i 〗)-1) τ_i D_i 〗
+〖PV〗_compound (t)=N∑_(i=1)^n〖(∏_(j=1)^k〖(1+Q_i 〗)-1) τ_i D_i 〗
 where
 Q_j=〖(r〗_(j+s)) τ_j –the accrued interest for calculation period j.
  F_i=(D_(i-1)/D_i -1)/τ_i - the simply compounded forward rate
@@ -42,7 +42,7 @@ References:
    
 [OSF compounding](https://osf.io/dqepj/download)
 
-[Zenodo commitment](https://zenodo.org/record/6547376#.YpDvTKgpDq4)
+[Zenodo commitment](https://zenodo.org/record/6547376)
 
 [github rate lock](https://github.com/cfrm17/RateLockAnalysis)
 

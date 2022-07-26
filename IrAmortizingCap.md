@@ -15,7 +15,7 @@ where N_i – the notional of period i; R – the realized interest rate; K – 
 
 	The analytics is similar to a vanilla cap the principal amount used by each period may be different.
 	The present value of an amortizing or accreting cap is given by
-PV(0)=∑_(i=1)^n▒〖N_i τ_i D_i (F_i Φ(d_1 )-KΦ(d_2)) 〗
+PV(0)=∑_(i=1)^n〖N_i τ_i D_i (F_i Φ(d_1 )-KΦ(d_2)) 〗
 where 
 D_i=D(0,T_i) – the discount factor; 
 F_i=F(t;T_(i-1),T_i )=(D_(i-1)/D_i -1)/τ_i – the forward rate for period (T_(i-1),T_i).
@@ -31,10 +31,8 @@ References:
 
 [More details](./IrAmortizingCap-25.pdf)
 
-[FlipHtml5 amortizing cap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUDO3gDN3ITPkl0av9mY)
-
 [OSF amortizing cap](https://osf.io/rfa8e/download)
 
-[Zenodo index](https://zenodo.org/record/6546586#.YpDuxKgpDq4)
+[Zenodo index](https://zenodo.org/record/6546586)
 
 [github hedge](https://github.com/cfrm17/FairValueHedge)
