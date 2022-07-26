@@ -20,14 +20,13 @@ As the Compound Cliquet matures, the payoff for each period accumulates with no 
 
 The Compounding Compound Cliquet product is also an option on a cliquet option involving a single underlying asset. In this case, the total return that is applied to the face value of the option at maturity is found by compounding the payoff from each period.
 
-Cliquets are volatility-sensitive products. A good volatility model not only has to be able to calibrate to the spot implied volatilities but also to the forward start options.
 
 
 References:
    
 [More details](./EqCliquet-12.pdf)     
    
-[Zenodo cliquet](https://zenodo.org/record/4609253#.YpPNDMPMKUk)
+[Zenodo cliquet](https://zenodo.org/record/4609253)
    
 [OSF cliquet](https://osf.io/swbg4/download)
 

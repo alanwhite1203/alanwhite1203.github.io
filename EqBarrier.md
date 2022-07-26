@@ -25,15 +25,12 @@ More precisely, the option is said to be triggered when the running average of t
 
 The option is said to be triggered when the asset level exceeds the high barrier or falls below the low barrier at any time within a barrier observation interval (or on a barrier observation date). 
 
-The option may be Knock-In (where triggering enables the payoff) or Knock-Out (where triggering disables the payoff). For Knock-Out options, a rebate amount may be specified to be paid if the option becomes triggered. The payoff at maturity, if active, may be a call, a put, a digital call, or a digital put payoff on the deal Notional. 
-
-
 
 References:
    
 [More details](./EqBarrier-11.pdf)     
    
-[Zenodo barrier](https://zenodo.org/record/5759655#.YpPJoMPMKUk)
+[Zenodo barrier](https://zenodo.org/record/5759655)
    
 [OSF barrier](https://osf.io/ymt8n/download)
 

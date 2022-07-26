@@ -12,14 +12,6 @@ The payoff of a quanto option depends on the joint process of the stock price an
 
 Denote F1 as the forward quanto price specified in a contract at time 0 to be paid at time t¬1 for the underlying asset. 
 
-The forward quanto price under dividend yield is given by
- 
-The forward quanto price under discrete dividend is given by
- 
-
-Under the risk-neutral measure, Fj = E[Sj ] ; in particular, the forward quanto prices reflect the risk-free interest rate and any dividend yield (positive or negative) on the underlying asset.
-
-
 
 
 References:
@@ -27,11 +19,9 @@ References:
 [More details](./EqQuanto-14.pdf)     
 
    
-[Zenodo Quanto](https://zenodo.org/record/5759657#.YpPd-MPMKUk)
+[Zenodo Quanto](https://zenodo.org/record/5759657)
    
 [OSF Quanto](https://osf.io/2qjps/download)
-
-[Archive Quanto](https://ia903402.us.archive.org/15/items/eq-quanto-14/EqQuanto-archive.pdf)  
 
 [gitbook Quanto](https://deripricing.gitbook.io/quanto-option-pricing/)
 

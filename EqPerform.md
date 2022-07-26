@@ -29,13 +29,9 @@ References:
 [More details](./EqPerform-17.pdf)   
 
    
-[Zenodo best](https://zenodo.org/record/6480269#.YpPdu8PMKUk)
+[Zenodo best](https://zenodo.org/record/6480269)
    
 [OSF best](https://osf.io/7pzms/download)
-
-[archive best](https://ia903403.us.archive.org/15/items/eq-perform-17/EqPerform-archive.pdf) 
-
-[hcommons best](https://hcommons.org/deposits/download/hc:38524/CONTENT/eqperform-17.pdf) 
 
 [gitbook best](https://deripricing.gitbook.io/best-of-option-pricing/)
 

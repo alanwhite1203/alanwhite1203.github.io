@@ -32,7 +32,6 @@ The fixed coupon can vary between two states: a high coupon and a low coupon. Ea
 
 Should the structure remain alive up to maturity, the floating coupon receiver receives a put option on the reference asset. This put option must first be ‘knocked-in’ by the reference asset having fallen below some barrier on one or more of its observation dates.
 
-Callable valuation is based on numeric approaches, such as FPE or Monte-Carlo.
 
 
 References:
@@ -40,11 +39,9 @@ References:
 [More details](./EqCallable-15.pdf)     
   
    
-[Zenodo callable](https://zenodo.org/record/5759660#.YpPMucPMKUk)
+[Zenodo callable](https://zenodo.org/record/5759660)
    
 [OSF callable](https://osf.io/khrcb/download)
-
-[archive callable](https://ia803403.us.archive.org/32/items/eq-callable-15/EqCallable-archive.pdf)  
 
 [gitbook callable](https://deripricing.gitbook.io/callable-exotic-pricing/)
 

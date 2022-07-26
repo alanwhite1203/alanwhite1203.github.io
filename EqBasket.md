@@ -53,23 +53,13 @@ a=b∙ln(M_2/M_3 ∙d∙exp(1/(2b^2 ))(exp(1/b^2 )-1)(exp(1/b^2 )+2))
 c=M_1-d∙exp(1/(2b^2 )-a/b)
 
 
-
-	After some math, we get the present value of a call basket option as
-
-	〖PV〗_C=(c-K)(1-Φ(b∙ln((K-c)/d)+a))D
-		+d∙exp(-a/b+1/(2b^2 ))(1-Φ(b∙ln((K-c)/d)+a-1/b))D
-	where D is the discount factor.
-
-
-
-
  
  
  References:
  
   [More details](./EqBasket-3.pdf)
   
-  [Zenodo basket](https://zenodo.org/record/5748077#.YpPJ8MPMKUk)
+  [Zenodo basket](https://zenodo.org/record/5748077)
   
   [osf basket](https://osf.io/cjzba/download)
   

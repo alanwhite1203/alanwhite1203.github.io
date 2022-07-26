@@ -9,24 +9,15 @@ If the note is not called prior to the maturity date, the last coupon is paid an
 Callable yield note usually pays a higher coupon or interest rate to investor. However, the event of the call of the note is uncertain to the investor. It is note only linked to the level of a basket of underlying assets, but also to volatility, correlation, dividends, and yield curve.
 
 
-
-
-
-
-
 References:
    
 [More details](./EqYield-23.pdf)   
    
-[Zenodo yield](https://zenodo.org/record/5759793#.YpU2DcPMKUk)
+[Zenodo yield](https://zenodo.org/record/5759793/files/Zenodo-EqYield.pdf)
 
 [OSF yield](https://osf.io/mhktc/download)
 
-[hcommons yield](https://hcommons.org/deposits/download/hc:41296/CONTENT/eqyield-23.pdf)  
-
-[archive yield](https://ia803403.us.archive.org/0/items/eq-yield-23/EqYield-archive.pdf)
-
-[Zenodo chooser cap](https://zenodo.org/record/6561499#.YpDwjKgpDq4)
+[Zenodo chooser cap](https://zenodo.org/record/6561499)
 
 [Gitbook yield](https://davidlee1203.gitbook.io/callable-yield-note/)
 

@@ -12,8 +12,6 @@ The equity-linked bonus coupon notes typically benefit investors who are moderat
 
 Unlike fixed coupon note, bonus coupon note does not have knock out feature and coupon is not flat.
 
-Due to the complexity of the payoff structure, the note is normally priced via Monte Carlo simulation. 
-
 
 
 
@@ -21,7 +19,7 @@ References:
    
 [More details](./EqCoupon-22.pdf)   
    
-[Zenodo coupon](https://zenodo.org/record/5759790#.YpPOw8PMKUk)
+[Zenodo coupon](https://zenodo.org/record/5759790)
    
 [OSF coupon](https://osf.io/x2rf8/download)
 

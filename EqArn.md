@@ -12,22 +12,15 @@ If the value of the underlying assets increases during the contract period, the 
 
 The product is subject to the credit risk of the issuer. Also, unique to this product is a fee structure that accrues based on the level of the underlying asset over the life of the option.
 
-Due to the complexity of the structured note, Monte Carlo simulation is a popular choice for this product. 
-
- 
 
 
 References:
    
 [More details](./EqAccelerate-20.pdf)   
    
-[Zenodo arn](https://zenodo.org/record/4645863#.YpPIzsPMKUk)
+[Zenodo arn](https://zenodo.org/record/4645863)
    
 [OSF arn](https://osf.io/yexkd/download)
-
-[archive arn](https://ia803408.us.archive.org/0/items/eq-accelerate-20/EqAccelerate-archive.pdf)  
-
-[hcommons arn](https://hcommons.org/deposits/download/hc:38846/CONTENT/eqaccelerate-20.pdf)
 
 [gitbook arn](https://davidlee1203.gitbook.io/accelerated-return-note-pricing/)
 

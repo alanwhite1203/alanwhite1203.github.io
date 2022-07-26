@@ -10,21 +10,15 @@ The payoff function can be specified in the form of a put, call or a forward (pu
 
 Rainbow options are appealing to investors due to its natural risk diversification, cost efficiency, and weighted average on the best or worst performing assets. The best version offers higher returns, whereas the worst version is normally cheap.
 
-Due to the complexity of the payoff structure, the option is normally priced via Monte Carlo simulation. 
-
 
 
 References:
    
 [More details](./EqRainbow-24.pdf)   
    
-[Zenodo rainbow](https://zenodo.org/record/5759794#.YpPeR8PMKUk)
+[Zenodo rainbow](https://zenodo.org/record/5759794)
    
 [OSF rainbow](https://osf.io/47zwk/download)
-
-[archive rainbow](https://ia903404.us.archive.org/15/items/eq-rainbow-24/EqRainbow-archive.pdf)  
-
-[hcommons rainbow](https://hcommons.org/deposits/download/hc:41308/CONTENT/eqrainbow-24.pdf)
 
 [gitbook rainbow](https://davidlee1203.gitbook.io/rainbow-option/)
 

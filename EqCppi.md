@@ -11,21 +11,15 @@ As the CPPI strategy is inherently risky and the final payoff is principal-prote
 A notional Portfolio keeps track of any gains or losses from the strategy. Holdings in the notional portfolio are rebalanced on Calculation Dates, according to a predetermined formula. Here Calculation Dates could be beyond Maturity Date due to settlement delay.
 
 A stream of Partial Principal Repayments (PPR) may be paid out of the CPPI structure at PPR Pay Dates over the life of the product. The size of these payments is determined as a fixed percentage of the Fund Account Value (FAV) excluding PPR or a fixed percentage of the Notional on each PPR Valuation Date
-.
-Due to the complexity of the payoff structure, Monte Carlo simulation is the only practical method for this product. 
-
- 
 
 
 References:
    
 [More details](./EqCppi-19.pdf)   
 
-[Zenodo cppi](https://zenodo.org/record/4645827#.YpPaC8PMKUk)
+[Zenodo cppi](https://zenodo.org/record/4645827)
 
 [OSF cppi](https://osf.io/rcf93/download)
-
-[archive cppi](https://ia803406.us.archive.org/32/items/eq-cppi-19/EqCppi-archive.pdf)  
 
 [gitbook cppi](https://deripricing.gitbook.io/cppi-pricing/)
 

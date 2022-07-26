@@ -10,22 +10,15 @@ The Asian Himalaya pays off the average of the lock-in returns at maturity. The 
 
 A Digital Reverse Himalaya option contains a barrier feature. On each observation date, if any stock in the basket falls below the barrier level, a digital coupon is paid. When the barrier is triggered, the worst performing asset is removed from the basket. If the barrier is not triggered, no assets are removed.
 
-Himalaya option is appealing to an investor due to the payoff structure as the option evaluates the maximum return of the best performing asset.
-
-
 
 
 References:
    
 [More details](./EqHimalaya-25.pdf)   
    
-[Zenodo himalaya](https://zenodo.org/record/6480393#.YpPcacPMKUk)
+[Zenodo himalaya](https://zenodo.org/record/6480393)
      
 [OSF himalaya](https://osf.io/3hf9y/download)
-
-[archive himalaya](https://ia803400.us.archive.org/13/items/eq-himalaya-25/EqHimalaya-archive.pdf)  
-
-[hcommons himalaya](https://hcommons.org/deposits/download/hc:41448/CONTENT/eqhimalaya-25.pdf)
 
 [gitbook himalaya](https://davidlee1203.gitbook.io/himalaya-option/)
 

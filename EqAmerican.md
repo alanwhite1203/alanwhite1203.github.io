@@ -23,17 +23,6 @@ r – the continuously compounded risk-free interest rate
 q – the dividend yield
 t – the time in years
 
-	The boundary condition for an American call option is given by
-C(S,T)=max⁡(S-K,0), C(0,t)=0, C(S→∞,t)=S
-	The boundary condition for an American put option is given by
-P(S,T)=max⁡(K-S,0), P(0,t)=S, P(S→∞,t)=0
-where 
-T – the expiry time
-K – the exercise price
-C and P – the  payoffs for the call and put options respectively
-
-
-
 On this grid, the point (i,j) corresponds to time i∆t and stock price j∆Z. Let the value of the option at (i,j) be denoted by f_(i,j). Values for N and M are chosen based on the life of the option and the desired level of accuracy.
 
 The Crank-Nicolson finite difference model replaces the space and time derivatives with finite differences centered at an imaginary time step at (i+1/2). Therefore, we obtain the following formula:
@@ -43,9 +32,7 @@ References:
 
 [More details](./EqAmerican-1.pdf)
 
-[Zenodo American](https://zenodo.org/record/5748070#.YpPJAcPMKUk)
-
-[Archive AO](https://ia803409.us.archive.org/30/items/eq-american-1/EqAmerican-archive.pdf)
+[Zenodo American](https://zenodo.org/record/5748070)
 
 [gitbook AO](https://captim.gitbook.io/eqamerican/)
 

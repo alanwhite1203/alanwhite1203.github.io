@@ -27,16 +27,12 @@ References:
 
 [More details](./EqRangeAccrual-27.pdf)
 
-[Zenodo range accrual](https://zenodo.org/record/6480438#.YpPegcPMKUk)
-
-[archvie range accrual](https://ia903407.us.archive.org/23/items/eq-range-accrual-27/EqRangeAccrual-archive.pdf)
+[Zenodo range accrual](https://zenodo.org/record/6480438/files/Zenodo-EqRangeAccrual.pdf)
 
 [OSF range accrual](https://osf.io/476gc/download)
 
-[hcommons range accrual](https://hcommons.org/deposits/download/hc:41502/CONTENT/eqrangeaccrual-27.pdf)
-
 [gitbook range accrual](https://davidlee1203.gitbook.io/callable-range-accrual-note/)
 
-[Zenodo cms swap](https://zenodo.org/record/6588555#.YpE20qgpDq4)
+[Zenodo cms swap](https://zenodo.org/record/6588555)
 
 [github cms cap](https://github.com/timxiao1203/CMS-Cap)

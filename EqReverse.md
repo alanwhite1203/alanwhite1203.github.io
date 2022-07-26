@@ -11,8 +11,6 @@ Should the structure remain alive up to maturity, the floating coupon receiver r
 A reverse convertible bond is a bond with an embedded put option that allows the issuer to purchase the note back for a predetermined quantity of cash, debt, or stock. The decision to exercise the option is made based on the performance of an underlying asset, index, or basket of assets.
 
 The payoff from a simple reverse convertible is defined with respect to the put option strike price and knock‐in barrier level. At maturity, if the return realized on the underlying asset is above the strike, the holder receives the principal. If the underlying asset return is below the strike, the payoff is determined by the status of the barrier – if the barrier was not breached during the monitoring period, the holder receives the principal. However, if a breach did occur, the bond is converted to cash or shares according to the terms defined at inception.
-
-Prior to maturity, the bond can provide regular coupon payments. Depending on the deal terms, these payments may or may not continue once a barrier breach occurs.
 .
 
 
@@ -20,14 +18,12 @@ References:
    
 [More details](./EqReverse-18.pdf)   
    
-[Zenodo reverse](https://zenodo.org/record/6480239#.YpPeysPMKUk)
+[Zenodo reverse](https://zenodo.org/record/6480239/files/Zenodo-EqReverse.pdf)
    
 [OSF reverse](https://osf.io/y6r57/download)
 
-[archive reverse](https://ia803407.us.archive.org/2/items/eq-reverse-18/EqReverse-archive.pdf)  
-
 [gitbook reverse](https://deripricing.gitbook.io/reverse-convertible-autocallable-swap/)
 
-[Zenodo xccy swaption](https://zenodo.org/record/6588375#.YpEh86gpDq4)
+[Zenodo xccy swaption](https://zenodo.org/record/6588375)
 
 [github hw vol](https://github.com/timxiao1203/HullWhiteVolatilityCalibration)

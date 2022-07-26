@@ -18,7 +18,7 @@ Equity swaps allow parties to potentially benefit from returns of an equity secu
 	The price of the swap is the difference between the present values of both legs' cash flows. In other words, the present value of swap is net of present value of "equity leg" and "money market leg".
 
 The present value of an equity leg is given by
-〖PV〗_equity (t)=N∑_(i=1)^n▒〖[(S_i-S_(i-1))/S_(i-1) ] D_i 〗
+〖PV〗_equity (t)=N∑_(i=1)〖[(S_i-S_(i-1))/S_(i-1) ] D_i 〗
 where
 	t   –  the valuation date
 	N  – the notational principal amount
@@ -26,12 +26,12 @@ where
 	D_i=D(t,T_i)  –  the discount factor
 S_i=[S-〖PV〗_i (D)] e^(r_i (T_i-t) )   - the equity forward price
 	S – the equity spot price at valuation date
-	〖PV〗_i (D)=∑_(t<τ<T_i)▒〖d_τ e^(-r_τ (τ-t) ) 〗   - the present value of all dividends between t and T_i
+	〖PV〗_i (D)=∑_(t<τ<T_i)〖d_τ e^(-r_τ (τ-t) ) 〗   - the present value of all dividends between t and T_i
 	d_τ – the discrete dividend paid at τ where t ≤ τ ≤ T
 	r_i – the continuously compounded interest rate from t to T_i
 
 The present value of a floating interest rate leg can expressed as
-〖PV〗_floating (t)=N∑_(i=1)^m▒〖(F_i+s)τ_i D_i 〗
+〖PV〗_floating (t)=N∑_(i=1)〖(F_i+s)τ_i D_i 〗
 where
 	t   –  the valuation date
 	N  – the notational principal amount
@@ -54,21 +54,13 @@ References:
    
 [More details](./EqSwap-7.pdf)
    
-[Check](https://finpricing.com/lib/EqSwap.html)
-   
-[Zenodo swap](https://zenodo.org/record/3948310#.YpPf_sPMKUk)
-   
-[hcommons swap](https://hcommons.org/deposits/download/hc:38334/CONTENT/eqswap-7.pdf)
-
-[archive swap](https://ia803401.us.archive.org/32/items/eq-swap-7/EqSwap-archive.pdf)
+[Zenodo swap](https://zenodo.org/record/3948310)
 
 [OSF swap](https://osf.io/72693/download)
 
 [gitbook swap](https://deripricing.gitbook.io/total-return-swap-valuation/)
 
-[Zenodo double cms](https://zenodo.org/record/6578517#.YpDwuqgpDq4)
-
-[FlipHtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNxgDN5ITPkl0av9mY)
+[Zenodo double cms](https://zenodo.org/record/6578517)
 
 [github Asset backed](https://github.com/timxiao1203/AssetBackedNote)
 

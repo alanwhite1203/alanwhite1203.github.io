@@ -16,10 +16,6 @@ The risk sensitivities, especially Gamma, may be unstable when at the money or n
 
 Binary options can be valued using the Black-Scholes models. The PV is calculated as the product of fixed payment times call price (c) or put price (p) where:
 
-Cash-or-nothing:
-
-Asset-or-nothing:
-
 The risk sensitivities, especially Gamma, is very unstable under the Black-Scholes. Therefore, the better solution is to represent a binary option as a tight option spread.
 
 
@@ -28,13 +24,9 @@ References:
    
 [More details](./EqBinary-13.pdf)     
  
-   
-[Zenodo binary](https://zenodo.org/record/6478717#.YpPKSMPMKUk)
+[Zenodo binary](https://zenodo.org/record/6478717/files/Zenodo-digital.pdf)
 
-   
 [OSF binary](https://osf.io/e9u46/download)
-
-[hcommons binary](https://hcommons.org/deposits/download/hc:38452/CONTENT/eqbinary-13.pdf)
 
 [gitbook binary](https://deripricing.gitbook.io/binary-option-valuation/)
 

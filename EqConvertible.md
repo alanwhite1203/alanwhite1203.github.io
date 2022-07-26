@@ -63,26 +63,12 @@ C denotes the coupon
 	The final conditions tell us that the convertible bond at the maturity is either a debt or an equity.
 
 
-The upside constraints at time   are
-
-
-{■(■(G=ηS,   B=0        if  ηS_T>min[P_c,max(P_p,L ̃ )]@G=0,   B=P_p                                     else if    L ̃≤P_p )@■(G=0,   B=P_c                                      else if    L ̃≥P_c  @G=G ̃,   B=B ̃                                                          else))┤
-
-where 
-L ̃=B ̃+G ̃ is the continuation value of the convertible bond 
-B ̃ is the continuation value of the bond component
-G ̃ is the continuation value of the equity component.
-
-
-
 
 References:
   
 [More details](./EqConvertible-4.pdf)
 
-[Zenodo convertible](https://zenodo.org/record/3945092#.YpPNY8PMKUk)
-
-[archive convertible](https://ia803402.us.archive.org/6/items/eq-convertible-4/EqConvertible-archive.pdf)
+[Zenodo convertible](https://zenodo.org/record/3945092)
 
 [gitbook pdf](https://captim.gitbook.io/eqconvertible/)
 

@@ -32,10 +32,6 @@ Differently from Equity Forward, an Equity Futures contract traded over the orga
 •	A pricing model is mainly used to calculate risk for a future contract,  although it is utilized for computing both price and risk for a forward.
 •	The theoretical value of a future/forward depends on the dividend model assumption.
 •	There are two types of dividends: dividend yield (continuous dividend) or discrete dividend.
-•	The pricing methodology for Equity Forward/Future is straightforward as following:
-                                                        F=Se(r-q)(T-t)
-where F is the forward price, S is the spot price, r is the interest rate, q is dividend yield, and (T-t) is time to maturity.
-
 
 
 
@@ -43,11 +39,9 @@ References:
    
 [More details](./EqFuture-5.pdf)
    
-[Zenodo futures](https://zenodo.org/record/6480510#.YpPb6MPMKUk)
+[Zenodo futures](https://zenodo.org/record/6480510/files/Zenodo-EqFuture.pdf)
 
 [OSF futures](https://osf.io/t5vnp/download)
-
-[archive futures](https://ia903405.us.archive.org/8/items/eq-future-5/EqFuture-archive.pdf)
 
 [gitbook futures](https://deripricing.gitbook.io/equity-futures-and-forwards-pricing/)
 

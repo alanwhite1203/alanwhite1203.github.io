@@ -18,20 +18,15 @@ Shareholders usually prefer ASR programs as the company generates higher returns
 
 Other features can be added that make the option more/less valuable including a collar where instead of explicitly specifying the number of shares to buy, the notional is fixed and the number of shares bought is based on this notional divided by the average share price over the variable time window with the constraint that a minimum /maximum number of shares will be bought. Also, if the closing daily VWAP goes outside a specified range, it may be excluded in the calculation of the average. There can also be a cap or floor on the overall average.
 
-ASRs embed Bermudan style optionality. They can be priced via either PDE or Monte Carlo.
-
-
 
 
 References:
    
 [More details](./EqAsr-21.pdf)   
    
-[Zenodo asr](https://zenodo.org/record/6480292#.YpPIRMPMKUk)
+[Zenodo asr](https://zenodo.org/record/6480292/files/Zenodo-EqAsr.pdf)
    
 [OSF asr](https://osf.io/vbhpd/download)
-
-[archive asr](https://ia903407.us.archive.org/30/items/eq-asr-21/EqAsr-archive.pdf)  
 
 [gitbook asr](https://davidlee1203.gitbook.io/pricing-accelerated-share-repurchase/)
 

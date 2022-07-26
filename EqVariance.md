@@ -20,11 +20,11 @@ References:
    
 [More details](./EqVariance-9.pdf)     
    
-[Zenodo variance](https://zenodo.org/record/4605794#.YpPhOMPMKUk)
+[Zenodo variance](https://zenodo.org/record/4605794)
    
 [OSF warrant](https://osf.io/wgmq5/download)
 
-[Zenodo arrear fra](https://zenodo.org/record/6578408#.YpDwq6gpDq4)
+[Zenodo arrear fra](https://zenodo.org/record/6578408)
 
 [Gitbook variance](https://deripricing.gitbook.io/variance-swap-pricing/)
 

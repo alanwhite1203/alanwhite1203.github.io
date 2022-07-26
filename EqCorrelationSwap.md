@@ -19,22 +19,16 @@ theoretically clear how that is possible. From a practical point a view it may a
 satisfactory. To account for the theoretical inaccuracies the model needs reserves.
 The generic bid/ask reserve will take care of the future correlation part.
 
-We focus here on the historical correlation part, which, if the role of Alpha were to be recognized,
-is not quite “historical”. To set up a reserve for this part we need lower and upper bounds for Alpha.
 
 
 References:
    
 [More details](./EqCorrelationSwap-26.pdf)   
    
-[Zenodo correlation swap](https://zenodo.org/record/6480430#.YpPNrsPMKUk)
+[Zenodo correlation swap](https://zenodo.org/record/6480430/files/Zenodo-EqCorrelationSwap.pdf)
    
 [OSF correlation swap](https://osf.io/uwy25/download)
 
-[archive correlation swap](https://ia803401.us.archive.org/11/items/eq-correlation-swap-26/EqCorrelationSwap-archive.pdf)  
-
 [gitbook correlation swap](https://davidlee1203.gitbook.io/correlation-swap/)
-
-[Hcommons correlation](https://hcommons.org/deposits/download/hc:41486/CONTENT/eqcorrelationswap-26.pdf)
 
 [github mvf swap](https://github.com/timxiao1203/MVF-Swap)

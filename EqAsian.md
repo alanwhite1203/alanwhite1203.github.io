@@ -47,33 +47,15 @@ where
 Savg 	the average asset price of period T2 (future period)
 S ̅	the spent average asset price of period T1 (realized period)
 
-This is the same as
-T_2/(T_1+T_2 ) max(S_avg-K^*,0)
-where
-K^*=T_2/(T_1+T_2 ) K-T_1/T_2  S ̅
-
-	When K* > 0, the option can be valued in the same way as a newly issued Asian option provided that we change the strike price from K to K* and multiply the result by t_2/(t_1+t_2) 
-
-〖PV〗_C=T_2/(T_1+T_2 ) (M_1 N(d_1 )-K^* N(d_2))D
-〖PV〗_P=T_2/(T_1+T_2 ) (K^* N(〖-d〗_2 )-M_1 N(〖-d〗_1 ))D
-
-	When K* < 0 the option is certain to be exercised and can be valued as a forward contract. The value is
-
-〖PV〗_C=T_2/(T_1+T_2 ) (M_1-K^* )D
-〖PV〗_P=T_2/(T_1+T_2 ) (K^*-M_1 )D
-
-
 
 
 References:
  
 [More details](./EqAsian-2.pdf)
 
-[Zenodo Asian](https://zenodo.org/record/5748073#.YpPIjsPMKUk)
+[Zenodo Asian](https://zenodo.org/record/5748073)
 
 [OSF Basket](https://osf.io/cjzba/download)
- 
-[archive Asian](https://ia601807.us.archive.org/20/items/eq-asian-2/EqAsian-Archive.pdf)
  
 [gitbook Asian](https://captim.gitbook.io/eqasian/)
 

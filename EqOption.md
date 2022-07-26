@@ -33,7 +33,6 @@ t   –  the valuation date
 T – the maturity date
 K – the strike
 S_T=[S-PV(D)] e^(r_T (T-t) )  – the equity forward price at T
-	PV(D)=∑_(t<τ<T)▒〖d_τ e^(-r_τ (τ-t) ) 〗   - the present value of all dividends between t and T
 	d_τ – the discrete dividend paid at τ where t ≤ τ ≤ T
 S  - the equity spot price at t
 N – the notational principal amount
@@ -44,7 +43,6 @@ The present value of a put option is given by
 PV(t)=N[KΦ(-d_2 )-S_T Φ(〖-d〗_1 )] D_T   
 where all notations are the same as above
 
-The put-call parity
 The put-call parity defines a relationship between the price of a European call option and European put option with the identical strike and expiry
 C – P = S – D*K
 where C – the present value of a call option; P – the present value of a put option; S –the spot stock price; K – the strike; D – the discount factor.
@@ -55,15 +53,11 @@ References:
 
 [More details](./EqOption-6.pdf) 
    
-[Zenodo option](https://zenodo.org/record/3948304#.YpPda8PMKUk)
-
-[archive option](https://ia903400.us.archive.org/27/items/eq-option-6/EqOption-archive.pdf)
+[Zenodo option](https://zenodo.org/record/3948304#)
 
 [OSF option](https://osf.io/86t9p/download)
 
 [gitbook option](https://deripricing.gitbook.io/stock-option-product-and-valuation/)
-
-[FlipHtml5 option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNxgDN5ITPkl0av9mY)
 
 [Github convertible hw](https://github.com/timxiao1203/ConvertibleHullWhite)
 

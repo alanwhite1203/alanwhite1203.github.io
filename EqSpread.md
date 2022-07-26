@@ -12,8 +12,6 @@ the payoff occurs.
 
 The use of spread options is widespread for hedge, speculation, and basis risk mitigation. Spread options allow investors to simultaneously take positions in two assets and profit from their price 
 difference.
-
-Spread options are mainly traded in equity, currency, and fixed income markets. 
  
 
 
@@ -22,14 +20,12 @@ References:
 [More details](./EqSpread-16.pdf)   
  
    
-[Zenodo spread](https://zenodo.org/record/5759678#.YpPfDcPMKUk)
+[Zenodo spread](https://zenodo.org/record/5759678)
 
 [OSF spread](https://osf.io/4kcrh/download)
 
-[archive spread](https://ia803404.us.archive.org/12/items/eq-spread-16/EqSpread-archive.pdf)  
-
 [gitbook spread](https://deripricing.gitbook.io/spread-option-pricing/)
 
-[Zenodo closeout](https://zenodo.org/record/6585388#.YpDwxagpDq4)
+[Zenodo closeout](https://zenodo.org/record/6585388)
 
 [github ratchet](https://github.com/timxiao1203/Ratchet-Swap-)

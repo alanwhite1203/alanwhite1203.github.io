@@ -15,7 +15,7 @@ References:
    
 [More details](./EqLookback-10.pdf)     
    
-[Zenodo lookback](https://zenodo.org/record/5759630#.YpPdHcPMKUk)
+[Zenodo lookback](https://zenodo.org/record/5759630)
    
 [OSF lookback](https://osf.io/my7zq/download)
 

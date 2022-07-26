@@ -40,13 +40,13 @@ References:
    
 [More details](./EqWarrant-8.pdf)     
    
-[Zenodo warrant](https://zenodo.org/record/6478663#.YpPhgMPMKUk)
+[Zenodo warrant](https://zenodo.org/record/6478663/files/Zenodo-EqWarrant.pdf)
  
 [OSF warrant](https://osf.io/54xj6/download)
 
 [gitbook warrant](https://deripricing.gitbook.io/warrant-valuation/)
 
-[Zenodo cms cliquet](https://zenodo.org/record/6561892#.YpDwnqgpDq4)
+[Zenodo cms cliquet](https://zenodo.org/record/6561892)
 
 [Github GIC](https://github.com/timxiao1203/GicPricing)
 
