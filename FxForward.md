@@ -21,7 +21,7 @@ QuoteCurrencyAmount = FxRate * BaseCurrencyAmount
 Given spot rate X_s , spot date T_s and forward date T, the FX forward rate can be represented as
 
 
-{■(X_f=X_s  (D_b (T_s,T))/(D_q (T_s,T))                 if  T≥T_s@X_f=X_s  (D_q (T,T_s))/(D_b (T,T_s))                 if  T<T_s )┤
+{(X_f=X_s  (D_b (T_s,T))/(D_q (T_s,T))                 if  T≥T_s@X_f=X_s  (D_q (T,T_s))/(D_b (T,T_s))                 if  T<T_s )┤
 where
 	X_s  	the spot FX rate quoted as base/quote
 	t 	the valuation date
@@ -53,10 +53,8 @@ References:
  
 [Zenodo fx forward](https://zenodo.org/record/5768221/files/Zenodo-FxForward.pdf)
  
-[archive Asian](https://ia903403.us.archive.org/16/items/fx-forward-19/FxForward-archive.pdf)
- 
 [OSF forward](https://osf.io/ez6an/download)
 
-[Zenodo principal](https://zenodo.org/record/6539656#.YpDuMqgpDq4)
+[Zenodo principal](https://zenodo.org/record/6539656)
 
 [gith barrier](https://github.com/cfrm17/HedgeFundBarrierOption)

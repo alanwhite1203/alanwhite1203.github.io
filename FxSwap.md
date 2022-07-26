@@ -18,7 +18,7 @@ Currency swaps are OTC trades and have credit risk. In the case that one of the 
 Given spot rate X_s , spot date T_s and forward date T, the FX forward rate can be represented as
 
 
-{■(X_f=X_s  (D_b (T_s,T))/(D_q (T_s,T))                 if  T≥T_s@X_f=X_s  (D_q (T,T_s))/(D_b (T,T_s))                 if  T<T_s )┤
+{(X_f=X_s  (D_b (T_s,T))/(D_q (T_s,T))                 if  T≥T_s@X_f=X_s  (D_q (T,T_s))/(D_b (T,T_s))                 if  T<T_s )┤
 where
 	X_s  	the spot FX rate quoted as base/quote
 	t 	the valuation date
@@ -56,11 +56,9 @@ References:
    
 [Zenodo fx swap](https://zenodo.org/record/6491270/files/Zenodo-FxSwap.pdf)
    
-[archive fx swap](https://ia804500.us.archive.org/24/items/fx-swap-23/FxSwap-archive.pdf)
-   
 [OSF swap](https://osf.io/vuyzn/download)
 
-[Zenodo barrier](https://zenodo.org/record/6539852#.YpDum6gpDq4)
+[Zenodo barrier](https://zenodo.org/record/6539852)
 
 [github trust](https://github.com/cfrm17/TrustSwap)
 

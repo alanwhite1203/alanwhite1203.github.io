@@ -76,17 +76,11 @@ References:
   
 [More details](./FxOption-22.pdf)
   
-[Check](https://finpricing.com/lib/FxOption.html)
-  
-[FlipHtml5 fx option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjMwATN5ITPkl0av9mY)
-  
 [Zenodo fx option](https://zenodo.org/record/5768242/files/Zenodo-FxOption.pdf)
-  
-[archive fx option](https://ia803400.us.archive.org/15/items/fx-option-22/FxOption-archive.pdf)
   
 [OSF option](https://osf.io/xfjpz/download)
 
-[Zenodo VaR](https://zenodo.org/record/6539777#.YpDue6gpDq4)
+[Zenodo VaR](https://zenodo.org/record/6539777)
 
 [github index](https://github.com/cfrm17/HedgeFundIndex)
 

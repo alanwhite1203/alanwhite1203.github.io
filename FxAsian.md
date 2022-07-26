@@ -18,16 +18,16 @@ Options give market participants many opportunities to limit risk and increase p
 	However, the distribution of arithmetic average can be approximated to be lognormal by moment matching technical, which leads to a good analytic approximation for valuing average price options. 
 	One calculates the first three moments of the probability distribution of the arithmetic average in a risk-neutral world exactly and then fit a lognormal distribution to the moments.
 
-M_1=∑_(i=0)^(n-1)▒β_i 
-M_2=∑_(i=0)^(n-1)▒〖β_i e_i (2∑_(j=i)^(n-1)▒β_j -β_i ) 〗
-M_3=∑_(i=0)^(n-1)▒〖β_i e_i^2 (β_(i )^2 e_i-3β_i e_i ∑_(j=i)^(n-1)▒β_j -3∑_(j=i)^(n-1)▒〖β_j^2 e_j+6∑_(j=i)^(n-1)▒〖β_j e_j ∑_(k=j)^(n-1)▒β_k 〗〗) 〗
+M_1=∑_(i=0)^(n-1)β_i 
+M_2=∑_(i=0)^(n-1)〖β_i e_i (2∑_(j=i)^(n-1)β_j -β_i ) 〗
+M_3=∑_(i=0)^(n-1)〖β_i e_i^2 (β_(i )^2 e_i-3β_i e_i ∑_(j=i)^(n-1)β_j -3∑_(j=i)^(n-1)〖β_j^2 e_j+6∑_(j=i)^(n-1)〖β_j e_j ∑_(k=j)^(n-1)β_k 〗〗) 〗
 where
 	n	the number of fixing points still available
 	t_i	the i-th fixing time
 	Fi	the forward rate at time t_i
 	αI	the weight of Fi
 	β_i=α_i F_i
-	v_i	the effective volatility at time t_i where v_i^2 t_i=∫_0^(t_i)▒〖σ^2 (s)ds〗
+	v_i	the effective volatility at time t_i where v_i^2 t_i=∫_0^(t_i)〖σ^2 (s)ds〗
 	e_i=exp⁡(v_i^2 t_i)
 	
 
@@ -66,13 +66,11 @@ References:
 	
 [More details](./FxAsian-18.pdf)
 
-[Zenodo fx Asian](https://zenodo.org/record/6484837#.YpaXkcPMKUk)
-
-[archive Asian](https://ia803406.us.archive.org/6/items/fx-asian-18/FxAsian-archive.pdf)
+[Zenodo fx Asian](https://zenodo.org/record/6484837/files/Zenodo-FxAsian.pdf)
 
 [OSF Asian](https://osf.io/g73qw/download)
 
-[Zenodo exposure](https://zenodo.org/record/6539344#.YpDtxagpDq4)
+[Zenodo exposure](https://zenodo.org/record/6539344)
 
 [github var](https://github.com/cfrm17/HedgeFundVaR)
 

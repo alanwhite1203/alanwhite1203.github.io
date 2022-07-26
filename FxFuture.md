@@ -12,7 +12,7 @@ Future contracts are traded in an exchange and thus have no credit risk. By lock
 Given spot rate X_s , spot date T_s and forward date T, the FX forward rate can be represented as
 
 
-{■(X_f=X_s  (D_b (T_s,T))/(D_q (T_s,T))                 if  T≥T_s@X_f=X_s  (D_q (T,T_s))/(D_b (T,T_s))                 if  T<T_s )┤
+{(X_f=X_s  (D_b (T_s,T))/(D_q (T_s,T))                 if  T≥T_s@X_f=X_s  (D_q (T,T_s))/(D_b (T,T_s))                 if  T<T_s )┤
 where
 	X_s  	the spot FX rate quoted as base/quote
 	t 	the valuation date
@@ -47,10 +47,8 @@ References:
   
 [Zenodo fx futures](https://zenodo.org/record/5768241/files/Zenodo-FxFuture.pdf)
   
-[archive fx futures](https://ia803403.us.archive.org/10/items/fx-future-21/FxFuture-archive.pdf)
-  
 [OSF futures](https://osf.io/rqd6v/download)
 
-[Zenodo collateralized](https://zenodo.org/record/6539697#.YpDuTKgpDq4)
+[Zenodo collateralized](https://zenodo.org/record/6539697)
 
 [github mortgage](https://github.com/cfrm17/AdjustableRateMortgages)

@@ -60,11 +60,9 @@ References:
    
 [Zenodo touch](https://zenodo.org/record/6491587/files/Zenodo-FxTouch.pdf)
    
-[archive touch](https://ia803408.us.archive.org/9/items/fx-touch-24/FxTouch-archive.pdf)
-   
 [OSF touch](https://osf.io/6m5jx/download)
 
-[Zenodo adjusted](https://zenodo.org/record/6539925#.YpDurqgpDq4)
+[Zenodo adjusted](https://zenodo.org/record/6539925)
 
 [github hedge](https://github.com/cfrm17/AssetsHedge)
    
