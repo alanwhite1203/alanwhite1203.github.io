@@ -7,7 +7,7 @@ An amortizing bond is used specifically for tax purposes as the amortized princi
 
 	The analytics are similar to a fixed rate bond except the principal amount used for each period may be different. 
 	The present value of an amortizing bond or accreting bond is given by
-V(t)=∑_(i=1)^n▒〖cP_i e^(-(r_i+s) T_i )+P_n e^(-(r^n+s) T_n ) 〗
+V(t)=∑_(i=1)^n〖cP_i e^(-(r_i+s) T_i )+P_n e^(-(r^n+s) T_n ) 〗
 where
 	t – valuation date
 i – ith cash flow from 1 to n
@@ -32,15 +32,11 @@ References:
 
 [More details](./FiAmortizingBond-9.pdf)
 
-[FlipHtml5 amortizing bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN1gDM5ITPkl0av9mY)
-
-[Zenodo amortizing bond](https://zenodo.org/record/6484737#.YpU2dsPMKUk)
-
-[archive amortizing bond](https://ia803403.us.archive.org/28/items/fi-amortizing-bond-9/FiAmortizingBond-archive.pdf)
+[Zenodo amortizing bond](https://zenodo.org/record/6484737/files/Zenodo-FiAmortizingBond.pdf)
 
 [OSF amortizing bond](https://osf.io/qrc8n/download)
 
-[Zenodo digital](https://zenodo.org/record/6549248#.YpDvyKgpDq4)
+[Zenodo digital](https://zenodo.org/record/6549248)
 
 [Gitbook amortizing bond](https://davidlee1203.gitbook.io/amortizing-bond/)
 

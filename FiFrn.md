@@ -22,15 +22,11 @@ References:
 
 [More details](./FiFrn-14.pdf)
 
-[FlipHtml5 frn](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkzM1ITM5ITPkl0av9mY)
-
-[Zenodo frn](https://zenodo.org/record/5765104#.YpU4QsPMKUk)
-
-[archive frn](https://ia903406.us.archive.org/13/items/fi-frn-14/FiFrn-archive.pdf)
+[Zenodo frn](https://zenodo.org/record/5765104)
 
 [OSF frn](https://osf.io/yrbnh/download)
 
-[Zenodo capped frn](https://zenodo.org/record/6558277#.YpDwUqgpDq4)
+[Zenodo capped frn](https://zenodo.org/record/6558277)
 
 [Gitbook frn](https://cmrm11.gitbook.io/floating-rate-note/)
 

@@ -15,13 +15,11 @@ References:
 
 [More details](./FiInflationBond-15.pdf)
 
-[Zenodo inflation](https://zenodo.org/record/6484024#.YpU4jcPMKUk)
-
-[archive inflation](https://ia903408.us.archive.org/33/items/fi-inflation-bond-15/FiInflationBond-archive.pdf)
+[Zenodo inflation](https://zenodo.org/record/6484024/files/Zenodo-FiInflationBond.pdf)
 
 [OSF inflation](https://osf.io/f2qm9/download)
 
-[Zenodo caption](https://zenodo.org/record/6561073#.YpDwZagpDq4)
+[Zenodo caption](https://zenodo.org/record/6561073)
 
 [Gitbook inflation bond](https://cmrm11.gitbook.io/inflation-indexed-bond/)
 

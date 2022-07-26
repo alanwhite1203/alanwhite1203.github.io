@@ -21,7 +21,7 @@ delivered bond (CTD) at t
 T	the option maturity date
 D_T	the discount factor
    	the conversion factor for a bond to deliver in a bond futures contract
-	C_Σ=∑_(t_i≤T)▒〖Cexp(-r_i t_i)〗	the present value sum of all coupons of the 
+	C_Σ=∑_(t_i≤T)〖Cexp(-r_i t_i)〗	the present value sum of all coupons of the 
 underlying bond between t and T
 	A	the accrual interest before T.
 P	the bond dirty price at t
@@ -30,9 +30,9 @@ P	the bond dirty price at t
 	 	forward yield volatility of the CTD bond of the underlying futures. We use 
 the swaption volatility
 	 	implied volatility scaling factor
-	y	the forward yield that can be solved by P-C_Σ=∑_(T≤t_i≤T_B)▒〖Ce^(-yt_i ) 〗
+	y	the forward yield that can be solved by P-C_Σ=∑_(T≤t_i≤T_B)〖Ce^(-yt_i ) 〗
 	T_B	the maturity of the underlying CTD bond
-D=(∑_(T≤t_i≤T_B)▒〖t_i Ce^(-yt_i ) 〗)/(∑_(T≤t_i≤T_B)▒〖Ce^(-yt_i ) 〗) 	the forward modified duration of the CTD bond of the 
+D=(∑_(T≤t_i≤T_B)〖t_i Ce^(-yt_i ) 〗)/(∑_(T≤t_i≤T_B)〖Ce^(-yt_i ) 〗) 	the forward modified duration of the CTD bond of the 
 underlying futures 
 
 
@@ -64,13 +64,11 @@ References:
 
 [More details](./FiBondFutureOption-12.pdf)
 
-[Zenodo bond future option](https://zenodo.org/record/5765015#.YpU3psPMKUk)
-
-[archive bond future option](https://ia803407.us.archive.org/11/items/fi-bond-future-option-12/FiBondFutureOption-archive.pdf)
+[Zenodo bond future option](https://zenodo.org/record/5765015)
 
 [OSF bond future option](https://osf.io/d2xaj/download)
 
-[Zenodo arrear cap](https://zenodo.org/record/6551437#.YpDwOKgpDq4)
+[Zenodo arrear cap](https://zenodo.org/record/6551437)
 
 [Gitbook bond future option](https://cmrm11.gitbook.io/bond-future-option/)
 

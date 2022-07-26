@@ -29,11 +29,7 @@ References:
 
 [More details](./FiZeroBond-17.pdf)
 
-[FlipHtml5 zero bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDM3QjM5ITPkl0av9mY)
-
-[Zenodo zero bond](https://zenodo.org/record/5765447#.YpU5mMPMKUk)
-
-[archive zero bond](https://ia903403.us.archive.org/28/items/fi-zero-bond-17/FiZeroBond-archive.pdf)
+[Zenodo zero bond](https://zenodo.org/record/5765447)
 
 [OSF zero bond](https://osf.io/d59wu/download)
 

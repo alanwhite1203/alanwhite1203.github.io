@@ -7,7 +7,7 @@ For issuers, callable bonds allow them to reduce interest costs at a future date
 	At the bond maturity T, the payoff of a callable bond is given by
 
 
-V_c (T)={■(F+C                 if not called@〖min⁡(P〗_c,F+C)        if called)┤
+V_c (T)={(F+C                 if not called@〖min⁡(P〗_c,F+C)        if called)┤
 where 
 F – the principal or face value; 
 C – the coupon; 
@@ -19,7 +19,7 @@ min (x, y) – the minimum of x and y
 
  (3)
 
-V_c (T_i )={■(¯V_(T_i )                                  if not called@min⁡(P_c,¯V_(T_i ) )                        if called)┤
+V_c (T_i )={(¯V_(T_i )                                  if not called@min⁡(P_c,¯V_(T_i ) )                        if called)┤
 where 	
 ¯V_(T_i ) – continuation value at T_i
 P_c – the call price; 
@@ -61,11 +61,9 @@ References:
 
 [More details](./FiCallableBond-13.pdf)
 
-[Zenodo callable](https://zenodo.org/record/5765076#.YpU3-sPMKUk)
+[Zenodo callable](https://zenodo.org/record/5765076)
 
-[archive callable](https://ia903407.us.archive.org/20/items/fi-callable-bond-13/FiCallableBond-archive.pdf)
-
-[Zenodo bma swap](https://zenodo.org/record/6558053#.YpDwC6gpDq4)
+[Zenodo bma swap](https://zenodo.org/record/6558053)
 
 [OSF callable](https://osf.io/qkbfn/download)
 

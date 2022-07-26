@@ -7,7 +7,7 @@ Although a puttable bond is a higher cost to the investor and an uncertainty to 
 	At the bond maturity T, the payoff of a puttable bond is given by
 
 
-V_p (T)={■(F+C                    if not ptted@〖max⁡(P〗_p,F+C)        if putted)┤
+V_p (T)={(F+C                    if not ptted@〖max⁡(P〗_p,F+C)        if putted)┤
 where 
 F – the principal or face value; 
 C – the coupon; 
@@ -18,7 +18,7 @@ T -  the maturity date;
 
 	The payoff of the puttable bond at any call date T_i can be expressed as
 
-V_p (T_i )={■(¯V_(T_i )                                  if not putted@max⁡(P_p,¯V_(T_i ) )                        if putted)┤
+V_p (T_i )={(¯V_(T_i )                                  if not putted@max⁡(P_p,¯V_(T_i ) )                        if putted)┤
 where 	
 ¯V_(T_i ) – continuation value at T_i
 P_p – the put price; 
@@ -47,15 +47,13 @@ References:
 
 [More details](./FiPuttableBond-16.pdf)
 
-[Zenodo puttable](https://zenodo.org/record/6484069#.YpU428PMKUk)
-
-[archive puttable](https://ia803402.us.archive.org/22/items/fi-puttable-bond-16/FiPuttableBond-archive.pdf)
+[Zenodo puttable](https://zenodo.org/record/6484069/files/Zenodo-FiPuttableBond.pdf)
 
 [gitbook putable](https://cmrm11.gitbook.io/puttable-bond/)
 
 [OSF puttable](https://osf.io/veqj3/download)
 
-[Zenodo chooser](https://zenodo.org/record/6546805#.YpDu9KgpDq4)
+[Zenodo chooser](https://zenodo.org/record/6546805)
 
 [github principal](https://github.com/cfrm17/PrincipalNote-)
 

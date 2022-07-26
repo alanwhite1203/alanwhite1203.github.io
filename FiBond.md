@@ -11,7 +11,7 @@ A fixed rate bond is a debt instrument in which an investor loans money to the i
 
 	There are two types of bond valuation models in the market: yield-to-maturity model and credit spread model.
 	The present value of a bond under the yield-to-maturity model is given by
-V(t)=∑_(i=1)^n▒〖cP/(1+y)^i +P/(1+y)^n 〗
+V(t)=∑_(i=1)^n〖cP/(1+y)^i +P/(1+y)^n 〗
 where
 	t – the valuation date
 P – the principal amount or face value
@@ -21,7 +21,7 @@ i – the ith cash flow or coupon from 1 to n
 
 	Valuation: Credit Spread Approach
 	The present value of a fixed rate bond under the credit spread model can be expressed as
-V(t)=∑_(i=1)^n▒〖cPe^(-(r_i+s) T_i )+Pe^(-(r^n+s) T_n ) 〗
+V(t)=∑_(i=1)^n〖cPe^(-(r_i+s) T_i )+Pe^(-(r^n+s) T_n ) 〗
 where
 	t – the valuation date
 i – the ith cash flow from 1 to n
@@ -38,13 +38,7 @@ References:
  
 [More details](./FiBond-10.pdf)
  
-[Check](https://finpricing.com/lib/FiBond.html)  
- 
-[FlipHtml5 bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM0cjNyETPkl0av9mY)
- 
-[Zenodo bond](https://zenodo.org/record/5764984#.YpU2zMPMKUk)
- 
-[archive bond](https://ia903400.us.archive.org/5/items/fi-bond-10/FiBond-archive.pdf)
+[Zenodo bond](https://zenodo.org/record/5764984)
  
 [OSF bond](https://osf.io/gtcma/download)
 

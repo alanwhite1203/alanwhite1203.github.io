@@ -23,7 +23,7 @@ P	the bond dirty price at t
 T	the future maturity date
    	the conversion factor for a bond to deliver in a bond futures contract
 	       r_T		the continuously compounded interest rate between t and T
-		       C_Σ=∑_(t_i≤T)▒〖Cexp(-r_i t_i)〗		the present value sum of all coupons of the 
+		       C_Σ=∑_(t_i≤T)〖Cexp(-r_i t_i)〗		the present value sum of all coupons of the 
 underlying bond between t and T
 	       A		the accrual interest before T.
 
@@ -47,13 +47,11 @@ References:
 
 [More details](./FiBondFuture-11.pdf)
 
-[Zenodo futures](https://zenodo.org/record/6480530#.YpU3K8PMKUk)
-
-[archive futures](https://ia803404.us.archive.org/29/items/fi-bond-future-11/FiBondFuture-archive.pdf)
+[Zenodo bond futures](https://zenodo.org/record/6480530/files/Zenodo-FiBondFuture.pdf)
 
 [OSF futures](https://osf.io/2vzq8/download)
 
-[Zenodo knockout](https://zenodo.org/record/6551223#.YpDv2agpDq4)
+[Zenodo knockout](https://zenodo.org/record/6551223)
 
 [Gitbook bond futures](https://cmrm11.gitbook.io/bond-futures/)
 
