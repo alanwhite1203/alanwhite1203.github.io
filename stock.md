@@ -52,18 +52,18 @@ Forward start option is an option whose strike will be determined at some later 
 
 In practice, option price or implied volatility surfaces are available at points on a relatively sparse grid of strike and tenor pairs. Using analytical expressions to determine the local volatility function then likely yields inaccurate results due to the numerical instability from calculating first, and especially, second derivatives.
 
-[Archive Quanto vol](https://ia904709.us.archive.org/7/items/forward-starting-option/ForwardStartingOption.pdf)
+[Archive forward starting](https://ia904709.us.archive.org/7/items/forward-starting-option/ForwardStartingOption.pdf)
 
-[Science Quanto vol](https://science-media.org/presentation/596)
+[Science forward starting](https://science-media.org/presentation/596)
 
 
 ### Three Factor Model 
 
 We construct respective trinomial trees to approximate the processes for each new random variable, but with each tree based on the same time slice partition of the CB tenor.  A new tree, which combines these respective trees, is then defined such that the set of nodes on a particular time slice of the combined tree equals the cross product of the set of nodes in each of the three respective trees at this time slice.  
 
-[Archive Quanto vol](https://ia804703.us.archive.org/1/items/threeFactorConvertible/threeFactorConvertible.pdf)
+[Archive three factor](https://ia804703.us.archive.org/1/items/threeFactorConvertible/threeFactorConvertible.pdf)
 
-[Science Quanto vol](https://science-media.org/presentation/597)
+[Science three factor](https://science-media.org/presentation/597)
 
 
 ### Mutual Fund Securitization 
@@ -72,9 +72,9 @@ The General Account collects monthly administrative and redemption fees and, if 
 
 Here monthly administration fees are set to a fixed percentage of the average of the respective current and previous month’s beginning mutual fund net asset values.  Program fees are similarly set to a fixed percentage of the current month’s beginning net asset value.  
 
-[Archive Quanto vol](https://ia904705.us.archive.org/21/items/mutual-fund-securitization/MutualFundSecuritization.pdf)
+[Archive MF sec](https://ia904705.us.archive.org/21/items/mutual-fund-securitization/MutualFundSecuritization.pdf)
 
-[Science Quanto vol](https://science-media.org/presentation/598)
+[Science MF sec](https://science-media.org/presentation/598)
 
 
 ### Hull-White Convertible Bond 
@@ -83,9 +83,9 @@ We build respective trinomial trees for the approximate stock’s price and shor
 
 Here the set of nodes at a particular time slice on the combined tree is given by the cross product of the nodes on each respective tree at this time slice.  From each node on the combined tree emanate nine children; the branching probabilities are given by the product of the corresponding probabilities on the respective trees, but shifted by a certain amount so to match the correlation between the random variables associated with the combined tree node.
 
-[Archive Quanto vol](https://ia904707.us.archive.org/6/items/hw-convertible/HwConvertible.pdf)
+[Archive HW convertible](https://ia904707.us.archive.org/6/items/hw-convertible/HwConvertible.pdf)
 
-[Science Quanto vol](https://science-media.org/presentation/599)
+[Science HW convertible](https://science-media.org/presentation/599)
 
 
 ### Brownian Bridge 
@@ -94,9 +94,9 @@ In the context of stress testing this algorithm is used for efficient generation
 
 The Brownian Bridge algorithm belongs to the family of Monte Carlo or Quasi-Monte Carlo methods with reduced variance. It generates sample paths which all start at the same initial point and end, at the same moment of time, at the same final point. 
 
-[Archive Quanto vol](https://ia601505.us.archive.org/8/items/brownian-bridge/BrownianBridge.pdf)
+[Archive BB](https://ia601505.us.archive.org/8/items/brownian-bridge/BrownianBridge.pdf)
 
-[Science Quanto vol](https://science-media.org/presentation/600)
+[Science BB](https://science-media.org/presentation/600)
 
 
 ### Asset Backed Senior Note 
@@ -105,9 +105,9 @@ The valuation makes the assumption that the future values of these parameters wi
 
 The following notation will be used throughout the text: the contents of the cell in row i of column A in the spreadsheet will be denoted by A(i), and similarly for other columns. Lower-case letters will be used for all other constants.
 
-[Archive Quanto vol](https://ia601506.us.archive.org/32/items/abs-analytics/AbsAnalytics.pdf)
+[Archive abs](https://ia601506.us.archive.org/32/items/abs-analytics/AbsAnalytics.pdf)
 
-[Science Quanto vol](https://science-media.org/presentation/602)
+[Science abs](https://science-media.org/presentation/602)
 
 
 ### Exchangeable Convertible Bond 
@@ -116,9 +116,9 @@ A convertible bond issuer pays periodic coupons to the convertible bond holder. 
 
 The Exchangeable feature assumes that the convertible bond and the underlying stock are issued by different parties. There are two possible cases with respect to stock conversion:
 
-[Archive Quanto vol](https://ia904704.us.archive.org/21/items/exchangeable-convertible/ExchangeableConvertible.pdf)
+[Archive exchangeable convertible](https://ia904704.us.archive.org/21/items/exchangeable-convertible/ExchangeableConvertible.pdf)
 
-[Science Quanto vol](https://science-media.org/presentation/601)
+[Science exchangeable convertible](https://science-media.org/presentation/601)
 
 
 ### Hull White Volatility 
@@ -127,18 +127,18 @@ Hull White model is a short rate model that is used to price interest rate deriv
 
 We map implied Black's at the money (ATM) European swaption volatilities into corresponding Hull-White (HW) short rate volatilities.
 
-[Archive Quanto vol](https://ia904705.us.archive.org/20/items/hw-vol/HwVol.pdf)
+[Archive HW vol](https://ia904705.us.archive.org/20/items/hw-vol/HwVol.pdf)
 
-[Science Quanto vol](https://science-media.org/presentation/603)
+[Science HW vol](https://science-media.org/presentation/603)
 
 
 ### Bond Curve 
 
 Government Bond Bootstrapping proceeds in two phases. The first phase uses short term instruments, which typically mature in one year or less. Consider, for example, a US government money market instrument with 
 
-[Archive Quanto vol](https://ia601404.us.archive.org/25/items/bondBootstrapping/bondBootstrapping.pdf)
+[Archive bond curve](https://ia601404.us.archive.org/25/items/bondBootstrapping/bondBootstrapping.pdf)
 
-[Science Quanto vol](https://science-media.org/presentation/604)
+[Science bond curve](https://science-media.org/presentation/604)
 
 
 ### GIC
@@ -147,9 +147,21 @@ The payoff at maturity from a GIC can be shown equal to the invested principal p
 
 We consider the pricing of this call option.  We assume that each of the underlying stock and bond market indices in the basket follows geometric Brownian motion with drift under their respective risk neutral probability measures.  Each index process is then expressed under the Canadian risk neutral probability measure by means of a corresponding quanto adjustment.  
 
-[Archive Quanto vol](https://ia601507.us.archive.org/23/items/gicPricing/gicPricing.pdf)
+[Archive gic](https://ia601507.us.archive.org/23/items/gicPricing/gicPricing.pdf)
 
-[Science Quanto vol](https://science-media.org/presentation/605)
+[Science gic](https://science-media.org/presentation/605)
+
+
+### Extendable Swap 
+
+We use analytical formulas for forward swap and swaption valuation: the swap price is calculated as the difference between a bond par and the bond’s price, and the swaption price is evaluated from the Black’s formula.
+
+The model estimates the swap price as a risk-neutral expectation of the difference between the bond price whose yield-to-maturity is the swap rate and the bond’s par. The swap rate is considered a log-normally distributed random variable. 
+
+[Archive extendable swap](https://ia601509.us.archive.org/6/items/extendableSwap/extendableSwap.pdf)
+
+[Science extendable swap](https://science-media.org/presentation/606)
+
 
 
 
