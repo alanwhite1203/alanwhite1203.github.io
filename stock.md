@@ -163,6 +163,68 @@ The model estimates the swap price as a risk-neutral expectation of the differen
 [Science extendable swap](https://science-media.org/presentation/606)
 
 
+### Callable Inverse Swap 
+
+A Callable Inverse Floating Rate Swap is a forward swap agreement with an option of canceling the swap each year starting from several years in future. The deal is priced with a two factor Black-Karasinski model.
+
+The Black-Karasinski class of models assumes the short term interest rates to be log-normally distributed. The spreadsheet mode used for the deal pricing has a hard-coded term structure of the mean reversion and volatility parameters, constructed as Chebyshev polynomials. 
+
+[Archive callable inverse](https://ia904704.us.archive.org/2/items/callableInverseSwap/callableInverseSwap.pdf)
+
+[Science callable inverse](https://science-media.org/presentation/607)
 
 
+### Flexible GIC 
 
+We price the option of a flexible GIC with a one factor Hull-White model via a trinomial tree. 
+The Hull-White model assumes a normal distribution for the rates. Our solution constructs a Hull-White tree. The calibration procedures take an interest rate curve as input (ignoring volatility surfaces) and assume volatility and mean reversion parameters as constants. 
+
+The initial approximation of the short rate in the middle node of a time slice is taken as a forward rate for the time interval between the given and next slices, without using the Hull-White analytical approximation, The initial value is subsequently improved by the Newton-Raphson formula.
+
+[Archive flexible gic](https://ia601508.us.archive.org/28/items/flexibleGic/flexibleGic.pdf)
+
+[Science flexible gic](https://science-media.org/presentation/608)
+
+
+### American Bond Yield Option 
+
+The model builds a trinomial tree for the yield process to price the deal as an American option. The time slices of the tree are evenly spaced. Node transition probabilities and the time interval between slices are determined by matching the first four moments of the underlying Brownian motion. The option is priced using the backward induction.
+
+The payoff of the option is a discontinuous function of yield, which technically represents the primary security. As a result, the delta is not defined for the intrinsic case, and it is poorly defined for small volatilities. Therefore, the use of delta is not recommended for volatilities less than 5% or for time to maturity less than 10 days.
+
+[Archive American bond](https://ia904700.us.archive.org/14/items/bondAmericanOption/bondAmericanOption.pdf)
+
+[Science American bond](https://science-media.org/presentation/609)
+
+
+### Martingale Preserving Tree 
+
+An important feature of the popular three factor trinomial tree is that it uses a deterministic approximation of the interest rates for constructing the stock tree. The preservation of the martingale property of the stock price is thus not guaranteed.  and may potentially represent a problem.
+
+We propose a two-factor tree model that implements the Hull-White and Black-Karasinski models. The new tree model does preserve the martingale property of the stock for sufficiently long terms (with accuracy better that 10-8 for terms of at least 10 years). 
+
+[Archive preserving tree](https://ia904701.us.archive.org/6/items/preservingTree/preservingTree.pdf)
+
+[Science preserving tree](https://science-media.org/presentation/610)
+
+
+### Arrear Quanto CMS 
+
+An arrear quanto constant-maturity-swap (CMS) is a swap that pays coupons in a different currency from the notional and in arrears. The underlying swap rate is computed from a forward starting CMS.
+
+The yield to maturity of a bond is the internal rate of return on a bond held until maturity. In other words, it is the discount rate that will provide the investor with a present value V equal to the price of the bond. 
+
+[Archive arrear quanto](https://ia904707.us.archive.org/3/items/arrearQuantoCMS/arrearQuantoCMS.pdf)
+
+[Science arrear quanto](https://science-media.org/presentation/611)
+
+
+### Black-Karasinski Short Rate Tree 
+
+The Black-Karasinski model is a short rate model that assumes the short-term interest rates to be log-normally distributed. We implement the one factor  Black-Karasinski model as a binomial or trinomial tree.
+
+Black-Karasinski short rate tree approach can be used to price convertible bond. Convertible bond is not only a coupon paying bond but also can be converted at the discretion of the holder within the periods of time specified by the conversion schedule. 
+
+[Archive arrear quanto](https://ia601506.us.archive.org/30/items/bkTree/bkTree.pdf)
+
+[Science arrear quanto](https://science-media.org/presentation/612)
