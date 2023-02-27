@@ -29,3 +29,9 @@ Interest rate derivatives are most traded financial derivatives whose values are
 
 [Interest Rate](./ir.md)
 
+## Stock Product
+
+Stock products are products whose payoffs are based on stock prices.
+
+[Stock](./stock.md)
+
