@@ -23,3 +23,23 @@ We treat the two index rates as assets whose values are lognormally distributed 
 [Science variable swap](https://science-media.org/presentation/613)
 
 
+### CMS Spread Option 
+
+A constant maturity swap (CMS) spread option makes payments based on a bounded spread between two index rates (e.g., a GBP CMS rate and a EURO CMS rate).  The GBP CMS rate is calculated from a 15 year swap with semi-annual, upfront payments, while the EURO CMS rate is based on a 15 year swap with annual, upfront payments. 
+
+From the above the correlation, under foreign T-forward measure, between the Brownian motions respectively driving the foreign bond yield and GBP swap rate processes constrains the correlation between the Brownian motions driving the Euro bond yield and forward GBP CMS rate processes under domestic T-forward measure.  
+
+[Archive cms spread](https://ia904704.us.archive.org/3/items/cmsSpreadOption/cmsSpreadOption.pdf)
+
+[Science cms sprad](https://science-media.org/presentation/614)
+
+
+### Early Start Swap 
+
+An early start swap is a swap that has an American style option for the counterparty of starting the swap early, within a period of three month. Otherwise, the swaps are plain vanilla fixed-for-floating swaps.
+
+The present value of the swap is then calculated as the sum of present values of corresponding cash flows. To simulate the swap value at a later date, the coupon bond is represented through its forward rate of return. 
+
+[Archive early start](https://ia601500.us.archive.org/35/items/earlyStartSwap/earlyStartSwap.pdf)
+
+[Science early start](https://science-media.org/presentation/615)
