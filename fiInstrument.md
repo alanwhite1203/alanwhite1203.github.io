@@ -56,6 +56,37 @@ There must exist a measure under which all the tradeables on the Canadian market
 [Science quanto trs](https://science-media.org/presentation/616)
 
 
+### Daily Digital LIBOR Swap
+
+A daily digital LIBOR swap is an interest rate swap whose reference interest rate is three-month USD Libor BBA. For each accrual period in the swap, one party receives the reference rate, and pays the reference rate plus a positive spread, but weighted by the ratio of the number of calendar days in the period that the reference rate sets below an upper level to the total number of calendar days in the period.
+
+Consider a particular day in the accrual period above, and let   denote the time (expressed in years) corresponding to this day.  Furthermore let   denote the reference Libor rate at time  .   
+
+[Archive daily digital](https://ia601405.us.archive.org/35/items/dailyDigital/dailyDigital.pdf)
+
+[Science daily digital](https://science-media.org/presentation/617)
+
+
+### Ratchet Swap 
+
+The coupon rate is stated as an annualized rate or real rate based on market conventions. Adjustment is made for long/short first/last coupon periods. When a coupon date falls on non-business day, payment may be made next business day with no amount adjustment
+
+The valuation methodology is based on the Monte Carlo spot LIBOR rate model. The model generates spot rates which log-normally distributed at each reset date. These spot rates are derived from corresponding forward rates whose stochastic behavior is constructed in an arbitrage-free manner. Outcomes for the spot rate are generated for each reset date. These rates are then applied to the ratchet-type payoff structure. The ratchet instrument is then valued by discounting and averaging these payoffs.
+
+[Archive ratchet swap](https://ia601506.us.archive.org/33/items/ratchetSwap/ratchetSwap.pdf)
+
+[Science ratchet swap](https://science-media.org/presentation/618)
+
+
+### LIBOR Rate Model
+
+LIBOR Rate Model is used for pricing Libor-rate based derivative securities. The model is applied, primarily, to value instruments that settle at a Libor-rate reset point.  In order to value instruments that settle at points intermediate to Libor resets, we calculate the numeraire value at the settlement time by interpolating the numeraire at bracketing Libor reset points. 
+
+Libor rate model is very useful to price callable exotics. Many derivatives have callable features. Callable exotics are among the most challenging derivatives to price. These products are loosely defined by the provision that gives the holder or issuer the right to call the product after a lock-out period
+
+[Archive libor rate](https://ia601500.us.archive.org/4/items/liborSwapModel/liborSwapModel.pdf)
+
+[Science libor rate](https://science-media.org/presentation/619)
 
 
 
