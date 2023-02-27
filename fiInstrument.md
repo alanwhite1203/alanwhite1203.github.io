@@ -89,5 +89,49 @@ Libor rate model is very useful to price callable exotics. Many derivatives have
 [Science libor rate](https://science-media.org/presentation/619)
 
 
+### Amortizing Floor Option
+
+An amortizing floor option consists of 12 floorlets, or put options, on the arithmetic average of the daily 12-month Pibor rate fixings over respective windows of approximately 30 calendar days.  Furthermore the notional amount corresponding to each floorlet is specified by an amortization schedule.
+
+We note that, mathematically, the Pibor rates above cannot simultaneously be martingales under the common  -forward probability measure; moreover, in order to simultaneously express the Pibor rates above under this same measure, the SDE above requires a drift correction term.
+
+[Archive amortizing floor](https://ia601505.us.archive.org/7/items/amortizing-floor-option/AmortizingFloorOption.pdf)
+
+[Science amortizing floor](https://science-media.org/presentation/620)
+
+
+### Arbitrary Cash-Flow
+
+An Arbitrary Cash-Flow (ACF) security interface values future known cash-flows. These cash-flows must be in a single (potentially foreign) currency. The present value of these cash-flows is determined by prevailing market interest and foreign exchange rates.
+
+We note that, in the above, we equivalently apply log-linear interpolation of discount factors.
+In the case, when we considered an Imagine bond par yield curve input, we performed the following calculations:
+
+[Archive arbitrary cash-flows](https://ia601408.us.archive.org/7/items/arbitrary-cash-flow/ArbitraryCashFlow.pdf)
+
+[Science arbitrary cash-flows](https://science-media.org/presentation/622)
+
+
+### Currency Bermudan Swaption 
+
+The pricing method is based on Jamshidian’s Libor rate model (i.e., where Libor rates are modeled simultaneously under the spot Libor measure).  Furthermore, we value a Bermudan swaption based on the Monte Carlo technique presented by Longstaff and Schwartz towards American style pricing.
+
+We price a Bermudan style swaption using a Monte Carlo technique, which is based on the approach proposed by Longstaff and Schwartz towards American style pricing using simulation.  In particular, at every exercise time, we must solve a linear least squares problem, and then decide whether to exercise the option.
+
+[Archive Bermudan swaption](https://ia601404.us.archive.org/17/items/bermudan-swaption/BermudanSwaption.pdf)
+
+[Science Bermudan swaption](https://science-media.org/presentation/621)
+
+
+### Partial Payoff Swap 
+
+Partial payoff swap pays periodically, the payoff from a particular European style put option on the spread between respective ten and two-year CMS rates. Moreover, this payoff is algebraically equivalent to the sum of the spread above and the payoff from a related European style put option.  
+
+[Archive partial swap](https://ia904700.us.archive.org/27/items/partial-payoff-swap/PartialPayoffSwap.pdf)
+
+[Science partial swap](https://science-media.org/presentation/623)
+
+
+
 
 
