@@ -43,3 +43,20 @@ The present value of the swap is then calculated as the sum of present values of
 [Archive early start](https://ia601500.us.archive.org/35/items/earlyStartSwap/earlyStartSwap.pdf)
 
 [Science early start](https://science-media.org/presentation/615)
+
+
+### Quanto Total Return LIBOR Swap 
+
+A quanto total return Libor Swap is a swap where one leg is a regular floating leg paying LIBOR less a constant spread and the other leg makes a single payment at the swap’s maturity equal to a leveraged non-negative return on USD-for-EURO exchange rate paid in CAD. The main focus of the valuation model is the quantoed total return on the FX rate.
+
+There must exist a measure under which all the tradeables on the Canadian market, discounted by the Canadian saving account, including CU and CE, are martingales. A standard Brownian motion under this measure w* is coupled with the original Brownian motion:
+
+[Archive quanto trs](https://ia904703.us.archive.org/32/items/quantoTrs/quantoTrs.pdf)
+
+[Science quanto trs](https://science-media.org/presentation/616)
+
+
+
+
+
+
