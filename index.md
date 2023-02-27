@@ -35,3 +35,8 @@ Stock products are products whose payoffs are based on stock prices.
 
 [Stock](./stock.md)
 
+## Fixed Income Instruments
+
+Fixed income instruments are products that have period payments.
+
+[Fixed income instrument](./fiInstrument.md)
