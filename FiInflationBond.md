@@ -19,6 +19,8 @@ References:
 
 [OSF inflation](https://osf.io/f2qm9/download)
 
+[Fliphtml5 inflation](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamADM3QjM5ITPkl0av9mY)
+
 [Zenodo caption](https://zenodo.org/record/6561073)
 
 [Gitbook inflation bond](https://cmrm11.gitbook.io/inflation-indexed-bond/)

@@ -42,6 +42,8 @@ References:
  
 [OSF bond](https://osf.io/gtcma/download)
 
+[Fliphtml5 bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcDM0cjNyETPkl0av9mY)
+
 [Gibook bond](https://cmrm11.gitbook.io/bond-valuation/)
 
 [github bond option](https://github.com/timxiao1203/MunicipalBondOption)

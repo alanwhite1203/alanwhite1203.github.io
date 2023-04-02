@@ -51,6 +51,8 @@ References:
 
 [OSF futures](https://osf.io/2vzq8/download)
 
+[Fliphtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDO1gDM5ITPkl0av9mY)
+
 [Zenodo knockout](https://zenodo.org/record/6551223)
 
 [Gitbook bond futures](https://cmrm11.gitbook.io/bond-futures/)

@@ -33,6 +33,8 @@ References:
 
 [OSF zero bond](https://osf.io/d59wu/download)
 
+[Fliphtml5 zero bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkDM3QjM5ITPkl0av9mY)
+
 [Gitbook zero](https://cmrm11.gitbook.io/zero-coupon-bond/)
 
 [github collatral swap](https://github.com/cfrm17/CollateralizedSwap)

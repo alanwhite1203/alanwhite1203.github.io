@@ -36,6 +36,8 @@ References:
 
 [OSF amortizing bond](https://osf.io/qrc8n/download)
 
+[Fliphtml5 amortizing bond](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN1gDM5ITPkl0av9mY)
+
 [Zenodo digital](https://zenodo.org/record/6549248)
 
 [Gitbook amortizing bond](https://davidlee1203.gitbook.io/amortizing-bond/)

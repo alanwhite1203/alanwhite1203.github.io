@@ -26,6 +26,8 @@ References:
 
 [OSF frn](https://osf.io/yrbnh/download)
 
+[Fliphtml5 frn](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkzM1ITM5ITPkl0av9mY)
+
 [Zenodo capped frn](https://zenodo.org/record/6558277)
 
 [Gitbook frn](https://cmrm11.gitbook.io/floating-rate-note/)

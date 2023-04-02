@@ -68,6 +68,8 @@ References:
 
 [OSF bond future option](https://osf.io/d2xaj/download)
 
+[Fliphtml5 bond future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTM1ITM5ITPkl0av9mY)
+
 [Zenodo arrear cap](https://zenodo.org/record/6551437)
 
 [Gitbook bond future option](https://cmrm11.gitbook.io/bond-future-option/)

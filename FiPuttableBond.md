@@ -53,6 +53,8 @@ References:
 
 [OSF puttable](https://osf.io/veqj3/download)
 
+[Fliphtml5 puttable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYDM3QjM5ITPkl0av9mY)
+
 [Zenodo chooser](https://zenodo.org/record/6546805)
 
 [github principal](https://github.com/cfrm17/PrincipalNote-)
