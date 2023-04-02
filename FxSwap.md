@@ -58,6 +58,8 @@ References:
    
 [OSF swap](https://osf.io/vuyzn/download)
 
+[Fliphtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMwATN5ITPkl0av9mY)
+
 [Zenodo barrier](https://zenodo.org/record/6539852)
 
 [github trust](https://github.com/cfrm17/TrustSwap)

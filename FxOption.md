@@ -80,6 +80,8 @@ References:
   
 [OSF option](https://osf.io/xfjpz/download)
 
+[Fliphtml5 option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjMwATN5ITPkl0av9mY)
+
 [Zenodo VaR](https://zenodo.org/record/6539777)
 
 [github index](https://github.com/cfrm17/HedgeFundIndex)

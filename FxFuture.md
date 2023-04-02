@@ -49,6 +49,8 @@ References:
   
 [OSF futures](https://osf.io/rqd6v/download)
 
+[Fliphtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUzM5UDN5ITPkl0av9mY)
+
 [Zenodo collateralized](https://zenodo.org/record/6539697)
 
 [github mortgage](https://github.com/cfrm17/AdjustableRateMortgages)

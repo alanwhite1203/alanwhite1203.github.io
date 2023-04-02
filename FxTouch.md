@@ -62,6 +62,8 @@ References:
    
 [OSF touch](https://osf.io/6m5jx/download)
 
+[Fliphtml5 touch](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUzMwATN5ITPkl0av9mY)
+
 [Zenodo adjusted](https://zenodo.org/record/6539925)
 
 [github hedge](https://github.com/cfrm17/AssetsHedge)

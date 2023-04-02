@@ -55,6 +55,8 @@ References:
  
 [OSF forward](https://osf.io/ez6an/download)
 
+[Fliphtml5 forward](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgjM5UDN5ITPkl0av9mY)
+
 [Zenodo principal](https://zenodo.org/record/6539656)
 
 [gith barrier](https://github.com/cfrm17/HedgeFundBarrierOption)
