@@ -19,6 +19,8 @@ References:
    
 [OSF lookback](https://osf.io/my7zq/download)
 
+[Fliphtml5 lookback](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzNyQDO3MTPkl0av9mY)
+
 [gitbook lookback](https://deripricing.gitbook.io/lookback-option-valuation/)
 
 [github inverse](https://github.com/timxiao1203/CallableInverseSwap)

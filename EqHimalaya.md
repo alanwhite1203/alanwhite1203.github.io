@@ -20,6 +20,8 @@ References:
      
 [OSF himalaya](https://osf.io/3hf9y/download)
 
+[Fliphtml5 himalaya](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzM1QjN4MTPkl0av9mY)
+
 [gitbook himalaya](https://davidlee1203.gitbook.io/himalaya-option/)
 
 [github interpolation](https://github.com/timxiao1203/InterpolationAnalytics)

@@ -43,6 +43,8 @@ References:
    
 [OSF callable](https://osf.io/khrcb/download)
 
+[Fliphtml5 callable](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUTMzgTM4MTPkl0av9mY)
+
 [gitbook callable](https://deripricing.gitbook.io/callable-exotic-pricing/)
 
 [github quanto trs](https://github.com/timxiao1203/QuantoTotalReturnLIBORSwap)

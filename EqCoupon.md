@@ -23,6 +23,8 @@ References:
    
 [OSF coupon](https://osf.io/x2rf8/download)
 
+[Fliphtml5 coupon](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkjM4ATN4MTPkl0av9mY)
+
 [gitbook coupon](https://davidlee1203.gitbook.io/bonus-coupon-note/)
 
 [github tarn swap](https://github.com/timxiao1203/TARN-Swap)

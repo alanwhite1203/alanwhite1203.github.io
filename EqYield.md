@@ -17,6 +17,8 @@ References:
 
 [OSF yield](https://osf.io/mhktc/download)
 
+[Fliphtml5 yield](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETNxEjN4MTPkl0av9mY)
+
 [Zenodo chooser cap](https://zenodo.org/record/6561499)
 
 [Gitbook yield](https://davidlee1203.gitbook.io/callable-yield-note/)

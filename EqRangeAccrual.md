@@ -31,6 +31,8 @@ References:
 
 [OSF range accrual](https://osf.io/476gc/download)
 
+[Fliphtml5 range accrual](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETN5gDM5MTPkl0av9mY)
+
 [gitbook range accrual](https://davidlee1203.gitbook.io/callable-range-accrual-note/)
 
 [Zenodo cms swap](https://zenodo.org/record/6588555)

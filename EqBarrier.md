@@ -34,6 +34,8 @@ References:
    
 [OSF barrier](https://osf.io/ymt8n/download)
 
+[Fliphtml5 barrier](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamETNxUDO3MTPkl0av9mY)
+
 [gitbook barrier](https://deripricing.gitbook.io/barrier-option-pricing/)
 
 [github flexible](https://github.com/timxiao1203/FlexibleGIC)

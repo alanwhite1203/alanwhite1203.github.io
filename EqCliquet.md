@@ -30,6 +30,8 @@ References:
    
 [OSF cliquet](https://osf.io/swbg4/download)
 
+[Fliphtml5 cliquet](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQzN3UDO3MTPkl0av9mY)
+
 [gitbook cliquet](https://deripricing.gitbook.io/cliquet-option-valuation/)
 
 [github American](https://github.com/timxiao1203/AmericanBondOption)

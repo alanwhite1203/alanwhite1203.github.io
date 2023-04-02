@@ -24,6 +24,8 @@ References:
 
 [OSF spread](https://osf.io/4kcrh/download)
 
+[Fliphtml5 spread](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNzQzM4MTPkl0av9mY)
+
 [gitbook spread](https://deripricing.gitbook.io/spread-option-pricing/)
 
 [Zenodo closeout](https://zenodo.org/record/6585388)

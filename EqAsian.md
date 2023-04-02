@@ -56,6 +56,8 @@ References:
 [Zenodo Asian](https://zenodo.org/record/5748073)
 
 [OSF Basket](https://osf.io/cjzba/download)
+
+[Fliphtml5 Basket](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTMygjM5ITPkl0av9mY)
  
 [gitbook Asian](https://captim.gitbook.io/eqasian/)
 

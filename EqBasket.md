@@ -63,6 +63,8 @@ c=M_1-d∙exp(1/(2b^2 )-a/b)
   
   [osf basket](https://osf.io/cjzba/download)
   
+  [Fliphtml5 basket](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzMygjM5ITPkl0av9mY)
+  
   [gitbook basket](https://captim.gitbook.io/eqbasket/)
   
   [Github forward starting](https://github.com/timxiao1203/ForwardStartingOption)

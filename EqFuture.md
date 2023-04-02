@@ -43,6 +43,8 @@ References:
 
 [OSF futures](https://osf.io/t5vnp/download)
 
+[Fliphtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATNxgDN5ITPkl0av9mY)
+
 [gitbook futures](https://deripricing.gitbook.io/equity-futures-and-forwards-pricing/)
 
 [Github securitization](https://github.com/timxiao1203/MutualFundSecuritization)

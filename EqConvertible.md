@@ -70,6 +70,8 @@ References:
 
 [Zenodo convertible](https://zenodo.org/record/3945092)
 
+[Fliphtml5 convertible](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamczMygjM5ITPkl0av9mY)
+
 [gitbook pdf](https://captim.gitbook.io/eqconvertible/)
 
 [github 3 factor](https://github.com/timxiao1203/ConvertibleThreeFactor)

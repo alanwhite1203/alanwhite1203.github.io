@@ -24,6 +24,8 @@ References:
    
 [OSF warrant](https://osf.io/wgmq5/download)
 
+[Fliphtml5 warrant](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjM5kzN3MTPkl0av9mY)
+
 [Zenodo arrear fra](https://zenodo.org/record/6578408)
 
 [Gitbook variance](https://deripricing.gitbook.io/variance-swap-pricing/)

@@ -28,6 +28,8 @@ References:
    
 [OSF asr](https://osf.io/vbhpd/download)
 
+[Fliphtml5 asr](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYjM4ATN4MTPkl0av9mY)
+
 [gitbook asr](https://davidlee1203.gitbook.io/pricing-accelerated-share-repurchase/)
 
 [github inflation swap](https://github.com/timxiao1203/InflationSwap)

@@ -22,6 +22,8 @@ References:
    
 [OSF reverse](https://osf.io/y6r57/download)
 
+[Fliphtml5 reverse](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzNyADN4MTPkl0av9mY)
+
 [gitbook reverse](https://deripricing.gitbook.io/reverse-convertible-autocallable-swap/)
 
 [Zenodo xccy swaption](https://zenodo.org/record/6588375)

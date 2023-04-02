@@ -44,6 +44,8 @@ References:
  
 [OSF warrant](https://osf.io/54xj6/download)
 
+[Fliphtml5 warrant](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTNxgDN5ITPkl0av9mY)
+
 [gitbook warrant](https://deripricing.gitbook.io/warrant-valuation/)
 
 [Zenodo cms cliquet](https://zenodo.org/record/6561892)

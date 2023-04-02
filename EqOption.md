@@ -57,6 +57,8 @@ References:
 
 [OSF option](https://osf.io/86t9p/download)
 
+[Fliphtml5 option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMTNxgDN5ITPkl0av9mY)
+
 [gitbook option](https://deripricing.gitbook.io/stock-option-product-and-valuation/)
 
 [Github convertible hw](https://github.com/timxiao1203/ConvertibleHullWhite)

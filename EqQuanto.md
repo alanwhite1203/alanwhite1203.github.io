@@ -23,6 +23,8 @@ References:
    
 [OSF Quanto](https://osf.io/2qjps/download)
 
+[Fliphtml5 Quanto](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN4ETO3MTPkl0av9mY)
+
 [gitbook Quanto](https://deripricing.gitbook.io/quanto-option-pricing/)
 
 [github early start](https://github.com/timxiao1203/EarlyStartSwap)

@@ -20,6 +20,8 @@ References:
    
 [OSF rainbow](https://osf.io/47zwk/download)
 
+[Fliphtml5 rainbow](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjM1QjN4MTPkl0av9mY)
+
 [gitbook rainbow](https://davidlee1203.gitbook.io/rainbow-option/)
 
 [github mbs](https://github.com/timxiao1203/MBS-Model)

@@ -21,6 +21,8 @@ References:
 
 [OSF cppi](https://osf.io/rcf93/download)
 
+[Fliphtml5 cppi](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMzN3QDN4MTPkl0av9mY)
+
 [gitbook cppi](https://deripricing.gitbook.io/cppi-pricing/)
 
 [github digital swap](https://github.com/timxiao1203/DailyDigitalLIBORSwap)

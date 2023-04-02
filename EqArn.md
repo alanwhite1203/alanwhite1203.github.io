@@ -22,6 +22,8 @@ References:
    
 [OSF arn](https://osf.io/yexkd/download)
 
+[Fliphtml5 arn](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEDO3QDN4MTPkl0av9mY)
+
 [gitbook arn](https://davidlee1203.gitbook.io/accelerated-return-note-pricing/)
 
 [github guanto cms](https://github.com/timxiao1203/QuantoCmsSpreadSwap)

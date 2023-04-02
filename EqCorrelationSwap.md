@@ -29,6 +29,8 @@ References:
    
 [OSF correlation swap](https://osf.io/uwy25/download)
 
+[Fliphtml5 correlation swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMDN5gDM5MTPkl0av9mY)
+
 [gitbook correlation swap](https://davidlee1203.gitbook.io/correlation-swap/)
 
 [github mvf swap](https://github.com/timxiao1203/MVF-Swap)

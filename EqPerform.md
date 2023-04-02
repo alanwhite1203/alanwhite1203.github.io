@@ -33,6 +33,8 @@ References:
    
 [OSF best](https://osf.io/7pzms/download)
 
+[Fliphtml5 best](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAjNzQzM4MTPkl0av9mY)
+
 [gitbook best](https://deripricing.gitbook.io/best-of-option-pricing/)
 
 [github hw vol](https://github.com/timxiao1203/HullWhiteVolatilityCalibration)

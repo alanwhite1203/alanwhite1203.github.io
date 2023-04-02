@@ -58,6 +58,8 @@ References:
 
 [OSF swap](https://osf.io/72693/download)
 
+[Fliphtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamYTNxgDN5ITPkl0av9mY)
+
 [gitbook swap](https://deripricing.gitbook.io/total-return-swap-valuation/)
 
 [Zenodo double cms](https://zenodo.org/record/6578517)

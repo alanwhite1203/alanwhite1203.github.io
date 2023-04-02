@@ -34,6 +34,8 @@ References:
 
 [Zenodo American](https://zenodo.org/record/5748070)
 
+[Fliphtml5 American](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTOxgjM5ITPkl0av9mY)
+
 [gitbook AO](https://captim.gitbook.io/eqamerican/)
 
 [FlipHtml5 American](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcTOxgjM5ITPkl0av9mY)
