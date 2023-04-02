@@ -49,6 +49,10 @@ References:
    
 [OSF swaption](https://osf.io/f7yw9/download)
 
+[Fliphtml5 bermudan swaption](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTMxkjNyETPkl0av9mY)
+
+[fliphtml5 swaption](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN4gzM5ITPkl0av9mY)
+
 [Zenodo pass](https://zenodo.org/record/6549222)
 
 [github mba swap](https://github.com/cfrm17/MBASwap)

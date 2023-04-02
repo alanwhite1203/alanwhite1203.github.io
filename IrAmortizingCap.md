@@ -33,6 +33,8 @@ References:
 
 [OSF amortizing cap](https://osf.io/rfa8e/download)
 
+[Fliphtml5 amortizing cap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUDO3gDN3ITPkl0av9mY)
+
 [Zenodo index](https://zenodo.org/record/6546586)
 
 [github hedge](https://github.com/cfrm17/FairValueHedge)

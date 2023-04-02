@@ -33,6 +33,8 @@ References:
    
 [OSF futures](https://osf.io/j9apv/download)
 
+[Fliphtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDO5UjM5ITPkl0av9mY)
+
 [Zenodo sheet](https://zenodo.org/record/6548879)
 
 [github mbs](https://github.com/cfrm17/DigitalAdjustments)

@@ -18,6 +18,8 @@ References:
   
 [OSF basis swap](https://osf.io/zcyuq/download)
 
+[Fliphtml5 basis swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgTO3gDN3ITPkl0av9mY)
+
 [Zenodo foreign asset](https://zenodo.org/record/6546805)
 
 [github mbs deferred](https://github.com/cfrm17/MBSDeferredAsset)

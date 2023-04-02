@@ -38,6 +38,8 @@ References:
    
 [OSF cap](https://osf.io/kvbyz/download)
 
+[Fliphtml5 cap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgDOygDM5ITPkl0av9mY)
+
 [Zenodo acquisation](https://zenodo.org/record/6547140)
 
 [github balance](https://github.com/cfrm17/BalanceSheetRisk)

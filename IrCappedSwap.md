@@ -62,6 +62,8 @@ References:
  
 [OSF capped](https://osf.io/jskhm/download)
 
+[Fliphtml5 capped](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQTOygDM5ITPkl0av9mY)
+
 [Zenodo deferred asset](https://zenodo.org/record/6547212)
 
 [Github mortgage](https://github.com/cfrm17/MortgageAnalytics)

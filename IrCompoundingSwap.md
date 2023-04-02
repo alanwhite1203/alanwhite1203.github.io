@@ -42,6 +42,8 @@ References:
    
 [OSF compounding](https://osf.io/dqepj/download)
 
+[Fliphtml5 compounding](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkzN5UjM5ITPkl0av9mY)
+
 [Zenodo commitment](https://zenodo.org/record/6547376)
 
 [github rate lock](https://github.com/cfrm17/RateLockAnalysis)

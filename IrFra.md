@@ -54,6 +54,8 @@ References:
    
 [OSF fra](https://osf.io/k8v2q/download)
 
+[Fliphtml5 fra](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamADO5UjM5ITPkl0av9mY)
+
 [Zenodo performance](https://zenodo.org/record/6547457)
 
 [github mbs](https://github.com/cfrm17/MBSPassThrough)

@@ -67,6 +67,8 @@ References:
    
 [OSF future option](https://osf.io/gbzj3/download)
 
+[Fliphtml5 future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjN4gzM5ITPkl0av9mY)
+
 [Zenodo mortgage](https://zenodo.org/record/6548953)
 
 [github knockout](https://github.com/cfrm17/KnockoutSwap)

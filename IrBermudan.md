@@ -46,6 +46,8 @@ References:
    
 [OSF bermudan](https://osf.io/5dz4u/download)
 
+[Fliphtml5 bermudan](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgDM4gDN3ITPkl0av9mY)
+
 [Zenodo flow](https://zenodo.org/record/6546938)
 
 [github mortgage](https://github.com/cfrm17/MortgageCommitment)

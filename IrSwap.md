@@ -68,6 +68,8 @@ References:
    
 [OSF swap](https://osf.io/kx5q2/download)
 
+[Fliphtml5 swap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjN4gzM5ITPkl0av9mY)
+
 [Zenodo lock](https://zenodo.org/record/6549162)
 
 [github arrear cap](https://github.com/cfrm17/ArrearCap)
