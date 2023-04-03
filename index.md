@@ -10,6 +10,8 @@ very useful vehicles for hedging, risk managing, arbitraging, and speculating.
 
 [Equity](./equity.md)
 
+
+
 ## Fixed Income Derivatives
 
 Fixed income products are type of investment instruments that typically generate predictable payments in future. They consist of fixed income securities, such as
@@ -17,11 +19,15 @@ bonds, and fixed income derivatives, such as bond futures, bond future options.
 
 [Fixing Income](./fixedIncome.md)
 
+
+
 ## Foreign Exchange Derivatives
 
 Foreign exchange derivatives are financial products whose payoffs depend on foreign exchange rates and foreign exchange implied volatility.
 
 [Foreign Exchange](./fx.md)
+
+
 
 ## Interest Rate Derivatives
 
@@ -29,14 +35,26 @@ Interest rate derivatives are most traded financial derivatives whose values are
 
 [Interest Rate](./ir.md)
 
+
+
 ## Stock Product
 
 Stock products are products whose payoffs are based on stock prices.
 
 [Stock](./stock.md)
 
+
+
 ## Fixed Income Instruments
 
 Fixed income instruments are products that have period payments.
 
 [Fixed income instrument](./fiInstrument.md)
+
+
+
+## Financial Research
+
+Research papers on financial market
+
+[Paper](./paper.md)
