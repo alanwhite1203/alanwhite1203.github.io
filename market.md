@@ -13,5 +13,14 @@ References:
 
 
 
+### Bet Option 
+
+A bet option is a bet on a basket of stocks.  There are multiple reset periods before the maturity of the option.  At the end of each period, if all the stocks in the basket are above their respective strikes, the option will payout a rebate amount for this period at maturity.
+
+
+References:
+
+	
+[More details](./bet.md)
 
 
