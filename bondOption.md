@@ -21,9 +21,9 @@ The second case is a put option with the same inputs as the first case except th
 References:
 
    
-[ResearchGate bond opton pdf](https://www.researchgate.net/profile/Tim-Xiao/publication/369879832_Bond_Option_Model/links/6430416120f25554da15b598/Bond-Option-Model.pdf)
+[ResearchGate bond futures opton pdf](https://www.researchgate.net/profile/Tim-Xiao/publication/369879856_Bond_Futures_Option_Model/links/643046fa20f25554da165e99/Bond-Futures-Option-Model.pdf)
    
-[ResearchGate binary](https://www.researchgate.net/publication/369879832_Bond_Option_Model)
+[ResearchGate binary](https://www.researchgate.net/publication/369879856_Bond_Futures_Option_Model)
 
 [OSF forward starting](https://osf.io/3vq8t/download)
 
