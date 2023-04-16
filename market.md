@@ -84,3 +84,17 @@ References:
 [More details](./cdsModel.md)
 
 
+
+### Floating Rate Convertible Bond 
+
+Floating rate convertible bond pays floating rate coupons, which differentiate itself from the fixed rate convertible bond. The coupon rates are reset periodically based on market reference rates such as LIBOR plus or minus a spread. Similar to other convertible bond types, call and put features may be applied.   
+
+
+References:
+
+	
+[More details](./floatingConvertible.md)
+
+
+
+
