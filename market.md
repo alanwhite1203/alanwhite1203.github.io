@@ -58,3 +58,17 @@ References:
 
 	
 [More details](./bondOp.md)
+
+
+
+### Callable Asian Option 
+
+Asian options allow their underwriters to call the options back from investors at a specified time and with a specified amount prior to option maturities.  A hybrid of Monte Carlo simulation and the closed form solution is employed in pricing.
+
+
+References:
+
+	
+[More details](./callableAsian.md)
+
+
