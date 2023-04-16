@@ -24,3 +24,13 @@ References:
 [More details](./bet.md)
 
 
+
+### Digital Return Note
+
+The structure of a Binary Return Note is similar to the one of a regular note, but the coupons are contingent on return rates on stocks. We developed and implemented a Monte Carlo (Quasi-Monte Carlo) pricing model for the Binary Return Note product.
+
+
+References:
+
+	
+[More details](./binary.md)

@@ -18,7 +18,7 @@ References:
    
 [ResearchGate bet pdf](https://www.researchgate.net/profile/Tim-Xiao/publication/369878537_Bet_Option_Model/links/643025894e83cd0e2f97a3b5/Bet-Option-Model.pdf)
    
-[ResearchGate bet](https://www.researchgate.net/publication/369876624_Asian_Basket_Relative_Performance_Option_Model)
+[ResearchGate bet](https://www.researchgate.net/publication/369878537_Bet_Option_Model)
 
 [OSF himalayan](https://osf.io/cg5x4/download)
 
