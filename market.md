@@ -168,3 +168,15 @@ References:
 [More details](./decreasingAsian.md)
 
 
+
+### Dividend Enhancement Common Stock 
+
+A dividend enhancement common stock (or DECS) instrument is a portfolio of stock options and a fixed coupon stream. The DECS is developed to price a corporate financing structure with the option that the debt principal can be converted to the underlying common stock at maturity date. 
+
+
+References:
+
+	
+[More details](./decs.md)
+
+
