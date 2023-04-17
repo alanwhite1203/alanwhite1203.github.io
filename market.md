@@ -180,3 +180,18 @@ References:
 [More details](./decs.md)
 
 
+
+### Eurodollar Futures Option 
+
+Option on Eurodollar futures is a European type of call/put option on the Eurodollar futures price or put/call option on the 3-month LIBOR forward interest rate referred by the futures contract. Standard Black’s model can be used to price the options on LIBOR forward interest rate. The price of the option on Eurodollar futures is related to the price of options on LIBOR forward with a ratio adjustment.    
+
+
+References:
+
+	
+[More details](./futureOption.md)
+
+
+
+
+
