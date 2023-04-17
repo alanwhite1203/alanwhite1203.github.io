@@ -145,5 +145,17 @@ References:
 
 
 
+### Generic FX Option
+
+We test the model in two cases: European and Asian FX options. The attribute terminology is borrowed from equity options, but the mapping is obvious: in particular the dividend file acts as foreign zero interest rate file. The cases studied can be obtained by commenting and uncommenting out the corresponding attributes. 
+
+
+References:
+
+	
+[More details](./genericFxOption.md)
+
+
+
 
 
