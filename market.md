@@ -193,5 +193,13 @@ References:
 
 
 
+### Fixed Forward Option 
+
+The fixed forward call/put contracts are options on forward equity contracts. The option buyer has the right, but not obligation to enter into an equity forward contract, which starts on the expiration date of the option and matures on a later date further into the future.  The fixed forward call/put contracts can be priced using standard option pricing methodologies such as closed form Black-Scholes model or lattice tree model. 
+
+References:
+
+	
+[More details](./fixedForward.md)
 
 
