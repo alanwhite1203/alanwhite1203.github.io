@@ -97,4 +97,13 @@ References:
 
 
 
+### Refix Convertible Bond 
+
+A convertible bond is a bond with convertible options to the investor such that debt can be converted to the underlying stock in a future date if the stock price performs well. When stock price rises high, the bondholder can ride on the high stock prices and exercise the convertible option. When stock price deteriorates, the bondholder can still receive stable coupon payment if no default occurs.  
+
+References:
+
+	
+[More details](./refixConvertible.md)
+
 
