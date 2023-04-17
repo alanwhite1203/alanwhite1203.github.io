@@ -131,3 +131,19 @@ References:
 	
 [More details](./softConvertible.md)
 
+
+
+### Correlation Swap 
+
+We developed a conventional mark-to-market/pricing model for a new product Correlation Swap. The payoff of the correlation swap at maturity is the difference between the realized correlation (of a basket of stock indices) and the strike. The realized correlation has two main components: historical correlation part and future realized correlation part.
+
+
+References:
+
+	
+[More details](./correlationSwap.md)
+
+
+
+
+
