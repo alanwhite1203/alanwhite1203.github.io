@@ -157,5 +157,14 @@ References:
 
 
 
+### Decreasing Basket Asian Option 
+
+Decreasing-Basket-Asian option, also called Himalayas option is an option that records the highest return at the end of each reset period among the stocks left in the basket for calculation of the payoff.  The stock with either the highest return or the lowest return, based on the specification, will then be eliminated from the basket for the rest reset periods.
+
+
+References:
+
+	
+[More details](./decreasingAsian.md)
 
 
