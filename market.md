@@ -118,3 +118,16 @@ References:
 
 	
 [More details](./nonQuantoConvertible.md)
+
+
+
+### Soft Call Convertible Bond 
+
+The convertible bond issuer can call the bond back at a given call amount and at a specified time period only when the underlying stock price goes beyond a pre-specified barrier.  If the barrier is zero, this call becomes a hard call (unconditional call).  On the other end, if the barrier is considerably high, it is as if there is no call at all.  We use a smoothing technique when dealing with convertible bond with soft call under the semi-continuous tree method.  Its effectiveness and limitation have been investigated.
+
+
+References:
+
+	
+[More details](./softConvertible.md)
+

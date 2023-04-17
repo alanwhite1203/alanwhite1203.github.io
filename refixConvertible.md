@@ -18,7 +18,7 @@ References:
    
 [ResearchGate refix convertible](https://www.researchgate.net/publication/369881226_Convertible_Bond_with_Refix_Feature)
 
-[OSF hw bb](https://osf.io/6dn54/download)
+[OSF exchangeable](https://osf.io/zgx8c/download)
 
 [Bitbucket dividend](https://bitbucket.org/timxiao1203/dividendrisk/downloads/DividendRisk.pdf)
 

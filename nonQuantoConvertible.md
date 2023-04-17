@@ -22,7 +22,7 @@ References:
    
 [ResearchGate non quanto convertible](https://www.researchgate.net/publication/369881088_Non_Quanto_Convertible_Bond_Modell)
 
-[OSF hw bb](https://osf.io/6dn54/download)
+[OSF abs](https://osf.io/eg6mv/download)
 
 [Bitbucket exposure](https://bitbucket.org/timxiao1203/dividendexposure/downloads/DividendExposure.pdf)
 
