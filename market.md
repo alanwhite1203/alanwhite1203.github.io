@@ -197,9 +197,24 @@ References:
 
 The fixed forward call/put contracts are options on forward equity contracts. The option buyer has the right, but not obligation to enter into an equity forward contract, which starts on the expiration date of the option and matures on a later date further into the future.  The fixed forward call/put contracts can be priced using standard option pricing methodologies such as closed form Black-Scholes model or lattice tree model. 
 
+
 References:
 
 	
 [More details](./fixedForward.md)
+
+
+
+### Futures Fair Value 
+
+The proposal for the new methodology to calculate the fair value of equity-index futures was reviewed. The proposed method attempts to improve traditional method by taking into consideration the dynamic rebulanching of the position (tail hedge) over the life of futures contract. We find the model adequate for the purposes of the fair value adjustment. We present our conclusions below. 
+
+
+References:
+
+	
+[More details](./fair.md)
+
+
 
 
