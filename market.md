@@ -101,9 +101,20 @@ References:
 
 A convertible bond is a bond with convertible options to the investor such that debt can be converted to the underlying stock in a future date if the stock price performs well. When stock price rises high, the bondholder can ride on the high stock prices and exercise the convertible option. When stock price deteriorates, the bondholder can still receive stable coupon payment if no default occurs.  
 
+
 References:
 
 	
 [More details](./refixConvertible.md)
 
 
+
+### Non Quanto Convertible Bond 
+
+In a non-quanto convertible bonds, the spot stock price in foreign currency is converted into an amount in domestic currency using the spot exchange rate.  This amount is then adjusted by the current value of predicted future discrete dividends, measured in domestic currency.  The domestic risk-free interest rate is employed as the drift rate for the translated stock.
+
+
+References:
+
+	
+[More details](./nonQuantoConvertible.md)
