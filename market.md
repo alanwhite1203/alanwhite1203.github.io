@@ -314,4 +314,14 @@ References:
 
 
 
+### SCredit Default Swap Option 
+
+If we decide to go long a CDS call today, then this means that we need to pay a premium today for the right and not the obligation to buy a specified forward starting CDS (that is to enter in a specified CDS contract whose effective date is the call expiry date or later as protection buyers), with contract fee set to the call strike, at the call expiry date. 
+
+
+References:
+
+	
+[More details](./cdso.md)
+
 
