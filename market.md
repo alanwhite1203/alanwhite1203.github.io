@@ -239,3 +239,19 @@ References:
 	
 [More details](./swapCurve.md)
 
+
+
+
+### Variance Swap 
+
+A variance swap is a forward contract on annualized variance, the square of the realized volatility.  The holder of a variance swap at expiration receives a notional amount of dollar for every point by which the stock’s realized variance has exceeded the variance delivery price.  Valuation of the swap involves decomposition of the contract into two periods, one that has become historical, and the other with stock prices still unknown.  
+
+
+References:
+
+	
+[More details](./variance.md)
+
+
+
+
