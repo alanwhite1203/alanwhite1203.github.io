@@ -217,5 +217,13 @@ References:
 
 
 
+### Equity Forward with Dividend Reinvestment
 
+We developed a pricing model to calculate unwinding values of equity forward with dividend reinvestment.
+
+
+References:
+
+	
+[More details](./DividendReinvestment.md)
 
