@@ -1,4 +1,4 @@
-## Futures Fair Value 
+## Equity Forward with Dividend Reinvestmentquity
    
 We developed a pricing model to calculate unwinding values of equity forward with dividend reinvestment.
 
