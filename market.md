@@ -301,3 +301,17 @@ References:
 [More details](./reverse.md)
 
 
+
+### Strip Rho 
+
+Rho is defined as change of the instrument value with respect to 10bps parallel shift of the entire continuous compounding zero curve.  Users can input the rate shock amount when requesting rho calculation from the model.  The default amount is still 10bps.
+
+
+References:
+
+	
+[More details](./strip.md)
+
+
+
+
