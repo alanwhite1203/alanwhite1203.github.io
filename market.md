@@ -227,3 +227,15 @@ References:
 	
 [More details](./DividendReinvestment.md)
 
+
+
+### Swap Curve 
+
+The swap curve construction is an algorithm based on the assumption that the term forward rate curve must exhibit minimal quadratic variation. The Curve Construction Algorithm contains the following main features
+
+
+References:
+
+	
+[More details](./swapCurve.md)
+
