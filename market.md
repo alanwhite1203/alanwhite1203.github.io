@@ -255,3 +255,20 @@ References:
 
 
 
+### CDS Index Option  
+
+The CDS index contracts have typical expiries from three to nine months, and are typically physically settled. If the portfolio spread is wider than the strike level on the expiry date, the holder of the payer swaption (portfolio swap call) will exercise the option and lock in the portfolio protection at more favourable levels. If the portfolio spread is smaller than the strike, the holder of the receiver swaption (portfolio swap put) will benefit from exercising the option and realizing the mark-to-market gain. 
+
+
+References:
+
+	
+[More details](./cdsIndex.md)
+
+
+
+
+
+
+
+
