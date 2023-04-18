@@ -314,7 +314,7 @@ References:
 
 
 
-### SCredit Default Swap Option 
+### Credit Default Swap Option 
 
 If we decide to go long a CDS call today, then this means that we need to pay a premium today for the right and not the obligation to buy a specified forward starting CDS (that is to enter in a specified CDS contract whose effective date is the call expiry date or later as protection buyers), with contract fee set to the call strike, at the call expiry date. 
 
@@ -336,4 +336,16 @@ References:
 	
 [More details](./xccySwaption.md)
 
+
+
+
+### Zero Coupon Bermudan 
+
+A Zero Coupon Bermudan Swaption is a Bermudan Swaption to enter into a Zero Coupon Swap. It can be characterized as a swap where the cashflows are accrued and exchanged at the maturity of the swap. The Floating Leg cash flows are accrued at the realised floating rates and the Fixed Leg cash flows are accrued at the specified vector of fixed rates. 
+
+
+References:
+
+	
+[More details](./couponBermudan.md)
 
