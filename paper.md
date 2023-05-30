@@ -1,15 +1,7 @@
 ## Financial Research
 
-### Product List
 
-[Stock product list](https://derivatives.hcommons.org/2022/07/)
-
-
-
-### Instrument List
-
-[Stock instrument list](https://derivatives.hcommons.org/2023/03/)
-
+[Fixed income derivative reference](https://derivatives.hcommons.org/fixed-income-derivatives/)
 
 
 ### Pricing Collateralization
