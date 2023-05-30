@@ -2,13 +2,9 @@
 
 ### Product List
 
-[Stock product list](https://derivatives.hcommons.org/equity-derivatives/)
+[Stock derivative reference](https://derivatives.hcommons.org/equity-derivatives/)
 
-
-
-### Instrument List
-
-[Stock instrument list](https://derivatives.hcommons.org/equity-instruments/)
+[Stock instrument reference](https://derivatives.hcommons.org/equity-instruments/)
 
 
 
