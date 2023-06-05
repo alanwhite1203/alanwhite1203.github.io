@@ -1,7 +1,9 @@
 ## Financial Research
 
 
-[Fixed income derivative reference](https://derivatives.hcommons.org/fixed-income-derivatives/)
+[Core derivative reference](https://core.ac.uk/search?q=tim%20xiao)
+
+[Github derivative reference](https://github.com/cfrm17?tab=repositories)
 
 
 ### Pricing Collateralization
