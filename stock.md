@@ -2,7 +2,7 @@
 
 ### Product List
 
-[Stock derivative reference](https://derivatives.hcommons.org/equity-derivatives/)
+[ResearchGate derivative reference](https://www.researchgate.net/profile/Tim-Xiao/)
 
 [Stock instrument reference](https://derivatives.hcommons.org/equity-instruments/)
 
