@@ -70,7 +70,7 @@ References:
 
 [OSF Asian](https://osf.io/g73qw/download)
 
-[Fliphtml5 Asian](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDM5UDN5ITPkl0av9mY)
+[Zenodo bond abs](https://zenodo.org/records/15027036/files/BondAssetBacked.pdf)
 
 [Zenodo exposure](https://zenodo.org/record/6539344)
 
