@@ -27,7 +27,7 @@ References:
 
 [OSF forward starting](https://osf.io/3vq8t/download)
 
-[Bitbucket verification](https://bitbucket.org/timxiao1203/price-verification/downloads/IndependentValidation.pdf)
+[OSF forward starting](https://osf.io/download/gpx9e/)
 
 [core cap vol pdf](https://core.ac.uk/download/534864981.pdf)
 
