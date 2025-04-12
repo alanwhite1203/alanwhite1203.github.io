@@ -33,7 +33,7 @@ References:
    
 [OSF futures](https://osf.io/j9apv/download)
 
-[Fliphtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIDO5UjM5ITPkl0av9mY)
+[Corporate bond](https://ia601308.us.archive.org/10/items/corporate-bond_202504/CorporateBond.pdf)
 
 [Zenodo sheet](https://zenodo.org/record/6548879)
 
