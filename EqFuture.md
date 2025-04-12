@@ -43,7 +43,7 @@ References:
 
 [OSF futures](https://osf.io/t5vnp/download)
 
-[Fliphtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamATNxgDN5ITPkl0av9mY)
+[Zenodo Greeks](https://zenodo.org/records/14996548/files/GreekGeneration.pdf)
 
 [gitbook futures](https://deripricing.gitbook.io/equity-futures-and-forwards-pricing/)
 
