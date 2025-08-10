@@ -1,26 +1,27 @@
-## Himalaya Option Valuation
+## What-If Requirements
 
-Himalaya option is a popular version of maintain range options that basically pays the sum of the best performers of a basket of assets over a particular time horizon. Maintain range options are exotic options that have multiple underlying assets, path-dependency, and best (worst) of payoff structure. They include Everest options, Atlas options, Altiplano options, and Himalaya options. 
+This document is designed to provide detailed specifications to implement a user interface (UI) to allow internal users to perform What-If Investigations (WII) within the Counterparty Credit 
+Risk (CCR) system using a Credit Analysis Toolkit (CAT). Hence WIICAT. The following business requirements have been defined to initiate the design, development and execution of a future software 
+system. These requirements have been developed with the input and assistance of key business stakeholders and endeavor.
 
-A Himalaya option is an option on the sum of the returns of the best (worst) performing assets from a basket on predefined observation dates. It has a set of observation dates are defined. The number of observation dates are equal to the number of underlying assets. The unique feature of Himalaya option is the withdrawal of the best performer asset from the basket at each pre-defined observation date, until only one stock remains.
+General requirements regarding the system’s GUI design, steps involved in configuring the system and an overview of the user framework specification. Requirements to interacts with a portfolio; 
+how portfolios can be opened, saved, viewed and edited
 
-On each pre-defined observation date, the return of the best performing asset is locked in, and the best performing asset is eliminated from the basket. The locked-in return may be capped and floored for each period. The removal of the best performing asset makes Himalaya option strongly path-dependent.
+Manage impact analysis between runs with different results due to input changes of market data, model parameters/calibration (e.g. due to recalibration), etc… Allow the user to 1. Verify the 
+application of add-on factor tables and 2. Help generate new add-on factor tables by constructing at the money trades.
 
-The Asian Himalaya pays off the average of the lock-in returns at maturity. The payoff could be further modified by participation.
+The system allows a user to open several instances of the application with appropriate navigation to allow for new instances to be opened. Users are able to define a user-specific view to display 
+prior saved work.
 
-A Digital Reverse Himalaya option contains a barrier feature. On each observation date, if any stock in the basket falls below the barrier level, a digital coupon is paid. When the barrier is triggered, the worst performing asset is removed from the basket. If the barrier is not triggered, no assets are removed.
-
+The portfolio view displays from counterparties information to the contents of the portfolio and details of individual deals. A portfolio is defined as an arbitrary group of trades. The view 
+allows the user to create, modify, save and load portfolios which can consist of one or more deals and to view and edit the parameters of each individual deal. 
 
 
 References:
    
-[More details](./EqHimalaya-25.pdf)   
-   
 [Zenodo himalaya](https://zenodo.org/record/6480393)
      
 [OSF himalaya](https://osf.io/3hf9y/download)
-
-[Fliphtml5 himalaya](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamAzM1QjN4MTPkl0av9mY)
 
 [gitbook himalaya](https://davidlee1203.gitbook.io/himalaya-option/)
 
