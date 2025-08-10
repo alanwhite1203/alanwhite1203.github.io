@@ -140,11 +140,10 @@ The two types of contracts, knock-in barrier options and knock-out barrier optio
 
 
 
-### Cliquet Option
+### Counterparty Risk System Permission
 
-A cliquet option, also called ratchet option, consists of a series of forward start options, each struck at the money on the date it becomes active. Typically, each option begins on the date corresponding to the expiry of the previous option. The cliquet is a series of at-the-money options, with periodic settlement, resetting the strike value at the then current price level, at which time, the option locks in the difference between the old and new strike and pays that out as the profit. The profit can be accumulated until final maturity, or paid out at each reset date.
-
-Cliquet options are widely traded in many retail-structured products. They consist of financial derivatives which provide a guaranteed minimum return in exchange for a capping of the maximal return over the life of the contract. A cliquet option is equivalent to a series of forward-starting at-the-money options, which may be globally and locally floored and capped. 
+We list the general Security and Permissions requirements for the counterparty risk system. Specifically, it lists the Permissions requirements needed for the system.  
+It may also contain requirements for processes immediately surrounding or connecting to the system so that the existing functionality can be replicated. 
 
 [Cliquet Option](./EqCliquet.md) 
 
@@ -247,12 +246,10 @@ The note normally pays the holder an increased participation rate on its underly
 
 
 
-### Accelerated Share Repurchase 
+### Counterparty Initial Margin Violation
 
-An accelerated share repurchase (ASR) agreement is a contract or an investment strategy used by a publicly traded company to buy back shares of stocks expeditiously from the market. In these agreements, firms are able to repurchase a significant number of their shares upfront. The intermediary must then repurchase the shares over a given time window that is equivalent to enter into a forward contract. 
-
-In a share buyback program, a firm normally sets out the amount of shares it wishes to buy back, and over a specified time window the shares are bought back and the firm agrees to pay the average volume weighted average price (VWAP) over this fixed time period. 
-
+The CCR Qualifying Central Counterparty Initial Margin (QCCP IM) Violation Approval process allows QCCP IM limit breaches that were caused by a single deal to be approved or closed by the 
+appropriate users. The entity being approved is a Violation Group, which is a group of Violations.
 
 [Accelerated Share Repurchase](./EqAsr.md)
 
@@ -273,11 +270,10 @@ The note pays a series of coupons based on the weighted performance of all asset
 
 
 
-### Yield Note
+### Counterparty Variation Margin Violation
 
-A yield note is a principal-protected structured note that pays periodic coupons that are linked to the performance of a basket of equities. A callable yield note gives the issuer the right to recall the note on specific observation dates. Once recalled, the cancellation coupon is paid, the notional is returned, and the deal is cancelled.
-
-The auto-call feature limits the total return paid to the buyer by automatically cancelling the note once the return of the worst performing asset is above the trigger (threshold). If the cancellation event is not triggered, the payoff on each payment date is equivalent to a spread-adjusted reference rate.
+The CCR Qualifying Central Counterparty Variation Margin (QCCP VM) Violation Approval process allows QCCP VM limit breaches that were caused by a single deal to be approved or closed by 
+the appropriate users. The entity being approved is a Violation Group, which is a group of Violations.
 
 [Yield Note](./EqYield.md)
 
@@ -298,11 +294,10 @@ Rainbow options are multi-asset options that have a payoff depending on the asse
 
 
 
-### Himalaya Option
+### What-if Requirements
 
-Himalaya option is a popular version of maintain range options that basically pays the sum of the best performers of a basket of assets over a particular time horizon. Maintain range options are exotic options that have multiple underlying assets, path-dependency, and best (worst) of payoff structure. They include Everest options, Atlas options, Altiplano options, and Himalaya options. 
-
-A Himalaya option is an option on the sum of the returns of the best (worst) performing assets from a basket on predefined observation dates. It has a set of observation dates are defined. The number of observation dates are equal to the number of underlying assets. The unique feature of Himalaya option is the withdrawal of the best performer asset from the basket at each pre-defined observation date, until only one stock remains.
+The requirement provides detailed specifications to implement a user interface (UI) to allow internal users to perform What-If Investigations (WII) within the Counterparty Credit Risk (CCR) system 
+using a Credit Analysis Toolkit (CAT). Hence WIICAT. The following business requirements have been defined to initiate the design, development and execution of a future software system. 
 
 [Himalaya Option](./EqHimalaya.md)
 
