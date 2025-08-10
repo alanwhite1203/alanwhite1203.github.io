@@ -1,59 +1,24 @@
-## Future Option Valuation
+## Counterparty Credit Risk Violation Workflow
    
-An interest rate future option gives the holder the right but not the obligation to buy or sell an interest rate future at a specified price on a specified date. It is usually traded in an exchange. The buyer normally can exercise the option on any business day (American style) prior to expiration by giving notice to the exchange. Option sellers (writer) receive a fixed premium upfront and in return are obligated to buy or sell the underlying asset at a specified price.
+The Counterparty Credit Risk (CCR) Customer Violation Approval process allows credit limit breaches that were caused by a single deal to be approved or closed by the appropriate users. 
+The entity being approved is a Violation Group, which is a group of Violations.
 
-Interest rate future options can be used to hedge against adverse changes in interest rates. In general futures markets tend to be more liquid than underlying cash markets. This presentation gives an overview of interest rate future option product and pricing model. 
 
-	An investor who expected short-term interest rates to decline would also be expecting the price of the future contracts to increase. Thus, they might be inclined to purchase a 3-month ED futures call option to speculate on their belief.
-	The advantage of future options over options of a spot asset stems from the liquidity of futures contracts.
-	Futures markets tend to be more liquid than underlying cash markets.
-	Interest rate future options are leveraged instruments.
-	Other benefits
-	Price transparency and liquidity
-	Immediate execution and confirmation
-	Reduction of counterparty risk
-	Centralized clearing.
+There will always be a current owner for a workflow process that is in progress. A workflow process that is in a terminal state will have no owner.
+The current owner will be able to apply a transition. Proxy. An effective delegate of the current owner will also be able apply a transition. 
+Excluding the cases above, it will not be possible to apply a transition.
 
-	Valuation
-	The price of an interest rate option is quoted by the exchange.
-	A model is mainly used for calculating sensitivities and managing market risk.
-	European option approximation
-	Interest rate future options are normally American options. One may use an European option for approximation.
-	The present value of a call option is given by
+At every step throughout the workflow, it will be possible to perform the following actions: It is possible for the user to attach a document, or multiple documents;
+It is possible for the user to attach a screenshot, or multiple screenshots; It is possible for the user to add/update comments.
 
-V(t)=NτD(L(t)Φ(d_1 )-KΦ(d_2))
-where 
-d_1,2=±(L(t)-K)/(σ√(T-t))
-t- the valuation date, 
-L(t) =  Y(t;T,T_E)) – the forward rate
-  				Or L(t) = (100 - F)/100
-				K = (100-R)/100 – the strike
-				R – quoted strike in price
-K – the strike
- N – the notional
- τ – the day count fraction for period [〖T,T〗_E]
- T – the maturity of the future contract and also the start date of forward period
- T_E – the end date of the forward period
-D – the discount factor
-Φ – accumulative normal distribution function.
+A workflow instance will be created automatically by the Limit Breach Check process. The first owner will be the trader from the deal causing the limit breach.
+The Job Spec which caused the limit breach will be recorded.
 
-	The present value of a put option is given by
+The next owner must be the Customer/Connection “CM-Owner”. See the Force Next Owners Appendix. Excess Auto-Close Threshold. It will be possible to create/update an Excess Auto-Close 
+Threshold for the limit breached by the given Excess. Add-on Flag. It will be possible to categorize the Violation/Excess as utilizing the “Add-on” process.
+Irregular Prior Approval Flag. It will be possible to categorize the Violation/Excess as an Irregular Prior Approval. Send an alert to the next owner.
 
-V(t)=NτD(KΦ(-d_2 )-L(t)Φ(d_1 ))
-where 
-d_1,2=±(L(t)-K)/(σ√(T-t))
-t- the valuation date, 
-L(t) =  Y(t;T,T_E)) – the forward rate
-  				Or L(t) = (100 - F)/100
-				K = (100-R)/100 – the strike
-				R – quoted strike in price
-K – the strike
- N – the notional
- τ – the day count fraction for period [〖T,T〗_E]
- T – the maturity of the future contract and also the start date of forward period
- T_E – the end date of the forward period
-D – the discount factor
-Φ – accumulative normal distribution function.
+The next owner must be the user who previously applied the transition, Acknowledge (to move the workflow from “With Trader” to “With Portfolio Manager”. Send an alert to the next owner.
 
 
 
@@ -61,13 +26,9 @@ D – the discount factor
 References:
 
    
-[More detials](./IrFutureOption-35.pdf)
-   
 [Zenodo future option](https://zenodo.org/record/6494261/files/Zenodo-IrFutureOption.pdf)
    
 [OSF future option](https://osf.io/gbzj3/download)
-
-[Fliphtml5 future option](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamMjN4gzM5ITPkl0av9mY)
 
 [Zenodo mortgage](https://zenodo.org/record/6548953)
 
