@@ -1,7 +1,7 @@
 ## Counterparty Risk System Permission
    
 This document lists the general Security and Permissions requirements for the counterparty risk system. Specifically, it lists the Permissions requirements needed for the system.  
-It may also contain requirements for processes immediately surrounding or connecting to Adaptiv so that the existing functionality can be replicated. 
+It may also contain requirements for processes immediately surrounding or connecting to the system so that the existing functionality can be replicated. 
 
 The defined level of access to any feature of the system which will have permission settings, and these permission settings will be set as granular as for each given user. 
 Permissions also influence how users are able to interact with a workflow process within the system. A user requires a combination of permissions to Business Branches, Products, Workflow 
