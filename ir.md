@@ -104,11 +104,10 @@ Normally the calculation period of a compounding swap is smaller than the paymen
    
 
    
-### Forward Rate Agreement
+### Portfolio Aggregation
    
-A forward rate agreement (FRA) is a forward contract between two parties in which one party will pay a fixed rate while the other party will pay a reference interest rate for a set future period. Similar to a swap, a FRA has 
-two legs: a fixed leg and a floating leg. But each leg only has one cash flow. The party paying the fixed rate is usually referred to as the borrower, while the party receiving the floating rate is referred to as the lender.
-
+The portfolios and aggregation set include agreements and limit structures. These constitute different partitions of the trade population. While agreements indicate the exposure aggregation rules 
+(netting, collateral, etc…), the aggregation sets define the on which partition the risk measures (EE, PFE, etc…) will be defined on.
 
    
 [More details](./IrFra.md)
@@ -130,11 +129,10 @@ futures prices are expressed numerically using 100 minus the implied 3-month U.S
 
    
    
-### Future Option
+### CCR Customer Violation
    
-An interest rate future option gives the holder the right but not the obligation to buy or sell an interest rate future at a specified price on a specified date. The buyer normally can exercise the option on any business day 
-(American style) prior to expiration by giving notice to the exchange. Option sellers (writer) receive a fixed premium upfront and in return are obligated to buy or sell the underlying asset at a specified price.
-   
+The Counterparty Credit Risk (CCR) Customer Violation Approval process allows credit limit breaches that were caused by a single deal to be approved or closed by the appropriate users. 
+The entity being approved is a Violation Group, which is a group of Violations.   
    
 [More detials](./IrFutureOption.md)
 
