@@ -1,36 +1,38 @@
-## Cliquet Option Valuation
+## Counterparty Risk System Permission
    
-A cliquet option, also called ratchet option, consists of a series of forward start options, each struck at the money on the date it becomes active. Typically, each option begins on the date corresponding to the expiry of the previous option. The cliquet is a series of at-the-money options, with periodic settlement, resetting the strike value at the then current price level, at which time, the option locks in the difference between the old and new strike and pays that out as the profit. The profit can be accumulated until final maturity, or paid out at each reset date.
+This document lists the general Security and Permissions requirements for the counterparty risk system. Specifically, it lists the Permissions requirements needed for the system.  
+It may also contain requirements for processes immediately surrounding or connecting to Adaptiv so that the existing functionality can be replicated. 
 
-Cliquet options are widely traded in many retail-structured products. They consist of financial derivatives which provide a guaranteed minimum return in exchange for a capping of the maximal return over the life of the contract. A cliquet option is equivalent to a series of forward-starting at-the-money options, which may be globally and locally floored and capped. 
+The defined level of access to any feature of the system which will have permission settings, and these permission settings will be set as granular as for each given user. 
+Permissions also influence how users are able to interact with a workflow process within the system. A user requires a combination of permissions to Business Branches, Products, Workflow 
+Transitions, and Accessible Views in order to perform actions in the system. Users can be given access to a permission via Groups and Roles as in the below diagram. 
 
-Cliquet options are appealing to investors because they can protect themselves against downside risks. Possible variants include reverse cliquet which amounts to a cash flow minus a capped cliquet of puts, and digital cliquet, where the forward-starting options are digital options.
+Trade Viewing Permissions. Permissions are given at the “Business Branch level or higher”. Branches allow a user to view deals booked for each of the transits that are a child of the branch. 
 
-The Cliquet option may have an optional Lock feature, that pays at maturity a Total Coupon equal to a guaranteed Coupon plus the sum (the Coupon Sum) of a series of Weighted Individual Coupons, where this Coupon Sum is subject to both a Global Floor and a Global Cap. 
+Trade booking permissions. Trade booking permissions are given ONLY at the “Transit level”, and the trade booking permissions allow a user to book new deals at a given transit.
 
-The Weighted Individual Coupons are calculated as an Individual Coupon times an Individual Participation Rate, then subject to an Individual Coupon Cap and Individual Coupon Floor adjustment, and finally multiplied by an Individual Weight Factor.  The Individual Coupon amount is the return of the underlying asset over and above a specified Individual Strike for the individual period.  Note that each “Individual” parameter (Participation Rate, Coupon Cap, Coupon Floor, Weight Factor, Strike) can be specified uniquely for each period.  
+Every user Permission in the system is separated out line by line in the Role settings. In order for a user to be able to perform a given action, the associated Permission must be set to “enabled” 
+in a Role profile, and the user must have be connected to that user role profile via the user or via an appropriate Group. 
 
-The Lock feature allows the specification of, effectively, a variable Global Floor which is determined by (but not necessarily equal to) the maximum value, over the life of the deal, of the Cumulative Sum to date.  See below for details.
+Access within Detailed Record View. With respect to viewing a record’s details, the ability to view any tab within the record’s detailed view, every view will be set to either edit, view, 
+or hide (where appropriate) for a given user role.
 
-Compound cliquets are also popular. A compound cliquet is an option on a cliquet option. The lifetime of a compound cliquet is divided into K periods. The product payoff in each period is determined by the excess return above a local hurdle k h , and constraint by a local cap k c and a local floor k f . A CC accumulates all these payoffs at the expiry date with no compounding. At expiry, the total payoff depends on the excess return above a global hurdle h . It may also be constraint by a global cap c and a global floor f .
+A “named delegate” allows the system “approval workflows ownership” to be transferred from a “delegator user” to a “delegate user” during an absence or vacation. Subject to an approval process, 
+the permissions can be transferred to another proxy user.
 
-The lifetime of a Compound Cliquet is divided into K periods that are defined by the expiry dates of the options contained in the underlying cliquet. The product payoff in each of these periods is determined by the rate of return on the underlying asset during that time interval. Specifically, the payoff in the kth period (where 1 ≤ k ≤ K) depends on the excess return realized above a local hurdle, hk
-
-As the Compound Cliquet matures, the payoff for each period accumulates with no compounding. At expiry, the total payoff is found by applying the excess accumulated return above the global hurdle, h, to the face value of the option, A. The total payoff may also be constrained by a global cap, c, and floor, f. Given this payoff structure, the Compound Cliquet product can be viewed as a cliquet option with a modified payoff wrapped inside a principal protection option.
-
-The Compounding Compound Cliquet product is also an option on a cliquet option involving a single underlying asset. In this case, the total return that is applied to the face value of the option at maturity is found by compounding the payoff from each period.
+Clone User Rights Settings. An administrator/Credit Risk Reporting Analyst will be able to appropriately clone a given user’s User Right settings in order to create a new user. Copy User Rights 
+Settings. An administrator must be able to easily copy the User Right settings of a given user, and add these User Right settings to another user. The “copied to” user will have the set of 
+settings that is the union of the user’s previous settings and “copied settings”. Each set of attributes for an entity can be copied independently, e.g. copying Roles for a given User can be 
+done and the Groups will not be copied
 
 
 
 References:
    
-[More details](./EqCliquet-12.pdf)     
    
 [Zenodo cliquet](https://zenodo.org/record/4609253)
    
 [OSF cliquet](https://osf.io/swbg4/download)
-
-[Fliphtml5 cliquet](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamQzN3UDO3MTPkl0av9mY)
 
 [gitbook cliquet](https://deripricing.gitbook.io/cliquet-option-valuation/)
 
