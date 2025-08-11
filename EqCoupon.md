@@ -1,29 +1,24 @@
-## Equity-Linked Bonus Coupon Note Valuation
+## Portfolio Violations
 
-A bonus coupon note, also referred to as coupon growth note or bonus enhanced note or basket coupon note, is an equity-linked note that provides guaranteed coupons over the life of the note with potential for a bonus coupon based on the underlying asset trading above a specified barrier level. 
+With respect to credit exposure for Security Financing Transactions (SFT), multiple traders enter deals into one portfolio. It is possible for an SFT deal “cancel and rebook” to cause a limit breach, 
+however the violation that is created will incorrectly be attributed to another deal. Under the standard violation workflow process, this will alert the attention of the wrong trader and delay efforts to resolve the issue. 
 
-The note pays a series of coupons based on the weighted performance of all assets in the basket on each Coupon Determination Date. The coupons are usually capped and floored.
+It is more helpful to the business to assign the violation at the portfolio level and set the violation owner to the portfolio owner, rather than identify the wrong deal and the wrong trader. Violations can be attached 
+to a portfolio. “Exclusive or”. For a given limit, a breach will create exclusively a deal violation or a portfolio violate, but not both.
 
-There is also a barrier. if on any barrier observation date, the performance of any asset in the basket exceeds the ‘digital barrier’, its performance is replaced by a digital coupon.
+The owner for a portfolio violation will be set by the portfolio owner, and this portfolio owner can be different than the user (or trader) who entered the deal.
 
-If the performance of ALL assets in the basket hit or exceed the bonus barrier on a coupon determination date, the equity-linked coupon above is instead replaced by a fixed Bonus coupon.
+The entry Workflow State for a portfolio violation will be “with Portfolio Manager” rather than “with Trader”. The “Return to Trader” transition will be possible.
 
-The equity-linked bonus coupon notes typically benefit investors who are moderately bullish the short-term prospects of particular shares or index and who are looking for a guaranteed cash flow. Investors feel also comfortable being put stock at maturity if the asset price is below the strike.
-
-Unlike fixed coupon note, bonus coupon note does not have knock out feature and coupon is not flat.
-
-
+CCP/Clearing Member violations for Initial Margining will be assigned to a line-of-business contact. A delegate will be the first owner in the workflow process.
 
 
 References:
-   
-[More details](./EqCoupon-22.pdf)   
+
    
 [Zenodo coupon](https://zenodo.org/record/5759790)
    
 [OSF coupon](https://osf.io/x2rf8/download)
-
-[Fliphtml5 coupon](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamkjM4ATN4MTPkl0av9mY)
 
 [gitbook coupon](https://davidlee1203.gitbook.io/bonus-coupon-note/)
 
