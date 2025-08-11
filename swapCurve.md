@@ -1,18 +1,23 @@
-## Swap Curve 
+## Violation Groups
    
-The swap curve construction is an algorithm based on the assumption that the term forward rate curve must exhibit minimal quadratic variation. The Curve Construction Algorithm contains the following main features:
- 
-•	Maximal input generality: a variety of market instruments like cash deposit, 1-month futures, regular and serial 3-month futures, swap could be used. 
+As a part of the intraday Deal Entry, a Limit Check is performed against deals in the order that they entered the system. The Limit Check process will be repeatable and the previous results can be consistently 
+recreated for the purpose of future investigations:
 
-•	 Maximal smoothness of the term forward rate curve is implied by design, as minimality of its quadratic variation is required in the algorithm. One of the important consequences is that the outputted 1 and 3 month forward curves move in parallel producing smoother P&L report profiles.
+It will be possible to determine order between any two given deals. Apply system “enter” time in order to determine deal order. It doesn’t matter how order is determined, so long as it is possible to determine 
+order between any 2 given deals. Being able to determine order between deals will allow for the process by which a Limit Check is performed repeatable.
 
-•	The new curve may have the ability of reasonably predicting market rates of standard instruments that have not been used in the input. We are not aware of an extensive compilation of data supporting this statement, but on our USD example this property is noticeable. 
+A list of violations is created – each violation will be attributed to the marginal deal that caused the breach. A deal can breach a given limit only once.
 
-Depending on currency, we recommend a standard list of input instruments (see main text). In USD case, it enforces a behind the scenes dropping of longer term cash deposit contracts in favour of 1-month futures contracts when both types of contracts are being inputted making it a so-called futures dominated curve.
+It is possible that multiple violations can be created for the same breached limit – one violation for each additional deal that causes a limit breach. A single deal can breach multiple different limits, and 
+so then may cause multiple violations.
 
-From market cash deposit rates and futures contract yields, using the correct conventions, we can easily determine continuously compounded term forward rates for the corresponding underlying term. Assume there are m input instruments used to construct the short end. 
+Based on characteristics of the deal that the violation is attributed to, and based on attributes of the limit that was breached, a violation will be: Categorized to a particular type of violation, and
+Assigned to a particular “Violation Approval Process” workflow.
 
-That is, these forward rates should satisfy the m linear equations imposed by relation (3) (see below) so that the generated curve can faithfully re-price the input instruments (the short-end can then be declared arbitrage-free). 
+Violation Groups. Every violation is attributed to a given deal, and every violation will be assigned to a given “Violation Approval Process”. After violations have been generated, they will then be grouped into 
+one single violation group if both of the following are true:
+a.	All violations are attributed to the same deal, and
+b.	All violations have been assigned to the same “Violation Approval Process”.
 
 
 References:
