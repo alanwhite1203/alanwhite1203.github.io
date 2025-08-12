@@ -1,12 +1,29 @@
-## Zero Coupon Bermudan Swaption 
+## 	User Rights for Violation and Excess Approval
    
-A Zero Coupon Bermudan Swaption is a Bermudan Swaption to enter into a Zero Coupon Swap. It can be characterized as a swap where the cashflows are accrued and exchanged at the maturity of the swap. The Floating Leg cash flows are accrued at the realised floating rates and the Fixed Leg cash flows are accrued at the specified vector of fixed rates. 
+Every violation and excess workflow process will have a current owner. The current owner can be a single user. The current owner can be a single Group that is “Workflow Eligible”.
 
-A Zero Coupon Bermudan Swaption can be roughly characterized as a special case of a Bermudan Variable Notional Variable Coupon/Spread Swaption. 
+A given user will have user rights to transition a violation/excess workflow process ONLY IF: 
+a.	The given user is the current owner.
+b.	The current owner is a Group User, and the given user of a member of the Current Owner/ Group User.  
+c.	The current owner has named a delegate that is currently in effect, and the given user is the delegate of the current owner.
+d.	Note that in the case where the current owner has named a delegate that is in effect, the current owner will not have the user rights to apply a transition.
 
-Let the floating leg spreads and fixed leg rates be represented respectively
+There will be a mandatory Portfolio Manager Owner for each: Customer and Connection
+b.	When a Violation Group is created for Customer limits, Connection limits, or Country limits, a workflow will be created. The only allowable owner for the “with Portfolio Manager” state will be the Customer Portfolio Manager Owner.
+c.	When an Excess is created, a workflow will be created. The entry state will be “with Portfolio Manager”, and the “Current Owner” of the workflow will be set to:
+1.	The Customer Portfolio Manager Owner if the Excess is for a Customer Limit.
+2.	The Connection Portfolio Manager Owner if the Excess is for a Connection Limit.
+d.	There will be no default Portfolio Manager Owner (in the event that an Entity has no Owner) because there will be a Portfolio Manager Owner for every Customer and Counterparty. 
 
-Given the above specification of the stochastic variables and value functions the traditional tree approach can be used to solve for the derivative value. 
+There will be a Credit Manager Owner for each: Customer and Connection
+b.	When a Violation Group is created for Customer limits, or Connection limits, a workflow will be created. The only allowable owner for the “with Credit Manager” state will be the Customer Credit Manager Owner.
+c.	When an Excess is created for Customer limits, or Connection limits, a workflow will be created. The only allowable owner for the “with Credit Manager” state will be:
+1.	The Customer Credit Manager Owner if the Excess is for a Customer Limit.
+2.	The Connection Credit Manager Owner if the Excess is for a Connection Limit.
+d.	There will be no default Credit Manager Owner (in the event that an Entity has no Owner) because there will be a Credit Manager Owner for every Customer and Counterparty.
+
+There will be one Country Owner. When a Violation Group is created for a Country limit, a workflow will be created. The only allowable owner for the “with Country Manager” state will be the Customer Owner.
+When an Excess is created for a Country limit, a workflow will be created. The entry state will be “with Country Manager”, and the “Current Owner” of the workflow will be set to the Country Owner.
 
 
 References:
