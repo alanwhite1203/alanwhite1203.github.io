@@ -257,11 +257,10 @@ appropriate users. The entity being approved is a Violation Group, which is a gr
 
 
 
-### Equity-Linked Bonus Coupon Note 
+### Portfolio Violations 
 
-A bonus coupon note, also referred to as coupon growth note or bonus enhanced note or basket coupon note, is an equity-linked note that provides guaranteed coupons over the life of the note with potential for a bonus coupon based on the underlying asset trading above a specified barrier level. 
-
-The note pays a series of coupons based on the weighted performance of all assets in the basket on each Coupon Determination Date. The coupons are usually capped and floored.
+With respect to credit exposure for Security Financing Transactions (SFT), multiple traders enter deals into one portfolio. It is possible for an SFT deal “cancel and rebook” to cause a limit breach, 
+however the violation that is created will incorrectly be attributed to another deal. Under the standard violation workflow process, this will alert the attention of the wrong trader and delay efforts to resolve the issue. 
 
 
 [Bonus Coupon Note](./EqCoupon.md)
