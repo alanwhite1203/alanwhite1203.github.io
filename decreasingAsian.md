@@ -1,11 +1,28 @@
-## Decreasing Basket Asian Option 
+##	Auto-close Excesses
    
-Decreasing-Basket-Asian option, also called Himalayas option is an option that records the highest return at the end of each reset period among the stocks left in the basket for calculation of the payoff.  The stock with either the highest return or the lowest return, based on the specification, will then be eliminated from the basket for the rest reset periods.
 
-The stock that had the lowest (highest) return in the first period will then be eliminated from the basket for consideration in the rest periods, if the contract specifies a drop-worst (drop-best) strategy.  Repeat this process for the remaining periods with a decreasing basket until the last period, and we obtain m returns, denoted    .  The Decreasing-Basket-Asian option is an European style derivative security whose matured payoff at the settlement date T is given by
+Approve and Auto-close excesses for 6 months. It will be possible to approve a limit breach and have subsequent excesses be “automatically closed by the system” until a set expiry date. This avoids the situation 
+where a Portfolio Manager or a Credit Manager must approve an excess on the same limit repeatedly after each revaluation. 
+  
+An “Excess that is automatically closed” will not create any workflow process related to the excess. It will be possible to connect an Auto-Close Threshold (ACT) to a single given limit. 
+a.	It will be possible to connect an ACT to a Potential Future Exposure (PFE) limit, and to a Notional limit.
+b.	It will NOT be possible to connect an ACT to a Tenor limit.
+c.	There can only be one ACT connected to a limit that is effective at a given time. Updating an ACT value, will expire out the previous ACT value and ACT expiry date.
+d.	The ACT will be stored as an incremental threshold. It will be compared against the Highest Excess Amount.
 
-Monte Carlo simulation associated with stratified sampling variance deduction is employed to evaluate the option.  There are six underlying assets whose prices are correlated, and six reset dates.  The initial price for each asset is 100, and the notional amount of the option is 100.  The strike is set to be zero.  The calculated option value is 19.8709 with a drop-worst strategy when 2000 simulations and 2000 samples in stratified sampling are used.  If a drop-best strategy is adopted, the option value is 21.4410.  Keeping the 2000 stratified samples unchanged, calculations with more simulations are conducted.  Table 1 shows the simulated results.
+The ACT value will be set equal to the Highest Excess Amount for the given limit. Create multiple ACTs from Violation Approval. It will be possible to create multiple ACT from the approval process of a single Violation Group.
+For each given Violation in the Violation Group, there will be one ACT created for the associated limit. Each ACT will have a value equal to the Highest Excess Amount for the associated limit.    
+  
+An ACT will apply for a default period of 6 months, after which a set expiry date will be reached and the ACT will no longer be in effect. The ACT expiry date will be determined by incrementing upon the date 
+on which the given excess was created. It will also be possible to select a period of 3 months.
 
+In the situation where:
+1. A limit with an ACT is breached,
+2. The breach is not due to deal entry, and
+3. The Highest Excess Amount is less than the ACT,
+Then, the excess will be “automatically closed by the system”.
+
+  
 
 References:
 
