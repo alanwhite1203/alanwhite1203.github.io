@@ -90,10 +90,10 @@ References:
 
 
 
-### Floating Rate Convertible Bond 
+### Excess Approval Process
 
-Floating rate convertible bond pays floating rate coupons, which differentiate itself from the fixed rate convertible bond. The coupon rates are reset periodically based on market reference rates such as LIBOR plus or minus a spread. Similar to other convertible bond types, call and put features may be applied.   
-
+Excesses approve and Auto-close excesses for 6 months. It will be possible to approve a limit breach and have subsequent excesses be automatically closed by the system for a period of time. This avoids the situation 
+where a Portfolio Manager or a Credit Manager must approve a limit breach repeatedly after each revaluation. 
 
 References:
 
@@ -162,10 +162,11 @@ References:
 
 
 
-### Decreasing Basket Asian Option 
+### Auto-close Excesses
+    
 
-Decreasing-Basket-Asian option, also called Himalayas option is an option that records the highest return at the end of each reset period among the stocks left in the basket for calculation of the payoff.  The stock with either the highest return or the lowest return, based on the specification, will then be eliminated from the basket for the rest reset periods.
-
+Approve and Auto-close excesses for 6 months. It will be possible to approve a limit breach and have subsequent excesses be “automatically closed by the system” until a set expiry date. This avoids the situation 
+where a Portfolio Manager or a Credit Manager must approve an excess on the same limit repeatedly after each revaluation. 
 
 References:
 
