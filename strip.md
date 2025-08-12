@@ -1,13 +1,24 @@
-## Strip Rho 
+## 	Bank Credit Group
    
-Rho is defined as change of the instrument value with respect to 10bps parallel shift of the entire continuous compounding zero curve.  Users can input the rate shock amount when requesting rho calculation from the model.  The default amount is still 10bps.
+For counterparties in the industry, “Banking”, the Portfolio Manager Owner role and the Credit Manager Owner role are filled by the same user, and this user is given the role “Bank Credit Group Owner (BCG-owner)” 
+for a given Customer or Connection.
 
-Strip rho is a piece-wise shift of the zero curve.  It is defined as change of the instrument value with respect to 10 bps shift of the continuous compounding zero curve between maturities of two adjacent Eurodollar futures contracts.  Since the date lag between maturities of two adjacent Eurodollar futures contracts is sometimes not the same as the effective period of the underlying Libor, the effective periods of these Libor rates may overlap, or there is a gap between the maturity of an underlying Libor and that of the next futures contract start date.  We also calculate number of Eurodollar futures contracts for these occasions using an adjustment method.
+When applying the “send to Market Risk” transition, the only allowable next owner will be the “Counterparty Risk Reporting” Group User (which is a group of users). When a violation is created, by default, the first 
+owner for the workflow process will be the Deal Trader from the marginal deal causing the violation. There are additional special cases as follows: It will be possible to assign the deal to the manager of the trader.
 
-The above calculations apply to situations that either a single currency (USD) is involved in the instrument, or USD is the payoff currency in duo-currency instruments.  In cases where USD is the underlying currency that is different from the payoff currency, a spot exchange rate   has to be divided from the right side of equation (7).  Here   is expressed as units of the payoff currency per one USD.
+When an excess is created, by default, the first owner for the workflow process will be the Portfolio Manager owner for the Customer or Connection associated with the limit breach.
 
-We also propose a method by precisely calculating number of contracts due to over-hedging or less-hedging, and subsequently removing or adding those contracts.  In this method, instead of calculating strip rho by shifting the forward interest rate between maturities of two adjacent Eurodollar futures contracts, strip rho is defined as
+Where a violation is created for a customer with no PM-owner, the Trader will have the following options: The trader CANNOT immediately transition the trade to a PM. This option will be greyed out with an explanation 
+that there is no PM-owner. The trader will need to identify the PM and ask for this information to be updated in the source system. Upon the PM-owner being updated, the trader can then transition 
+the trade to the PM-owner. The trader will also have the option to send the violation to Market Risk, or to select any other transition that would normally be available. 
 
+Where a violation is created for a customer with no CM-owner: A portfolio manager CANNOT immediately transition the trade to a CM. This option will be greyed out with an explanation that there is no CM-owner. 
+The PM will need to identify the CM and ask for this information to be updated in the source system. Upon the CM-owner being updated, the PM may then transition the trade to the CM-owner.
+The PM will also have the option to transition the workflow to Market Risk, or to select any other transition that would normally be available
+
+Where a trade enters system and the counterparty is not in system:
+a.	Irrespective of the counterparty being set up in system the risk will be immediately captured (despite having no valid counterparty) and a violation/excess may be created.
+b.	If an excess is created where there is no PM-owner/BCG-owner, then the “Counterparty Risk Reporting” Group User (a group of users) will be the first workflow owner.
 
 
 References:
