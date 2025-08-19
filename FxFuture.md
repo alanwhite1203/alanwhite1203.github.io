@@ -14,13 +14,11 @@ breaching a limit.  Primary will include an option for escalation of the breach 
 References:
 
  
-[More details](./FxFuture-21.pdf)
+
   
 [Zenodo fx futures](https://zenodo.org/record/5768241/files/Zenodo-FxFuture.pdf)
   
 [OSF futures](https://osf.io/rqd6v/download)
-
-[Fliphtml5 futures](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUzM5UDN5ITPkl0av9mY)
 
 [Zenodo collateralized](https://zenodo.org/record/6539697)
 
