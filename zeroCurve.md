@@ -1,18 +1,14 @@
-## Zero Curve 
+## Portfolio Violations
    
-We present a Zero Curve Bootstrap Algorithm to allow more cash and futures contracts as underlying instruments for curve generation. 
+With respect to credit exposure for Security Financing Transactions (SFT), multiple traders enter deals into one portfolio. It is possible for an SFT deal “cancel and rebook” to cause a limit breach, however the violation 
+that is created will incorrectly be attributed to another deal. Under the standard violation workflow process, this will alert the attention of the wrong trader and delay efforts to resolve the issue. It is more helpful 
+to the business to assign the violation at the portfolio level and set the violation owner to the portfolio owner, rather than identify the wrong deal and the wrong trader.
 
-All computation is carried out with all input rates converted into continuous compounding with Actual/365. We simplify rates and day count fraction with continuous compounding and actual/365 as the following.
+Violations can be attached to a portfolio. “Exclusive or”. For a given limit, a breach will create exclusively a deal violation or a portfolio violate, but not both.
 
-where CON represents continuous compounding. Once final curve is constructed, it is converted into semi-annual rates with actual/365 to be compared with curve (output). 
+The owner for a portfolio violation will be set by the portfolio owner, and this portfolio owner can be different than the user (or trader) who entered the deal.
 
-The short end of the curve is derived from over-night, tomorrow night, one week, one-month, two-month and three-month cash deposit rates. The medium segment of the curve is derived from interest rate futures contracts. The following table summarizes the details of the underlying instruments (inputs) for Canadian and US curve generation.
-
-As the overnight is zero-coupon rate, it just needs to be converted with continuously compounded rate with actual/365. In other words, it is converted using the formula
-
-where SIM represents simply compounded rate and T is the maturity of overnight rate. Other rates apply to forward-starting time periods and converted into continuously compounded forward rates with actual/365 as the following.
-
-Valuation date is June 22, 2005. The details of underlying instruments for curve generation are presented in the appendix. Testing on arbitrage-free condition, i.e. re-pricing of the underlying instruments by computing implied forward rates from constructed curve.
+The entry Workflow State for a portfolio violation will be “with Portfolio Manager” rather than “with Trader”. The “Return to Trader” transition will be possible.
 
 
 References:
