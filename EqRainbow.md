@@ -1,26 +1,34 @@
-## Rainbow Option Valuation
+## Violations Approval Process
 
-A rainbow option is an option on a basket that pays a non-equally weighted sum of returns over all assets in the basket according to their performance, where individual asset returns are computed as the percentage growth from initial levels to final levels that may be averages over multiple dates.
+There will be multiple violation and excess processes to handle the different cases of limits that have been breached:
+a.	Customer
+b.	Country
+c.	Settlement
+d.	Tenor
 
-Rainbow options are multi-asset options that have a payoff depending on the assets by their performance at maturity. When the rainbow only pays the best (worst) performing asset of the basket, it is also called the best (worst) of performing option.
+It is often the case that a single deal will create multiple violations. Violations from the same deal and in the same process will be transitioned together automatically.
+a.	For violations that enter the same workflow process and are from the same deal (or portfolio), the system will automatically group the violations together as a violation group. 
+b.	All violations in the violation group will then automatically be presented as a single workflow
+c.	Transitions are applied to the “single violation group workflow” and are then automatically applied to all of the violations.
+d.	For the purpose of exception management, users with appropriate rights will have access to view the single violations rather than only for the less granular “violation group workflow”. 
+Additional fields can be displayed when single violations are shown, rather than violation groups.
 
-The number of assets is called the number of colours of the rainbow, as the option is based on a combination of various assets just like a rainbow is a combination of various colours. The assets are sorted by their performance at payment date. Asian rainbow option is a common version of rainbows where the return of an asset takes an average, as the Asian rainbow is usually cheaper than the vanilla one. 
+The system will allow the user to group workflows together within the same process and Bulk Transition them as a group by applying the same transition to each workflow. Grouping workflows can be done 
+by applying search criteria to workflows and defining a group by visually tagging the desired workflows.
 
-The payoff function can be specified in the form of a put, call or a forward (pure return). The structure is unique in the way the weights are applied to assets in computing the payment. First, assets may be grouped into buckets each containing one or more asset. A vector of weights is then applied to the ranked bucket returns based on performance. 
-
-Rainbow options are appealing to investors due to its natural risk diversification, cost efficiency, and weighted average on the best or worst performing assets. The best version offers higher returns, whereas the worst version is normally cheap.
+Irregular Prior Approval (IPA). When a Portfolio Manager (PM) does not confirm the pre-transaction approval of a violation, the Trader is directed to unwind the trade. Where the Account Manager has 
+not conveyed an authorization for the violation and the trade is not unwound, an IPA flag on the violation is set to ‘YES’ in the system. 
+a.	For the violation process and for an Approval transition, it will be possible for Portfolio Managers to set an “IPA flag” to “YES”.
+b.	Relay this information to the trader in the source system.
 
 
 
 References:
    
-[More details](./EqRainbow-24.pdf)   
    
 [Zenodo rainbow](https://zenodo.org/record/5759794)
    
 [OSF rainbow](https://osf.io/47zwk/download)
-
-[Fliphtml5 rainbow](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamcjM1QjN4MTPkl0av9mY)
 
 [gitbook rainbow](https://davidlee1203.gitbook.io/rainbow-option/)
 
