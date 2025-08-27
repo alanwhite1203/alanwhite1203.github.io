@@ -1,30 +1,25 @@
-## Interest Rate Caps and Floors Valuation
+## Workflow Context and Definitions
    
-An interest rate cap is an OTC derivative where the buyer receives payments at the end of each period when the interest rate exceeds the strike, whereas an interest rate floor is a similar contract where the buyer receives payments at the end of each period when the interest rate is below the strike. Caps and floors are widely used to hedge against interest rate fluctuations. 
+Workflow Templates are designed within Jaguar and are defined by a set of Workflow States, Workflow Transitions, and associated Workflow Actions. Users interact with a particular Workflow Instance, and each Instance is created from a Workflow Template.
 
-An interest rate cap is a financial contract between two parties that provides an interest rate ceiling or cap on the floating rate payments. It actually consists of a series of European call options (caplets) on interest rates.  The buyer receives payments at the end of each period when the interest rate exceeds the strike.  In return, the buyer needs to pay an up-front premium to the seller.
+a.	Workflow Template Design. A workflow template can be designed, such that workflow states, transitions, actions, and rules can be created/updated/deleted.
 
-Interest rate caps are frequently purchased by issuers of floating rate debt who wish to protect themselves from the increased financing costs that would result from a rise in interest rates. Investors use caps to hedge against the risk associated with floating interest rate and will benefit from any risk in interest rates above the strike. The holder gets a payment when the underlying interest rate exceeds a specified strike rate. This presentation gives an overview of interest rate cap products and valuation model. 
+b.	Workflow Instance User. Users are able to participate within a Workflow Instance and can cause transitions and actions to occur.
 
+A Workflow Step is composed of the following: 
 
-	The holder gets a payment when the underlying interest rate exceeds a specified strike rate.
+a.	A “Start Workflow State” and an “End Workflow State”.
+i.	Every process will have at least one Step with an Entry Workflow State.
+ii.	Every process will have at least one Step with a Terminal Workflow State.
 
-	The Payoff of a Caplet
-	The payoff of a caplet
-Payoff=N*τ*max(R-K,0)
-where N – the notional; R – the realized interest rate; K – the strike; τ – the day count fraction.
-	Payoff diagram
- 
+b.	A Workflow Transition.
 
-	Valuation
-	The present value of a cap is given by
-PV(0)=N∑_(i=1)^n〖τ_i D_i (F_i Φ(d_1 )-KΦ(d_2)) 〗
-where 
-D_i=D(0,T_i) – the discount factor; 
-F_i=F(t;T_(i-1),T_i )=(D_(i-1)/D_i -1)/τ_i – the forward rate for period (T_(i-1),T_i).
-Φ – the accumulative normal distribution function
-d_1,2=(ln⁡(F_i/K)±0.5σ_i^2 T_i)/(σ_i √(T_i ))
+c.	A Workflow Action.
+i.	Automatically Performed.
+ii.	Manually Initiated.
+iii.	Initiated by a rule.
 
+d.	Supporting Reference Data.
 
 
 
@@ -37,8 +32,6 @@ References:
 [Zenodo cap](https://zenodo.org/record/6493279/files/Zenodo-IrCap.pdf)
    
 [OSF cap](https://osf.io/kvbyz/download)
-
-[Fliphtml5 cap](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamgDOygDM5ITPkl0av9mY)
 
 [Zenodo acquisation](https://zenodo.org/record/6547140)
 
