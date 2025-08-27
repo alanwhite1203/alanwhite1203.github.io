@@ -1,4 +1,6 @@
 ## Workflow Context and Definitions
+
+
    
 Workflow Templates are designed within Jaguar and are defined by a set of Workflow States, Workflow Transitions, and associated Workflow Actions. Users interact with a particular Workflow Instance, and each Instance is created from a Workflow Template.
 
