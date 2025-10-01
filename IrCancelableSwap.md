@@ -1,55 +1,30 @@
-## Interest Rate Cancelable Swap Valuation
+## Execute / Re-Execute Run
    
-A cancelable swap provides the right but not the obligation to cancel the interest rate swap at predefined dates. Most commonly traded cancelable swaps have multiple exercise dates. Given its Bermudan style optionality, a cancelable swap can be represented as a vanilla swap embedded with a Bermudan swaption. Therefore, it can be decomposed into a swap and a Bermudan swaption. Most Bermudan swaptions in a bank book actually come from cancelable swaps. This presentation provides practical details for pricing cancelable swaps.
+The system will automatically populate the default simulation and pricers/models for each product within the trade scope as well as allow for their changing based on current reference data mappings of 
+simulation / pricer types for each product
 
+The system will allow for the definition of different trade sets within a product type based on other properties of trades that will allow for a different set of model / simulation parameters for each set
+For example: 
+- All USD Swaps within the BMO Toronto Legal Entity use Curve A for pricing
+- All USD Swaps within the BMO Chicago Legal Entity use Curve B for pricing
 
-	A Cancelable Swap Example
+The system will provide a list of runs currently accessible in a chronological order along with brief details of execution parameters 
 
-〖PV〗_CancellablePayerSwap=〖PV〗_PayerSwap-〖PV〗_ReceiverBermudanSwaption
-〖PV〗_CancellableReceiverSwap=〖PV〗_ReceiverSwap-〖PV〗_PayerBermudanSwaption
+After a specific run has been selected, the system will provide a list of available views (as previously defined in the Use Case: View / Update Results View) that can be applied by the user to this run
 
+When a combination of run and view are selected, the system will display all run results in a format specified by the view
 
+When viewing run results, the system will give the user the ability to show / hide columns, and pivot on all the reference domains as required.
+(i.e. if a reference domain added on top of the run 
 
-	Bermudan Swaption Payoffs
-	At the maturity T, the payoff of a Bermudan swaption is given by
-Payoff(T)=max⁡(0,V_swap (T))
-	where V_swap (T) is the value of the underlying swap at T.
-	At any exercise date T_i, the payoff of the Bermudan swaption is given by
-Payoff(T_i )=max(V_swap (T_i ),I(T_i))
-Where V_swap (T_i) is the exercise value of the Bermudan swap and I(T_i) is the intrinsic value.
-
-
-	The LGM model is mathematically equivalent to the Hull-White model but offers
-	Significant improvements in calibration stability and accuracy.
-	More accurate and stable in sensitivity calculation.
-	The state variable is normally distributed under the appropriate measure.
-	The LGM model has only one stochastic driver (one-factor), thus changes in rates are perfected correlated.
-
-	LGM calibration
-	Match today’s curve
-At time t, X(0)=0 and H(0)=0. Thus Z(0,0;T)=D(T). In other words, the LGM automatically fits today’s discount curve.
-	Select a group of market swaptions.
-	Solve parameters by minimizing the relative error between the market swaption prices and the LGM model swaption prices.
-
-	Valuation Implementation
-	Calibrate the LGM model.
-	Create the lattice based on the LGM: the grid range should cover at least 3 standard deviations.
-	Find the underlying swap value at each final note.
-	Conduct backward induction process iteratively rolling back from final dates until reaching the valuation date.
-	Compare exercise values with intrinsic values at each exercise date.
-	The value at the valuation date is the price of the Bermudan swaption.
-	The present value of the cancelable swap is given by
-
-
-
+The system will allow for columns to be added to the pivot as additional information to a row rather than as grouping levels, or have the ability to flatten groupings when only a single value is present.
 
 
 
 References:
 
    
-[More details](./IrCancelableSwap-29.pdf)
-   
+ 
 [Zenodo cancelable](https://zenodo.org/record/6492737/files/Zenodo-IrCancelableSwap.pdf)
    
 [OSF cancelable](https://osf.io/v7whf/download)
