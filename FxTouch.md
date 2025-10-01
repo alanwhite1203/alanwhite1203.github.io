@@ -1,68 +1,30 @@
-## FX Touch Option Valuation
+## Auto-Close Threshold (ACT) Condition
    
-A touch option is a transaction with one or two barriers. The buyer of the option will get a cash amount either if the barrier is touch or not touched.  Touch options are becoming increasingly popular because they pay much higher yields compared to high/low options. 
+In the situation where: 1. A limit with an ACT is breached, 2. The breach is not due to deal entry, and 3. The Highest Excess Amount is less than the ACT, Then, the excess will be “automatically closed by the system”.
 
-A touch option is the sort of option that promises a payout once the price of an underlying asset reaches or passes a predetermined level. Touch options allow investors to choose the target price, time to expiration, and the premium to be received when the target price is reached.  
+In the situation where: 1. A limit with an ACT is breached, 2. The breach is not due to deal entry, and 3. The Highest Excess Amount is above the ACT, Then, a new Excess will be created, and a new workflow approval
+process will be triggered.
 
-There are only two possible outcomes. If the barrier is broken a trader will receive the agreed full payout. If the barrier isn’t broken, the trader will lose the premium paid to the broker. Unlike vanilla calls and puts, touch options allow investors to profit from a simplified yes-or-no market forecast. Like regular call and put options, most touch option trades can be closed before expiration for a profit or a loss depending on how close the underlying market or asset is to the target price. 
+This will not allow violations above the limit, but below the “Automatic Close Threshold”.  In the situation where: 1. A limit with an ACT is breached, 2. The breach is due to deal entry, and
+3. The Highest Excess Amount is below the ACT, Then, a Violation will be created.
 
-This type of option is popular with traders who believe the price of an underlying asset will pass a certain level in the future, and for those who aren’t sure whether the higher price level is a sustainable one. Speculative market participants like to use touch options as bets on a rising or falling exchange rate.
-Clients, who prefer to hedge, trade touch options as a rebate in order to secure themselves compensation in case their strategy doesn’t work out. Touch options are also often integrated into structured products to increase returns on forward and interest rates. They become especially useful during times of market volatility when prices might be uncertain.
+10.	An ACT is connected to a limit and becomes effective when the workflow describing the ACT reaches the “Approved” state in the Excess Approval workflow
 
-An investor who chooses no touch option type is trading on the assumption that the price of their selected asset will fail to reach a specific level before the end of the expiry period. The investor may trade touch options, if he believes that the price of their selected asset will reach a specific level before the end of the expiry period. This presentation provides an introduction to FX touch options valuation. 
-
-	Depending on the barrier types, the touch option can be divided into the following categories: one touch up/down; no touch up/down; double one touch; double no touch; one touch down no touch up; one touch up no touch down.
-	Barrier conditions for different types of touch options
-
-	No touch up: 		S_t<B
-	One touch up:		S_t≥B
-	No touch down:		S_t>B
-	One touch down:	S_t≤B
-	Double no touch:	〖B_l<S〗_t<B_h
-	Double one touch:	S_t≤B_l or S_t≥B_h
-	One touch down no touch up:	S_t≤B_l or S_t<B_h
-	One touch up no touch down:	S_t>B_l or S_t≥B_h
-where
-	B	the barrier
-	B_l	the low barrier
-B_h 	the high barrier
-	The payoff currency could be either the cash (base) or the asset (underlying).
-
-payoff=Nominal×S×1_condition	if the payout currency is asset
-payoff=Nominal×1_condition	if the payout currency is cash
-
-	Valuation
-	Touch and no touch options are a great way for you to further customize your trading experience. Because there are only two different outcomes that can possibly occur, these are still considered to be binary options.
-	The present value of a one touch option is given by
+There will be a “configurable max threshold”. a.	The maximum threshold will cap the value of the ACT at a percentage above each associated limit. b.	The option for an Excess Automatic Approval will be greyed out 
+and cannot be selected for a limit excess that is 20% (or greater) above the limit.
 
 
-where
-S 	the spot exchange rate
-σ 	the annualized volatility of the underlying rate
-r 	the domestic interest rate between spot date and delivery date
-rf 	the foreign interest rate between spot date and delivery date
-Te 	the expiry date
-Td 	the delivery date
-ε 	1 for a lower barrier, -1 for an upper barrier.   
-N(x)	the standard normal cumulative distribution function
-L	the barrier level
-R	the domestic cash amount
-w 	the rebate value
+It will be possible for a user to determine how an ACT was created. If created within a Excess Approval workflow, then the ACT will store a reference to the Workflow from which the ACT was created.
 
 
 	
-				
 
 References:
 
    
-[More details](./FxTouch-24.pdf) 
-   
 [Zenodo touch](https://zenodo.org/record/6491587/files/Zenodo-FxTouch.pdf)
    
 [OSF touch](https://osf.io/6m5jx/download)
-
-[Fliphtml5 touch](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamUzMwATN5ITPkl0av9mY)
 
 [Zenodo adjusted](https://zenodo.org/record/6539925)
 
