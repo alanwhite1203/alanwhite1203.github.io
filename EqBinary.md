@@ -1,34 +1,28 @@
-## Binary Option Valuation
+## View Existing Run Results
    
-A binary option is an option with a predetermined payoff, triggered only if the underlying price meets the strike price. These are also commonly referred to as “all or nothing” or “digital options”. Binary call pays a fixed amount if the underlying price ends up above the strike price, while binary put pays off a fixed amount if the underlying price is below the strike price at option maturity.
+The system will allow for drilldown into any node on the pivot that has more than one result associated with it.  For example, if the data point provided is a PFE calculation, the full set of 
+time bucket results and scenarios should be drillable.
 
-The payoff of a digital option or binary option is either some fixed amount of some asset or nothing at all. The two main types of binary options are the cash-or-nothing binary option and the asset-or-nothing binary option. The cash-or-nothing binary option pays some fixed amount of cash if the option expires in-the-money while the asset-or-nothing pays the value of the underlying security.
+The system will allow the user whether duplicated values in aggregation levels should be repeated or not.
 
-Digital option is an option with discontinuous payoff. Our model is based on standard Black-Scholes framework. This is a single factor model and is a
-standard market model. The option payoff is well-defined at maturity. Since the option is a European type, we
-can derive a closed form solution.
+The system will allow for any reference data being in the results view to be shown in its entirety so that even if certain members don’t have data, they are still shown.
 
+For example, a trade is always booked under a particular Legal Entity within the organizational structure.  If a new entity is added to the current list but does not have any trades, 
+the user must have the ability to select that all Legal Entities are still shown in the report.
 
+The system will allow for coloring of rows / values in the resultset based on specific constraints / parameters
 
-For a call, the underlying price must be higher than the strike at expiry to trigger the rebate or receipt of the underlying. For a put, the underlying price must be lower than the strike at expiry to trigger the rebate or receipt of the underlying. 
+The system will allow the user to filter the underlying data used in the view based on any of the fields available.
 
-The risk sensitivities, especially Gamma, may be unstable when at the money or near the exercise date due to the discontinuous property inherent in digital option. Risk sensitivities become less meaningful near discontinuities and kinks. As Vega may change signs near the strike, it is probably difficult to create a conservative estimate of the volatility.
-
-Binary options can be valued using the Black-Scholes models. The PV is calculated as the product of fixed payment times call price (c) or put price (p) where:
-
-The risk sensitivities, especially Gamma, is very unstable under the Black-Scholes. Therefore, the better solution is to represent a binary option as a tight option spread.
 
 
 
 References:
    
-[More details](./EqBinary-13.pdf)     
  
 [Zenodo binary](https://zenodo.org/record/6478717/files/Zenodo-digital.pdf)
 
 [OSF binary](https://osf.io/e9u46/download)
-
-[Fliphtml5 binary](https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEjN4ETO3MTPkl0av9mY)
 
 [gitbook binary](https://deripricing.gitbook.io/binary-option-valuation/)
 
