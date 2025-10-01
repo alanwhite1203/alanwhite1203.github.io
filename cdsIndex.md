@@ -1,17 +1,21 @@
-## Credit Default Swap Index Option 
+## 	Functional Interface 
    
-Market participants are now able to trade in portfolio options whose underlying asset is TRAC-X North America portfolio (with 100 credits) or CDX North America portfolio (with 125 credits). Liquidity is also growing in the European version. The rationale for options based on such indices is that the portfolio effect will reduce the option volatility and make it easier for dealers to hedge. As far as an investor is concerned, this will give a way to take a macro view on spread volatility.
+This use case involves the application of a previously defined result view on a reference data snapshot for reporting purposes.  It is similar to the View Existing Run Results however aims 
+at only interacting with Reference Data rather than Run Results.
+   
+The system will allow for the selection reference data Views defined in UC3
 
-The CDS index contracts have typical expiries from three to nine months, and are typically physically settled. If the portfolio spread is wider than the strike level on the expiry date, the holder of the payer swaption (portfolio swap call) will exercise the option and lock in the portfolio protection at more favourable levels. If the portfolio spread is smaller than the strike, the holder of the receiver swaption (portfolio swap put) will benefit from exercising the option and realizing the mark-to-market gain. 
+The system will allow for the selection of a snapshot from which to take the reference data (i.e. EOD April 23, 2013; EOD April 20, 2013; April 5, 2013 12PM) from the full list of snapshots available to the system
 
-We start by defining the no-knockout (NKO) forward starting CDS contract and the associated NKO forward CDS rate. Then we present the detailed payoff of a portfolio swaption. Finally, we present the simplified view of it, and the corresponding Black pricing.
+The system will allow all the same pivot / filter / formatting functionality as available in UC6 - View Existing Run Results
 
-If we assume no counterparty credit risk, and mutual independence of default, interest rate and recovery rate risks (hazard and interest rates are assumed deterministic, and recovery rate is assumed constant), then (1) and (2) become:
+The system will provide a list of runs currently accessible in a chronological order along with brief details of execution parameters 
 
-The value at time t of the default-adjusted forward portfolio swap is then (we abbreviate CDS index by CDX – CDX happens to be the name of a real family of indices, but the presentation is not restricted to it, of course)
+The system will allow for the definition of a new run based on characteristics of an already executed run (update and re-run) or based on a new run definition
 
-The pricing of this product with such a complex payoff is challenging. Full multiple default time simulations combined with approximating techniques applied already in equity basket option pricing could be used. At least for comparison reasons, one of these more demanding models could be implemented (the volume of input data required would be also bigger). Also, it is unlikely, but it is possible that the market may not embrace the standard exposed below, and, even if it does, pricing less liquid options will still remain a challenge. 
 
+   
+   
 
 References:
 
